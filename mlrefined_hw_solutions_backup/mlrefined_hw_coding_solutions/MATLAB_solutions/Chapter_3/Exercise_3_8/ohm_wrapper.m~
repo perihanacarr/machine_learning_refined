@@ -1,0 +1,53 @@
+function ohm_wrapper()
+
+% This file is associated with the book
+% "Machine Learning Refined", Cambridge University Press, 2016.
+% by Jeremy Watt, Reza Borhani, and Aggelos Katsaggelos.
+
+% load in data
+data = csvread('ohms_data.csv');
+a = data(:,1);
+b_orig = data(:,2);
+
+% fit model in transformed feature space
+model = [0:0.01:100];
+x_tilde = [ones(length(x),1) x];
+y_transformed = y.^-1;
+
+
+
+
+
+
+
+
+% plot points
+figure(1)
+hold on
+out = 1./(x(2)+x(1)*model);
+b = x(2)
+w = x(1)
+plot(model,out,'m','LineWidth',2)
+plot(a,b_orig,'o','MarkerEdgeColor','k','MarkerFaceColor','k')
+box on
+axis tight
+ERROR = norm(b_orig-(1./(x(2)+x(1)*a)))^2
+% make labels correct
+xlabel('length of wire','Fontsize',14,'FontName','cmr10')
+ylabel('current','Fontsize',14,'FontName','cmr10')
+set(get(gca,'YLabel'),'Rotation',90)
+set(gca,'FontSize',12); 
+
+% define labels for subplot
+xlabel('length of wire','Fontsize',14,'FontName','cmr10')
+ylabel('inverse of current','Fontsize',14,'FontName','cmr10')
+set(get(gca,'YLabel'),'Rotation',90)
+set(gcf,'color','w');
+set(gca,'FontSize',12); 
+
+end
+
+
+
+
+
