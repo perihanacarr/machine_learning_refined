@@ -1,0 +1,1 @@
+{"image": "/sites/cs.ucsb.edu/themes/cs_subtheme/css/images/home.png", "site": "https://cs.ucsb.edu/people/faculty/gupta", "title": "assistant professor", "email": "trinabh@cs.ucsb.edu", "extra_strings": "trinabh gupta"}

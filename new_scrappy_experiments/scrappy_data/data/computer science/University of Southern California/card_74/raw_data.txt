@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/16954ed33c54e0ed33fd89f1dd55f6df.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Psounis&fname=Konstantinos", "title": "professor", "email": "kpsounis@usc.edu", "extra_strings": "konstantinos psounis"}

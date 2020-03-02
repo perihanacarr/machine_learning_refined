@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/lu_0.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/29", "title": "associate professor", "email": "timlu@mit.edu", "extra_strings": "timothy lu"}

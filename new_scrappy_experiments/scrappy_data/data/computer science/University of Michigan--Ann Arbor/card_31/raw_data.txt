@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/ebolson.jpg", "site": "https://april.eecs.umich.edu/people/ebolson/", "title": "associate professor", "email": "ebolson@umich.edu", "extra_strings": "edwin olson"}

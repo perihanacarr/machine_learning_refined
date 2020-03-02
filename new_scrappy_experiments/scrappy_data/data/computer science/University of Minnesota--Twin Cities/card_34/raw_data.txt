@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/mattia.jpg?itok=9-Go9Ul9", "site": "https://www.cs.umn.edu/people/mattia-fizzini", "title": 0, "email": "mfazzini@umn.edu", "extra_strings": "mattia fazzini"}

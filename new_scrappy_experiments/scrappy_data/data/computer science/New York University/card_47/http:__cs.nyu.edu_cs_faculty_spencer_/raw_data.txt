@@ -1,0 +1,1 @@
+{"email": ["spencer@cs.nyu.edu"], "image": ["jsrussia.jpg"], "research_blurb": ["\n"]}

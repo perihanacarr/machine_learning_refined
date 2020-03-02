@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Gary McFall</td><td>Lecturer</td><td style=\"white-space: nowrap\"><phone>49-47804</phone></td><td style=\"white-space: nowrap\"><office>HAAS G022</office></td><td><a href=\"mailto:gmcfall@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/gmcfall/\">Bio</a></td></tr>"

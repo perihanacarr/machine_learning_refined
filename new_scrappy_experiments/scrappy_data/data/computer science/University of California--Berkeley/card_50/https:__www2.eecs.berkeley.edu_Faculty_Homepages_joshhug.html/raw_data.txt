@@ -1,0 +1,1 @@
+{"email": ["josh@joshh.ug"], "image": ["https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/joshhug.jpg"], "research_blurb": ["<ul class=\"Research Areas\">\n\n<a href=\"/Research/Areas/EDUC\">Education (EDUC)</a>\n\n                                    Generative Art\n                                \n</ul>\n\n<div class=\"grouping\">\n\n<div class=\"grouping\">"]}

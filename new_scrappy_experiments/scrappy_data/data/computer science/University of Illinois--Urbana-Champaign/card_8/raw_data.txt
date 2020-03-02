@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=74521&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/challen", "title": "associate professor", "email": "challen@illinois.edu", "extra_strings": "geoffrey werner challen"}

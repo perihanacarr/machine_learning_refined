@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/1_2.jpg?itok=0Rl_R5rM", "site": "https://web.cs.dartmouth.edu/people/bo-zhu", "title": "assistant professor", "email": "Bo.Zhu@Dartmouth.edu", "extra_strings": "bo zhu"}

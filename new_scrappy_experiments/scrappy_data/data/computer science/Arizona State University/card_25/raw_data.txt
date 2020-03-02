@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/J-Rene-Villalobos.jpg", "site": "https://cidse.engineering.asu.edu/rene-villalobos/", "title": "associate professor", "email": "villalobos@asu.edu", "extra_strings": "rene villalobos"}

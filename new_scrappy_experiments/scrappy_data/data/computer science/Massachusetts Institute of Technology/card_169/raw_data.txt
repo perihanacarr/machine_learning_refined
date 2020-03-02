@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/wornell_0.jpg", "site": "http://www.rle.mit.edu/sia", "title": "professor", "email": "gww@mit.edu", "extra_strings": "gregory wornell"}

@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/Wright_250x250.jpg", "site": "http://cs.nyu.edu/mhw/", "title": "professor", "email": 0, "extra_strings": "ext -"}

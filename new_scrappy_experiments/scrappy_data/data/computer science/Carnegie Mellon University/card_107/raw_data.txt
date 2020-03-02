@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/technical-faculty/klaus-sutner", "title": "professor", "email": "sutner@cs.cmu.edu", "extra_strings": "klaus sutner"}

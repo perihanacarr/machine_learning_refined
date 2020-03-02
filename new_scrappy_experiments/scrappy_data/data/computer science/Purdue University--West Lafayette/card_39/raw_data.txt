@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/gnf/", "title": "professor emeritus", "email": "gnf@purdue.edu", "extra_strings": "greg frederickson"}

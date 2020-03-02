@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Hasan-Davulcu.jpg", "site": "http://www.public.asu.edu/~hdavulcu/", "title": "associate professor", "email": "hdavulcu@asu.edu", "extra_strings": "hasan davulcu"}

@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Aniket Kate</td><td>Assistant Professor</td><td style=\"white-space: nowrap\"><phone>49-62763</phone></td><td style=\"white-space: nowrap\"><office>LWSN 1169</office></td><td><a href=\"mailto:akate@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/akate/\">Bio</a></td></tr>"

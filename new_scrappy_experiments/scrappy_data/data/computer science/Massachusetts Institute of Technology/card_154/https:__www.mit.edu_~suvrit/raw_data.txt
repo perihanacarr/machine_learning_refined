@@ -1,0 +1,1 @@
+{"email": ["suvrit"], "image": ["https://www.eecs.mit.edu/people/stuff/img/newpic_web.jpg", "http://mathoverflow.net/users/flair/8430.png?theme=default"], "research_blurb": ["I work in machine learning, optimization, and math -- where I care about fundamental theoretical and algorithmic questions as well as applications. The focus of my research is "]}

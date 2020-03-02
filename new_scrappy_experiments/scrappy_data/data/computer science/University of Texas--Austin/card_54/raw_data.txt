@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/keckler_stephen-1.jpg?itok=saAAfj6e", "site": "https://www.cs.utexas.edu/research/areas/computer-architecture", "title": "adjunct professor", "email": 0, "extra_strings": "stephen keckler"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_meyer.jpg?itok=mAd-ux1B", "site": "https://www.cs.umn.edu/people/gary-meyer", "title": 0, "email": "gmeyer@umn.edu", "extra_strings": "gary meyer"}

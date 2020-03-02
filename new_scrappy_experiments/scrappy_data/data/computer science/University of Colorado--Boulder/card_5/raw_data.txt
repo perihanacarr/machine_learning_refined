@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/danielle-szafir", "title": "assistant professor", "email": "Danielle.Szafir@Colorado.EDU", "extra_strings": "danielle szafir"}

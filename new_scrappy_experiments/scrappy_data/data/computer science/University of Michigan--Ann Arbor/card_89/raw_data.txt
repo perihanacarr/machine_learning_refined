@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/mjskay.jpg", "site": "http://www.mjskay.com/", "title": "assistant professor", "email": "mjskay@umich.edu", "extra_strings": "matthew kay"}

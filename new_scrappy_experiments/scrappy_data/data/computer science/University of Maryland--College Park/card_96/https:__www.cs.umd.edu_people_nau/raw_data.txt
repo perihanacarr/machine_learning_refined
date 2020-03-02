@@ -1,0 +1,1 @@
+{"email": ["nau@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/nau%20dana.png?itok=fqZviOI_&c=4d55a2fa308f621f67a46df2d038ba12"], "research_blurb": ["View Department Office Contacts"]}

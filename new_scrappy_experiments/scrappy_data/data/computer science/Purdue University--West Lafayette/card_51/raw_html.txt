@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Sabre Kais</td><td>Professor (Chemistry)</td><td style=\"white-space: nowrap\"><phone>49-45965</phone></td><td style=\"white-space: nowrap\"><office>WTHR 265G</office></td><td><a href=\"mailto:kais@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/kais/\">Bio</a></td></tr>"

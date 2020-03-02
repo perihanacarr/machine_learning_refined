@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_Mangharam.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=60", "title": "associate professor", "email": "rahulm@seas.upenn.edu", "extra_strings": "rahul mangharam"}

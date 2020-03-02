@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/90ebd57ae1da393af3b2842cf882a050.png", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Vayanos&fname=Phebe", "title": "assistant professor", "email": "phebe.vayanos@usc.edu", "extra_strings": "phebe vayanos"}

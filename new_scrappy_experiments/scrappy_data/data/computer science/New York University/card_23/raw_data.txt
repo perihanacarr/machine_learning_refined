@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/Kempe_250x250.jpg", "site": "https://cims.nyu.edu/~kempe/", "title": "professor", "email": 0, "extra_strings": "ext -"}

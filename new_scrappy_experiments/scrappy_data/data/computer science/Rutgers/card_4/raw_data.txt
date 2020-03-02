@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2691.png", "site": "https://www.cs.rutgers.edu/people/professors/details/apostolos-gerasoulis", "title": "professor", "email": "GERASOUL@cs.RUTGERS.EDU", "extra_strings": "apostolos gerasoulis"}

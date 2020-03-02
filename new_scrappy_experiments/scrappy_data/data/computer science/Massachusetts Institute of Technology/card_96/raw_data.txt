@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/jaillet_0.jpg", "site": "https://lids.mit.edu/people/faculty/jaillet-patrick.html", "title": "professor", "email": "jaillet@mit.edu", "extra_strings": "patrick jaillet"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_keefe.jpg?itok=OgQDeUmS", "site": "http://www-users.cs.umn.edu/~keefe/", "title": 0, "email": "dfk@umn.edu", "extra_strings": "daniel f keefe"}

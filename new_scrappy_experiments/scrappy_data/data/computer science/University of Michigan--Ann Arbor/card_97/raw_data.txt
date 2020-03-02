@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/nham.jpg", "site": "https://web.eecs.umich.edu/~nham/", "title": 0, "email": "nham@umich.edu", "extra_strings": "nicole hamilton"}

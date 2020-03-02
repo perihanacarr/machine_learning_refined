@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Rupp.png", "site": "https://dmse.mit.edu/faculty/profile/jrupp", "title": "associate professor", "email": "jrupp@mit.edu", "extra_strings": "jennifer lm rupp"}

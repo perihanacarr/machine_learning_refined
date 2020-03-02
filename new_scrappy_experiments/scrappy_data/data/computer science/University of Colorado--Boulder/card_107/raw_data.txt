@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/computer_science_hs_pc0045.jpg?itok=MlHUZgZk", "site": "https://www.colorado.edu/cs/xiao-chuan-cai", "title": "professor", "email": "xiao-chuan.cai@colorado.edu", "extra_strings": "xiao-chuan cai"}

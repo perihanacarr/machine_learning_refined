@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/aydin.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/aydin.html", "title": "assistant professor", "email": "aydin@eecs.berkeley.edu", "extra_strings": "aydin bulu\u00e7"}

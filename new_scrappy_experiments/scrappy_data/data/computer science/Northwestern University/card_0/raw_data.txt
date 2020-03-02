@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/kuzmanovic-aleksandar-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kuzmanovic-aleksandar.html", "title": "professor", "email": "akuzma@cs.northwestern.edu", "extra_strings": "aleksandar kuzmanovic"}

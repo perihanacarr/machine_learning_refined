@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/6a/7f/6a7f85b5-ae9a-4d72-8373-a55a99746d46/kathi-headshot.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "http://www.cs.brown.edu/~kfisler/", "title": "professor", "email": 0, "extra_strings": "kathi fisler"}

@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jegonzal.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/AI", "title": "assistant professor", "email": "jegonzal@eecs.berkeley.edu", "extra_strings": "joseph gonzalez"}

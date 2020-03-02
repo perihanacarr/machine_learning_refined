@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_Blaze.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=8", "title": "adjunct professor", "email": "blaze@cis.upenn.edu", "extra_strings": "matthew blaze"}

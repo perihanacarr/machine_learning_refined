@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/jameswdavis.jpg?itok=7nkACZtl&c=2c91bbe70f4f438adcf42fe86c687abb", "site": "https://cse.osu.edu/people/davis.1719", "title": "professor", "email": "davis.1719@osu.edu", "extra_strings": "eese laboratories"}

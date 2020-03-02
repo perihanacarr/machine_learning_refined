@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/abney.jpg", "site": "http://www.vinartus.net/spa/index.html", "title": "associate professor", "email": "abney@umich.edu", "extra_strings": "steven abney"}

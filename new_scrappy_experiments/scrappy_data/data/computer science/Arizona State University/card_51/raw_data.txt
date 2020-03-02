@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Yan-Hao-0032.jpg", "site": "http://www.public.asu.edu/~hyan46/", "title": "assistant professor", "email": "HaoYan@asu.edu", "extra_strings": "tempe campus, byeng"}

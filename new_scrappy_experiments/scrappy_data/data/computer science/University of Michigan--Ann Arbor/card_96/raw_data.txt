@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/nebeling.jpg", "site": "http://michael-nebeling.de/", "title": "assistant professor", "email": "nebeling@umich.edu", "extra_strings": "michael nebeling"}

@@ -1,0 +1,1 @@
+{"email": ["selman@cs.cornell.edu"], "image": ["http://www.web-stat.com/count.cgi?selman::::1440x900::24::main::yes::0.46869188398013284", "http://www.web-stat.com/count.cgi?selman::NoJavaScript", "https://www.cs.cornell.edu/people/gif-jpg/selman-picture_3.png"], "research_blurb": [""]}

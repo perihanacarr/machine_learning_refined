@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/PratapTokekar.jpg?itok=nPVGvAdK", "site": "https://www.cs.umd.edu/researcharea/ai-and-robotics", "title": "assistant professor", "email": 0, "extra_strings": "pratap tokekar"}

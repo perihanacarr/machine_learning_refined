@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/leilani_pp2.png?itok=-LPM_OHe&c=7dbd722d0d85d9198cbf62a16cccc4ad", "site": "https://www.cs.umd.edu/research-area/databases-and-big-data", "title": "assistant professor", "email": 0, "extra_strings": "leilani battle"}

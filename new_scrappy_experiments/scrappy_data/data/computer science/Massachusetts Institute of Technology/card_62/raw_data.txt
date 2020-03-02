@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/dahleh_0.jpg", "site": "http://lids.mit.edu/people/faculty/dahleh-munther.html", "title": "professor", "email": "dahleh@mit.edu", "extra_strings": "munther dahleh"}

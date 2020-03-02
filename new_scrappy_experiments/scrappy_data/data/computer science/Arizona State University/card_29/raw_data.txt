@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Jorge-Sefair.jpg", "site": "https://cidse.engineering.asu.edu/jorge-sefair/", "title": "assistant professor", "email": "jsefair@asu.edu", "extra_strings": "jorge sefair"}

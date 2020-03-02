@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/staff/alexander-rudnicky", "title": 0, "email": "ar28@andrew.cmu.edu", "extra_strings": "alexander rudnicky"}

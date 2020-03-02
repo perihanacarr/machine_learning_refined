@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/wagner.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/wagner.html", "title": "professor", "email": "daw@cs.berkeley.edu", "extra_strings": "soda hall, -- dawcsberkeleyedu"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/oard%20douglas.jpg?itok=pZaYPJhF&c=c883ae031fffeab0249d0ec0e23ac05d", "site": "https://www.cs.umd.edu/research-area/human-computer-interaction", "title": "professor", "email": 0, "extra_strings": "doug oard"}

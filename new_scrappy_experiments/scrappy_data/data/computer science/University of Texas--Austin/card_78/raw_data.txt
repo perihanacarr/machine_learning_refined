@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/noprofilepic_68.png?itok=MGylIYN4", "site": "https://www.cs.utexas.edu/people/faculty-researchers/devdatta-kulkarni", "title": "assistant professor", "email": 0, "extra_strings": "devdatta kulkarni"}

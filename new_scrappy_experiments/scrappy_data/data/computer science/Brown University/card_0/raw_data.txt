@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/05/d3/05d3c81f-8f88-49b6-aaf3-56525c89f8e2/headshot.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "https://cs.brown.edu/people/faculty/sbach/", "title": "assistant professor", "email": 0, "extra_strings": "stephen bach"}

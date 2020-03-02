@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/2a4d64f95ac593a8f6ab95226465d70d.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Annavaram&fname=Murali", "title": "professor", "email": "annavara@usc.edu", "extra_strings": "murali annavaram"}

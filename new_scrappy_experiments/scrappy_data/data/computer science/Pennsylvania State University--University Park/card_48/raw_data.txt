@@ -1,0 +1,1 @@
+{"image": "/dir/photos/JAEGER-TRENT.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=TRJ1", "title": "professor", "email": "trj1@psu.edu", "extra_strings": "w westgate building"}

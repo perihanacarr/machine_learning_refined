@@ -1,0 +1,1 @@
+{"image": "/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=837&thumb=", "site": "http://www.cs.princeton.edu/~dpd", "title": "professor", "email": 0, "extra_strings": "david dobkin"}

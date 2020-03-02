@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/golbeck%20jen.jpg?itok=7dE_Nl3t", "site": "https://www.cs.umd.edu/research-area/human-computer-interaction", "title": "associate professor", "email": 0, "extra_strings": "jennifer golbeck"}

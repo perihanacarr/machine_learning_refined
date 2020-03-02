@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/katz%20jonathan.jpg?itok=flhpi0vG", "site": "https://www.cs.umd.edu/people/jkatz2", "title": "professor", "email": 0, "extra_strings": "jonathan katz"}

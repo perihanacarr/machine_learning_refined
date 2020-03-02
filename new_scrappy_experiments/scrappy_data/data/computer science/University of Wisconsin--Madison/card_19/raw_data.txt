@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/10/Van-Melkebeek_Dieter.jpg", "site": "http://pages.cs.wisc.edu/~dieter/", "title": "professor", "email": "dieter@cs.wisc.edu", "extra_strings": "dieter van melkebeek"}

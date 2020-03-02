@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/12/ff/12ff6d79-5e5a-4e12-8cbe-d1642d4a9bbc/ramachandran_dsiheadshot_cropped.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "https://cs.brown.edu/people/faculty/sr33/", "title": "associate professor", "email": 0, "extra_strings": "sohini ramachanan"}

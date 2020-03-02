@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/seymore_goodman_img_2463_0.jpg?itok=2DiLV0TS", "site": "https://www.scs.gatech.edu/people/seymour-goodman", "title": "professor", "email": "seymour.goodman@cc.gatech.edu", "extra_strings": "seymour goodman"}

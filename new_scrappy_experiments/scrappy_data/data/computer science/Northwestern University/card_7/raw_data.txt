@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/linna-daniel-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/linna-daniel.html", "title": 0, "email": "daniel.linna@law.northwestern.edu", "extra_strings": "daniel w linna jr"}

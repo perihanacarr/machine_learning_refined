@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/majumder.jpg", "site": "http://www.ics.uci.edu/~majumder", "title": "professor", "email": "%20majumder@ics.uci.edu", "extra_strings": "aditi majumder"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/eric-wustrow", "title": "assistant professor", "email": "ewust@colorado.edu", "extra_strings": "eric wustrow"}

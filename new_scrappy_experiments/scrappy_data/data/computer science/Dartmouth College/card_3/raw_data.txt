@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/263_original.jpg?itok=Dej6YCoe", "site": "https://web.cs.dartmouth.edu/people/amit-chakrabarti", "title": "professor", "email": "Amit.Chakrabarti@Dartmouth.edu", "extra_strings": "amit chakrabarti"}

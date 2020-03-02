@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/levorato.jpg", "site": "http://www.ics.uci.edu/~mlevorat/ ", "title": "associate professor", "email": "%20levorato@uci.edu", "extra_strings": "marco levorato"}

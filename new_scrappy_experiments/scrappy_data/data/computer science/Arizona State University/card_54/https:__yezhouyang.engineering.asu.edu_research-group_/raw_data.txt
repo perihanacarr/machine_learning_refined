@@ -1,0 +1,1 @@
+{"email": [], "image": ["http://yezhouyang.engineering.asu.edu/wp-content/uploads/2016/08/illusion_faces3.jpg", "https://www.asu.edu/asuthemes/4.6/assets/best-colleges-most-innovative.png"], "research_blurb": ["\u2013 A New American Computing Research Group"]}

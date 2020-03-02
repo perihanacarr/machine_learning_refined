@@ -1,0 +1,1 @@
+{"image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7", "site": "https://scholar.harvard.edu/kbrennan", "title": "associate professor", "email": "karen_brennan@gse.harvard.edu", "extra_strings": "karen brennan"}

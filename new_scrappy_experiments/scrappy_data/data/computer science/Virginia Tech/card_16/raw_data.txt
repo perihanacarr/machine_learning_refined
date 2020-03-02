@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_1315610991/vt-items_1/vtmulticolumn/vt-items_0/adaptiveimage.transform/m-medium/image.jpg", "site": "https://crowd.cs.vt.edu/kurt-luther/", "title": "assistant professor", "email": "kluther@vt.edu", "extra_strings": "kurt lur"}

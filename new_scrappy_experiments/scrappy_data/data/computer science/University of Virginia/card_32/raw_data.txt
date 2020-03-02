@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://engineering.virginia.edu/faculty/nathan-brunelle", "title": "assistant professor", "email": "njb2b@virginia.edu", "extra_strings": "nathan brunelle"}

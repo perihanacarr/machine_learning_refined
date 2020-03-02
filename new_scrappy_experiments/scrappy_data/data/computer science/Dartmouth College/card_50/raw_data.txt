@@ -1,0 +1,1 @@
+{"image": "https://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/styles/profile_listing/public/my_photo.jpeg?itok=8sO07uKH", "site": "https://web.cs.dartmouth.edu/people/amro-m-farid", "title": "associate professor", "email": "Amro.M.Farid@Dartmouth.edu", "extra_strings": "amro m farid"}

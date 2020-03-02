@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/7483395e4df86ae5d7b1d3fe8f763cf9.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Mitra&fname=Urbashi", "title": "professor", "email": "ubli@usc.edu", "extra_strings": "urbashi mitra"}

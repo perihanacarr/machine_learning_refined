@@ -1,0 +1,1 @@
+"<div class=\"col-3\">\n<img alt=\"Ronald N. Goldman\" src=\"/sites/g/files/bxs1251/f/cs_headshots/RonGoldman2017-A0376-500x500.jpg\"/><h4>\n<a href=\"https://csweb.rice.edu/ron-goldman\">Ronald N. Goldman</a></h4>\n<p>Professor of Computer Science</p>\n</div>"

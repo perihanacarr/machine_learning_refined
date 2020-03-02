@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/vanwyk_head3_edit_small.jpg?itok=I2APoGys", "site": "https://www.cs.umn.edu/people/eric-van-wyk-0", "title": 0, "email": "evw@umn.edu", "extra_strings": "keller -"}

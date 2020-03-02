@@ -1,0 +1,1 @@
+{"email": ["a2jz@law.harvard.edu"], "image": ["http://blogs.harvard.edu/jzwrites/files/2017/07/zittrain2.jpg", "http://blogs.harvard.edu/jzwrites/files/2017/07/FOI_Cover.jpg", "http://blogs.harvard.edu/jzwrites/files/2017/07/zittrain1.jpg"], "research_blurb": ["\u00a0\u00a9 Jonathan Zittrain 2020"]}

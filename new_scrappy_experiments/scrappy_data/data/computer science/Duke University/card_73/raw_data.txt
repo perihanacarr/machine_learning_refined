@@ -1,0 +1,1 @@
+{"image": "https://www2.cs.duke.edu/images/pic-fac/yiran-chen400x600.jpg", "site": "https://www.cs.duke.edu/people/faculty/314", "title": "professor", "email": 0, "extra_strings": "yiran chen"}

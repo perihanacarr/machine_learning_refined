@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/Demers%2C%20ALan.jpg?itok=xgfdDCuN", "site": "http://www.cs.cornell.edu/annual_report/00-01/bios.htm#demers", "title": 0, "email": 0, "extra_strings": "princeton univ "}

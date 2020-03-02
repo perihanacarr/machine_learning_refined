@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/technical-faculty/patrick-virtue", "title": "professor", "email": "pvirtue@andrew.cmu.edu", "extra_strings": "patrick virtue"}

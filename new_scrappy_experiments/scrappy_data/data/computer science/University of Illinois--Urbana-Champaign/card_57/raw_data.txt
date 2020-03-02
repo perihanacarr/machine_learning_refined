@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=77846&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/nanjiang", "title": "assistant professor", "email": "nanjiang@illinois.edu", "extra_strings": "nan jiang"}

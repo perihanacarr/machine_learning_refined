@@ -1,0 +1,1 @@
+{"email": ["crottyan@cs.brown.edu"], "image": ["./crottyan.jpg"], "research_blurb": ["\nI am a postdoctoral researcher in the  in 2013. My research interests lie in the field of data management, \nspecifically relating to the design of high-performance transaction processing and analytics systems.\n"]}

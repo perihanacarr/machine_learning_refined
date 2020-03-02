@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=4974&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/meseguer", "title": "professor", "email": "meseguer@illinois.edu", "extra_strings": "jose meseguer"}

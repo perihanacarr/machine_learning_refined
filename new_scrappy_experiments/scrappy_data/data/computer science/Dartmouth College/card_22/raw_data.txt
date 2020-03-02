@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/jpeg_1.jpg?itok=WzgnvCVI", "site": "https://web.cs.dartmouth.edu/people/douglas-mcilroy", "title": "adjunct professor", "email": "M.Douglas.McIlroy@Dartmouth.EDU", "extra_strings": "douglas mcilroy"}

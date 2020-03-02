@@ -1,0 +1,1 @@
+{"email": ["daw@cs.berkeley.edu"], "image": ["https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/wagner.jpg"], "research_blurb": ["<ul class=\"Research Areas\">\n\n<a href=\"/Research/Areas/SEC\">Security (SEC)</a>\n</ul>\n\n<div class=\"grouping\">\n\n<div class=\"grouping\">"]}

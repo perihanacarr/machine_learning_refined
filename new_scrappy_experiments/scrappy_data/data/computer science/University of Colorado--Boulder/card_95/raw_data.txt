@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/computer_science_hs_pc0027.jpg?itok=OnBSUrLn", "site": "https://www.colorado.edu/cs/shivakant-mishra", "title": "professor", "email": "shivakaht.mishra@colorado.edu", "extra_strings": "shivakant mishra"}

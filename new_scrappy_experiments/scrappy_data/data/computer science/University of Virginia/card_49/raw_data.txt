@@ -1,0 +1,1 @@
+{"image": 0, "site": "http://www.cs.virginia.edu/~vicente/", "title": "assistant professor", "email": "vicente@virginia.edu", "extra_strings": "vicente ordonez-roman"}

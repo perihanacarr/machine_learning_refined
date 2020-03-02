@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/viswa.jpg", "site": "https://viswa.engin.umich.edu/", "title": "assistant professor", "email": "viswa@umich.edu", "extra_strings": "viswanath nagarajan"}

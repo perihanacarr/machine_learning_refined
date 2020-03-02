@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/img_4159.jpg?itok=GTePVFxG", "site": "https://www.colorado.edu/cs/rebecca-morrison", "title": "assistant professor", "email": "rebeccam@colorado.edu", "extra_strings": "rebecca morrison"}

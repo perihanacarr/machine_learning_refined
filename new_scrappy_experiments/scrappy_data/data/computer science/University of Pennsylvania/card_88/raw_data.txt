@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_Yim.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=107", "title": "professor", "email": "yim@grasp.upenn.edu", "extra_strings": "mark yim"}

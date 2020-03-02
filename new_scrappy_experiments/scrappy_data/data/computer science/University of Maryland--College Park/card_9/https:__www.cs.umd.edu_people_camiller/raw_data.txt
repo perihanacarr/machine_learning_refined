@@ -1,0 +1,1 @@
+{"email": ["camiller@umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/40px_icon/public/default_images/user_icon.png", "https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/Carl_0.png?itok=CQUH-kHY&c=5f8ac18fd873974d9840b310217a4dfb"], "research_blurb": ["View Department Office Contacts"]}

@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/prasad_tetali_0.jpg?itok=qMe4OKKY", "site": "https://www.scs.gatech.edu/people/prasad-tetali", "title": "professor", "email": "tetali@math.gatech.edu", "extra_strings": "prasad tetali"}

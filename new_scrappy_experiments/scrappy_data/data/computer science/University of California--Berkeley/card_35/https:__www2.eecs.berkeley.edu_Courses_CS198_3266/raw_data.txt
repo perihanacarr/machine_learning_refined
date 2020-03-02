@@ -1,0 +1,1 @@
+{"email": [], "image": [], "research_blurb": ["Catalog Description: Group study of selected topics in Computer Sciences, usually relating to new developments. "]}

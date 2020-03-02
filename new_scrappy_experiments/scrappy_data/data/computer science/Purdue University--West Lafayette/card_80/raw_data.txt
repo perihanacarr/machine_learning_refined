@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/popescu/", "title": "associate professor", "email": "popescu@purdue.edu", "extra_strings": "voicu popescu"}

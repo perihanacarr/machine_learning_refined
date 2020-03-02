@@ -1,0 +1,1 @@
+{"image": "/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=3338&thumb=", "site": "https://www.cs.princeton.edu/people/profile/zkincaid", "title": "assistant professor", "email": 0, "extra_strings": "zachary kincaid"}

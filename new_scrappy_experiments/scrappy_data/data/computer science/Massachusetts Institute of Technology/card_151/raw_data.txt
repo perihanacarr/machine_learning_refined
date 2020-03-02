@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/stonebraker_0.jpg", "site": "https://www.csail.mit.edu/user/1547", "title": "adjunct professor", "email": "stonebraker@csail.mit.edu", "extra_strings": "michael stonebraker"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/boyd-graber.png?itok=WWXwzE0J&c=693e11a0b8e9eacac34c2373cbfca06d", "site": "https://www.cs.umd.edu/researcharea/ai-and-robotics", "title": "associate professor", "email": 0, "extra_strings": "jordan boyd-graber"}

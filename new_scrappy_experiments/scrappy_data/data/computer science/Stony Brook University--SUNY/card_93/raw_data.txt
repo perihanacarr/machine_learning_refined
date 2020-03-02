@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/profile_0.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/AnshulGandhi", "title": "assistant professor", "email": 0, "extra_strings": "anshul gandhi"}

@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/smith-a.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/OSNT", "title": "professor emeritus", "email": "smith@eecs.berkeley.edu", "extra_strings": "soda hall, -- smitheecsberkeleyedu"}

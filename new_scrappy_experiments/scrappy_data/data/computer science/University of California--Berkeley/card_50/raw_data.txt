@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/joshhug.jpg", "site": "https://www2.eecs.berkeley.edu/Courses/CS195", "title": "professor", "email": "josh@joshh.ug", "extra_strings": "joshua hug"}

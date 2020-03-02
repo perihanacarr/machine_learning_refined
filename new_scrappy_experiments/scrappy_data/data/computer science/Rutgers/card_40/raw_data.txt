@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2677.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/richard-martin", "title": "associate professor", "email": "rmartin@scarletmail.rutgers.edu", "extra_strings": "richard martin"}

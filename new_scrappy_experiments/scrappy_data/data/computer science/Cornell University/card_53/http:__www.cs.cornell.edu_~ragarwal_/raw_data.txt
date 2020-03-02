@@ -1,0 +1,1 @@
+{"email": [], "image": ["me.jpg"], "research_blurb": [" My research interests are in systems and networking. I am also interested in theoretical problems arising out of building practical systems. My research thus spans (and integrates) systems, networks, and theory.Laid the foundation for research on network debugging at the data plane."]}

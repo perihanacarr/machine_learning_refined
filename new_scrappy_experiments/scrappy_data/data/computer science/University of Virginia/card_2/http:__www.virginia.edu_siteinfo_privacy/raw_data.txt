@@ -1,0 +1,1 @@
+{"email": ["socialmedia@virginia.edu"], "image": ["https://www.virginia.edu/sites/default/files/styles/story_telling_video_poster_desktop/public/where_can_a_uva_edu.jpg?itok=W81jlqc0"], "research_blurb": [""]}

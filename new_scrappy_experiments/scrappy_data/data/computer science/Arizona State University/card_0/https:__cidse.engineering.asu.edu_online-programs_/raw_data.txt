@@ -1,0 +1,1 @@
+{"email": [], "image": ["//www.asu.edu/asuthemes/4.8/assets/ASU-number-1-innovation-best-colleges.png"], "research_blurb": ["Our online degrees are designed and delivered by renowned faculty and integrate applied projects and experiential, hands-on exercises derived from real-world challenges."]}

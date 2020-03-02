@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/a5f3fd9906ee2751ec7e6ec476ad4c5d.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Shamsian&fname=Shahriar", "title": 0, "email": "sshamsia@usc.edu", "extra_strings": "shahriar shamsian"}

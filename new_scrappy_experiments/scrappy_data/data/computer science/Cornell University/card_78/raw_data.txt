@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/abe_square.jpg?itok=jf6G2SHA", "site": "https://www.cs.cornell.edu/research/graphics", "title": "assistant professor", "email": 0, "extra_strings": "abe davis"}

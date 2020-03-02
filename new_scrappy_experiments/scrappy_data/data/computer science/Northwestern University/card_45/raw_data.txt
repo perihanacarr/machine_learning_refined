@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/chen-yan-t1.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-yan.html", "title": "professor", "email": "ychen@northwestern.edu", "extra_strings": "yan chen"}

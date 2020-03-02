@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/nancy-pollard", "title": "professor", "email": "nsp@cs.cmu.edu", "extra_strings": "nancy pollard"}

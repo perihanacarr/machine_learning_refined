@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/Bracy%2C%20Anne.jpg?itok=o6pHK41w", "site": "http://www.cs.cornell.edu/~bracy/", "title": 0, "email": 0, "extra_strings": "univ of penn "}

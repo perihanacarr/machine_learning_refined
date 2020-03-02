@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2019/09/chatterjee-e1568140903439-150x150.jpg", "site": "https://pages.cs.wisc.edu/~chatterjee/", "title": "assistant professor", "email": "rahul.chatterjee@wisc.edu", "extra_strings": "rahul chatterjee"}

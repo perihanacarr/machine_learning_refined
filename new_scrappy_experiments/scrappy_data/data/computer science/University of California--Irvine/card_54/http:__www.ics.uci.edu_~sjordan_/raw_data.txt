@@ -1,0 +1,1 @@
+{"email": [], "image": ["file:///C|/Documents and Settings/Scott Jordan/My Documents/sites/home page draft/spacer.gif", "https://www.cs.uci.edu/faculty/images/scott color small.jpg", "https://www.cs.uci.edu/faculty/images/ucseal color trans.gif"], "research_blurb": ["Other telecommunications public policy research"]}

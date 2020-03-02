@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/shroff.11.jpg?itok=4z1EqcQ_", "site": "https://cse.osu.edu/people/shroff.11", "title": 0, "email": "shroff.11@osu.edu", "extra_strings": "eese laboratories"}

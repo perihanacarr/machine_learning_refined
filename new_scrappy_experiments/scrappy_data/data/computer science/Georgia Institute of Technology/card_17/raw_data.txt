@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/joy-1.jpg?itok=9KO-6ubw", "site": "https://www.scs.gatech.edu/people/joy-arulraj", "title": "assistant professor", "email": "jarulraj3@gatech.edu", "extra_strings": "joy arulraj"}

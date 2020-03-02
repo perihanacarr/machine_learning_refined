@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_boley.jpg?itok=C5AmyD9p", "site": "http://www-users.cs.umn.edu/~boley", "title": 0, "email": "boley@umn.edu", "extra_strings": "daniel boley"}

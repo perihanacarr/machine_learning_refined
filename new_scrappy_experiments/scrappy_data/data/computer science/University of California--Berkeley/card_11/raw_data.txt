@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/bachrach.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/PS", "title": "assistant professor", "email": "jrb@eecs.berkeley.edu", "extra_strings": "jonathan bachrach"}

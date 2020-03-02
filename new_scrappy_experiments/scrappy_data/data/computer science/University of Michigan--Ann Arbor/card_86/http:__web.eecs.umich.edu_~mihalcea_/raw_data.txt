@@ -1,0 +1,1 @@
+{"email": ["lit@umich"], "image": ["images/RadaLong.jpg"], "research_blurb": ["research(January 2019) How can you spot fake news? Veronica Perez-Rosas and I talk about our research on Detroit Public TV. You can research on fake news"]}

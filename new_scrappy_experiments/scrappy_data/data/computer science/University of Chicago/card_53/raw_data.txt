@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://computerscience.uchicago.edu/people/profile/l.-ridgway-scott", "title": "professor emeritus", "email": 0, "extra_strings": "l ridgway scott"}

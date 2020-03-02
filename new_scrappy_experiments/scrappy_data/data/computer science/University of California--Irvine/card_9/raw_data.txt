@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/dhirschb.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=dhirschb", "title": "professor", "email": "%20dan@ics.uci.edu", "extra_strings": "daniel hirschberg"}

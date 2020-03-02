@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Hani-Ben-Amor.jpg", "site": "https://interactive-robotics.engineering.asu.edu", "title": "assistant professor", "email": "Hani.Benamor@asu.edu", "extra_strings": "tempe campus,ctrpt"}

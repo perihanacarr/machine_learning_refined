@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/3a43ff9300582f10075f27b826d5a8f5.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Kovalovs&fname=Artjoms", "title": 0, "email": "artem.kovalovs@gmail.com", "extra_strings": "artjoms kovalovs"}

@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/lingjia.jpg", "site": "http://www.lingjia.org/", "title": "assistant professor", "email": "lingjia@umich.edu", "extra_strings": "lingjia tang"}

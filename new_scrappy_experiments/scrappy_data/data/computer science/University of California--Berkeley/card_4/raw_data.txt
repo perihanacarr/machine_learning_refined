@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/alexch.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/SEC", "title": "assistant professor", "email": "alexch@berkeley.edu", "extra_strings": "alessano chiesa"}

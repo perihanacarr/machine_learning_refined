@@ -1,0 +1,1 @@
+{"image": "/sites/g/files/bxs1251/f/cs_headshots/2016-Corky-Cartwright.jpg", "site": "https://csweb.rice.edu/robert-cartwright", "title": "professor", "email": 0, "extra_strings": "robert \"corky\" cartwright"}

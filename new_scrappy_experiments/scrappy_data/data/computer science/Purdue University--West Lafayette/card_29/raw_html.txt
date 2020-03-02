@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Daisuke Kihara</td><td>Professor</td><td style=\"white-space: nowrap\"><phone>49-45004</phone></td><td style=\"white-space: nowrap\"><office>LWSN 1208</office></td><td><a href=\"mailto:dkihara@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/dkihara/\">Bio</a></td></tr>"

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/baer_joshua_1.jpg?itok=ElryTw0g", "site": "https://www.cs.utexas.edu/people/faculty-researchers/joshua-baer", "title": 0, "email": 0, "extra_strings": "joshua baer"}

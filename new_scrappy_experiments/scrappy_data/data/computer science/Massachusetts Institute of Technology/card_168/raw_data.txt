@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/wilson_0.jpg", "site": 0, "title": "professor", "email": "glwilson@mit.edu", "extra_strings": "gerald wilson"}

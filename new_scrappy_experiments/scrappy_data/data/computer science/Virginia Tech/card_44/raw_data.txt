@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_651816518/vt-items_1/vtmulticolumn/vt-items_0/adaptiveimage.transform/m-medium/image.jpg", "site": 0, "title": "assistant professor", "email": "gregwk@vt.edu", "extra_strings": "greg kulcycki"}

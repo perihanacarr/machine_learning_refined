@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/b7/e4/b7e49e15-ea82-4e6e-a71f-e83802edc11e/bruce.png__60x80_q85_subsampling-2.jpg 60w", "site": "http://bdcampbell.net/cs/", "title": "assistant professor", "email": 0, "extra_strings": "bruce donald campbell"}

@@ -1,0 +1,1 @@
+{"email": ["isaac@ics.uci.edu"], "image": ["ES02.jpg"], "research_blurb": ["University of California,\n  Irvine.\u00a0\n"]}

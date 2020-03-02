@@ -1,0 +1,1 @@
+{"image": "images/photos/a-thumb-devietti.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=188", "title": "assistant professor", "email": "devietti@cis.upenn.edu", "extra_strings": "joseph devietti"}

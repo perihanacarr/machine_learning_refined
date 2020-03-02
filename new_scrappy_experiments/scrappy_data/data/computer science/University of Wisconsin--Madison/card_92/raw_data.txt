@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/10/Theo-e1542050616979-150x150.jpg", "site": "http://pages.cs.wisc.edu/~thodrek/", "title": "assistant professor", "email": "thodrek@cs.wisc.edu", "extra_strings": "theodoros rekatsinas"}

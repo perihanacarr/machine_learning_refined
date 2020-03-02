@@ -1,0 +1,1 @@
+{"email": ["pemantle@math.upenn.edu"], "image": ["https://www.seas.upenn.edu/directory/images/photos/a-full-pemantle.jpg ", "https://www.seas.upenn.edu/directory/images/feed-icon_orange-12px.png"], "research_blurb": ["\nEmail | Personal Webpage "]}

@@ -1,0 +1,1 @@
+"<div class=\"col-3\">\n<img alt=\"Devika Subramanian\" src=\"/sites/g/files/bxs1251/f/cs_headshots/DevikaSubramanian2016-481-500x500.jpg\"/><h4>\n<a href=\"/devika-subramanian\">Devika Subramanian</a></h4>\n<p>Professor of Computer Science and of Electrical and Computer Engineering</p>\n</div>"

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/hongsangjin.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/SangjinHong", "title": "professor", "email": 0, "extra_strings": "sangjin hong"}

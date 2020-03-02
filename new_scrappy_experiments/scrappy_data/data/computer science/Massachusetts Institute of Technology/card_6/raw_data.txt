@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Broderick_Tamara-Preferred4_0.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/17", "title": "associate professor", "email": "tbroderick@csail.mit.edu", "extra_strings": "tamara broderick"}

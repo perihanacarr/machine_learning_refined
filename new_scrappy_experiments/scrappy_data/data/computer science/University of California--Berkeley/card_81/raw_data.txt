@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ramchandran.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/CIR", "title": "professor", "email": "kannanr@eecs.berkeley.edu", "extra_strings": "kannan ramchanan"}

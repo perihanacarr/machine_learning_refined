@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/11/Vikas-Singh-e1544548788259-150x150.jpg", "site": "https://www.cs.wisc.edu/staff/singh-vikas/", "title": "professor", "email": "vsingh@cs.wisc.edu", "extra_strings": "vikas singh"}

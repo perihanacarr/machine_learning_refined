@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Kent Quanrud</td><td>Assistant Professor</td><td style=\"white-space: nowrap\"><phone>49-48773</phone></td><td style=\"white-space: nowrap\"><office>LWSN 1211</office></td><td><a href=\"mailto:krq@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/krq/\">Bio</a></td></tr>"

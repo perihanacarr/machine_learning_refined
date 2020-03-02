@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/mozafari.jpg", "site": "http://web.eecs.umich.edu/~mozafari/", "title": "associate professor", "email": "mozafari@umich.edu", "extra_strings": "barzan mozafari"}

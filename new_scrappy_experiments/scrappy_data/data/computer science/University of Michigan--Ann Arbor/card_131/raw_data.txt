@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/welchjd.jpg", "site": "https://welch-lab.github.io/", "title": "assistant professor", "email": "welchjd@umich.edu", "extra_strings": "joshua welch"}

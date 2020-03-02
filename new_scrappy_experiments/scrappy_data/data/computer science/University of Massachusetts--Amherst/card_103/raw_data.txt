@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/taneja-jay", "title": "assistant professor", "email": "jtaneja@umass.edu", "extra_strings": "jay taneja"}

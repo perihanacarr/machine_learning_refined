@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/dirk_grunwald.jpg?itok=7m_Z8Puy", "site": "https://www.colorado.edu/cs/dirk-grunwald", "title": "professor", "email": "dirk.grunwald@Colorado.EDU", "extra_strings": "dirk grunwald"}

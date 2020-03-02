@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/08/a1/08a14047-74fc-4b9a-a1a7-33f9b5126052/img_4643_headshot_medium.jpg__60x80_q85_subsampling-2.jpg 58w", "site": "https://cs.brown.edu/people/faculty/malte/", "title": "assistant professor", "email": 0, "extra_strings": "malte schwarzkopf"}

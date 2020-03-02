@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/thomas-hauser", "title": "associate professor", "email": "thomas.hauser@colorado.edu", "extra_strings": "thomas hauser"}

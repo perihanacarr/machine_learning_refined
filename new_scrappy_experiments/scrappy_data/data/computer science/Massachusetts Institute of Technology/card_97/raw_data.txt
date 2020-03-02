@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/jegelka.jpg", "site": "https://people.csail.mit.edu/stefje", "title": "associate professor", "email": "stefje@MIT.EDU", "extra_strings": "stefanie jegelka"}

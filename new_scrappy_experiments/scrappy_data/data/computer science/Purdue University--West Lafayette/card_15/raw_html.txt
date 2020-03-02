@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Tony Bergstrom</td><td>Assistant Professor of Practice</td><td style=\"white-space: nowrap\"><phone>49-46330</phone></td><td style=\"white-space: nowrap\"><office>HAAS 102</office></td><td><a href=\"mailto:bgstm@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/bgstm/\">Bio</a></td></tr>"

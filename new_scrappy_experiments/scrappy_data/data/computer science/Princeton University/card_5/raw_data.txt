@@ -1,0 +1,1 @@
+{"image": "/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=13&thumb=", "site": "http://www.cs.princeton.edu/~felten", "title": "professor", "email": 0, "extra_strings": "edward felten"}

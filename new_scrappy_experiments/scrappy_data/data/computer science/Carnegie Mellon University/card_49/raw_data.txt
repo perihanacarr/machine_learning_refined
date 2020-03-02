@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/jaime-carbonell", "title": "professor", "email": "jgc@cs.cmu.edu", "extra_strings": "jaime carbonell"}

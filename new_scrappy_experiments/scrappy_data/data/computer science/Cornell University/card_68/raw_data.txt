@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/Trummer%2C%20Immanuel.jpg?itok=3tkZRmcs", "site": "http://www.itrummer.org/", "title": "assistant professor", "email": 0, "extra_strings": "epfl "}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/moll_robert", "title": "associate professor", "email": "moll@cs.umass.edu", "extra_strings": "a lgrc"}

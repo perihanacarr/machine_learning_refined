@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=99469&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/yongjoo", "title": "assistant professor", "email": "yongjoo@illinois.edu", "extra_strings": "yongjoo park"}

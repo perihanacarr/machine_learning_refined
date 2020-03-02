@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2689.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/kostas-bekris", "title": "associate professor", "email": "kostas.bekris@cs.rutgers.edu", "extra_strings": "kostas bekris"}

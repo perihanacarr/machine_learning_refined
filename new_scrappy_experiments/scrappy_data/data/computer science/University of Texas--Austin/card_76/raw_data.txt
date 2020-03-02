@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/noprofilepic_60.png?itok=dOByiaYG", "site": "https://www.cs.utexas.edu/people/faculty-researchers/vladimir-lifschitz", "title": "professor emeritus", "email": 0, "extra_strings": "vladimir lifschitz"}

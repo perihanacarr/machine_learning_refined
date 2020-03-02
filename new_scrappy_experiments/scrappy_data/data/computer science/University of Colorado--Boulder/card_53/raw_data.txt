@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/eric_reckwerdt.jpg?itok=KH_bvFfM", "site": "https://www.colorado.edu/cs/eric-reckwerdt-0", "title": 0, "email": "erre9537@colorado.edu", "extra_strings": "eric rreckwerdt"}

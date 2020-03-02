@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/mcgregor_andrew", "title": "associate professor", "email": "mcgregor@cs.umass.edu", "extra_strings": "cs building"}

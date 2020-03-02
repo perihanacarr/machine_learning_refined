@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Daniel Aliaga</td><td>Associate Professor</td><td style=\"white-space: nowrap\"><phone>No Phone</phone></td><td style=\"white-space: nowrap\"><office>LWSN 3177</office></td><td><a href=\"mailto:aliaga@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/aliaga/\">Bio</a></td></tr>"

@@ -1,0 +1,1 @@
+{"email": [], "image": [], "research_blurb": ["My research proposal on <A Trainable Decoding Algorithm for Neural Machine Translation> has been selected for Google Research Award 2016 (it's a bit confusing whether it's 2016 or ... "]}

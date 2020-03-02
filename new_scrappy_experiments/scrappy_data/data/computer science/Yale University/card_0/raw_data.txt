@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-3558-1538768051.jpg?itok=39fvgXJx", "site": "https://cpsc.yale.edu/people/abhishek-bhattacharjee", "title": "associate professor", "email": "abhishek@cs.yale.edu", "extra_strings": "abhishek bhattacharjee"}

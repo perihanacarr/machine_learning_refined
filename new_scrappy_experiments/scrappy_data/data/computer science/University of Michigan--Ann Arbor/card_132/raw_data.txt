@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/wellman.jpg", "site": "http://strategicreasoning.org/michael-p-wellman/", "title": "professor", "email": "wellman@umich.edu", "extra_strings": "michael wellman"}

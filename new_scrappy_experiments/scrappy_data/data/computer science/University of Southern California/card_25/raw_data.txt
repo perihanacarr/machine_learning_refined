@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/4f1fc737973d7a0a9c6f020960fbaae3.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Kesselman&fname=Carl", "title": "professor", "email": "carl@isi.edu", "extra_strings": "carl kesselman"}

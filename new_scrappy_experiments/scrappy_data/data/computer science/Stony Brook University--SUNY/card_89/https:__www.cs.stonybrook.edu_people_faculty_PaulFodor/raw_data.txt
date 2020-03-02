@@ -1,0 +1,1 @@
+{"email": ["pfodor@cs.stonybrook.edu"], "image": ["https://www.cs.stonybrook.edu/sites/default/files/pfodor_0.jpg", "https://www.cs.stonybrook.edu/sites/all/themes/compsci/images/blue_arrow.gif"], "research_blurb": ["Paul Fodor has the following research grants:\u00a0"]}

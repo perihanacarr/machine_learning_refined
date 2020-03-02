@@ -1,0 +1,1 @@
+{"image": "/dir/photos/ALMEKKAWY-MOHAMED.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=MKA9", "title": "professor", "email": "mka9@psu.edu", "extra_strings": "mohamed almekkawy"}

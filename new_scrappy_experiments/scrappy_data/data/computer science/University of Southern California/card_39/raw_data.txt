@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/5470771c4fb77a46fba8d107a81482cc.png", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Ferrara&fname=Emilio", "title": "assistant professor", "email": "ferrarae@isi.edu", "extra_strings": "emilio ferrara"}

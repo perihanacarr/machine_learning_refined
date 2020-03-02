@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/emilykmp.jpg", "site": "http://web.eecs.umich.edu/~emilykmp/", "title": "associate professor", "email": "emilykmp@umich.edu", "extra_strings": "mower provost, emily"}

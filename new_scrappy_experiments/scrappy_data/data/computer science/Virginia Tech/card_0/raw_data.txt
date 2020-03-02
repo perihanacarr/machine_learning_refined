@@ -1,0 +1,1 @@
+{"image": "/content/dam/website_cs_vt_edu/ali-butt.jpg", "site": "http://people.cs.vt.edu/butta", "title": "professor", "email": "butta@cs.vt.edu", "extra_strings": "knowledgeworks ii"}

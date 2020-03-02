@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2682.png", "site": "https://www.cs.rutgers.edu/people/professors/details/mubbasir-kapadia", "title": "assistant professor", "email": "mubbasir.kapadia@rutgers.edu", "extra_strings": "mubbasir kapadia"}

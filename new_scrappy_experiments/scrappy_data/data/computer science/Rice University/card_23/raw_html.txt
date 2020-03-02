@@ -1,0 +1,1 @@
+"<div class=\"col-3\">\n<img alt=\"Mack Joyner\" src=\"/sites/g/files/bxs1251/f/cs_headshots/MackJoyner_01-500x500.jpg\"/><h4>\n<a href=\"/mack-joyner\">Mack Joyner</a></h4>\n<p>Assistant Teaching Professor; Director of the Professional Master Program</p>\n</div>"

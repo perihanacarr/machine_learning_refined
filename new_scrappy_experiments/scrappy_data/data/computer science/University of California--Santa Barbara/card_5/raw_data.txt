@@ -1,0 +1,1 @@
+{"image": "/sites/cs.ucsb.edu/themes/cs_subtheme/css/images/home.png", "site": "http://www.cs.cmu.edu/~yuxiangw", "title": "assistant professor", "email": "yuxiangw@cs.ucsb.edu", "extra_strings": "yu-xiang wang"}

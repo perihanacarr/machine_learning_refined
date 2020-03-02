@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Chunyi Peng</td><td>Assistant Professor</td><td style=\"white-space: nowrap\"><phone>49-45884</phone></td><td style=\"white-space: nowrap\"><office>LWSN 2142E</office></td><td><a href=\"mailto:chunyi@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/chunyi/\">Bio</a></td></tr>"

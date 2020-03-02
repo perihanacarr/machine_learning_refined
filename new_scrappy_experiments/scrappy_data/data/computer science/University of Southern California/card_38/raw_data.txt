@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/e15970f34f52ae06469255f2ad2b98ca.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Sha&fname=Fei", "title": "associate professor", "email": "feisha@usc.edu", "extra_strings": "fei sha"}

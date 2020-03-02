@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/arroyo-ivon", "title": "associate professor", "email": "ivon@cs.umass.edu", "extra_strings": "ivon arroyo"}

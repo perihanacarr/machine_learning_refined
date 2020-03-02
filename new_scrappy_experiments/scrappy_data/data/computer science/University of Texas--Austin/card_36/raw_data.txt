@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/facultynoprofilepic_4.png?itok=ypTqX4lL", "site": "https://www.cs.utexas.edu/people/faculty-researchers/yosi-atia", "title": 0, "email": 0, "extra_strings": "yosi atia"}

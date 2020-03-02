@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_383100259/vt-items_0/vtmulticolumn/vt-items_0/adaptiveimage_copy.transform/m-medium/image.jpg", "site": "http://people.cs.vt.edu/~tilevich", "title": "associate professor", "email": "tilevich@cs.vt.edu", "extra_strings": "knowledgeworks ii"}

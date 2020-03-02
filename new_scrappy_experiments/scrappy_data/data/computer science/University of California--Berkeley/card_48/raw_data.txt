@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jordan.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/CIR", "title": "professor", "email": "jordan@cs.berkeley.edu", "extra_strings": "michael jordan"}

@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/wenke_lee_0.jpg?itok=1mAiGSpd", "site": "https://www.scs.gatech.edu/people/wenke-lee", "title": "professor", "email": "wenke.lee@cc.gatech.edu", "extra_strings": "wenke lee"}

@@ -1,0 +1,1 @@
+{"email": ["boaz@seas.harvard.edu"], "image": ["data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"], "research_blurb": ["To learn more about our faculty, areas of research, and research centers and initiatives visit our Academics pages."]}

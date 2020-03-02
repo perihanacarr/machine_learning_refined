@@ -1,0 +1,1 @@
+{"image": 0, "site": "http://yongkwon.info", "title": "assistant professor", "email": "yongkwon@virginia.edu", "extra_strings": "yonghwi kwon"}

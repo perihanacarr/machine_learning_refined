@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/mirela-alistar.jpeg?itok=zobaYKgC", "site": "https://www.colorado.edu/cs/mirela-alistar", "title": "assistant professor", "email": "Mirela.Alistar@Colorado.EDU", "extra_strings": "mirela alistar"}

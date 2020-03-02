@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/khuller-samir-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/khuller-samir.html", "title": "professor", "email": "samir.khuller@northwestern.edu", "extra_strings": "samir khuller"}

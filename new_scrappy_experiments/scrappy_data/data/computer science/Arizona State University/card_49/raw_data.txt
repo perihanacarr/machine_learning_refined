@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Violet-Syrotiuk.jpg", "site": "http://www.public.asu.edu/~syrotiuk/", "title": "associate professor", "email": "syrotiuk@asu.edu", "extra_strings": "violet syrotiuk"}

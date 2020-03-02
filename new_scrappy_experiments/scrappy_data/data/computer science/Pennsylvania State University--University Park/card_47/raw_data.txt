@@ -1,0 +1,1 @@
+{"image": "/dir/photos/Zhu-Timothy.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=tuz68", "title": "assistant professor", "email": "timothyz@cse.psu.edu", "extra_strings": "timothy zhu"}

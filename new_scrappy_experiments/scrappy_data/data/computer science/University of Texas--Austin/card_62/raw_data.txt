@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/lioutikov_rudolf.jpg?itok=1HejdSzf", "site": "https://www.cs.utexas.edu/people/faculty-researchers/rudolf-lioutikov", "title": "assistant professor", "email": 0, "extra_strings": "rudolf lioutikov"}

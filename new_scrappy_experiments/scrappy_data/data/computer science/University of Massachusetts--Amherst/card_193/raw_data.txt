@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/ogorman-timothy", "title": 0, "email": "togorman@cs.umass.edu", "extra_strings": "cs building"}

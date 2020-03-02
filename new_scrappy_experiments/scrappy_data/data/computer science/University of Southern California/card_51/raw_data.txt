@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/8c3444eb22fe19b2e9e0485731177d00.png", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Luo&fname=Haipeng", "title": "assistant professor", "email": "haipengl@usc.edu", "extra_strings": "haipeng luo"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/venkatesan-guruswami", "title": "professor", "email": "venkatg@cs.cmu.edu", "extra_strings": "venkatesan guruswami"}

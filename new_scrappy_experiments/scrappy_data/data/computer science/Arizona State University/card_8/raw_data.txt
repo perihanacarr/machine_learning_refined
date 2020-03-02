@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Aviral-Shrivastava.jpg", "site": "http://aviral.lab.asu.edu/aviral-shrivastava/", "title": "associate professor", "email": "Aviral.Shrivastava@asu.edu", "extra_strings": "aviral shrivastava"}

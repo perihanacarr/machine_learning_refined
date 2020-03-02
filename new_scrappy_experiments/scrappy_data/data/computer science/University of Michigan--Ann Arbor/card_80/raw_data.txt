@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/martinjs.jpg", "site": "https://web.eecs.umich.edu/~martinjs/", "title": "professor", "email": "martinjs@umich.edu", "extra_strings": "martin strauss"}

@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_855876444/vt-items_0/vtmulticolumn_copy_c/vt-items_0/adaptiveimage.transform/m-medium/image.jpg", "site": "http://people.cs.vt.edu/~esakia/", "title": "assistant professor", "email": "esakia@cs.vt.edu", "extra_strings": "knowledgeworks ii"}

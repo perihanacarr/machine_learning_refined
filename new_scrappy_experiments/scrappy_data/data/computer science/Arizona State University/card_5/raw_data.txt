@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Andrea-Richa.jpg", "site": "https://sops.engineering.asu.edu/", "title": "professor", "email": "aricha@asu.edu", "extra_strings": "anea richa"}

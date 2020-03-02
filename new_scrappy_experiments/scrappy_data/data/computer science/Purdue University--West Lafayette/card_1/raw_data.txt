@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/abunning/", "title": 0, "email": "abunning@purdue.edu", "extra_strings": "alan bunning"}

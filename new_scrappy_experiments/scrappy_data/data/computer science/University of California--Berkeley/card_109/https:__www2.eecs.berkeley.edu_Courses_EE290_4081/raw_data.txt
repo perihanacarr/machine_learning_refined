@@ -1,0 +1,1 @@
+{"email": [], "image": [], "research_blurb": [" The 290 courses cover current topics of research interest in electrical engineering. The course content may vary from semester to semester. "]}

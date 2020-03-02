@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2672.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/thu-nguyen", "title": "professor", "email": "thu.nguyen@rutgers.edu", "extra_strings": "thu nguyen"}

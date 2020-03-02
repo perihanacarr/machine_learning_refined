@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/boryuhevanchang.1500x2100.jpg?itok=FeBGdQul", "site": "https://www.colorado.edu/cs/bor-yuh-evan-chang", "title": "associate professor", "email": "evan.chang@colorado.edu", "extra_strings": "bor-yuh evan chang"}

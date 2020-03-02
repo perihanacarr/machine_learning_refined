@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_1315610991/vt-items_0/vtmulticolumn/vt-items_0/adaptiveimage.transform/m-medium/image.png", "site": "http://people.cs.vt.edu/~ctlu", "title": "professor", "email": "ctlu@vt.edu", "extra_strings": "chang-tien lu"}

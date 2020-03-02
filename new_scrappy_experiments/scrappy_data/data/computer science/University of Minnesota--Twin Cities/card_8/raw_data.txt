@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_knights.jpg?itok=T--fbfBw", "site": "http://experts.umn.edu/en/persons/dan-knights%281f8675b2-e655-4818-84ad-5f871df852a4%29.html", "title": 0, "email": "dknights@umn.edu", "extra_strings": "mcb -"}

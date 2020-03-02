@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/engineering_portrait.cc196.jpg?itok=g-DUivkC", "site": "https://www.colorado.edu/cs/nikolaus-correll", "title": "associate professor", "email": "ncorrell@colorado.edu", "extra_strings": "nikolaus correll"}

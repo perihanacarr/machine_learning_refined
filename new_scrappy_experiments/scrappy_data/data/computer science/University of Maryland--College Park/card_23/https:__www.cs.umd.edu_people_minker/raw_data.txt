@@ -1,0 +1,1 @@
+{"email": ["minker@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/Jack%20Minker.jpg?itok=3-3cTYzx&c=25da38fa803a7bb2a3a518f8c487dda7"], "research_blurb": ["View Department Office Contacts"]}

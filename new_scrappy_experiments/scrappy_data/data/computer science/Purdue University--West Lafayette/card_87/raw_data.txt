@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/rskeel/", "title": "professor emeritus", "email": "rskeel@purdue.edu", "extra_strings": "robert d skeel"}

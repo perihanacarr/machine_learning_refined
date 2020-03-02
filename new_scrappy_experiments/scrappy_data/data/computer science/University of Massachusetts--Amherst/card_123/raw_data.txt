@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/spector_lee", "title": "adjunct professor", "email": "lspector@hampshire.edu", "extra_strings": "lee spector"}

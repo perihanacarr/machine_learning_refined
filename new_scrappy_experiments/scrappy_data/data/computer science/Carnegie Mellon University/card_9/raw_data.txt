@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/nathan-beckmann", "title": "assistant professor", "email": "beckmann@cs.cmu.edu", "extra_strings": "nathan beckmann"}

@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/cm_0.jpg?itok=ENjdvv9Z", "site": "https://www.colorado.edu/cs/claire-monteleoni", "title": "associate professor", "email": "cmontel@colorado.edu", "extra_strings": "claire monteleoni"}

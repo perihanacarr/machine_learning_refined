@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/rinard_0.jpg", "site": "http://www.csail.mit.edu/user/724", "title": "professor", "email": "rinard@csail.mit.edu", "extra_strings": "martin rinard"}

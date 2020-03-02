@@ -1,0 +1,1 @@
+{"image": "/static/img/7/0d65d5918dfa5d0711683c192dc81920.jpeg", "site": "http://www.cs.columbia.edu/~waltz/", "title": 0, "email": 0, "extra_strings": "david waltz"}

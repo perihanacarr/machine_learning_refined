@@ -1,0 +1,1 @@
+{"email": ["marzullo@umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/marzullo-keith_5_small_1.jpg?itok=VM2fHjyu"], "research_blurb": ["View Department Office Contacts"]}

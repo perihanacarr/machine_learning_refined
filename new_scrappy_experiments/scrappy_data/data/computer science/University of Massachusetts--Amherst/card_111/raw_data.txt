@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/kurose_james", "title": "professor", "email": "kurose@cs.umass.edu", "extra_strings": "james f kurose"}

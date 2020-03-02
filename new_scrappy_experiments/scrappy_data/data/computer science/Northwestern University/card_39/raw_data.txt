@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/campanoni-simone-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/campanoni-simone.html", "title": "assistant professor", "email": "simone.campanoni@northwestern.edu", "extra_strings": "simone campanoni"}

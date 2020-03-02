@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/Rountev-Nasko.jpg?itok=QBtwBTnp&c=a7e2a5034ee38b40089272fe910b1200", "site": "http://web.cse.ohio-state.edu/~rountev", "title": "professor", "email": "rountev.1@osu.edu", "extra_strings": "eese laboratories"}

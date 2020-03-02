@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/manuela-m-veloso", "title": "professor", "email": "veloso@cmu.edu", "extra_strings": "manuela m veloso"}

@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/dechter.jpg", "site": "http://www.ics.uci.edu/~dechter/", "title": "professor", "email": "%20dechter@ics.uci.edu", "extra_strings": "rina dechter"}

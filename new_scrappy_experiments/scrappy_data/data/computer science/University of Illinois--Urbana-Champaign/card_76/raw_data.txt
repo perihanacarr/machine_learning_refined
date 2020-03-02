@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=62899&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/solomon2", "title": "assistant professor", "email": "solomon2@illinois.edu", "extra_strings": "edgar solomonik"}

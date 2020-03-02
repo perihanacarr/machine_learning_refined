@@ -1,0 +1,1 @@
+{"email": ["gini@cs.umn.edu"], "image": ["photo.jpg", "aibo.jpg"], "research_blurb": ["\n", " NSF funded\n     extended research visits of graduate students\n     from the US to Europe to work with a research group in\n     Cognitive Systems and Robotics.  \n", "\n"]}

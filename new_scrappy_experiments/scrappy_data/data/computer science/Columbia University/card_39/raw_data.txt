@@ -1,0 +1,1 @@
+{"image": "/static/img/22/47222f91ac8079371a9fc91b60441c67.jpeg", "site": "http://www.cs.columbia.edu/~blei", "title": 0, "email": 0, "extra_strings": "david blei"}

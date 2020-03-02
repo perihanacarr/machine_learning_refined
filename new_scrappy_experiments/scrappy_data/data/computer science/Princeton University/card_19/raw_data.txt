@@ -1,0 +1,1 @@
+{"image": "/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2487&thumb=", "site": "http://www.cs.princeton.edu/~dl9", "title": 0, "email": 0, "extra_strings": "daniel leyzberg"}

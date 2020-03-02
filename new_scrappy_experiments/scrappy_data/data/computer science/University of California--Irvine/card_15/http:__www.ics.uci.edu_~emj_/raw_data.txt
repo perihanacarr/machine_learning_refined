@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://emj.ics.uci.edu/wp-content/emj/uploads/copy-cropped-KanadiRev.jpg"], "research_blurb": ["Cambium biomathematical model translation softwareMy main research interest currently (as of 2017) is "]}

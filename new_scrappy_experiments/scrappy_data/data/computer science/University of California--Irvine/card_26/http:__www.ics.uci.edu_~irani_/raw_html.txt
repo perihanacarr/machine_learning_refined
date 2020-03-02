@@ -1,0 +1,1 @@
+"<html><head><title>Sandy Irani</title>\n\n<link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\">\n</head>\n\n<frameset cols=\"17%,83%\" bordercolor=\"#5C3317\" border=\"5\">\n<frame src=\"options.html\" name=\"left\">\n<frame src=\"center.html\" name=\"center\">\n</frameset></html>"

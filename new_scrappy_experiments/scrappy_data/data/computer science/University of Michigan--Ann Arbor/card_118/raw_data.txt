@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/sugih.jpg", "site": "http://web.eecs.umich.edu/~sugih/", "title": "associate professor", "email": "sugih@umich.edu", "extra_strings": "sugih jamin"}

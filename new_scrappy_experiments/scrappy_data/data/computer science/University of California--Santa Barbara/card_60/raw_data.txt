@@ -1,0 +1,1 @@
+{"image": "/sites/cs.ucsb.edu/themes/cs_subtheme/css/images/home.png", "site": "http://cs.ucsb.edu/~kemm", "title": "professor emeritus", "email": "kemm@cs.ucsb.edu", "extra_strings": "richard a kemmerer"}

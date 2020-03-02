@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/shah_0.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/54", "title": "professor", "email": "devavrat@mit.edu", "extra_strings": "devavrat shah"}

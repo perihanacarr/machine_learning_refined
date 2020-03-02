@@ -1,0 +1,1 @@
+{"email": ["mjguz@umich.edu"], "image": ["https://guzdial.engin.umich.edu/wp-content/uploads/sites/402/2018/09/Guzdial-headshot-Aug2018-medium-300x200.jpg"], "research_blurb": ["Hi! My name is Mark Guzdial. I\u2019m a Professor in Computer Science & Engineering at the University of Michigan."]}

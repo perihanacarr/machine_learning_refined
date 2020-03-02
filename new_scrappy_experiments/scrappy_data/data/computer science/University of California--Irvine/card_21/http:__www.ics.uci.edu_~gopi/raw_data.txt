@@ -1,0 +1,1 @@
+{"email": ["m@4"], "image": ["index_files/image002.jpg"], "research_blurb": ["My\nresearch work focuses mainly on topics related to geometry and topology\nmotivated by  and biological image processing and\nvisualization. "]}

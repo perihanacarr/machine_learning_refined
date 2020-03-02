@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/soloway.jpg", "site": "https://www.si.umich.edu/people/elliot-soloway", "title": "professor", "email": "soloway@umich.edu", "extra_strings": "elliot soloway"}

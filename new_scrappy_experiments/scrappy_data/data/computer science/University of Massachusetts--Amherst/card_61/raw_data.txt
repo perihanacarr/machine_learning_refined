@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/fountain_jane", "title": "professor", "email": "fountain@polsci.umass.edu", "extra_strings": "jane e fountain"}

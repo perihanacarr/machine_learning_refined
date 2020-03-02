@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/ghattas-omar.jpg?itok=qm0ve0OW", "site": "https://www.cs.utexas.edu/people/faculty-researchers/omar-ghattas", "title": "professor", "email": 0, "extra_strings": "omar ghattas"}

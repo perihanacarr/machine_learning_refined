@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/khp37-profile.jpg?itok=R3y4kDoU", "site": "https://www.ece.cornell.edu/faculty-directory/kirstin-hagelskjaer-petersen", "title": "assistant professor", "email": 0, "extra_strings": "kirstin petersen"}

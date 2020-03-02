@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/dc3ab653a8a8909f920ee58501b8197b.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Neuman&fname=B", "title": "associate professor", "email": "bcn@isi.edu", "extra_strings": "clifford neuman"}

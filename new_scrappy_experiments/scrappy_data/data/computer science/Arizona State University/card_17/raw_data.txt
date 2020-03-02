@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/George-Runger.jpg", "site": "https://isearch.asu.edu/profile/87655", "title": "professor", "email": "runger@asu.edu", "extra_strings": "george runger"}

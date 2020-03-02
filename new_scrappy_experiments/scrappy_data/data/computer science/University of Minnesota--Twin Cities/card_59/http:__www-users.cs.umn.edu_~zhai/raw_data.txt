@@ -1,0 +1,1 @@
+{"email": [], "image": ["pics/antonia.jpg"], "research_blurb": ["\n\nDepartment of Computer Science and Engineering\n\nUniversity of Minnesota\n\n"]}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/sheldon_dan", "title": "associate professor", "email": "sheldon@cs.umass.edu", "extra_strings": "dan sheldon"}

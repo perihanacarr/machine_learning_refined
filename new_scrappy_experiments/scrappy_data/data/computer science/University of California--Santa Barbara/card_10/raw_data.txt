@@ -1,0 +1,1 @@
+{"image": "/sites/cs.ucsb.edu/themes/cs_subtheme/css/images/home.png", "site": "http://cs.ucsb.edu/~koc/", "title": 0, "email": "koc@cs.ucsb.edu", "extra_strings": "\u00e7etin kaya ko\u00e7"}

@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Greg Frederickson</td><td>Professor Emeritus</td><td style=\"white-space: nowrap\"><phone>49-46016</phone></td><td style=\"white-space: nowrap\"><office>LWSN 2142N</office></td><td><a href=\"mailto:gnf@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/gnf/\">Bio</a></td></tr>"

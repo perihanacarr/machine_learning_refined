@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/mihail.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=mihail", "title": "associate professor", "email": "%20mihail@uci.edu", "extra_strings": "milena mihail"}

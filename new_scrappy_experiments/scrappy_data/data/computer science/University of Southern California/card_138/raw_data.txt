@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/5fa06fd7e3aba85608f80e82c88cfc1a.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Swartout&fname=William", "title": "professor", "email": "swartout@ict.usc.edu", "extra_strings": "william swartout"}

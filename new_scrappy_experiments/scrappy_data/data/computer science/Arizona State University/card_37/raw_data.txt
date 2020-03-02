@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Pitu-Mirchandani-1.jpg", "site": "https://cidse.engineering.asu.edu/pitu-mirchandani/", "title": "professor", "email": "pitu@asu.edu", "extra_strings": "pitu mirchandani"}

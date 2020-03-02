@@ -1,0 +1,1 @@
+{"image": "/sites/cs.ucsb.edu/themes/cs_subtheme/css/images/home.png", "site": "https://www.cs.ucsb.edu/~arpitgupta/", "title": "assistant professor", "email": "arpitgupta@cs.ucsb.edu", "extra_strings": "arpit gupta"}

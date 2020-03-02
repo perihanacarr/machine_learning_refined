@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/xhx.jpg", "site": "http://www.ics.uci.edu/~xhx", "title": "professor", "email": "%20xhx@ics.uci.edu", "extra_strings": "xiaohui xie"}

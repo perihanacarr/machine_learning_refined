@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/Jung%2C%20Malte.jpg?itok=6T1802-A", "site": "http://mjung.infosci.cornell.edu/", "title": "assistant professor", "email": 0, "extra_strings": "stanford university "}

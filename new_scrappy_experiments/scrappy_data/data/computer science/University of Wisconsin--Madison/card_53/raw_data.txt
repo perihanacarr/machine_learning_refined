@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/10/DAntoni_Loris-for-Web-150x150.jpg", "site": "https://www.cs.wisc.edu/staff/dantoni-loris/", "title": "assistant professor", "email": "loris@cs.wisc.edu", "extra_strings": "loris d'antoni"}

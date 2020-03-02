@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/tdillahu.jpg", "site": "http://www.tawannadillahunt.com/", "title": "assistant professor", "email": "tdillahu@umich.edu", "extra_strings": "tawanna dillahunt"}

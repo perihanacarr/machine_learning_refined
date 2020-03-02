@@ -1,0 +1,1 @@
+{"email": ["mandt@uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["Artificial Intelligence and Machine Learning<br/><h3>RESEARCH INTERESTS:</h3> Stephan Mandt's  interests include scalable probabilistic modeling, Bayesian deep learning, variational inference, and applications in the sciences and digital media.<br/>"]}

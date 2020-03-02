@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_1829252135/vt-items_0/vtmulticolumn_174637/vt-items_0/adaptiveimage_copy.transform/m-medium/image.jpg", "site": "http://www.cs.vt.edu/~asandu", "title": "professor", "email": "asandu7@vt.edu", "extra_strings": "knowledgeworks ii"}

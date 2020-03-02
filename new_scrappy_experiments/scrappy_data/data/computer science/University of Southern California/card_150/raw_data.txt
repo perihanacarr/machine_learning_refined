@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/cf042e57bf76043a232d296cbcc17b78.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Wang&fname=Chao", "title": "associate professor", "email": "wang626@usc.edu", "extra_strings": "chao wang"}

@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Christina Garman</td><td>Assistant Professor</td><td style=\"white-space: nowrap\"><phone>49-49580</phone></td><td style=\"white-space: nowrap\"><office>LWSN 1185</office></td><td><a href=\"mailto:clg@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/clg/\">Bio</a></td></tr>"

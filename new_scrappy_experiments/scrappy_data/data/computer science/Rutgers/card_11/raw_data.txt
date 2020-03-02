@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2687.jpeg", "site": "https://www.cs.rutgers.edu/people/professors/details/abdeslam-boularias", "title": "assistant professor", "email": "abdeslam.boularias@rutgers.edu", "extra_strings": "abdeslam boularias"}

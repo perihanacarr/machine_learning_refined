@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/serafini-marco", "title": "assistant professor", "email": "marco@cs.umass.edu", "extra_strings": "cs building"}

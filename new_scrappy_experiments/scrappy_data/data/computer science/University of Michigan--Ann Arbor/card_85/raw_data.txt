@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/michjc.jpg", "site": "http://web.eecs.umich.edu/~michjc/", "title": "associate professor", "email": "michjc@umich.edu", "extra_strings": "michael cafarella"}

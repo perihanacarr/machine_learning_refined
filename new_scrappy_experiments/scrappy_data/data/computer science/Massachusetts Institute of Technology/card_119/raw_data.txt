@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/matusik_0.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/10", "title": "professor", "email": "wojciech@csail.mit.edu", "extra_strings": "wojciech matusik"}

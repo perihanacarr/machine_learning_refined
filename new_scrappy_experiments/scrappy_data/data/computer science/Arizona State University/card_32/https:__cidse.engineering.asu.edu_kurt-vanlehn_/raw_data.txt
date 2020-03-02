@@ -1,0 +1,1 @@
+{"email": ["kurt.vanlehn@asu.edu"], "image": ["https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Kurt-VanLehn.jpg", "//www.asu.edu/asuthemes/4.8/assets/ASU-number-1-innovation-best-colleges.png"], "research_blurb": ["May 30, 2018"]}

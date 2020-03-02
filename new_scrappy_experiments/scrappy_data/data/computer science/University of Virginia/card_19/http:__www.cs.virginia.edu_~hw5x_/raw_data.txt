@@ -1,0 +1,1 @@
+{"email": ["CS@UIUC"], "image": ["figures/2013fall.jpg"], "research_blurb": [". My research interest includes data mining, machine learning, and information retrieval, with a special emphasis on computational user behavior modeling. I graduated from the My research is reported on ", "Department of Computer Science of University of Virginia"]}

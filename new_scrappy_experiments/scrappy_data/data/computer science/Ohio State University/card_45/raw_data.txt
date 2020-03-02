@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/xia-ning350sq-q3mx4o.png?itok=LSUhRiC0&c=27762308eaaf574a95d81ad38d8d0c55", "site": "https://cse.osu.edu/people/ning.104", "title": "assistant professor", "email": "ning.104@osu.edu", "extra_strings": "xia ning"}

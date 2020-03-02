@@ -1,0 +1,1 @@
+{"email": ["kanal@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/kanal.gif?itok=2uam5yjv&c=69b9bb820df4ff28f8daa7406de0db09"], "research_blurb": ["View Department Office Contacts"]}

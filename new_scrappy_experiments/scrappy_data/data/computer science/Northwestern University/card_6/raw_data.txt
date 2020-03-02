@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/downey-douglas-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/downey-douglas.html", "title": "associate professor", "email": "d-downey@northwestern.edu", "extra_strings": "douglas downey"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/smith_david", "title": "assistant professor", "email": "dasmith@ccs.neu.edu", "extra_strings": "david a smith"}

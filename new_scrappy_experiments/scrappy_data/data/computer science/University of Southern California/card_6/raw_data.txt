@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/833e6557c17aeb9bb8126a7077c3f4cb.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Javanmard&fname=Adel", "title": "assistant professor", "email": "ajavanma@usc.edu", "extra_strings": "adel javanmard"}

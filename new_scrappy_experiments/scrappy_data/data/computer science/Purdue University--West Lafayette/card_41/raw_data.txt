@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/grr/", "title": "associate professor", "email": "grr@purdue.edu", "extra_strings": "gustavo roiguez-rivera"}

@@ -1,0 +1,1 @@
+{"email": [], "image": ["files/giovanni_vigna_square.jpg"], "research_blurb": ["My research focuses on vulnerability analysis, web security, malware analysis, and the security of mobile platforms."]}

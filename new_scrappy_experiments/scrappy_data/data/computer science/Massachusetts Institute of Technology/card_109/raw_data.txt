@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/lee_0.jpg", "site": "http://www-mtl.mit.edu/researchgroups/hslee/", "title": "professor", "email": "hslee@mtl.mit.edu", "extra_strings": "hae-seung harry lee"}

@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/jwongma.jpg", "site": "http://www.ics.uci.edu/~jwongma", "title": "associate professor", "email": "%20jennifer.wongma@uci.edu", "extra_strings": "embedded systems"}

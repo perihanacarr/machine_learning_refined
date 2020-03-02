@@ -1,0 +1,1 @@
+{"image": "https://cse.engin.umich.edu/wp-content/plugins/cbd-eecs-blocks/dist/images/cse-photo-placeholder.png", "site": 0, "title": "professor", "email": "vkamat@umich.edu", "extra_strings": "vineet kamat"}

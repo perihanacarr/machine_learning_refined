@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/jackson_d_0.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/32", "title": "professor", "email": "dnj@csail.mit.edu", "extra_strings": "daniel jackson"}

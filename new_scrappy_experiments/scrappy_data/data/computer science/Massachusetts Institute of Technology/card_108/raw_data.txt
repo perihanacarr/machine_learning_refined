@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/lang_0.jpg", "site": "http://www.rle.mit.edu/lang", "title": "professor", "email": "lang@mit.edu", "extra_strings": "jeffrey lang"}

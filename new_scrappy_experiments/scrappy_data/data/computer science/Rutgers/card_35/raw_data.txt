@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2596.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/lily-chang", "title": "professor", "email": "lily.chang1@rutgers.edu", "extra_strings": "lily chang"}

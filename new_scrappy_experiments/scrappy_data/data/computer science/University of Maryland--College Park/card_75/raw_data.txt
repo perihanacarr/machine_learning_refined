@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/goldstein_02.jpg?itok=8D76YJMs", "site": "https://www.cs.umd.edu/research-area/high-performance-and-scientific-computing", "title": "associate professor", "email": 0, "extra_strings": "tom goldstein"}

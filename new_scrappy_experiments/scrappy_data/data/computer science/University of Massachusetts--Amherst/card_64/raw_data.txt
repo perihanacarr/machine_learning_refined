@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/bissias-george", "title": "assistant professor", "email": "gbiss@cs.umass.edu", "extra_strings": "george bissias"}

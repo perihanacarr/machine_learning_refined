@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/ebertd/", "title": "professor", "email": "ebertd@purdue.edu", "extra_strings": "david ebert"}

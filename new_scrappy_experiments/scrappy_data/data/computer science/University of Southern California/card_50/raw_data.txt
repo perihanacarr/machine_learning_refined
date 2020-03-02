@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/6544dd21ec5e578b813aeed5445ff5fb.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Gupta&fname=Satyandra", "title": "professor", "email": "guptask@usc.edu", "extra_strings": "satyana gupta"}

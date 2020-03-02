@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/sergey4a.jpg?itok=vpZtU-HV", "site": "https://web.cs.dartmouth.edu/people/sergey-bratus", "title": "associate professor", "email": "Sergey.L.Bratus@Dartmouth.edu", "extra_strings": "sergey bratus"}

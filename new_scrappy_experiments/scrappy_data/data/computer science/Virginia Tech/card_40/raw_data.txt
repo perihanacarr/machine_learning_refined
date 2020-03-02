@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_383100259/vt-items_1/vtmulticolumn/vt-items_0/adaptiveimage_543447.transform/m-medium/image.jpg", "site": "https://people.cs.vt.edu/vbimal/", "title": "assistant professor", "email": "vbimal@cs.vt.edu", "extra_strings": "knowledgeworks ii"}

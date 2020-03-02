@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/elghaoui.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/elghaoui.html", "title": "professor", "email": "elghaoui@eecs.berkeley.edu", "extra_strings": "sutardja dai hall elghaouieecsberkeleyedu"}

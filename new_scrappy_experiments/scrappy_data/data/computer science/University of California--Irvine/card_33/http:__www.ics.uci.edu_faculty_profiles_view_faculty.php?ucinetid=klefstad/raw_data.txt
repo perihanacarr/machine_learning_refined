@@ -1,0 +1,1 @@
+{"email": ["klefstad@uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["Embedded Systems<br/>Networks and Distributed Systems<br/>Programming Languages and Systems<br/><h3>RESEARCH INTERESTS:</h3> Embedded Systems, Programming Languages and Systems, Networks and Distributed Systems.<br/>"]}

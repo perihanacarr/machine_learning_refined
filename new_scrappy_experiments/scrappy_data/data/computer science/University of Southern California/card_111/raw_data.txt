@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/fa8c93c887172d00de64c9b5d0d5fa6a.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Govindan&fname=Ramesh", "title": "professor", "email": "ramesh@usc.edu", "extra_strings": "ramesh govindan"}

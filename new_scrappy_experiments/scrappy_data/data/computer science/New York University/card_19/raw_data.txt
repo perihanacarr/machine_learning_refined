@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/He_250x250.jpg", "site": "https://hhexiy.github.io/", "title": "assistant professor", "email": 0, "extra_strings": "ext -"}

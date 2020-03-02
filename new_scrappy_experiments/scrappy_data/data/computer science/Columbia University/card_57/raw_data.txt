@@ -1,0 +1,1 @@
+{"image": "/static/img/7/37577881548b6d7f08d1477e0c8aa80c.jpeg", "site": "http://www.cs.columbia.edu/~eitan", "title": 0, "email": 0, "extra_strings": "eitan grinspun"}

@@ -1,0 +1,1 @@
+{"image": "images/photos/a_thumb_hemenway.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=209", "title": "assistant professor", "email": "fbrett@cis.upenn.edu", "extra_strings": "brett hemenway"}

@@ -1,0 +1,1 @@
+{"image": "/sites/cs.ucsb.edu/themes/cs_subtheme/css/images/home.png", "site": "http://people.eecs.berkeley.edu/~lingqi/", "title": "assistant professor", "email": "lingqi@cs.ucsb.edu", "extra_strings": "lingqi yan"}

@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_Taylor.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=95", "title": "professor", "email": "cjtaylor@central.cis.upenn.edu", "extra_strings": "camillo j taylor"}

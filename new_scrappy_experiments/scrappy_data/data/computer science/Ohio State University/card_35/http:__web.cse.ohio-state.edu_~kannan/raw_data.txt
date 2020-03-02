@@ -1,0 +1,1 @@
+{"email": ["FirstName@cse.ohio-state.edu"], "image": ["kannan-osu.jpg"], "research_blurb": ["\nCommunications Systems and Networking Research Group (CoSyNe) \n      Computer Science and Engineering\n      The Ohio State University\n      ", " Our research group gets a new website: ", ""]}

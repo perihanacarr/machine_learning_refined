@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/bornholt_james.jpg?itok=j3nqovMX", "site": "https://www.cs.utexas.edu/research/areas/formal-methods", "title": "assistant professor", "email": 0, "extra_strings": "james bornholt"}

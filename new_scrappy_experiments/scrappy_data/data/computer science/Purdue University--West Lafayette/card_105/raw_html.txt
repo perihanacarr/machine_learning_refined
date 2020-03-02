@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Bill Crum</td><td>Lecturer</td><td style=\"white-space: nowrap\"><phone>49-46027</phone></td><td style=\"white-space: nowrap\"><office>HAAS G026</office></td><td><a href=\"mailto:wcrum@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/wcrum/\">Bio</a></td></tr>"

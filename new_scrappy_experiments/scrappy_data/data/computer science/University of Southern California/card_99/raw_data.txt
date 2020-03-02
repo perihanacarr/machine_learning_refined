@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/8540991570b2c2ec67dad77e0013b23f.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Wang&fname=Ning", "title": "assistant professor", "email": "nwang@ict.usc.edu", "extra_strings": "ning wang"}

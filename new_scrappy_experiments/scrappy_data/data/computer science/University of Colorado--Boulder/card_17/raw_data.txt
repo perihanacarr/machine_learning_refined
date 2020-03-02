@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/pavol-cerny", "title": "assistant professor", "email": "Pavol.Cerny@colorado.edu", "extra_strings": "pavol cerny"}

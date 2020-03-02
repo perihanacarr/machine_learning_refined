@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/kevynct.jpg", "site": "http://www-personal.umich.edu/~kevynct/", "title": "associate professor", "email": "kevynct@umich.edu", "extra_strings": "kevyn collins-thompson"}

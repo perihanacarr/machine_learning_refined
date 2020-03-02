@@ -1,0 +1,1 @@
+{"email": ["Answering@ACL"], "image": ["assets/img/thwies.jpg"], "research_blurb": ["\n\t    My research focuses on program analysis and verification,\n\t    automated deduction, concurrent software, and software\n\t    productivity.\n\t  \n\t      As a byproduct of my research, I have developed and\n\t      contributed to a number of tools.\n\t    "]}

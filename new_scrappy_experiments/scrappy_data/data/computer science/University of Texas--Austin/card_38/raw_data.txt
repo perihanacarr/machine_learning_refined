@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/fraij_fares.jpg?itok=42QYgDhv", "site": "https://www.cs.utexas.edu/people/faculty-researchers/fares-fraij", "title": "assistant professor", "email": 0, "extra_strings": "fares fraij"}

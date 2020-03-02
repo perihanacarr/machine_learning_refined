@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ralucap.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/OSNT", "title": "assistant professor", "email": "raluca.popa@berkeley.edu", "extra_strings": "raluca ada popa"}

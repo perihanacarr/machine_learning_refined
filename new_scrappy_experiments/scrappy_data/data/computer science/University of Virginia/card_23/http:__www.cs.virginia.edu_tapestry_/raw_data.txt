@@ -1,0 +1,1 @@
+{"email": [], "image": [], "research_blurb": ["\n    The goals of the workshop are to share strategies, research-based practices, and field-tested good ideas for teaching computer science in a way that reaches all students regardless of sex or ethnicity.\n    "]}

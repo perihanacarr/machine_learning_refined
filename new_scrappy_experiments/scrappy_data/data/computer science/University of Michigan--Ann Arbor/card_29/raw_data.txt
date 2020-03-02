@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/durfee.jpg", "site": "http://ai.eecs.umich.edu/people/durfee/", "title": "professor", "email": "durfee@umich.edu", "extra_strings": "edmund durfee"}

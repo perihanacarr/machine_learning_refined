@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/xwangsd.jpg", "site": "https://web.eecs.umich.edu/~xwangsd/", "title": "assistant professor", "email": "xwangsd@umich.edu", "extra_strings": "xinyu wang"}

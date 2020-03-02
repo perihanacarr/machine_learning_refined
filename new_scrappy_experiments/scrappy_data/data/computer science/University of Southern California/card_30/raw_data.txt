@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/666cdca7ae9405467dcf15ea0ebaa25e.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Debevec&fname=Paul", "title": "professor", "email": "debevec@ict.usc.edu", "extra_strings": "paul debevec"}

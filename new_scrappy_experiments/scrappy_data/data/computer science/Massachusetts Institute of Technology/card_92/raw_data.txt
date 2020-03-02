@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/indyk_0.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/35", "title": "professor", "email": "indyk@csail.mit.edu", "extra_strings": "piotr indyk"}

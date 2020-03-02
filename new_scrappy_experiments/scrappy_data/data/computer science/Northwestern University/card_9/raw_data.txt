@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/bustamante-fabian-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/bustamante-fabian.html", "title": "professor", "email": "fabianb@northwestern.edu", "extra_strings": "fabian bustamante"}

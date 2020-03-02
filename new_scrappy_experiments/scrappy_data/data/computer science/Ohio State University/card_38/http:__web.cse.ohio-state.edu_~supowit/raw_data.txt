@@ -1,0 +1,1 @@
+{"email": [], "image": [], "research_blurb": ["\nMy research involves algorithms, for combinatorial or numerical problems.\n"]}

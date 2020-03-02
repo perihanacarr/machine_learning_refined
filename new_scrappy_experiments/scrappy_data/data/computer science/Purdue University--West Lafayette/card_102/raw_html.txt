@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Vinayak Rao</td><td>Assistant Professor (Statistics)</td><td style=\"white-space: nowrap\"><phone>49-43956</phone></td><td style=\"white-space: nowrap\"><office>Math 212</office></td><td><a href=\"mailto:varao@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/varao/\">Bio</a></td></tr>"

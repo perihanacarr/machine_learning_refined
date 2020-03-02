@@ -1,0 +1,1 @@
+{"email": ["donnie@cms.caltech.edu"], "image": [], "research_blurb": [",\n    the other lecturer in the CS department.  He has a lot of interests, just\n    like me.\n    ", "\n"]}

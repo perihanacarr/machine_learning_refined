@@ -1,0 +1,1 @@
+{"email": ["ritambhara@brown.edu"], "image": ["https://ritambharasingh.files.wordpress.com/2019/08/cropped-20190815_comm_singh_ritambhara_001_2048px.jpg", "https://pixel.wp.com/b.gif?v=noscript"], "research_blurb": ["Machine Learning, Data Mining,\u00a0Computational Biology, Health Sciences"]}

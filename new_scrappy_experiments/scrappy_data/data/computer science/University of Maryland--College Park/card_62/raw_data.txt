@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/dml-cropped-tiny.png?itok=Ks7paNBT", "site": "https://www.cs.umd.edu/researcharea/cybersecurity-and-cryptography", "title": "assistant professor", "email": 0, "extra_strings": "dave levin"}

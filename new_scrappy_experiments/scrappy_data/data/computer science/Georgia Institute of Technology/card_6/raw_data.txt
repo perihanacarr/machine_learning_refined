@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/ada_gavrilovska_0.jpg?itok=5-yg-AB9", "site": "https://www.scs.gatech.edu/people/ada-gavrilovska", "title": "associate professor", "email": "ada@cc.gatech.edu", "extra_strings": "ada gavrilovska"}

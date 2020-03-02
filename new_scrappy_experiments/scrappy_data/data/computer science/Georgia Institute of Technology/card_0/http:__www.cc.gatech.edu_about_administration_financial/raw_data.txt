@@ -1,0 +1,1 @@
+{"email": [], "image": ["/sites/all/themes/gt/images/gt-map-image-default.jpg"], "research_blurb": ["Georgia Institute of TechnologyNorth Avenue, Atlanta, GA 30332Phone: 404-894-2000"]}

@@ -1,0 +1,1 @@
+{"email": ["jh@cs.cornell.edu"], "image": ["JURISIMAGE.jpg"], "research_blurb": ["Juris Hartmanis\nSenior Associate Dean for CIS \n        Emeritus Walter R. Read Professor of Computer Science and Engineering\nTuring Award Winner\n        jh@cs.cornell.edu\n    http://www.cs.cornell.edu/people/hartmanis/\n"]}

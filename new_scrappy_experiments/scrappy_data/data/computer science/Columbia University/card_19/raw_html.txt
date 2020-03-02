@@ -1,0 +1,1 @@
+"<div class=\"col-xs-12 col-sm-4\">\n<div class=\"faculty-pic\">\n<a href=\"http://www.cs.columbia.edu/~itsik\" target=\"_blank\">\n<img alt=\"Itsik G Pe'er\" biography=\"\" src=\"/static/img/15/707ff84b6b2001fc5187ad22f0f16ca4.jpeg\"/>\n</a>\n</div>\n</div>"

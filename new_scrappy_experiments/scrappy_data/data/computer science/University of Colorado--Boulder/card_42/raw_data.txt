@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/daniel-larremore.jpg?itok=GCfGkQPT", "site": "https://www.colorado.edu/cs/daniel-larremore", "title": "assistant professor", "email": "daniel.larremore@colorado.edu", "extra_strings": "daniel larremore"}

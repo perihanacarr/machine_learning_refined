@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Chitta-Baral.jpg", "site": "https://cidse.engineering.asu.edu/chitta-baral/", "title": "professor", "email": "Chitta.Baral@asu.edu", "extra_strings": "chitta baral"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_terveen.jpg?itok=hw10HcjF", "site": "http://www-users.cs.umn.edu/~terveen", "title": 0, "email": "terveen@umn.edu", "extra_strings": "loren terveen"}

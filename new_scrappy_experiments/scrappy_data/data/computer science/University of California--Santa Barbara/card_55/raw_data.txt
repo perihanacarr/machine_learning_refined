@@ -1,0 +1,1 @@
+{"image": "/sites/cs.ucsb.edu/themes/cs_subtheme/css/images/home.png", "site": "https://cs.ucsb.edu/people/faculty/el-abbadi", "title": "professor", "email": "amr@cs.ucsb.edu", "extra_strings": "amr el abbadi"}

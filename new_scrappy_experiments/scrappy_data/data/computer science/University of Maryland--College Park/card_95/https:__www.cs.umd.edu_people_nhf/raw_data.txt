@@ -1,0 +1,1 @@
+{"email": ["nhf@umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/naomiMD4.jpg?itok=8GG9wh6R"], "research_blurb": ["View Department Office Contacts"]}

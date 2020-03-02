@@ -1,0 +1,1 @@
+"<html><head>\n<title>Robert Schapire's (Old) Home Page</title>\n</head>\n\n<body>\n<h2>\nRobert Schapire\n</h2>\n\n<dl>\n<dd> My new website is: <a href=\"http://rob.schapire.net\">rob.schapire.net</a>.\n</dd></dl>\n\n</body></html>"

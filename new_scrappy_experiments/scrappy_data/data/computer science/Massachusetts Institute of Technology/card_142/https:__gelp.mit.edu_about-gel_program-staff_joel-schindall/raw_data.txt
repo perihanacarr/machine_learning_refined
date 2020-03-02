@@ -1,0 +1,1 @@
+{"email": ["joels@mit.edu"], "image": ["https://gelp.mit.edu/sites/default/files/styles/medium/public/staff-schindall.jpg?itok=4Yg7kkWy"], "research_blurb": ["Donate"]}

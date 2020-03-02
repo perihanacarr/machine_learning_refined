@@ -1,0 +1,1 @@
+{"email": ["soloway@umich.edu"], "image": ["/sites/default/files/styles/profile_image/public/profiles/soloway3_0_0.jpg?itok=5ZAxMctt"], "research_blurb": ["\n            Student research opportunities\n          \n            Funded research projects\n          "]}

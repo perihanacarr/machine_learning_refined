@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/bb099683dbb2fd09584a0ec4852744c0.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Lim&fname=Joseph", "title": "assistant professor", "email": "limjj@usc.edu", "extra_strings": "joseph lim"}

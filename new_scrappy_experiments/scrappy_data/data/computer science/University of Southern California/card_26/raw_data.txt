@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/ca26864c21b38be76a2dedae1f93e9af.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Kuo&fname=Chung-Chieh", "title": "professor", "email": "cckuo@sipi.usc.edu", "extra_strings": "chung-chieh kuo"}

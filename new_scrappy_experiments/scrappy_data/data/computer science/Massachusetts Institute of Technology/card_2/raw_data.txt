@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Alizadeh_web_2.jpg", "site": "http://people.csail.mit.edu/alizadeh/", "title": "associate professor", "email": "alizadeh@mit.edu", "extra_strings": "mohammad alizadeh"}

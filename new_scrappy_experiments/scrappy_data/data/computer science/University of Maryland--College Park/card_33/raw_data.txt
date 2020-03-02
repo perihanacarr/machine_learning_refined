@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/NirupamRoy_photo.jpeg?itok=sZGOQweC&c=75e8c0f4738769422e6ebafdd87b0efc", "site": "https://www.cs.umd.edu/research-area/iot-and-wearables-technology", "title": "assistant professor", "email": 0, "extra_strings": "nirupam roy"}

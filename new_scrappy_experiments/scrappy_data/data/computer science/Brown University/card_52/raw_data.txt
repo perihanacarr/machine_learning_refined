@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/87/d3/87d33de1-6db3-4bda-bd2c-972685bdfeec/img_9933.jpg__60x80_q85_subsampling-2.jpg 53w", "site": "https://cs.brown.edu/people/faculty/jlaviola/", "title": "associate professor", "email": 0, "extra_strings": "joseph j laviola"}

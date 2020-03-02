@@ -1,0 +1,1 @@
+{"email": ["shz@ics.uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["Computer Graphics and Visualization<br/><h3>RESEARCH INTERESTS:</h3> Material appearance modeling and acquisition, physically based rendering<br/>"]}

@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/golland_0.jpg", "site": "http://www.csail.mit.edu/user/791", "title": "professor", "email": "polina@csail.mit.edu", "extra_strings": "polina golland"}

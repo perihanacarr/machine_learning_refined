@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/orourke-eleanor-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/orourke-eleanor.html", "title": "assistant professor", "email": "eorourke@northwestern.edu", "extra_strings": "eleanor o'rourke"}

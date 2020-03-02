@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/chidambaram_vijay_0.jpg?itok=9PJoraNF", "site": "https://www.cs.utexas.edu/research/areas/operating-systems-distributed-systems-and-networking", "title": "assistant professor", "email": 0, "extra_strings": "vijay chidambaram"}

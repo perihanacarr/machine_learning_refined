@@ -1,0 +1,1 @@
+{"image": "/images/CSEWordmark_white.svg", "site": "https://www.cs.washington.edu/about_us/", "title": 0, "email": 0, "extra_strings": "about us"}

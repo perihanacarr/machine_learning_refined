@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/fb/53/fb53bebd-d95b-4556-a505-1d1a2ae24d0a/headshotjpg300x300_q85.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "https://cs.brown.edu/people/faculty/dwoos/", "title": 0, "email": 0, "extra_strings": "doug woos"}

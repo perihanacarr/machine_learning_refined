@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/376305e01dd5b71068f7c0ac4549d418.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Krishnamachari&fname=Bhaskar", "title": "professor", "email": "bkrishna@usc.edu", "extra_strings": "bhaskar krishnamachari"}

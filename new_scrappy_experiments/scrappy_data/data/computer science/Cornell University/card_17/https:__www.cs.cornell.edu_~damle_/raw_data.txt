@@ -1,0 +1,1 @@
+{"email": ["damle@cs.cornell.edu"], "image": ["https://www.cs.cornell.edu/people/Anil_Damle_2016.jpg"], "research_blurb": ["<hr/>"]}

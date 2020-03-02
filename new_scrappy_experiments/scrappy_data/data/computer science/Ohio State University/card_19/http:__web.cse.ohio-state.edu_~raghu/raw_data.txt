@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://cse.osu.edu/about-us/index.fld/image001.png", "https://cse.osu.edu/about-us/index.fld/image002.png"], "research_blurb": ["research pagebiomedical\ninformatics"]}

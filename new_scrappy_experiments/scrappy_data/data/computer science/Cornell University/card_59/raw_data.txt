@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/Shimon%2C%20Edelman.jpg?itok=42-WN4Ld", "site": "http://www.psych.cornell.edu/people/faculty/edelman-profile/", "title": "professor", "email": 0, "extra_strings": "shimon edelman"}

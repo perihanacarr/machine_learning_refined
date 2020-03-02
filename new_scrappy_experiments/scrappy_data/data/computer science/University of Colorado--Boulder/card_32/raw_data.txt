@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/unspecified.jpg?itok=gBuk1ADq", "site": "https://www.colorado.edu/cs/ben-shapiro", "title": "assistant professor", "email": "ben.shapiro@colorado.edu", "extra_strings": "ben shapiro"}

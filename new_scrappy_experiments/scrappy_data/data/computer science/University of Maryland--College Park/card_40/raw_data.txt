@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/Shankar.jpg?itok=hv0pumIe", "site": "https://www.cs.umd.edu/people/shankar", "title": "professor", "email": 0, "extra_strings": "a udaya shankar"}

@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/noprofile.png", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Sun&fname=Tianshu", "title": "assistant professor", "email": "tianshus@usc.edu", "extra_strings": "tianshu sun"}

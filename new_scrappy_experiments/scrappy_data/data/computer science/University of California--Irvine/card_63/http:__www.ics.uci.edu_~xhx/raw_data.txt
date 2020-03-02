@@ -1,0 +1,1 @@
+{"email": ["xhx{AT}uci.edu"], "image": ["img/XIE17L.jpg"], "research_blurb": ["\n(8/5/17) Awarded a $470,796 NSF grant to study the application of deep\nlearning to genomics and other biomedical data.  \n"]}

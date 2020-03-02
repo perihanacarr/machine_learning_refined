@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_hopper.jpg?itok=IWS9ktc3", "site": "http://www-users.cs.umn.edu/~hopper", "title": 0, "email": "hoppernj@umn.edu", "extra_strings": "keller -"}

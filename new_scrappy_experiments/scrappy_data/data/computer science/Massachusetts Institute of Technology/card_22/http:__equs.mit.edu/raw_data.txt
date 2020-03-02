@@ -1,0 +1,1 @@
+{"email": [], "image": ["http://equs.mit.edu/wp-content/themes/minamaze/images/transparent.png", "https://c.statcounter.com/10642538/0/95a32517/1/"], "research_blurb": ["Spectroscopy of\nenergy levels\nin artificial atoms"]}

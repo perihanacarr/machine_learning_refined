@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/klefstad.jpg", "site": "http://www.ics.uci.edu/~klefstad/", "title": "associate professor", "email": "%20klefstad@uci.edu", "extra_strings": "embedded systems"}

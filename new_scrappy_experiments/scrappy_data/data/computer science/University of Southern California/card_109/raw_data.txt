@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/6e4778efd1314d0802b15eb8472dcea4.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Jain&fname=Rahul", "title": "associate professor", "email": "rahul.jain@usc.edu", "extra_strings": "rahul jain"}

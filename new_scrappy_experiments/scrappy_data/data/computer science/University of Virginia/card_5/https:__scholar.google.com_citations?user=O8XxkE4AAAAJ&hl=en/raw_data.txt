@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://engineering.virginia.edu/scholar/images/cleardot.gif", "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=O8XxkE4AAAAJ&citpid=2"], "research_blurb": ["New articles related to this author's researchPrincipal bioinformatician, University of PennsylvaniaBMC bioinformatics 8 (1), 265"]}

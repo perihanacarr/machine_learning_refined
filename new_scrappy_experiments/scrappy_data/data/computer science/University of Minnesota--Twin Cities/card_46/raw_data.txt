@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_sjguy.jpg?itok=44kEf1L8", "site": "http://www-users.cs.umn.edu/~sjguy", "title": 0, "email": "sjguy@umn.edu", "extra_strings": "keller -f"}

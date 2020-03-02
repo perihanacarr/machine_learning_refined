@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/Davis_16-0015_0748_250x250.jpg", "site": "http://cs.nyu.edu/cs/faculty/davise/", "title": "professor", "email": 0, "extra_strings": "ext -"}

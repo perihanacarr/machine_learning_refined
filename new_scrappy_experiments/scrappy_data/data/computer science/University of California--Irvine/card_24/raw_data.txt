@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/igassko.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=igassko", "title": 0, "email": "%20igassko@uci.edu", "extra_strings": "irene gassko"}

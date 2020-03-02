@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/aaron4.jpg?itok=AXmMC88-", "site": "https://www.colorado.edu/cs/aaron-clauset", "title": "associate professor", "email": "aaron.clauset@colorado.edu", "extra_strings": "eces b"}

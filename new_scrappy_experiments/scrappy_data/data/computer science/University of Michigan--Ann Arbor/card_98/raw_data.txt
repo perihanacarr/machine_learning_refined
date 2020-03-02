@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/nsatish.jpg", "site": "http://web.eecs.umich.edu/~nsatish/", "title": "associate professor", "email": "nsatish@umich.edu", "extra_strings": "satish narayanasamy"}

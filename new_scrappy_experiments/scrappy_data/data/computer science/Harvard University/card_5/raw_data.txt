@@ -1,0 +1,1 @@
+{"image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7", "site": "https://www.seas.harvard.edu/faculty?research[276]=276", "title": "professor", "email": "arielpro@seas.harvard.edu", "extra_strings": "ariel procaccia"}

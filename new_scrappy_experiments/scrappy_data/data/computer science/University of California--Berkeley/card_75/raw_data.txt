@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/paulos.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/HCI", "title": "associate professor", "email": "paulos@berkeley.edu", "extra_strings": "see homepage wwwpaulosnet"}

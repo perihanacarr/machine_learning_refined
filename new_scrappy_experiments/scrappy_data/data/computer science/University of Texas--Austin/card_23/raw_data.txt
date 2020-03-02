@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/choi_eunsol-w.jpg?itok=1eCxTeU9", "site": "https://www.cs.utexas.edu/people/faculty-researchers/eunsol-choi", "title": "assistant professor", "email": 0, "extra_strings": "eunsol choi"}

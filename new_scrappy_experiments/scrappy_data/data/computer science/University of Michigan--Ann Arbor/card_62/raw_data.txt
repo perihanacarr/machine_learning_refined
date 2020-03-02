@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/jringenb.jpg", "site": 0, "title": 0, "email": "jringenb@umich.edu", "extra_strings": "jeffrey ringenberg"}

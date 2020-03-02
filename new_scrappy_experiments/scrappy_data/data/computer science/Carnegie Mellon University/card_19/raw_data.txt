@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/technical-faculty/david-eckhardt", "title": "professor", "email": "davide@cs.cmu.edu", "extra_strings": "dave eckhardt"}

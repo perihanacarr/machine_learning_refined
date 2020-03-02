@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/shewchuk.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/SCI", "title": "professor", "email": "jrs@cs.berkeley.edu", "extra_strings": "jonathan shewchuk"}

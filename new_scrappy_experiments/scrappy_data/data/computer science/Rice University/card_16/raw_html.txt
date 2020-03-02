@@ -1,0 +1,1 @@
+"<div class=\"col-3 omega\">\n<img alt=\"Anshumali Shrivastava\" src=\"/sites/g/files/bxs1251/f/cs_headshots/Anshu-2017_03-500x500.jpg\"/><h4>\n<a href=\"/anshumali-shrivastava\">Anshumali Shrivastava</a></h4>\n<p>Assistant Professor of Computer Science, of Electrical and Computer Engineering, and of Statistics</p>\n</div>"

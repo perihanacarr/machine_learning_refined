@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/noprofile.png", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Nealen&fname=Andrew", "title": "associate professor", "email": "anealen@cinema.usc.edu", "extra_strings": "anew nealen"}

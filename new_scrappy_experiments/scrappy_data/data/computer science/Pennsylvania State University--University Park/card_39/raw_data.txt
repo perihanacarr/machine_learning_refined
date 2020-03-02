@@ -1,0 +1,1 @@
+{"image": "/dir/photos/Passonneau-Rebecca.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=rjp49", "title": "professor", "email": "rjp49@cse.psu.edu", "extra_strings": "rebecca passonneau"}

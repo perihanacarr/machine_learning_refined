@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/bbenes/", "title": "professor", "email": "bbenes@purdue.edu", "extra_strings": "beich benes"}

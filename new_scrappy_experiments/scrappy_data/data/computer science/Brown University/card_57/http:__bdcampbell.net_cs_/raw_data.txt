@@ -1,0 +1,1 @@
+{"email": ["bruce_campbell@brown.edu"], "image": [], "research_blurb": [" Computer Science (research)", "\nI work to contribute my research through "]}

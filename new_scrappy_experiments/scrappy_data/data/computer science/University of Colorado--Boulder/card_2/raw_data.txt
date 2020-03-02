@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/montgomery.jpg?itok=lUrWTgEi", "site": "https://www.colorado.edu/cs/bruce-montgomery", "title": 0, "email": "Bruce.R.Montgomery@colorado.edu", "extra_strings": "bruce montgomery"}

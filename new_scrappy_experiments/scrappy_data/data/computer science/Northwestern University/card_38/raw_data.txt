@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/memik-seda-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/memik-ogrenci-seda.html", "title": "professor", "email": "seda@northwestern.edu", "extra_strings": "seda memik"}

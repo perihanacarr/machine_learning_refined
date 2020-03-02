@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/valeria.jpg", "site": "http://web.eecs.umich.edu/~valeria", "title": "professor", "email": "valeria@umich.edu", "extra_strings": "valeria bertacco"}

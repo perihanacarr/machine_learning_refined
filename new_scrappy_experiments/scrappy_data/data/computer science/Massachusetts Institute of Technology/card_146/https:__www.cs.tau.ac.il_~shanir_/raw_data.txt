@@ -1,0 +1,1 @@
+{"email": [], "image": ["http://www.cs.tau.ac.il/~shanir/homepage2.JPG", "http://www.assoc-amazon.com/e/ir?t=nirshavitshom-20&l=as2&o=1&a=0123705916"], "research_blurb": ["My main interests are techniques\nfor designing, implementing, and reasoning about multiprocessors, in particular\n"]}

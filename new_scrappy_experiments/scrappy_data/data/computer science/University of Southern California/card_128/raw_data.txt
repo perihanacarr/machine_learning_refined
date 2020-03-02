@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/409f3ee4b5de7b42a636914861448cc0.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Ghandeharizadeh&fname=Shahram", "title": "associate professor", "email": "shahram@usc.edu", "extra_strings": "shahram ghandeharizadeh"}

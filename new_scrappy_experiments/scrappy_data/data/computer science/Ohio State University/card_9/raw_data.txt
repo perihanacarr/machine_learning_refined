@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/chen.8028.jpg?itok=jRZJv7FC", "site": "http://www.cse.osu.edu/~chen.8028", "title": "associate professor", "email": "chen.8028@osu.edu", "extra_strings": "eese laboratories"}

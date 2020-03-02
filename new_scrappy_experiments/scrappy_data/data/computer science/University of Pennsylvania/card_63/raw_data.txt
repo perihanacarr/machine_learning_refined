@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_Pappas.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=69", "title": "professor", "email": "pappasg@seas.upenn.edu", "extra_strings": "george j pappas"}

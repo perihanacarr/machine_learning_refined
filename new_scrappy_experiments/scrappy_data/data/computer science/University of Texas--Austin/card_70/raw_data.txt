@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/moore_j_strother.jpg?itok=tU748DC7", "site": "https://www.cs.utexas.edu/people/faculty-researchers/j-strother-moore", "title": "professor emeritus", "email": 0, "extra_strings": "j strother moore"}

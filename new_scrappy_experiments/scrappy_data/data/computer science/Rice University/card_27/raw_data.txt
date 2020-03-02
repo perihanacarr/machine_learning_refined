@@ -1,0 +1,1 @@
+{"image": "/sites/g/files/bxs1251/f/cs_headshots/NathanD.jpg", "site": "https://csweb.rice.edu/nathan-dautenhahn", "title": "assistant professor", "email": 0, "extra_strings": "nathan dautenhahn"}

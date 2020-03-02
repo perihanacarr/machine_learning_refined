@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/stone-gregory-andrew", "title": 0, "email": "gastone@cs.umass.edu", "extra_strings": "a lgrc"}

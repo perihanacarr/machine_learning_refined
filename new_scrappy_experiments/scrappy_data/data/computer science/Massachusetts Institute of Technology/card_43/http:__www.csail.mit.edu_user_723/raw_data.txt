@@ -1,0 +1,1 @@
+{"email": ["news@csail.mit.edu?subject=CSAIL%20Media%20Inquiry"], "image": ["/sites/default/files/styles/headshot/public/images/migration/agarwal.jpg?h=41c2841b&itok=8uCZZN01"], "research_blurb": ["Last updated Feb 16 '18"]}

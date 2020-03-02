@@ -1,0 +1,1 @@
+"<div class=\"col-3 omega\">\n<img alt=\"Marmar Orooji\" src=\"/sites/g/files/bxs1251/f/oroojimarmar5001.jpg\"/><h4>\n<a href=\"https://csweb.rice.edu/marmar-orooji\">Marmar Orooji</a></h4>\n<p>Lecturer in Computer Science\u00a0</p>\n</div>"

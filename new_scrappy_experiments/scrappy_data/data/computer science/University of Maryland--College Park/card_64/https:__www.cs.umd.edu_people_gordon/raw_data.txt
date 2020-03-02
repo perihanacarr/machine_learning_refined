@@ -1,0 +1,1 @@
+{"email": ["gordon@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/dov2.jpg?itok=8jZ72wpE"], "research_blurb": ["View Department Office Contacts"]}

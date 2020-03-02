@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/32c188fa70a71e57459a1245d28ba9c7.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Gordon&fname=Andrew", "title": "associate professor", "email": "gordon@ict.usc.edu", "extra_strings": "anew gordon"}

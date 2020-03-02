@@ -1,0 +1,1 @@
+{"email": ["up3f@virginia.edu?subject=Contact (from website)"], "image": ["images/upsorn-name1.png"], "research_blurb": [["CS 7993 \u2014 Independent Study"]]}

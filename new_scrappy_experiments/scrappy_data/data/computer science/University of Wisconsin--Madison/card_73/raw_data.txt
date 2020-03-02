@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/11/Robert-Nowak-e1542052139208-150x150.jpg", "site": "http://nowak.ece.wisc.edu/", "title": "professor", "email": "rdnowak@wisc.edu", "extra_strings": "robert nowak"}

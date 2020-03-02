@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/9486a3aeeb98c4c9abfb68e53e78291e.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Qian&fname=Xuehai", "title": "assistant professor", "email": "xuehai.qian@usc.edu", "extra_strings": "xuehai qian"}

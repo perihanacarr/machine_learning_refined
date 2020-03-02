@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/lcg.jpg?itok=lLbhlo4O&c=abb1756f3b04a6f05fca11a13c1e85e9", "site": "https://www.cs.umd.edu/research-area/databases-and-big-data", "title": "adjunct professor", "email": 0, "extra_strings": "lise getoor"}

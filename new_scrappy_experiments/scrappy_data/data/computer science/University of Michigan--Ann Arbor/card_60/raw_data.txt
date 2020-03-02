@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/jklooste.jpg", "site": "http://jkloosterman.net/", "title": 0, "email": "jklooste@umich.edu", "extra_strings": "john kloosterman"}

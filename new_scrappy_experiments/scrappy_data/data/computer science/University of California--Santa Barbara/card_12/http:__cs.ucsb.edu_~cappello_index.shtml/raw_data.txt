@@ -1,0 +1,1 @@
+{"email": ["cappello@ucsb.edu"], "image": ["PeterCappello2013.10Thumb.jpg"], "research_blurb": ["\n\n"]}

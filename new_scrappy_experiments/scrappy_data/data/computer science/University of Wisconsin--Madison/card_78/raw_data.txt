@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/11/Shavlik_Jude_2007-e1542053177982-150x150.jpg", "site": "http://pages.cs.wisc.edu/~shavlik/", "title": 0, "email": "shavlik@cs.wisc.edu", "extra_strings": "jude shavlik"}

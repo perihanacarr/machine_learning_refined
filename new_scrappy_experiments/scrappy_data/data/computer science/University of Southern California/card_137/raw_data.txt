@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/9896c1607cc27267f91d7bed1eaae58b.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Scherer&fname=Stefan", "title": "assistant professor", "email": "stefansc@usc.edu", "extra_strings": "stefan scherer"}

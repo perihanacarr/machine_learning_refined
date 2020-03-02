@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/hellerstein.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/OSNT", "title": "professor", "email": 0, "extra_strings": "soda hall, --"}

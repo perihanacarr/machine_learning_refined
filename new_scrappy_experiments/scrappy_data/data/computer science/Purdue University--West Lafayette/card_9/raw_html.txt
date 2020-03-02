@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Walid Aref</td><td>Professor</td><td style=\"white-space: nowrap\"><phone>49-41997</phone></td><td style=\"white-space: nowrap\"><office>LWSN 2116J</office></td><td><a href=\"mailto:aref@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/aref/\">Bio</a></td></tr>"

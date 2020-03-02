@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/james_parker.jpg?itok=KpgLC_7t", "site": "https://www.cs.umn.edu/people/james-parker", "title": 0, "email": "park0580@umn.edu", "extra_strings": "james parker"}

@@ -1,0 +1,1 @@
+{"email": [], "image": ["/files/images/202002/MIT_Kendyll_Hicks_SL.jpg"], "research_blurb": ["New Antibiotic", "\n              Massachusetts Institute of Technology\n          "]}

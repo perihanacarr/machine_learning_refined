@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/adjunct-faculty/edmund-clarke", "title": "professor", "email": "ec10@andrew.cmu.edu", "extra_strings": "edmund clarke"}

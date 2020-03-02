@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://engineering.virginia.edu/faculty/tom-pinckney", "title": 0, "email": "tp3ks@virginia.edu", "extra_strings": "tom pinckney"}

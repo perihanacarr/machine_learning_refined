@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/0734f4ab2eb72b8d2741198f239896d6.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Mattmann&fname=Christian", "title": "associate professor", "email": "mattmann@usc.edu", "extra_strings": "christian mattmann"}

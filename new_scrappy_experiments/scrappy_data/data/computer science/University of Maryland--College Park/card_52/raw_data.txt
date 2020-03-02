@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/billvdw.jpg?itok=BLgQ0Jjj&c=ab96e1cb31ca5bf3e6e0c96c466a79f1", "site": "https://www.cs.umd.edu/people/gasarch", "title": "professor", "email": 0, "extra_strings": "william gasarch"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/menyc.png?itok=zHO8O-27&c=487f1c38f5c8d36769b18159019ca223", "site": "https://www.cs.umd.edu/research-area/machine-learning-and-data-science", "title": "professor", "email": 0, "extra_strings": "hal daum iii"}

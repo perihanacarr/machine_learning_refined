@@ -1,0 +1,1 @@
+{"email": ["waa@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/Stading-small.jpg?itok=BU3XqPs0&c=7b1c38e1d7538ae24a37aa30ae1e15d8"], "research_blurb": ["View Department Office Contacts"]}

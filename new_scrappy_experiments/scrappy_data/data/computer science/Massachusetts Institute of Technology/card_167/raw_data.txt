@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/willsky_0.jpg", "site": "https://lids.mit.edu/people/faculty/willsky-alan.html", "title": "professor", "email": "willsky@mit.edu", "extra_strings": "alan willsky"}

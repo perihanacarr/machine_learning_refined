@@ -1,0 +1,1 @@
+{"email": ["lbic@uci.edu"], "image": ["https://www.cs.uci.edu/faculty/index_files/image001.jpg", "https://www.cs.uci.edu/faculty/index_files/image003.jpg"], "research_blurb": ["My\n     current research is in the areas of "]}

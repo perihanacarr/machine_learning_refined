@@ -1,0 +1,1 @@
+{"email": ["humphrey@virginia.edu"], "image": ["https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NaVxc4wAAAAJ&citpid=4"], "research_blurb": ["New articles related to this author's researchData quality can make or break a research infrastructureHunting data rogues at scale: Data quality control for observational data in research infrastructures"]}

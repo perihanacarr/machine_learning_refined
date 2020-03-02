@@ -1,0 +1,1 @@
+{"email": [], "image": ["images/meng.jpg"], "research_blurb": ["\n\nMy research interests center on computer architecture with particular emphasis\non multiprocessor and multicore systems, smartphone architecture, data center \narchitecture, architectural support for medical imaging, and performance evaluation methodology.  \n\n\n"]}

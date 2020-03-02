@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-21-1365104886.jpg?itok=t03pptgM", "site": "http://www.cs.yale.edu/homes/vision/zucker/steve.html", "title": "professor", "email": "steven.zucker@yale.edu", "extra_strings": "steven zucker"}

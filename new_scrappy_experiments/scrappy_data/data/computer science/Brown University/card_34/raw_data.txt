@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/43/35/43353b20-4bac-4f01-98f9-5dd831a38900/dsc_4461_1.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "https://cs.brown.edu/people/faculty/rfonseca/", "title": "associate professor", "email": 0, "extra_strings": "roigo fonseca"}

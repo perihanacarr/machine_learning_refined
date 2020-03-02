@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/8316277de8ab31d6115555024aa67d2d.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Koenig&fname=Sven", "title": "professor", "email": "skoenig@usc.edu", "extra_strings": "sven koenig"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/watters_3_final_copy_web.jpg?itok=dy1D6X1c", "site": "https://www.cs.umn.edu/people/shana-watters", "title": 0, "email": "watt0087@umn.edu", "extra_strings": "shana watters"}

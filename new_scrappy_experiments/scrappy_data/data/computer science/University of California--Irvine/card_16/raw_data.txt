@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/eppstein.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=eppstein", "title": "professor", "email": "%20eppstein@ics.uci.edu", "extra_strings": "david eppstein"}

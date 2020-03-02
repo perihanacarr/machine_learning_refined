@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/SchwartzAndrew.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/H-AndrewSchwartz", "title": "assistant professor", "email": 0, "extra_strings": "anew schwartz"}

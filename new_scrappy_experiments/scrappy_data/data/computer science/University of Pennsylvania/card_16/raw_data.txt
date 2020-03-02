@@ -1,0 +1,1 @@
+{"image": "images/photos/a_thumb_Murphy.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=201", "title": "associate professor", "email": "cdmurphy@seas.upenn.edu", "extra_strings": "chris murphy"}

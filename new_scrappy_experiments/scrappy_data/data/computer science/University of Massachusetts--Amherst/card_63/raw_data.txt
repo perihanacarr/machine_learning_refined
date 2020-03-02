@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/baitinger-george", "title": 0, "email": "gbaitinger@cs.umass.edu", "extra_strings": "george baitinger"}

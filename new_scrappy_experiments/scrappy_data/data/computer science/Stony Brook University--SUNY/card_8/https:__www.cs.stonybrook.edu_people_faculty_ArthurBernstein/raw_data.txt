@@ -1,0 +1,1 @@
+{"email": ["art1427@optonline.net"], "image": ["https://www.cs.stonybrook.edu/sites/default/files/Bernstein.jpg", "https://www.cs.stonybrook.edu/sites/all/themes/compsci/images/blue_arrow.gif"], "research_blurb": ["Arthur Bernstein's research lies in the area of transacton processing and workflows. He is currently involved in the following projects:"]}

@@ -1,0 +1,1 @@
+{"email": ["simha@columbia.edu"], "image": ["profile.jpg"], "research_blurb": ["\nMy research is in computer architecture and computer security, and\nhow computer architecture can be used to improve computer security.\n\n", " A short bio is "]}

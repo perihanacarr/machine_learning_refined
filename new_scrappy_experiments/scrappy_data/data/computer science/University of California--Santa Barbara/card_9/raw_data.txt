@@ -1,0 +1,1 @@
+{"image": 0, "site": "http://scg.ece.ucsb.edu/people.html", "title": 0, "email": "shiv@ece.ucsb.edu", "extra_strings": "shiv chanasekaran"}

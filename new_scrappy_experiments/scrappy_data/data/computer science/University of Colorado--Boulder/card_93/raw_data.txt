@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/nolen-scaife", "title": "assistant professor", "email": "scaife@colorado.edu", "extra_strings": "nolen scaife"}

@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/pfbaldi.jpg", "site": "http://www.ics.uci.edu/~pfbaldi/", "title": "professor", "email": "%20pfbaldi@ics.uci.edu", "extra_strings": "pierre baldi"}

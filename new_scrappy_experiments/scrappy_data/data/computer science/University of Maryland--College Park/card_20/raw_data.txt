@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/IMG_2456_1.JPG?itok=S9kDln5x", "site": "https://www.cs.umd.edu/research-area/high-performance-and-scientific-computing", "title": "professor", "email": 0, "extra_strings": "jeffrey k hollingsworth"}

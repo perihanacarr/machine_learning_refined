@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/rego/", "title": "professor", "email": "rego@cs.purdue.edu", "extra_strings": "vernon rego"}

@@ -1,0 +1,1 @@
+{"email": ["elman@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/40px_icon/public/default_images/user_icon.png?itok=63eCRzxf", "https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/elman%20howard.jpg?itok=iPQajXBj&c=1e7ffe1f71e6d3ee616aeceaa6ec85b9"], "research_blurb": ["View Department Office Contacts"]}

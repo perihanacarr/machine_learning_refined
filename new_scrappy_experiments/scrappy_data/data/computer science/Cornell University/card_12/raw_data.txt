@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/Chen%2C%20Yudong.jpg?itok=xnr0OCVl", "site": "http://people.orie.cornell.edu/yudong.chen/", "title": "assistant professor", "email": 0, "extra_strings": "yudong chen"}

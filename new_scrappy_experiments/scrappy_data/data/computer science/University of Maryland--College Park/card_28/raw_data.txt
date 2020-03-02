@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/Leadership%20%283%20of%203%29.jpg?itok=Hj3ZxW3q&c=8c89f8363a9df30eb1d9bb2786dee911", "site": "https://www.cs.umd.edu/research-area/databases-and-big-data", "title": "professor emeritus", "email": 0, "extra_strings": "samir khuller"}

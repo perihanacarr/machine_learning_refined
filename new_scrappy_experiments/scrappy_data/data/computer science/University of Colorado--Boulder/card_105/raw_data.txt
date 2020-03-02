@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/willem-schreuder", "title": "associate professor", "email": "vlakkies@Colorado.EDU", "extra_strings": "willem schre\u00fcder"}

@@ -1,0 +1,1 @@
+{"image": "/dir/photos/Tan-Gang.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=gxt29", "title": "associate professor", "email": "gxt29@psu.edu", "extra_strings": "w westgate building"}

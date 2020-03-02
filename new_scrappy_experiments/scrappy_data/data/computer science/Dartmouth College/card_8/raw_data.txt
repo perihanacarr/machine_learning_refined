@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/CCPalmer%20DESSEC-1024x1024.jpg?itok=NA41tmBy", "site": "https://web.cs.dartmouth.edu/people/charles-c-palmer", "title": "adjunct professor", "email": "Charles.C.Palmer@Dartmouth.edu", "extra_strings": "charles c palmer"}

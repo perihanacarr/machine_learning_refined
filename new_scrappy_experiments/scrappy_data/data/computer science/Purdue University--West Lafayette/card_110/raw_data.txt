@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/xmt/", "title": "associate professor", "email": "xmt@purdue.edu", "extra_strings": "xavier tricoche"}

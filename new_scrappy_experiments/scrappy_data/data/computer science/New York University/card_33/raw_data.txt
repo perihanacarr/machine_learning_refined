@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/Neill_Daniel_250x250.jpg", "site": "http://www.cs.nyu.edu/%7Eneill", "title": "associate professor", "email": 0, "extra_strings": "daniel neill"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/iyyer-mohit", "title": "assistant professor", "email": "miyyer@cs.umass.edu", "extra_strings": "mohit iyyer"}

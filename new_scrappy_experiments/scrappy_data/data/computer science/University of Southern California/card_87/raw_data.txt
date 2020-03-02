@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/85a0423da628b4305a87979866434493.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Mirkovic&fname=Jelena", "title": "associate professor", "email": "mirkovic@isi.edu", "extra_strings": "jelena mirkovic"}

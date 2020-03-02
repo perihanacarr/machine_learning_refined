@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/daniel-leithinger.jpg?itok=biGAt6lF", "site": "https://www.colorado.edu/cs/daniel-leithinger", "title": "assistant professor", "email": "daniel.leithinger@colorado.edu", "extra_strings": "daniel leithinger"}

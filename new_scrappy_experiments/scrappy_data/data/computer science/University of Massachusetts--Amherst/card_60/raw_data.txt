@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/flaherty-patrick", "title": "assistant professor", "email": "flaherty@math.umass.edu", "extra_strings": "patrick flaherty"}

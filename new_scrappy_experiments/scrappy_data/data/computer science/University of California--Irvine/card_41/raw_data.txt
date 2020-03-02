@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/mjcarey.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=mjcarey", "title": "professor", "email": "%20mjcarey@ics.uci.edu", "extra_strings": "michael carey"}

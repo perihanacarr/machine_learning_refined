@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/bo-waggoner", "title": "assistant professor", "email": "bwag@Colorado.EDU", "extra_strings": "bo waggoner"}

@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_Smith_J.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=90", "title": "professor", "email": "jms@cis.upenn.edu", "extra_strings": "jonathan m smith"}

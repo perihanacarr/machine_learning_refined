@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/ensafi.jpg", "site": "https://ensa.fi/", "title": "assistant professor", "email": "ensafi@umich.edu", "extra_strings": "roya ensafi"}

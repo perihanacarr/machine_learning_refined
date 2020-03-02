@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/sanchez.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/6", "title": "associate professor", "email": "sanchez@csail.mit.edu", "extra_strings": "daniel sanchez martin"}

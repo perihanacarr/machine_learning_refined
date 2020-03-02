@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/mmdarden.jpg", "site": 0, "title": 0, "email": "mmdarden@umich.edu", "extra_strings": "marcus darden"}

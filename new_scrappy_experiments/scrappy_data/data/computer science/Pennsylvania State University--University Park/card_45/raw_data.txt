@@ -1,0 +1,1 @@
+{"image": "/dir/photos/Ghosh-Swaroop.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=szg212", "title": "assistant professor", "email": "szg212@psu.edu", "extra_strings": "swaroop ghosh"}

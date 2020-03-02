@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=57481&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/misailo", "title": "assistant professor", "email": "misailo@illinois.edu", "extra_strings": "sasa misailovic"}

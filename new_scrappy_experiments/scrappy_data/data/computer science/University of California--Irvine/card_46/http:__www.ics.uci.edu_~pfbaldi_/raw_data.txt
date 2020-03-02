@@ -1,0 +1,1 @@
+{"email": [], "image": ["http://www.ics.uci.edu/~pfbaldi/images/PierreBaldi.jpg"], "research_blurb": ["\nResearch Areas\n"]}

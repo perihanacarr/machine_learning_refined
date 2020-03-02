@@ -1,0 +1,1 @@
+{"email": ["lazar@umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/lazar_amanda_0.jpg?itok=NDNTFsTw"], "research_blurb": ["View Department Office Contacts"]}

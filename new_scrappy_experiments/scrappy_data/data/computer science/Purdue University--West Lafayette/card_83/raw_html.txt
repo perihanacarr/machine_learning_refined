@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Bruno Ribeiro</td><td>Assistant Professor</td><td style=\"white-space: nowrap\"><phone>49-62331</phone></td><td style=\"white-space: nowrap\"><office>LWSN 2142C</office></td><td><a href=\"mailto:ribeirob@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/ribeirob/\">Bio</a></td></tr>"

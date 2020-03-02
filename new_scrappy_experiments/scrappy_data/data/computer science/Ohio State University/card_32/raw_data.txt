@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/sinha.43.jpg?itok=qltMT9Uy", "site": "https://cse.osu.edu/people/sinha.43", "title": "adjunct professor", "email": "sinha.43@osu.edu", "extra_strings": "prasun sinha"}

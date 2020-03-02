@@ -1,0 +1,1 @@
+{"email": ["cv@cs.cornell.edu"], "image": ["https://www.cs.cornell.edu/people/Charlie.jpg", "https://www.cs.cornell.edu/people/GVL4.jpg"], "research_blurb": ["Joseph C. Ford Professor of Engineering"]}

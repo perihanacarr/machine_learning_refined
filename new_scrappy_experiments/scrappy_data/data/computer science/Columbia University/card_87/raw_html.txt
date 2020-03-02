@@ -1,0 +1,1 @@
+"<div class=\"in-memoriam\">\n<a href=\"http://www.cs.columbia.edu/2016/david-johnson-in-memoriam/\"> <img alt=\"in memoriam\" src=\"https://www.cs.columbia.edu/images/in-memoriam-black.png\" style=\"height: 50px; width: auto;\"/>\n</a> </div>"

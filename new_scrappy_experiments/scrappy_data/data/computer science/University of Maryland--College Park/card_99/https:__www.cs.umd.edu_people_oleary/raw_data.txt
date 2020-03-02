@@ -1,0 +1,1 @@
+{"email": ["oleary@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/40px_icon/public/default_images/user_icon.png?itok=63eCRzxf", "https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/o%27leary%20diane.jpg?itok=KFIV_I_9&c=7db2c32d55858350a919f12115a0b446"], "research_blurb": ["View Department Office Contacts"]}

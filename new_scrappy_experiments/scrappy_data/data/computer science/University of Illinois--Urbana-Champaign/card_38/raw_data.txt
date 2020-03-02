@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=87448&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/kkhauser", "title": "associate professor", "email": "kkhauser@illinois.edu", "extra_strings": "kris k hauser"}

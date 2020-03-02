@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/santosh-vempala_0_0_0.jpg?itok=HLFckDwY", "site": "https://www.scs.gatech.edu/people/santosh-vempala", "title": "professor", "email": "vempala@cc.gatech.edu", "extra_strings": "santosh vempala"}

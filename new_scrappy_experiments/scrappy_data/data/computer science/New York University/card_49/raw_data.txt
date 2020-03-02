@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/Versoza_16-0015_0393_250x250.jpg", "site": "http://cs.nyu.edu/%7Ejversoza/", "title": "assistant professor", "email": 0, "extra_strings": "ext -"}

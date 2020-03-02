@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Yan-Shoshitaishvili.jpg", "site": "https://cidse.engineering.asu.edu/yan-shoshitaishvili/", "title": "assistant professor", "email": "yans@asu.edu", "extra_strings": "yan shoshitaishvili"}

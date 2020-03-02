@@ -1,0 +1,1 @@
+{"email": ["JAMES.COLLOFELLO@asu.edu"], "image": ["https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Jim-Collofello-1.jpg", "//www.asu.edu/asuthemes/4.8/assets/ASU-number-1-innovation-best-colleges.png"], "research_blurb": ["May 29, 2018"]}

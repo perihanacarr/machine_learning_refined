@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/katharina-kann", "title": "assistant professor", "email": "Katharina.kann@colorado.edu", "extra_strings": "katharina kann"}

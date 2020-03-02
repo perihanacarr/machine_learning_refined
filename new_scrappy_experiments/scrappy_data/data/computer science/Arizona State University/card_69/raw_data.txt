@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2019/03/Paulo-Shakarian_w.jpg", "site": "https://cidse.engineering.asu.edu/paulo-shakarian/", "title": "assistant professor", "email": "shak@asu.edu", "extra_strings": "paulo shakarian"}

@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/teorey.jpg", "site": "http://web.eecs.umich.edu/~teorey", "title": "professor emeritus", "email": "teorey@umich.edu", "extra_strings": "toby teorey"}

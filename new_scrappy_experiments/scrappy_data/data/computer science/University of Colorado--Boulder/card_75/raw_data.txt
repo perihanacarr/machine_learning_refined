@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/new-ecee-mugshot.jpg?itok=VAybGZ_E", "site": "https://www.colorado.edu/cs/elizabeth-bradley", "title": "professor", "email": "lizb@colorado.edu", "extra_strings": "elizabeth bradley"}

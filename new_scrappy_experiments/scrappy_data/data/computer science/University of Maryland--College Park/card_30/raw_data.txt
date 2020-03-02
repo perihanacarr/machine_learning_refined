@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/MaxL1-small.jpg?itok=_kJUwkcp&c=8b1f3fa5f6c194710f3fe8d48286f66f", "site": "https://www.cs.umd.edu/people/mdml", "title": "assistant professor", "email": 0, "extra_strings": "max leiserson"}

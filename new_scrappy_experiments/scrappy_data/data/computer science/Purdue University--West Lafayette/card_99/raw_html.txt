@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Samuel Wagstaff</td><td>Professor</td><td style=\"white-space: nowrap\"><phone>49-46022</phone></td><td style=\"white-space: nowrap\"><office>REC 219</office></td><td><a href=\"mailto:ssw@cerias.purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/ssw/\">Bio</a></td></tr>"

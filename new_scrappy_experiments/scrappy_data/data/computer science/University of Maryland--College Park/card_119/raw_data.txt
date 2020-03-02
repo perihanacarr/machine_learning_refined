@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/zcx500.jpeg?itok=WmqQU7WE&c=33bc2a74af30f259fc399e00540c5c6b", "site": "https://www.cs.umd.edu/people/nspring", "title": "professor", "email": 0, "extra_strings": ""}

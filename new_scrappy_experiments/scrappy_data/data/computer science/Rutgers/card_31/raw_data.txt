@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2597.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/juan-zhai", "title": "professor", "email": "jz798@rutgers.edu", "extra_strings": "juan zhai"}

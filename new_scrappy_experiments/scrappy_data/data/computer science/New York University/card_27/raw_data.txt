@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/Lecun_16-0015_0310_250x250.jpg", "site": "http://yann.lecun.com", "title": "professor", "email": 0, "extra_strings": "ext -"}

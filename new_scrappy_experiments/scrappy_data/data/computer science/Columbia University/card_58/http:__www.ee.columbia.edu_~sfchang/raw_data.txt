@@ -1,0 +1,1 @@
+{"email": ["sc250@columbia.edu"], "image": ["ShihFu_Chang_2019.jpg"], "research_blurb": ["\n\n\n\t  Shih-Fu Chang\n\n          Richard Dicker Professor \nDigital Video and Multimedia \n          (DVMM) Lab\n\nElectrical Engineering Department\nComputer Science Department\n\n\n\t  Senior Executive Vice Dean \n\t  School of Engineering and Applied Science \nColumbia University"]}

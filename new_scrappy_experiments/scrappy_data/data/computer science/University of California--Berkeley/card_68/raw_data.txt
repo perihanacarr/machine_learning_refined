@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/niryosef.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/niryosef.html", "title": "associate professor", "email": "niryosef@eecs.berkeley.edu", "extra_strings": "nir yosef"}

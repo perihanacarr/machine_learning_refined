@@ -1,0 +1,1 @@
+{"email": [], "image": [], "research_blurb": ["Catalog Description: Group study of selected topics in electrical engineering, usually relating to new developments. "]}

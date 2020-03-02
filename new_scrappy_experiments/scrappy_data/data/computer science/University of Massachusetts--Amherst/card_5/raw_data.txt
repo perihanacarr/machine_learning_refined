@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/allan_james", "title": "professor", "email": "allan@cs.umass.edu", "extra_strings": "james allan"}

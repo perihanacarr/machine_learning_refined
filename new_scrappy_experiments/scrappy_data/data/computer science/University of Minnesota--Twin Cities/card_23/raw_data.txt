@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_karypis.jpg?itok=h-MY2XX-", "site": "http://www-users.cs.umn.edu/~karypis", "title": 0, "email": "karypis@umn.edu", "extra_strings": "george karypis"}

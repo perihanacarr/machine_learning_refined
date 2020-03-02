@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/mozer0717.jpg?itok=lj25YgjV", "site": "https://www.colorado.edu/cs/michael-mozer", "title": "professor", "email": "mozer@colorado.edu", "extra_strings": "michael mozer"}

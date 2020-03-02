@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_1281868728/vt-items_0/vtmulticolumn/vt-items_0/adaptiveimage.transform/m-medium/image.jpg", "site": "http://people.cs.vt.edu/~lqzhang/", "title": "associate professor", "email": "lqzhang@vt.edu", "extra_strings": "liqing zhang"}

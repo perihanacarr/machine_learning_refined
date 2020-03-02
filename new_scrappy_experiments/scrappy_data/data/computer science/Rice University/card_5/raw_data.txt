@@ -1,0 +1,1 @@
+{"image": "/sites/g/files/bxs1251/f/cs_headshots/2014-John-Mellor-Crummey.jpg", "site": "https://csweb.rice.edu/john-mellor-crummey", "title": "professor", "email": 0, "extra_strings": "john mellor-crummey"}

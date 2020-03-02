@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/bond.213.jpg?itok=rLT7FW-S", "site": "https://cse.osu.edu/people/bond.213", "title": "associate professor", "email": "bond.213@osu.edu", "extra_strings": "eese laboratories"}

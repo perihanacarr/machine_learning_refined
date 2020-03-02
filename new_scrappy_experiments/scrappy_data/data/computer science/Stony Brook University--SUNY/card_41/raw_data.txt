@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/R_Sekar1.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/RSekar", "title": "professor", "email": 0, "extra_strings": "r sekar"}

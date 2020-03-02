@@ -1,0 +1,1 @@
+{"email": [], "image": ["luedtke-photo.jpg", "/icons/forward.gif"], "research_blurb": ["", "Hazmat transportation and\nsecurity: survey and directions for future research"]}

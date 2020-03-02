@@ -1,0 +1,1 @@
+{"email": ["dhl@cs.brown.edu"], "image": ["laidlaw.jpg"], "research_blurb": [" lab research pages ", "\n", "\n", "\n"]}

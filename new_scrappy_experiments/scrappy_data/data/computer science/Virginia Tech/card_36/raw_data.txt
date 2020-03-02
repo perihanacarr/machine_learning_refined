@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_286771405/vt-items_1/vtmulticolumn/vt-items_0/adaptiveimage.transform/m-medium/image.jpg", "site": "http://people.cs.vt.edu/~irchen/", "title": "professor", "email": "irchen@vt.edu", "extra_strings": "ing-ray chen"}

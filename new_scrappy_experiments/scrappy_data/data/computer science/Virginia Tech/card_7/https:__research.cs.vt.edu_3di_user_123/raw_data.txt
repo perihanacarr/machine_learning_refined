@@ -1,0 +1,1 @@
+{"email": ["bowman@vt.edu"], "image": ["https://research.cs.vt.edu/3di/sites/default/files/3di_0.png", "https://research.cs.vt.edu/3di/sites/default/files/styles/medium/public/VT111789_201520360003-scr.jpg?itok=WHSGgc87", "http://www.informit.com/ShowCover.aspx?isbn=9780134034324&type=f"], "research_blurb": []}

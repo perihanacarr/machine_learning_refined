@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2679.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/casimir-kulikowski", "title": "professor", "email": "casimir.kulikowski@rutgers.edu", "extra_strings": "casimir kulikowski"}

@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_Shi.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=85", "title": "professor", "email": "jshi@cis.upenn.edu", "extra_strings": "jianbo shi"}

@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/aveidenb.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=aveidenb", "title": "professor", "email": "%20alexv AT ics.uci.edu", "extra_strings": "alexv at icsuciedu"}

@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/2b/c7/2bc74ab2-415b-4760-970c-96ea7873f057/brown_computer_science_faculty_page.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "https://cs.brown.edu/people/faculty/tdean/", "title": "adjunct professor", "email": 0, "extra_strings": "thomas l dean"}

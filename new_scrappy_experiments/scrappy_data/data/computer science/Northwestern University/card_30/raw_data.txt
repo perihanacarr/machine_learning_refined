@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/pardo-bryan-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/pardo-bryan.html", "title": "professor", "email": "pardo@northwestern.edu", "extra_strings": "bryan pardo"}

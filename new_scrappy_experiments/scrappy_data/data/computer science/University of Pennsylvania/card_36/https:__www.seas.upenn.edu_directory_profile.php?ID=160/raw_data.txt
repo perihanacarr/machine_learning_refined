@@ -1,0 +1,1 @@
+{"email": ["jplotkin@sas.upenn.edu"], "image": ["https://www.seas.upenn.edu/directory/images/feed-icon_orange-12px.png", "https://www.seas.upenn.edu/directory/images/photos/a-full-plotkin.jpg "], "research_blurb": ["\nEmail | Research Webpage "]}

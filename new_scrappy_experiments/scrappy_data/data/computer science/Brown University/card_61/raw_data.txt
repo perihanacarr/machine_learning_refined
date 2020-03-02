@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/c5/27/c527ce6b-c446-4494-8797-91e9023839a9/img_9861.jpg__60x80_q85_subsampling-2.jpg 53w", "site": "https://cs.brown.edu/people/faculty/vpk/", "title": "assistant professor", "email": 0, "extra_strings": "vasileios kemerlis"}

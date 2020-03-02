@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/aaron.jpg?itok=iKY9Ved5", "site": "https://www.cs.cornell.edu/research/theory", "title": "associate professor", "email": 0, "extra_strings": "theory of computing"}

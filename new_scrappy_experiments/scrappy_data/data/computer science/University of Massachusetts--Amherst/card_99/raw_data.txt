@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/biswas-joydeep", "title": "assistant professor", "email": "joydeepb@cs.umass.edu", "extra_strings": "joydeep biswas"}

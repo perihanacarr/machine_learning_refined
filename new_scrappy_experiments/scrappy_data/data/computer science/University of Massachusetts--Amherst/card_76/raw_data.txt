@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/siegelmann_hava", "title": "professor", "email": "hava@cs.umass.edu", "extra_strings": "hava t siegelmann"}

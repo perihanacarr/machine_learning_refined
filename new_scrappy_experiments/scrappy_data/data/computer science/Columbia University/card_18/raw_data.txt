@@ -1,0 +1,1 @@
+{"image": "/static/img/13/b95d48baad5a4cf08e98d1723166ae88.jpeg", "site": "http://www.stroustrup.com/", "title": 0, "email": 0, "extra_strings": "bjarne stroustrup"}

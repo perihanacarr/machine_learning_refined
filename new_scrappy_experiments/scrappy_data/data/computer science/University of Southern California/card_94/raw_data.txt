@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/8243d037548a4894f95038c2fb063121.png", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Nazer-Zadeh&fname=Hamid", "title": "associate professor", "email": "nazerzad@marshall.usc.edu", "extra_strings": "hamid nazer-zadeh"}

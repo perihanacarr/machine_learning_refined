@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/head1.jpg?itok=hdNXb2Qz&c=c562bf9b816c13cb48e941d7309f2fb0", "site": "https://www.cs.umd.edu/research-area/programming-languages-and-software-engineering", "title": "assistant professor", "email": 0, "extra_strings": "xiaodi wu"}

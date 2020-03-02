@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/fb635b470b1ef62fe5bfc2cd135aa8ae.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Medvidovic&fname=Nenad", "title": "professor", "email": "neno@usc.edu", "extra_strings": "nenad medvidovic"}

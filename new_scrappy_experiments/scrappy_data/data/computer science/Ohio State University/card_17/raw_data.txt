@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/lai-steve-new.jpg?itok=BggUh7nf&c=c82f29544395b5d0f26db32e7259e933", "site": "http://web.cse.ohio-state.edu/~lai", "title": "professor", "email": "lai.1@osu.edu", "extra_strings": "eese laboratories"}

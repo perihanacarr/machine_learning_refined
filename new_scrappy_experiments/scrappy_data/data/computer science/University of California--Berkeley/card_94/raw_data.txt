@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/song.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/AI", "title": "professor", "email": "dawnsong@cs.berkeley.edu", "extra_strings": "soda hall, -- dawnsongcsberkeleyedu"}

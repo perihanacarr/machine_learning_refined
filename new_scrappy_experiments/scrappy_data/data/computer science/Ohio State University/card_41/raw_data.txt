@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/wang.1016.jpg?itok=yeAjqsp8", "site": "http://web.cse.ohio-state.edu/~yusu", "title": "professor", "email": "wang.1016@osu.edu", "extra_strings": "eese laboratories"}

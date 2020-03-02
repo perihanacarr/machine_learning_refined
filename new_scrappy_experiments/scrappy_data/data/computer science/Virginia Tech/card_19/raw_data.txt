@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_1567644560/vt-items_0/vtmulticolumn/vt-items_0/adaptiveimage.transform/m-medium/image.jpg", "site": 0, "title": "associate professor", "email": "hdardiry@vt.edu", "extra_strings": "hoda eldardiry"}

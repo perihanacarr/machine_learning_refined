@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/Acharya%2C%20Jayadev.jpg?itok=I8p4JoDd", "site": "https://www.cs.cornell.edu/research/theory", "title": "assistant professor", "email": 0, "extra_strings": "jayadev acharya"}

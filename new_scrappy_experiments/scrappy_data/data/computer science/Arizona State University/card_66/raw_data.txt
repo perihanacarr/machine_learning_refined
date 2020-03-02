@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2019/02/Tiffany-Bao-aw.jpg", "site": "https://cidse.engineering.asu.edu/tiffany-bao/", "title": "assistant professor", "email": "tbao@asu.edu", "extra_strings": "tiffany bao"}

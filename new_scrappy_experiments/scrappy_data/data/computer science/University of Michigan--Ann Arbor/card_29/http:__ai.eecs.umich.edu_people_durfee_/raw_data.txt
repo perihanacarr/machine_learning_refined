@@ -1,0 +1,1 @@
+{"email": ["m@4"], "image": ["index_files/image002.jpg"], "research_blurb": ["is a Professor at the University of Michigan, Computer Science and Engineering Division,\nand a member of the Artificial Intelligence\nLaboratory. He also holds a joint appointment as a Professor at the\nSchool of Information."]}

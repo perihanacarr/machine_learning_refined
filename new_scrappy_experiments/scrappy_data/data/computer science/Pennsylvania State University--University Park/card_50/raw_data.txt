@@ -1,0 +1,1 @@
+{"image": "/dir/photos/Honavar-Vasant.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=vuh11", "title": "professor", "email": "vuh14@psu.edu", "extra_strings": "vasant honavar"}

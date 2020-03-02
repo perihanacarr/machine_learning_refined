@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_610158868/vt-items_0/vtmulticolumn_copy/vt-items_0/adaptiveimage.transform/m-medium/image.jpg", "site": "http://people.cs.vt.edu/~jiepu/", "title": "assistant professor", "email": "jiepu@cs.vt.edu", "extra_strings": "xun jian"}

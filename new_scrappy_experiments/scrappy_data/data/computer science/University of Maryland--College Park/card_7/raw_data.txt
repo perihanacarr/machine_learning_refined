@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/AtifMemon.jpg?itok=TZhLrbSB&c=d86bc227694c29cb4a396a298705d767", "site": "https://www.cs.umd.edu/research-area/human-computer-interaction", "title": "professor", "email": 0, "extra_strings": "atif memon"}

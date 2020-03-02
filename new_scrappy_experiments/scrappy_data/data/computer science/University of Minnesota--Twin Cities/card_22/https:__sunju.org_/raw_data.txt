@@ -1,0 +1,1 @@
+{"email": ["jusun@umn.edu"], "image": ["/assets/img/sunju_2016.jpg"], "research_blurb": ["4-192 Keller Hall"]}

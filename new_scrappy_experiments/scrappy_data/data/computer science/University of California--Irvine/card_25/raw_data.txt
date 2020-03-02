@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/aihler.jpg", "site": "http://www.ics.uci.edu/~ihler/", "title": "professor", "email": "%20ihler@ics.uci.edu", "extra_strings": "alexander ihler"}

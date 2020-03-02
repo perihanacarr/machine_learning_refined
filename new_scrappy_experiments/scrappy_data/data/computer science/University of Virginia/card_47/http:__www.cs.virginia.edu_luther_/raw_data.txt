@@ -1,0 +1,1 @@
+{"email": [], "image": [], "research_blurb": [" I research data models for facilitating large-scale cooperative family history research.\n\tI am also a theoretician and algorithmist, having developed algorithms and written proofs on several topics within computing.\n"]}

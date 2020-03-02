@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/mahadevan_sridhar", "title": "adjunct professor", "email": "mahadeva@cs.umass.edu", "extra_strings": "sridhar mahadevan"}

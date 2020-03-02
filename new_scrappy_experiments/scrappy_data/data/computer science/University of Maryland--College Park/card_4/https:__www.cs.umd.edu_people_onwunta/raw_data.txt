@@ -1,0 +1,1 @@
+{"email": ["onwunta@umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/Akwum_at_40.jpg?itok=uuQCixqM"], "research_blurb": ["View Department Office Contacts"]}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/Korea%20sam.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/DennisWong", "title": "assistant professor", "email": 0, "extra_strings": "dennis wong"}

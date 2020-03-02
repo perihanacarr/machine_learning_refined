@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/_mg_8260.jpg?itok=-A8c_rIs", "site": "https://www.scs.gatech.edu/people/qirun-zhang", "title": "assistant professor", "email": "qrzhang@gatech.edu", "extra_strings": "qirun zhang"}

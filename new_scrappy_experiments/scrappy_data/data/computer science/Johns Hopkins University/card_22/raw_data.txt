@@ -1,0 +1,1 @@
+{"image": "https://www.cs.jhu.edu/wp-content/uploads/2013/10/Kazanzides-180x245.jpg", "site": "https://www.cs.jhu.edu/research/robotics-vision-graphics/", "title": "professor", "email": 0, "extra_strings": "peter kazanzides"}

@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/Fergus_16-0015_1004.jpg", "site": "http://cs.nyu.edu/~fergus/", "title": "professor", "email": 0, "extra_strings": "ext -"}

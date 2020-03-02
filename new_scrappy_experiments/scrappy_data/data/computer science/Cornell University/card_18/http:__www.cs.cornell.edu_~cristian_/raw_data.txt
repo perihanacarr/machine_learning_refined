@@ -1,0 +1,1 @@
+{"email": ["cristian@cs.cornelloedu"], "image": ["index_files/IMG_1820_3.jpg"], "research_blurb": [""]}

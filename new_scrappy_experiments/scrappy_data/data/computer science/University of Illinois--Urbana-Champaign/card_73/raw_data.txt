@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=59524&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/sibin", "title": "assistant professor", "email": "sibin@illinois.edu", "extra_strings": "sibin mohan"}

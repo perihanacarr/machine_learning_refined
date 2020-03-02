@@ -1,0 +1,1 @@
+{"email": ["thornton@ics.uci.edu", "thornton@ics.uci.edu"], "image": ["Alex-2019.png"], "research_blurb": ["Alex Thornton", "Current teaching and getting in touch"]}

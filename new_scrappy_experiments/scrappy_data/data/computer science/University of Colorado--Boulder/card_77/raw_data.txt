@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/martha-palmer.jpg?itok=lN03k_Dx", "site": "https://www.colorado.edu/cs/martha-palmer", "title": "professor", "email": "martha.palmer@colorado.edu", "extra_strings": "martha palmer"}

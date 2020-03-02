@@ -1,0 +1,1 @@
+{"email": ["nspring@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/zcx500.jpeg?itok=guO1P8B5&c=900d5447054def305f9f365d1a840f72"], "research_blurb": ["View Department Office Contacts"]}

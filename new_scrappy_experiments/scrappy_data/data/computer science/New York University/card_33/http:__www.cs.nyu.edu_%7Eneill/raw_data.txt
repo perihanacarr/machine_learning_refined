@@ -1,0 +1,1 @@
+{"email": [], "image": ["daniel_neill.jpg"], "research_blurb": [" is a new way of thinking about \npublic health and disease surveillance, using unstructured data to detect novel \nbio-threats and other emerging patterns of interest to public health.\n"]}

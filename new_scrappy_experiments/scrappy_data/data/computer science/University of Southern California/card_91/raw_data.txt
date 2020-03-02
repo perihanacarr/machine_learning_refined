@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/35049b06df0010c28f39aef7b8043469.png", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Waterman&fname=Michael", "title": "professor emeritus", "email": "msw@usc.edu", "extra_strings": "michael waterman"}

@@ -1,0 +1,1 @@
+{"image": "images/photos/a-thumb-s-agarwal.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=227", "title": "associate professor", "email": "ashivani@seas.upenn.edu", "extra_strings": "shivani agarwal"}

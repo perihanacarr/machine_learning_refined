@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/john_chand.jpg?itok=MZ94xNR0", "site": "https://www.cs.utexas.edu/research/areas/graphics-and-visualization", "title": "assistant professor", "email": 0, "extra_strings": "chand john"}

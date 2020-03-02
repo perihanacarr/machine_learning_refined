@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/a201cdd9a4c74871640b0ade891473fc.png", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Barbic&fname=Jernej", "title": "associate professor", "email": "jnb@usc.edu", "extra_strings": "jernej barbic"}

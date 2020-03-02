@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2600.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/karl-stratos", "title": "assistant professor", "email": "karl.stratos@rutgers.edu", "extra_strings": "karl stratos"}

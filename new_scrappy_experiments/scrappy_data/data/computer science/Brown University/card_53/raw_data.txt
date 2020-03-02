@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/8b/06/8b069371-66de-45cf-8a0f-5d258591381d/dls.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "https://cs.brown.edu/people/faculty/dstanfor/", "title": "adjunct professor", "email": 0, "extra_strings": "donald l stanford"}

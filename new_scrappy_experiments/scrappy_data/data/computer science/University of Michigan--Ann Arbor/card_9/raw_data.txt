@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/awdeorio.jpg", "site": "http://www.andrewdeorio.com/", "title": 0, "email": "awdeorio@umich.edu", "extra_strings": "anew deorio"}

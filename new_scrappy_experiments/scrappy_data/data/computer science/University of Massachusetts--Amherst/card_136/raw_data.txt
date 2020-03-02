@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/fiterau-brostean-madalina", "title": "assistant professor", "email": "mfiterau@cs.umass.edu", "extra_strings": "fiterau brostean, madalina"}

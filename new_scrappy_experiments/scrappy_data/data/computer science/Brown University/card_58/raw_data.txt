@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/bd/12/bd12a765-6cce-4c9e-95f9-63db4a85a159/14352108_906522868866_390700916245085797_o1.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "https://cs.brown.edu/people/faculty/cgonsher/", "title": "assistant professor", "email": 0, "extra_strings": "ian gonsher"}

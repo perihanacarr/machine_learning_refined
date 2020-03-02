@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-22-1409064580.jpg?itok=LnIgrvl8", "site": "https://cpsc.yale.edu/people/dana-angluin", "title": "professor", "email": "dana.angluin@yale.edu", "extra_strings": "dana angluin"}

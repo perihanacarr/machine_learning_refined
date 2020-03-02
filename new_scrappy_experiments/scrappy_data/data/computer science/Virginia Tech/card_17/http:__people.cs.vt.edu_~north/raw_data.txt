@@ -1,0 +1,1 @@
+{"email": ["north@vt.edu"], "image": ["https://cs.vt.edu/People/pi.gif", "http://people.cs.vt.edu/~north/North-Photo-scr.jpg"], "research_blurb": ["Basic research topics:Applied research domains: Intelligence analysis, cyber security, digital humanities, geographic information systems, bioinformatics. with short bioData Analytics research and education at Virginia Tech"]}

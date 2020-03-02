@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/eegg.jpg", "site": "http://eegilbert.org/", "title": "associate professor", "email": "eegg@umich.edu", "extra_strings": "eric gilbert"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/sunju1.jpg?itok=-lZa0qGM", "site": "https://sunju.org/", "title": 0, "email": "jusun@umn.edu", "extra_strings": "ju sun"}

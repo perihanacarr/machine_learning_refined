@@ -1,0 +1,1 @@
+{"email": ["sangeetha.aj@uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["<br/><h3>RESEARCH INTERESTS:</h3> Abdu Jyothi's research interests are in the areas of computer networking and systems, with a focus on building application-aware self-optimizing systems through automated resource management.<br/>"]}

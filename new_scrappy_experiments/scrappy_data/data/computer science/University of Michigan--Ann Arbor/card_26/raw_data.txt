@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/don.jpg", "site": "http://web.eecs.umich.edu/~don", "title": "adjunct professor", "email": "don@umich.edu", "extra_strings": "donald winsor"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.jhu.edu/wp-content/uploads/2017/07/Chien-Ming-Huang-180x245.jpg", "site": "https://www.cs.jhu.edu/faculty/chien-ming-huang/", "title": "assistant professor", "email": 0, "extra_strings": "chien-ming huang"}

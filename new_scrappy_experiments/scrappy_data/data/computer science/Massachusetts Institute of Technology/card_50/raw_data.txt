@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/barzilay_1.jpg", "site": "https://people.csail.mit.edu/regina/", "title": "professor", "email": "regina@csail.mit.edu", "extra_strings": "regina barzilay"}

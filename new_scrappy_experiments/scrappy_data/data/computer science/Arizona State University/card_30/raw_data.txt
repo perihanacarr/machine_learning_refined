@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Kasim-Selcuk-Candan.jpg", "site": "https://blockchain.asu.edu", "title": "professor", "email": "kasim.candan@asu.edu", "extra_strings": "kasim candan"}

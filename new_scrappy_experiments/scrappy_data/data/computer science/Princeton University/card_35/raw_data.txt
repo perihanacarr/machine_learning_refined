@@ -1,0 +1,1 @@
+{"image": "/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=33&thumb=", "site": "https://www.cs.princeton.edu/people/profile/ogt", "title": "professor", "email": 0, "extra_strings": "olga troyanskaya"}

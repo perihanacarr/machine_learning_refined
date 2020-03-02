@@ -1,0 +1,1 @@
+{"email": [], "image": ["Lior_Pachter_photo_2015.jpg"], "research_blurb": ["Brief biography of Lior Pachter"]}

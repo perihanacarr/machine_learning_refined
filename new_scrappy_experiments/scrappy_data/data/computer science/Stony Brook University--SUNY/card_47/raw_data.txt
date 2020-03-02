@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/Screen%20Shot%202019-08-22%20at%2012.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/ZhaozhengYin", "title": "associate professor", "email": 0, "extra_strings": "zhaozheng yin"}

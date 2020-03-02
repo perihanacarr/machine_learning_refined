@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/pwinkler.jpg?itok=ysCrVREq", "site": "https://web.cs.dartmouth.edu/people/peter-winkler", "title": "professor", "email": "Peter.Winkler@Dartmouth.edu", "extra_strings": "peter winkler"}

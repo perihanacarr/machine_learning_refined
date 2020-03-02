@@ -1,0 +1,1 @@
+{"email": ["jiadeng@princeton.edu"], "image": ["img/jiadeng.jpg"], "research_blurb": ["\n\t\tAssistant Professor \n\t\tDepartment of Computer Science \n\t\tPrinceton University\n\t      "]}

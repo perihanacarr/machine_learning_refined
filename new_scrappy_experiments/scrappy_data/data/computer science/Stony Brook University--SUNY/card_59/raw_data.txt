@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/aruna_0.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/ArunaBalasubramanian", "title": "assistant professor", "email": 0, "extra_strings": "aruna balasubramanian"}

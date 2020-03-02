@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_2073243207/vt-items_0/vtmulticolumn/vt-items_0/adaptiveimage_106596.transform/m-medium/image.jpg", "site": "http://people.cs.vt.edu/~reddy/", "title": "associate professor", "email": "reddy@cs.vt.edu", "extra_strings": "chandan k ry"}

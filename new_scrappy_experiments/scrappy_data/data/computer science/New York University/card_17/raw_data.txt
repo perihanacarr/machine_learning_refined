@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/Gottlieb_16-0015_0163_250x250.jpg", "site": "http://cs.nyu.edu/~gottlieb/", "title": "professor", "email": 0, "extra_strings": "ext -"}

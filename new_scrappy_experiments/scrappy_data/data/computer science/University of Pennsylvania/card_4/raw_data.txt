@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_mally.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=243", "title": 0, "email": "amally@seas.upenn.edu", "extra_strings": "adam mally"}

@@ -1,0 +1,1 @@
+{"image": "/sites/g/files/bxs1251/f/cs_headshots/AlanCox-2009-3180-500x500.jpg", "site": "https://csweb.rice.edu/alan-cox", "title": "professor", "email": 0, "extra_strings": "alan l cox"}

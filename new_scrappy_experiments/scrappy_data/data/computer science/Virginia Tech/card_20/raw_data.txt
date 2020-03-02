@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_1567644560/vt-items_1/vtmulticolumn/vt-items_0/adaptiveimage.transform/m-medium/image.jpg", "site": "http://people.cs.vt.edu/~maellis1/", "title": "assistant professor", "email": "maellis1@vt.edu", "extra_strings": "margaret ellis"}

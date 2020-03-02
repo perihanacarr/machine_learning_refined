@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_kuang.jpg?itok=zzzkyEuA", "site": "https://www.cs.umn.edu/people/rui-kuang", "title": 0, "email": "kuang@umn.edu", "extra_strings": "rui kuang"}

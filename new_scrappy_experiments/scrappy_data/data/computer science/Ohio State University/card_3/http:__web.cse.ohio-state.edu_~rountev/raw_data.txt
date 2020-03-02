@@ -1,0 +1,1 @@
+{"email": [], "image": ["pic.jpg", "p.jpg"], "research_blurb": ["PRESTO research group\npage", "<a href=\"http://web.cse.ohio-state.edu/presto/\">PRESTO Research Group</a><br/><br/>\n<a href=\"http://web.cse.ohio-state.edu/presto/\"><img src=\"p.jpg\"/></a><br/><br/>\n</td>\n<td valign=\"top\" width=\"50\"> \u00a0 </td>\n<td valign=\"top\">"]}

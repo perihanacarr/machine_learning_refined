@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/hinrichs-thomas-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/hinrichs-thomas.html", "title": "associate professor", "email": "t-hinrichs@northwestern.edu", "extra_strings": "thomas hinrichs"}

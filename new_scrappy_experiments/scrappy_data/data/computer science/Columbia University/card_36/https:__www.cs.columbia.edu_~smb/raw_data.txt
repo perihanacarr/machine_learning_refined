@@ -1,0 +1,1 @@
+{"email": ["smb@cs.columbia.edu"], "image": ["http://www.cs.columbia.edu/people/faculty/ThinkingSecurityCover.jpg", "http://www.cs.columbia.edu/people/faculty/fw1-cover.jpg", "http://www.cs.columbia.edu/people/faculty/fw2-cover.jpg", "http://www.cs.columbia.edu/people/faculty/smb.jpg", "invisible.gif"], "research_blurb": ["biobioresearch group"]}

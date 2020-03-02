@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/wrenn_f1.jpg?itok=dGGzEo4p", "site": "https://www.cs.umn.edu/people/timothy-wrenn", "title": 0, "email": "wrenn001@umn.edu", "extra_strings": "timothy wrenn"}

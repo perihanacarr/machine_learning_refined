@@ -1,0 +1,1 @@
+{"email": [], "image": ["img/profile_pic.jpg?version=2"], "research_blurb": ["\n\t  I direct the Trustworthy Systems Lab (TrussLab).\n          Our lab's research involves building trustworthy systems.\n          Our projects are often at the intersection of mobile computing, security, and operating systems.\n\t"]}

@@ -1,0 +1,1 @@
+{"email": ["agg@cs.brown.edu"], "image": ["https://cs.brown.edu/people/faculty/index_files/face.jpg", "https://cs.brown.edu/people/faculty/index_files/brown-university_200x200.jpg"], "research_blurb": ["<ul>\nInteractive Data Exploration\nApproximate Query Processing\nData Science\nIndexing\nVisual Analytics\nMachine Learning\n</ul>"]}

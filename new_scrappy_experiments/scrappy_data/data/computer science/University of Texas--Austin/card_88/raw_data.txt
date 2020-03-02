@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/patt_yale.jpg?itok=JQ30ov08", "site": "https://www.cs.utexas.edu/people/faculty-researchers/yale-n-patt", "title": "professor", "email": 0, "extra_strings": "yale n patt"}

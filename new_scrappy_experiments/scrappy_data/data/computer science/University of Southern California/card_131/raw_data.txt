@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/cc8d14946a43e0facc20b91d6e6454a2.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Narayanan&fname=Shrikanth", "title": "professor", "email": "shri@sipi.usc.edu", "extra_strings": "shrikanth narayanan"}

@@ -1,0 +1,1 @@
+{"image": "http://cloudfront.eas.caltech.edu/eas_division_and_department_assets/body/home-icon-old.png", "site": "http://cms.caltech.edu/resources", "title": 0, "email": 0, "extra_strings": "google custom search engine"}

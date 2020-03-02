@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/landolt_karen.jpg?itok=pldKwz9m", "site": "https://www.cs.utexas.edu/people/faculty-researchers/karen-landolt", "title": "assistant professor", "email": 0, "extra_strings": "karen landolt"}

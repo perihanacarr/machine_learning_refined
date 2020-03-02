@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/jblocki/", "title": "assistant professor", "email": "jblocki@purdue.edu", "extra_strings": "jeremiah blocki"}

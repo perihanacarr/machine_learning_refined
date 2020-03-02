@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/125cb6b6e2962e18dde26408e63d4758.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Koolmanojwong&fname=Supannika", "title": 0, "email": "koolmano@usc.edu", "extra_strings": "supannika koolmanojwong"}

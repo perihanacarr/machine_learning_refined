@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Palma London</td><td>Visiting Grad</td><td style=\"white-space: nowrap\"><phone></phone></td><td style=\"white-space: nowrap\"><office>LWSN 1204</office></td><td><a href=\"mailto:plondon@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/plondon/\">Bio</a></td></tr>"

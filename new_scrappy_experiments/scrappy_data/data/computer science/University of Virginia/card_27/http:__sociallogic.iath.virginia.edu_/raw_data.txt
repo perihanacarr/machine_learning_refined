@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://engineering.virginia.edu/alexandria_link.png", "https://engineering.virginia.edu/newport_link.png", "https://engineering.virginia.edu/voting_link.png", "https://engineering.virginia.edu/continue.png", "https://engineering.virginia.edu/ARC-bw.png"], "research_blurb": []}

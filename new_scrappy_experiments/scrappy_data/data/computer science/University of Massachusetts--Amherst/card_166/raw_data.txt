@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/richards_tim", "title": 0, "email": "richards@cs.umass.edu", "extra_strings": "tim richards"}

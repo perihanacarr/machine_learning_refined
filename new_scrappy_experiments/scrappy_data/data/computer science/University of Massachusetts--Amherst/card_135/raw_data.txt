@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/corner_mark", "title": "associate professor", "email": "mcorner@cs.umass.edu", "extra_strings": "cs building"}

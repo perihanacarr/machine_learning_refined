@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/toprac_paul.jpg?itok=1DUCDq8U", "site": "https://www.cs.utexas.edu/people/faculty-researchers/paul-toprac", "title": "associate professor", "email": 0, "extra_strings": "paul toprac"}

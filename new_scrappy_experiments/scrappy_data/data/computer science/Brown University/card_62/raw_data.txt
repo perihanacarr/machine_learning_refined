@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/cf/6f/cf6f958f-21ce-4255-8053-89b17806ce45/tn-hs.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "https://cs.brown.edu/people/faculty/tbn/", "title": "assistant professor", "email": 0, "extra_strings": "tim nelson"}

@@ -1,0 +1,1 @@
+{"email": ["initials@princeton.edu"], "image": ["rpa-photo.jpg"], "research_blurb": ["\n\n        I am interested in machine learning, artificial intelligence, and computational statistics, with applications across science and engineering.  I have broad interests but often work on probabilistic methods and approximate Bayesian inference. I am the director of the "]}

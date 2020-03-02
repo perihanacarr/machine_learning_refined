@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Partha-Dasgupta.jpg", "site": "https://isearch.asu.edu/profile/75201", "title": "associate professor", "email": "partha@asu.edu", "extra_strings": "partha dasgupta"}

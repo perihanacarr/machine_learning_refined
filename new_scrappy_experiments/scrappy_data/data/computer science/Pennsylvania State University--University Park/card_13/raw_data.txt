@@ -1,0 +1,1 @@
+{"image": "/dir/photos/Koslicki-David.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=dmk333", "title": "associate professor", "email": "dmk333@psu.edu", "extra_strings": "david koslicki"}

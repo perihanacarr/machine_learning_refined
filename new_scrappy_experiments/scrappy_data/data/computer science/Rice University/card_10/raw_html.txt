@@ -1,0 +1,1 @@
+"<div class=\"col-3\">\n<img alt=\"Eugene Ng\" src=\"/sites/g/files/bxs1251/f/cs_headshots/2016-Eugene-Ng.jpg\"/><h4>\n<a href=\"/t-s-eugene-ng\">T. S. Eugene Ng</a></h4>\n<p>Professor of Computer Science and of Electrical and Computer Engineering;\u00a0Chair, CS Grad Committee\u00a0</p>\n</div>"

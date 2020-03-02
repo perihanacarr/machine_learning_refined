@@ -1,0 +1,1 @@
+{"email": ["drutherf@cc.gatech.edu"], "image": ["https://www.scs.gatech.edu/sites/scs.gatech.edu/files/files/21813983369_7f1750e5bd_k_0.jpg", "https://www.scs.gatech.edu/sites/all/themes/gt/images/gt-map-image-default.jpg", "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/gt_theme_files/schoolofcs-coctag-2line-solid-black874-web.png"], "research_blurb": [""]}

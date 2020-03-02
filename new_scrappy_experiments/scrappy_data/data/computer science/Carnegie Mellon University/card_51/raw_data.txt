@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/jessica-hodgins", "title": "professor", "email": "jkh@cs.cmu.edu", "extra_strings": "jessica hodgins"}

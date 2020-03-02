@@ -1,0 +1,1 @@
+{"image": "/dir/photos/MADDURI-KAMESH.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=KXM85", "title": "associate professor", "email": "kxm85@psu.edu", "extra_strings": "kamesh madduri"}

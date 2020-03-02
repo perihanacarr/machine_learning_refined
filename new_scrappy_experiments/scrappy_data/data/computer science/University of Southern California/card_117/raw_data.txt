@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/3d76c6aacaaff5984736f7d69c08e6f2.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Rohs&fname=Remo", "title": "professor", "email": "rohs@usc.edu", "extra_strings": "remo rohs"}

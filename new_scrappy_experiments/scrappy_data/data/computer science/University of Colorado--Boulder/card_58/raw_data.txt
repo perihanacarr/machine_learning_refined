@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/grzegorz-rozenberg", "title": "professor", "email": "g.rozenberg@liacs.leidenuniv.nl", "extra_strings": "grzegorz rozenberg"}

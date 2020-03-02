@@ -1,0 +1,1 @@
+{"image": "https://cse.engin.umich.edu/wp-content/uploads/2020/02/ed-davidson.jpg", "site": "http://web.eecs.umich.edu/~davidson", "title": "professor emeritus", "email": "davidson@umich.edu", "extra_strings": "edward davidson"}

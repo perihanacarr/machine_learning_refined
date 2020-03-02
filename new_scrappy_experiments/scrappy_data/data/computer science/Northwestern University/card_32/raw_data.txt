@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/joseph-russ-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/joseph-russ.html", "title": "associate professor", "email": "rjoseph@eecs.northwestern.edu", "extra_strings": "russell joseph"}

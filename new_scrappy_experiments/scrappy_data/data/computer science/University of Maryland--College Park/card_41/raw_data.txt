@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/Soheil%20Feizi.jpg?itok=beCnPQYp&c=4d674922504465389f5aa75e566f888e", "site": "https://www.cs.umd.edu/people/sfeizi", "title": "assistant professor", "email": 0, "extra_strings": "soheil feizi"}

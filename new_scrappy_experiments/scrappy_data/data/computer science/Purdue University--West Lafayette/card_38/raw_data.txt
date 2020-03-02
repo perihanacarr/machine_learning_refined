@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/gmcfall/", "title": 0, "email": "gmcfall@purdue.edu", "extra_strings": "gary mcfall"}

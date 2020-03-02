@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/Chao_Chen.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/ChaoChen", "title": "assistant professor", "email": 0, "extra_strings": "chao chen"}

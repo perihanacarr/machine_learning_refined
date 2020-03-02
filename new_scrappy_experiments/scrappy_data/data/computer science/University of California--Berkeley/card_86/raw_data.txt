@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sahai.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/AI", "title": "professor", "email": "sahai@eecs.berkeley.edu", "extra_strings": "anant sahai"}

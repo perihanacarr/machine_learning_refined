@@ -1,0 +1,1 @@
+{"image": "/static/img/16/d65dd36a6abc4fa62936e3931e5b4720.jpeg", "site": "http://www.cs.columbia.edu/~simha", "title": 0, "email": 0, "extra_strings": "simha sethumadhavan"}

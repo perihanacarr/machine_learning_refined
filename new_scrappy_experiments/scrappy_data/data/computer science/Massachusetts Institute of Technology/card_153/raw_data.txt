@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/sussman_0.jpg", "site": "http://www.csail.mit.edu/user/1512", "title": "professor", "email": "gjs@mit.edu", "extra_strings": "gerald sussman"}

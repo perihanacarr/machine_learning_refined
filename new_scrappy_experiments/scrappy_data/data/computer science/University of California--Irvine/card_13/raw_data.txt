@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/ebozorgz.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=ebozorgz", "title": "professor", "email": "%20eli@ics.uci.edu", "extra_strings": "elaheh eli bozorgzadeh"}

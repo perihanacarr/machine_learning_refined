@@ -1,0 +1,1 @@
+{"email": ["m@4"], "image": ["https://www.cs.cornell.edu/people/index.fld/image001.png", "https://www.cs.cornell.edu/people/index.fld/image005.jpg"], "research_blurb": ["\nMy research focuses on Cryptography and its interplay with Computational\nComplexity and Game Theory; lately, I have become increasingly interested in\nthe theoretical foundations of blockchains. "]}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/nau%20dana.png?itok=o0K87NWn", "site": "https://www.cs.umd.edu/researcharea/ai-and-robotics", "title": "professor", "email": 0, "extra_strings": "dana nau"}

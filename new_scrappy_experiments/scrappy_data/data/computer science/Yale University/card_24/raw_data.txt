@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-47-1409070177.jpg?itok=eSyYER1g", "site": "http://www.cs.yale.edu/homes/yry/", "title": "professor", "email": "yang.r.yang@yale.edu", "extra_strings": "y richard yang"}

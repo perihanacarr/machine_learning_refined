@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/justincj.jpg", "site": "https://web.eecs.umich.edu/~justincj/", "title": "assistant professor", "email": "justincj@umich.edu", "extra_strings": "justin johnson"}

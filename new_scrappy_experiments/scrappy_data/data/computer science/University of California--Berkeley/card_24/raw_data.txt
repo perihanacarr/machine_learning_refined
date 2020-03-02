@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/dbamman.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/dbamman.html", "title": "assistant professor", "email": "dbamman@berkeley.edu", "extra_strings": "david bamman"}

@@ -1,0 +1,1 @@
+{"image": "/sites/cs.ucsb.edu/themes/cs_subtheme/css/images/home.png", "site": "https://cs.ucsb.edu/people/faculty/wang", "title": "professor", "email": "yfwang@cs.ucsb.edu", "extra_strings": "yuan-fang wang"}

@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/blanas.2.jpg?itok=cZPYQ0ko", "site": "http://web.cse.ohio-state.edu/~sblanas", "title": "assistant professor", "email": "blanas.2@osu.edu", "extra_strings": "eese laboratories"}

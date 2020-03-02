@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/tom-mitchell", "title": "professor", "email": "mitchell@cs.cmu.edu", "extra_strings": "tom mitchell"}

@@ -1,0 +1,1 @@
+{"email": [], "image": ["http://pages.cs.wisc.edu/~bach/eric1a.jpg"], "research_blurb": []}

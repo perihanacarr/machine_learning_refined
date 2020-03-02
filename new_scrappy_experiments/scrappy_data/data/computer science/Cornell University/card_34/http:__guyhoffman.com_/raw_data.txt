@@ -1,0 +1,1 @@
+{"email": [], "image": ["http://guyhoffman.com/wp-content/themes/prof-site/images/letterhead-cornell.png", "http://guyhoffman.com/wp-content/uploads/2013/12/TEDxGuy1.png"], "research_blurb": ["bio less current than my research group\u2019s site My research field is \u00a0below gives a nice overview of some of my research."]}

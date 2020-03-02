@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/manosk.jpg", "site": "http://web.eecs.umich.edu/~manosk/", "title": "assistant professor", "email": "manosk@umich.edu", "extra_strings": "manos kapritsos"}

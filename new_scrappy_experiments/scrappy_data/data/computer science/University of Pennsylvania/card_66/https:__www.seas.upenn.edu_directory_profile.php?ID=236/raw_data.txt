@@ -1,0 +1,1 @@
+{"email": ["posa@seas.upenn.edu"], "image": ["images/photos/full-Posa.jpg "], "research_blurb": ["\nEmail | Personal Webpage "]}

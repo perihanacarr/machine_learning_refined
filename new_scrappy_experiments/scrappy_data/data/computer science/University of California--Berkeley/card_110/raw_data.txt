@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/yssong.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/BIO", "title": "professor", "email": "yss@berkeley.edu", "extra_strings": "yun s song"}

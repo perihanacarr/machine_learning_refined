@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2019/09/Panchanathan.png", "site": "http://cubic.asu.edu", "title": "professor", "email": "panch@asu.edu", "extra_strings": "sethuraman panchanathan"}

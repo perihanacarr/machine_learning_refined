@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb-Hassani.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=226", "title": "assistant professor", "email": "hassani@seas.upenn.edu", "extra_strings": "hamed hassani"}

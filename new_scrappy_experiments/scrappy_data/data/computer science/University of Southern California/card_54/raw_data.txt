@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/caf0e49d3320ab576f0b3b55bec9bf95.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Culbertson&fname=Heather", "title": "assistant professor", "email": "hculbert@usc.edu", "extra_strings": "hear culbertson"}

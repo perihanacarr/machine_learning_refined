@@ -1,0 +1,1 @@
+{"email": ["alfaro@uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["<br/><h3>RESEARCH INTERESTS:</h3> ICS 151: Digital Logic Design \nBoolean algebra. Design/analysis of combinational and sequential systems using SSI/MSI/LSI modules. Hardware/ firmware implementation of algorithms.<br/>"]}

@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/xd_0.jpg?itok=hSE8LQ27", "site": "https://web.cs.dartmouth.edu/people/xing-dong-yang", "title": "assistant professor", "email": "Xing-Dong.Yang@Dartmouth.edu", "extra_strings": "xing-dong yang"}

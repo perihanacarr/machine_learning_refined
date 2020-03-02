@@ -1,0 +1,1 @@
+{"image": "images/photos/a-thumb-plotkin.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=160", "title": "professor", "email": "jplotkin@sas.upenn.edu", "extra_strings": "joshua plotkin"}

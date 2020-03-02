@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/skutty.jpg", "site": 0, "title": 0, "email": "skutty@umich.edu", "extra_strings": "sindhu kutty"}

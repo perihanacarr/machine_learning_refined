@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/10/Gupta_Mohit_7.16.15_2-e1542053542875-150x150.jpg", "site": "https://www.cs.wisc.edu/staff/gupta-mohit/", "title": "assistant professor", "email": "mohitg@cs.wisc.edu", "extra_strings": "mohit gupta"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_mokbel.jpg?itok=mvcNhRw0", "site": "http://www-users.cs.umn.edu/~mokbel", "title": 0, "email": "mokbel@umn.edu", "extra_strings": "mohamed f mokbel"}

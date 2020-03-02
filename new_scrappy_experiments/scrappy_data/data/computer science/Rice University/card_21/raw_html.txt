@@ -1,0 +1,1 @@
+"<div class=\"col-3\">\n<img alt=\"Krishna V. Palem\" src=\"/sites/g/files/bxs1251/f/cs_headshots/Krishna_fitlow160929_008-Lovett-500x500.jpg\"/><h4>\n<a href=\"/krishna-palem\">Krishna V. Palem</a></h4>\n<p>Distinguished Professor in the Practice of Computer Technology in Computer Science and in Electrical and Computer Engineering</p>\n</div>"

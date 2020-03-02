@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_1195062105/vt-items_1/vtmulticolumn_copy_c/vt-items_0/adaptiveimage.transform/m-medium/image.png", "site": 0, "title": "associate professor", "email": "shoosh@vt.edu", "extra_strings": "sara hooshangi"}

@@ -1,0 +1,1 @@
+{"image": "/sites/g/files/bxs1251/f/cs_headshots/Anshu-2017_03-500x500.jpg", "site": "https://csweb.rice.edu/anshumali-shrivastava", "title": "assistant professor", "email": 0, "extra_strings": "anshumali shrivastava"}

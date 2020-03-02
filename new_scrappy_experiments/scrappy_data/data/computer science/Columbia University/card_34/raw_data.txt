@@ -1,0 +1,1 @@
+{"image": "/static/img/2/aae0ba575b605974bfa68124ad4a93ab.jpeg", "site": "http://ieor.columbia.edu/fac-bios/stein/faculty.html", "title": 0, "email": 0, "extra_strings": "clifford stein"}

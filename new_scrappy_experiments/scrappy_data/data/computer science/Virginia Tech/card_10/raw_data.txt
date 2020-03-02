@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_1239898183/vt-items_0/vtmulticolumn/vt-items_0/adaptiveimage.transform/m-medium/image.jpg", "site": "http://fox.cs.vt.edu", "title": "professor", "email": "fox@vt.edu", "extra_strings": "g torgersen"}

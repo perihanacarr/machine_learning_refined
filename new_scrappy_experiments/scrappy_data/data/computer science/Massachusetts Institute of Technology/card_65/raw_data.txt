@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/davis_0.jpg", "site": "https://www.csail.mit.edu/user/805", "title": "professor", "email": "davis@csail.mit.edu", "extra_strings": "randall davis"}

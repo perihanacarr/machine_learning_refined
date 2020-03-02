@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=22931&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/slazebni", "title": "associate professor", "email": "slazebni@illinois.edu", "extra_strings": "svetlana lazebnik"}

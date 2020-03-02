@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2634.png", "site": "https://www.cs.rutgers.edu/people/professors/details/saed-sayad", "title": "associate professor", "email": "ss3281@rutgers.edu", "extra_strings": "saed sayad"}

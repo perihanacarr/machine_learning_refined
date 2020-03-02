@@ -1,0 +1,1 @@
+{"email": ["sodini@mtl.mit.edu"], "image": ["http://www-mtl.mit.edu/wpmu/sodini/wp-content/themes/charlie_theme/img/charlie01_14.jpg", "http://www-mtl.mit.edu/wpmu/sodini/wp-content/themes/charlie_theme/img/mit.png"], "research_blurb": ["Low-power computer chips allow engineers to design wearable and implantable devices to monitor patients.", ""]}

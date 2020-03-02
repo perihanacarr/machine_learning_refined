@@ -1,0 +1,1 @@
+{"image": "/content/dam/website_cs_vt_edu/cropped-faculty-pics/Dwight%20Barnette.jpg", "site": "http://www.cs.vt.edu/~barnette", "title": 0, "email": "barnette@vt.edu", "extra_strings": "dwight barnette"}

@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/yinqian_zhang_0.jpg?itok=LPXOQw_O&c=e160d9039ed328732a24c31609b16b70", "site": "https://cse.osu.edu/people/zhang.834-0", "title": "associate professor", "email": "zhang.834@osu.edu", "extra_strings": "eese laboratories"}

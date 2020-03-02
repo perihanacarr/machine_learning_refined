@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/marijn-heule", "title": "associate professor", "email": "mheule@andrew.cmu.edu", "extra_strings": "marijn heule"}

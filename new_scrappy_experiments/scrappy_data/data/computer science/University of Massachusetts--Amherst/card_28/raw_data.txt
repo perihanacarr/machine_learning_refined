@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/oconnor_brendan", "title": "assistant professor", "email": "brenocon@cs.umass.edu", "extra_strings": "brendan o'connor"}

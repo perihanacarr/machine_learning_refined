@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/deshpande.jpg?itok=MMNBxywd&c=d0b2b4ebcd3f0b4ed6869e56be8fe000", "site": "https://www.cs.umd.edu/research-area/databases-and-big-data", "title": "professor", "email": 0, "extra_strings": "amol deshpande"}

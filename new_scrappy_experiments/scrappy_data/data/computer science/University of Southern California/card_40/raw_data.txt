@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/6100b9e9ba396a7800e459356393c6ba.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Galstyan&fname=Aram", "title": "associate professor", "email": "galstyan@isi.edu", "extra_strings": "aram galstyan"}

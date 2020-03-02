@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/jag.jpg", "site": "http://web.eecs.umich.edu/~jag/", "title": "professor", "email": "jag@umich.edu", "extra_strings": "hv jagadish"}

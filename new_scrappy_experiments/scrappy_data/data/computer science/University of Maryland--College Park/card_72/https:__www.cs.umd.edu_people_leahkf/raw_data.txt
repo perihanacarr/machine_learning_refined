@@ -1,0 +1,1 @@
+{"email": ["leahkf@umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/findlater.jpg?itok=jauvbgQe&c=4736d5de9865d8128496d09cb0142d8d"], "research_blurb": ["View Department Office Contacts"]}

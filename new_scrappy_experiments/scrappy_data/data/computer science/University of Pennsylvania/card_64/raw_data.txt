@@ -1,0 +1,1 @@
+{"image": "images/photos/a-thumb-pemantle.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=154", "title": "professor", "email": "pemantle@math.upenn.edu", "extra_strings": "robin pemantle"}

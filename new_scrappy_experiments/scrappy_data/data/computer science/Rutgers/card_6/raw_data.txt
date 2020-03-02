@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2667.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/matthew-stone", "title": "professor", "email": "MATTHEW.STONE@RUTGERS.EDU", "extra_strings": "matw stone"}

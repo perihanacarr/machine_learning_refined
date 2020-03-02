@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/phannawaycs.jpg?itok=jF-sVhdz", "site": "https://web.cs.dartmouth.edu/people/patricia-hannaway", "title": 0, "email": "Patricia.A.Hannaway@Dartmouth.edu", "extra_strings": "patricia a hannaway"}

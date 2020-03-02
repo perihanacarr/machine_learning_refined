@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb-kafai.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=172", "title": "professor", "email": "kafai@gse.upenn.edu", "extra_strings": "yasmin kafai"}

@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/soney.jpg", "site": "http://from.so/", "title": "assistant professor", "email": "soney@umich.edu", "extra_strings": "stephen oney"}

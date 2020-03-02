@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2666.jpeg", "site": "https://www.cs.rutgers.edu/people/professors/details/mario-szegedy", "title": "professor", "email": "SZEGEDY@CS.RUTGERS.EDU", "extra_strings": "mario szegedy"}

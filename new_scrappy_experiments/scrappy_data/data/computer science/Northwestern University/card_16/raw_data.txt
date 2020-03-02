@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/horswill-ian-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/horswill-ian.html", "title": "associate professor", "email": "ian@northwestern.edu", "extra_strings": "ian horswill"}

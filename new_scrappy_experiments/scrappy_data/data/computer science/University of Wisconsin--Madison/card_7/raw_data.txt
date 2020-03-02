@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/10/Miller_Bart-e1542043571879-150x150.jpg", "site": "http://pages.cs.wisc.edu/~bart/", "title": "professor", "email": "bart@cs.wisc.edu", "extra_strings": "bart miller"}

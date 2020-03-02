@@ -1,0 +1,1 @@
+{"image": "/dir/photos/Conejo-Lopez-Griselda.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=gxc249", "title": 0, "email": "gxc249@psu.edu", "extra_strings": "griselda conejo-lopez"}

@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/dkoutra.jpg", "site": "http://web.eecs.umich.edu/~dkoutra/", "title": "assistant professor", "email": "dkoutra@umich.edu", "extra_strings": "danai koutra"}

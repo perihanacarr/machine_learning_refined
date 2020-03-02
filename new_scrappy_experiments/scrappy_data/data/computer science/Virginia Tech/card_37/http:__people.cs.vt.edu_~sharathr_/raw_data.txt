@@ -1,0 +1,1 @@
+{"email": ["m@4"], "image": ["index_files/image002.jpg"], "research_blurb": ["I\u2019m generally interested in design of efficient algorithms and data structures for problems in computational geometry and graph theory. My research spans problems from geometric optimization, graph theory, computational topology and online algorithms. Check my publications for more information. "]}

@@ -1,0 +1,1 @@
+{"image": "/dir/photos/nophoto.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=clg20", "title": "professor", "email": "clg20@psu.edu", "extra_strings": "a westgate building"}

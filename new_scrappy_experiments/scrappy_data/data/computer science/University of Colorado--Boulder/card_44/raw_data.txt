@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/dszafir-small.jpg?itok=FhSOox64", "site": "https://www.colorado.edu/cs/daniel-szafir", "title": "assistant professor", "email": "daniel.szafir@colorado.edu", "extra_strings": "daniel szafir"}

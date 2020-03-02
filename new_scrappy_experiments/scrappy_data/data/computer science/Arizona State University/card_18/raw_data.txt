@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Georgios-Fainekos.jpg", "site": "http://www.public.asu.edu/~gfaineko/", "title": "associate professor", "email": "fainekos@asu.edu", "extra_strings": "georgios fainekos"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/danny-dig", "title": "associate professor", "email": "Danny.dig@colorado.edu", "extra_strings": "danny dig"}

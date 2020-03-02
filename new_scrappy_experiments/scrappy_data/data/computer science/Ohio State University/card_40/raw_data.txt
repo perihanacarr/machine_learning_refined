@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/teodorescu.1.jpg?itok=ImXeAToP", "site": "http://web.cse.ohio-state.edu/~teodores/", "title": "associate professor", "email": "teodorescu.1@osu.edu", "extra_strings": "radu teodorescu"}

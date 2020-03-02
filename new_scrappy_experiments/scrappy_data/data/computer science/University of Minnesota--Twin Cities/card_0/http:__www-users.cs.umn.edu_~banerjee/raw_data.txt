@@ -1,0 +1,1 @@
+{"email": [], "image": ["arindam.jpg"], "research_blurb": [" My research interests are in Machine\nLearning, Data Mining, Information Theory, Convex Analysis and Optimization,\nand their applications in complex real world\nlearning problems including problems in Text and Web Mining, Climate Sciences, Ecology,\nFinance, Social Networks, and Bioinformatics.\n"]}

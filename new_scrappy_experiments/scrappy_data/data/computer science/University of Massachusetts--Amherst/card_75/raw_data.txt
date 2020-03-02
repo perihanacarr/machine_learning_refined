@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/hanson_allen", "title": "professor emeritus", "email": "hanson@cs.umass.edu", "extra_strings": "a lgrc"}

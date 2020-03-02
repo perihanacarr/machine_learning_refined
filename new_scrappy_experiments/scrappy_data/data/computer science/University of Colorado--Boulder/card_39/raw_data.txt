@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/computer_science_hs_pc0002.jpg?itok=NQRJ7-HT", "site": "https://www.colorado.edu/cs/clayton-lewis", "title": "professor", "email": "clayton.lewis@colorado.edu", "extra_strings": "clayton lewis"}

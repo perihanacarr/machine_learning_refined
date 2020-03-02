@@ -1,0 +1,1 @@
+{"email": [], "image": [], "research_blurb": [" My primary responsibilities include teaching\n\t  undergraduate Computer\u00a0Science courses in both\n\t  the\n\t  College\u00a0of\u00a0Engineering and\n\t  the College\u00a0of Creative\u00a0Studies at the University\u00a0of\u00a0California, Santa\u00a0Barbara.", "Offices: Harold Frank Hall 1113, and CCS Bldg 494, Rm 141."]}

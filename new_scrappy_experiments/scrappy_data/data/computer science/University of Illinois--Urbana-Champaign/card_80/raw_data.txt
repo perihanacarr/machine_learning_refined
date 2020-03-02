@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=5007&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/torrella", "title": "professor", "email": "torrella@illinois.edu", "extra_strings": "josep torrellas"}

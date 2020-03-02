@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/roni-rosenfeld", "title": "professor", "email": "roni@cs.cmu.edu", "extra_strings": "roni rosenfeld"}

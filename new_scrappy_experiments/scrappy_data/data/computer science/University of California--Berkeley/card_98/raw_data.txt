@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/svlevine.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/AI", "title": "assistant professor", "email": 0, "extra_strings": "sutardja dai hall"}

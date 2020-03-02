@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://www.cs.cornell.edu/people/Wendy.gif", "https://www.cs.cornell.edu/people/wendyface.gif"], "research_blurb": ["\nWendy Ju, W. Lawrence Neeley, Larry Leifer. Design, Design & Design; An \noverview \nof Stanford's \nCenter for Design Research, "]}

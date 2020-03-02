@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/1146c398529ee3df7e21f45c58e4dcb6.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Liu&fname=Yan", "title": "associate professor", "email": "liu32@usc.edu", "extra_strings": "yan liu"}

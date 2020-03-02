@@ -1,0 +1,1 @@
+{"email": ["apanda@cs.nyu.edu"], "image": [], "research_blurb": ["405, 60 Fifth Ave.", "My research interests lie in finding lightweight mechanisms for achieving <table><tr><td style=\"background-color:#e7dacb;color:#4a89aa;font-size:1.2em\">I am looking for PhD students interested in working with me. My research so far has looked at"]}

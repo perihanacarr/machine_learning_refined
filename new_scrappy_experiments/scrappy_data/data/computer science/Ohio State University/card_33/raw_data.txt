@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/sivilotti.1.jpg?itok=hvtojhr8", "site": "https://cse.osu.edu/people/sivilotti.1", "title": "associate professor", "email": "sivilotti.1@osu.edu", "extra_strings": "eese laboratories"}

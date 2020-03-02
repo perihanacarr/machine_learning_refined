@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/ardalan.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=ardalan", "title": "assistant professor", "email": "%20ardalan@uci.edu", "extra_strings": "ardalan amiri sani"}

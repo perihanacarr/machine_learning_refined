@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2663.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/james-abello-monedero", "title": "associate professor", "email": "abelloj@cs.rutgers.edu", "extra_strings": "james abello monedero"}

@@ -1,0 +1,1 @@
+{"image": "http://www.cs.duke.edu/images/pic-fac/ksm.jpg", "site": "https://www.cs.duke.edu/people/faculty/296", "title": "assistant professor", "email": 0, "extra_strings": "kristin stephens-martinez"}

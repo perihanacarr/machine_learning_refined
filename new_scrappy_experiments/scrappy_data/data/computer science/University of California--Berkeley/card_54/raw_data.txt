@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/kahan.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/SCI", "title": "professor emeritus", "email": "wkahan@cs.berkeley.edu", "extra_strings": "soda hall, -- wkahancsberkeleyedu"}

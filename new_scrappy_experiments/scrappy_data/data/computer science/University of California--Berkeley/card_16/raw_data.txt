@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/binyu.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/SP", "title": "professor", "email": "binyu@stat.berkeley.edu", "extra_strings": "evans hall, -- binyustatberkeleyedu"}

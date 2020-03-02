@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/94af60ecc5026beb19476d2fb6493630.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=May&fname=Jonathan", "title": "assistant professor", "email": "jonmay@isi.edu", "extra_strings": "jon may"}

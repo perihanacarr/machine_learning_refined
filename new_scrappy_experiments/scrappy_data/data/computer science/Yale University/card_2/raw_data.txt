@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-3797-1570539544.jpg?itok=5ykGyLEY", "site": "http://anuragkhandelwal.com/", "title": "assistant professor", "email": "anurag.khandelwal@yale.edu", "extra_strings": "anurag khandelwal"}

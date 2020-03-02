@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/ayg/", "title": "professor", "email": "insolentdog@gmail.com", "extra_strings": "lwsn f"}

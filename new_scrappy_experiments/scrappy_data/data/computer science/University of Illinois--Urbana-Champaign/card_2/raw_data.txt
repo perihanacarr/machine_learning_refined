@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=39175&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/andreask", "title": "associate professor", "email": "andreask@illinois.edu", "extra_strings": "aneas paul eberhard kloeckner"}

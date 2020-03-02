@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/decb90b3f4f497df006ed422c864ce57.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Lympouridis&fname=Vangelis", "title": 0, "email": "el_829@usc.edu", "extra_strings": "vangelis lympouridis"}

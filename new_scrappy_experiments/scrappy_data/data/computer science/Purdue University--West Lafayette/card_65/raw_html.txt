@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Jianzhu Ma</td><td>Assistant Professor</td><td style=\"white-space: nowrap\"><phone>49-47823</phone></td><td style=\"white-space: nowrap\"><office>LWSN 3154H</office></td><td><a href=\"mailto:majianzhu@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/majianzhu/\">Bio</a></td></tr>"

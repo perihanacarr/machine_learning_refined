@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/fb439a69469710188bbbaa78732841d0.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Adleman&fname=Leonard", "title": "professor", "email": "adleman@pollux.usc.edu", "extra_strings": "leonard adleman"}

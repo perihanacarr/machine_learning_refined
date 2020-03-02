@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/yu_su.jpg?itok=mhgs2I6l&c=f857e610baa5b3e2596c0778f5f2b0a6", "site": "https://ysu1989.github.io/", "title": "assistant professor", "email": "su.809@osu.edu", "extra_strings": "eese laboratories"}

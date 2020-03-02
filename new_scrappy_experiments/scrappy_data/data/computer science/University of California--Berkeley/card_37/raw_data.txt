@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/goldwasser.jpg", "site": "https://www2.eecs.berkeley.edu/Courses/CS294_2964", "title": "professor", "email": 0, "extra_strings": "shafi goldwasser"}

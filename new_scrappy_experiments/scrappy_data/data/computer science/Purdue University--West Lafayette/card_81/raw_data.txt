@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/qobi/", "title": "associate professor", "email": "qobi@purdue.edu", "extra_strings": "jeffrey siskind"}

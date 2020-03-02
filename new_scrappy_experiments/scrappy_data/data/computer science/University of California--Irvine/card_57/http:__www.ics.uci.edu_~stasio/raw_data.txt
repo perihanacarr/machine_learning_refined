@@ -1,0 +1,1 @@
+{"email": [], "image": ["UCIheadshot.jpg"], "research_blurb": ["'s \"StarLab\", a small\nresearch lab in the Silicon Valley company which was developing Digital Rights\nManagement systems, and then I spent a year\u00a0as a\u00a0postdoc\u00a0at the "]}

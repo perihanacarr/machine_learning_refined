@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Chlipala_web.jpg", "site": "https://adam.chlipala.net/", "title": "associate professor", "email": "adamc@csail.mit.edu", "extra_strings": "adam chlipala"}

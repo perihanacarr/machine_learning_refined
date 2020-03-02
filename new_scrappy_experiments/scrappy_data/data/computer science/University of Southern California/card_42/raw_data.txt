@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/2d42a3434ecc934bf3463e82d11b1a27.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Bekey&fname=George", "title": "professor emeritus", "email": "gbekey@calpoly.edu", "extra_strings": "george bekey"}

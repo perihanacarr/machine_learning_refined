@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/kaelbling_0.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/10", "title": "professor", "email": "lpk@csail.mit.edu", "extra_strings": "leslie kaelbling"}

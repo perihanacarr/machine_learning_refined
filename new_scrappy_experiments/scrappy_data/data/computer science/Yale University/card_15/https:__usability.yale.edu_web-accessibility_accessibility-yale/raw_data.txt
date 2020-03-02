@@ -1,0 +1,1 @@
+{"email": ["accessibility@yale.edu"], "image": [], "research_blurb": ["To report an accessibility issue on a Yale website or web application, please use the Accessibility Comments Form (link is external)."]}

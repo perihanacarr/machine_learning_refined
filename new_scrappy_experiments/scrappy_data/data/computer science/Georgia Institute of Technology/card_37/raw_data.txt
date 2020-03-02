@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/vivek-sarkar-binary-bridge-jan-2018-1_0.jpg?itok=5PXHkW5J", "site": "https://www.scs.gatech.edu/people/vivek-sarkar", "title": "professor", "email": "vsarkar@gatech.edu", "extra_strings": "pl hpc"}

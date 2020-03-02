@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/clarke_lori", "title": "professor", "email": "clarke@cs.umass.edu", "extra_strings": "lori a clarke"}

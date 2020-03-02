@@ -1,0 +1,1 @@
+{"image": "http://www.cs.duke.edu/images/pic-fac/kheller.jpg", "site": "https://www.cs.duke.edu/people/faculty/242", "title": "assistant professor", "email": 0, "extra_strings": "katherineheller at dukeedu"}

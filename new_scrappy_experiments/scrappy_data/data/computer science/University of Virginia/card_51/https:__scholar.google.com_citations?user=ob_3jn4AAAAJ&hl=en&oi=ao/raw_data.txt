@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ob_3jn4AAAAJ&citpid=3"], "research_blurb": ["New articles related to this author's research"]}

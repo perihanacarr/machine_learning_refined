@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/fox.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/PS", "title": "professor", "email": "fox@berkeley.edu", "extra_strings": "soda hall, -- foxberkeleyedu"}

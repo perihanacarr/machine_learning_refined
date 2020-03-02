@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/f63135c17a6d1de62db55dd4de3ffb50.png", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Cote&fname=Aaron", "title": 0, "email": "aaroncot@usc.edu", "extra_strings": "aaron daniel cote"}

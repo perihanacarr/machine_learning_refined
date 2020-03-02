@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/pierson.png?itok=FgPI4p8C", "site": "https://web.cs.dartmouth.edu/people/timothy-j-pierson", "title": 0, "email": "timothy.j.pierson@Dartmouth.edu", "extra_strings": "tim pierson"}

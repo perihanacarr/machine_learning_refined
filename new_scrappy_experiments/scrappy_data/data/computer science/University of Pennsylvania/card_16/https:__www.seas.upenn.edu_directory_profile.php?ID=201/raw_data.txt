@@ -1,0 +1,1 @@
+{"email": ["cdmurphy@seas.upenn.edu"], "image": ["images/photos/a_full_Murphy.jpg "], "research_blurb": ["\nEmail | Personal Webpage "]}

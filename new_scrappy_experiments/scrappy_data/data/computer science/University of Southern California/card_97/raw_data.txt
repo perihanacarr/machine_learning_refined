@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/57eb30277f47b209688f8be04697cf3d.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Nikolaidis&fname=Stefanos", "title": "assistant professor", "email": "nikolaid@usc.edu", "extra_strings": "stefanos nikolaidis"}

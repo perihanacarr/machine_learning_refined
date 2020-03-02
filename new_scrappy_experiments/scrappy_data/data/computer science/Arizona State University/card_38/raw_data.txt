@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Rida-Bazzi.jpg", "site": "https://cidse.engineering.asu.edu/rida-bazzi/", "title": "associate professor", "email": "Bazzi@asu.edu", "extra_strings": "rida bazzi"}

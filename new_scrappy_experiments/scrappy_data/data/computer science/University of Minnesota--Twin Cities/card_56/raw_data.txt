@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/wendt_final_2.jpg?itok=e4fctnC6", "site": "https://www.cs.umn.edu/people/kevin-wendt", "title": 0, "email": "wendt@umn.edu", "extra_strings": "kevin wendt"}

@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://registrar.utexas.edu/sites/default/files/reg_formal.png", "https://registrar.utexas.edu/sites/default/files/reg_formal.png"], "research_blurb": ["Course Schedules are published about two weeks before registration begins for a semester."]}

@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/jake.png?itok=OECqCcMO", "site": "https://www.scs.gatech.edu/people/jacob-abernethy", "title": "assistant professor", "email": "prof@gatech.edu", "extra_strings": "jacob abernethy"}

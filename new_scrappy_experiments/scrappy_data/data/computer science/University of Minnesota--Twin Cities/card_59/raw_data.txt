@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_zhai.jpg?itok=1oDchZpM", "site": "http://www-users.cs.umn.edu/~zhai", "title": 0, "email": "zhai@umn.edu", "extra_strings": "antonia zhai"}

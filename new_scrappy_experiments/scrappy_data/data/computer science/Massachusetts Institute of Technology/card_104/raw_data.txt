@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/kirtley_0.jpg", "site": "http://bit.ly/2hxq1oC", "title": "professor", "email": "kirtley@mit.edu", "extra_strings": "james kirtley, jr"}

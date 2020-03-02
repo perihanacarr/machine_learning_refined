@@ -1,0 +1,1 @@
+{"image": "/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2086&thumb=", "site": "http://www.cs.princeton.edu/~sseung", "title": "professor", "email": 0, "extra_strings": "sebastian seung"}

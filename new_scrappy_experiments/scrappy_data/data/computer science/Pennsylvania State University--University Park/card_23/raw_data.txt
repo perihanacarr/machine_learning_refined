@@ -1,0 +1,1 @@
+{"image": "/dir/photos/SAMPSON-JOHN.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=jms1257", "title": "associate professor", "email": "jms1257@psu.edu", "extra_strings": "john sampson"}

@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=5020&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/zilles", "title": "associate professor", "email": "zilles@illinois.edu", "extra_strings": "craig zilles"}

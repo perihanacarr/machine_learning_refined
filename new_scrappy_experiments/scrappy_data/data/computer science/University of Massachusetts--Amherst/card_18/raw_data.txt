@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/saha_barna", "title": "associate professor", "email": "barna@cs.umass.edu", "extra_strings": "barna saha"}

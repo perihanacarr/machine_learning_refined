@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=62754&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/mjt", "title": "assistant professor", "email": "mjt@illinois.edu", "extra_strings": "matus jan garsky"}

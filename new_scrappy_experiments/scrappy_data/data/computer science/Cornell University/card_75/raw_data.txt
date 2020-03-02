@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/Zaibh%2C%20Ramin.jpg?itok=SAI9QIZ3", "site": "https://www.cs.cornell.edu/research/theory", "title": "professor", "email": 0, "extra_strings": "ramin zabih"}

@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=87159&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/lbo", "title": "assistant professor", "email": "lbo@illinois.edu", "extra_strings": "bo li"}

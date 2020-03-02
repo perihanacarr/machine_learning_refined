@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/richard_demillo_0.jpg?itok=CLzvAsFx", "site": "https://www.scs.gatech.edu/people/richard-demillo", "title": "professor", "email": "richard.demillo@cc.gatech.edu", "extra_strings": "richard demillo"}

@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/hardavellas-nikos-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hardavellas-nikos.html", "title": "associate professor", "email": "nikos@northwestern.edu", "extra_strings": "nikos hardavellas"}

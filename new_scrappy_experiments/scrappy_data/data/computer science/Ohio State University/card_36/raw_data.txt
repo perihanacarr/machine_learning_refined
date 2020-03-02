@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/stewart.962.jpg?itok=SEpoc2wF", "site": "https://cse.osu.edu/people/stewart.962", "title": "associate professor", "email": "stewart.962@osu.edu", "extra_strings": "eese laboratories"}

@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/rowe.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/rowe.html", "title": "professor emeritus", "email": "rowe@eecs.berkeley.edu", "extra_strings": "lawrence a rowe"}

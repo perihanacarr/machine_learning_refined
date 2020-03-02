@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/barg.jpg?itok=wY0AvygS&c=d80a27052ffdb507fb67cf4c743ac75e", "site": "https://www.cs.umd.edu/people/abarg", "title": "professor", "email": 0, "extra_strings": "alexander barg"}

@@ -1,0 +1,1 @@
+{"email": ["rionda@acm.org"], "image": ["/files/matteo_riondato.jpg"], "research_blurb": [". Previously, I spent some fantastic years as a\n\t\t\t\t\tresearch scientist in the Labs group at My research focuses on  journal, one of the top venues in my area\n\t\t\t\t\t\tof research."]}

@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb-sung.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=222", "title": "assistant professor", "email": "crsung@seas.upenn.edu", "extra_strings": "cynthia sung"}

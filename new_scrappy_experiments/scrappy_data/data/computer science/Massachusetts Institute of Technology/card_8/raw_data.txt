@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Carbin_square.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/32", "title": "assistant professor", "email": "mcarbin@csail.mit.edu", "extra_strings": "michael carbin"}

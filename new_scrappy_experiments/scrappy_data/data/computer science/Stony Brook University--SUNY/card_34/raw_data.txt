@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/MichaelTashbook_0.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/MichaelTashbook", "title": 0, "email": 0, "extra_strings": "michael tashbook"}

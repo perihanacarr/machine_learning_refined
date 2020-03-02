@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/jaakkola_0.jpg", "site": "http://people.csail.mit.edu/tommi/tommi.html", "title": "professor", "email": "tommi@csail.mit.edu", "extra_strings": "tommi jaakkola"}

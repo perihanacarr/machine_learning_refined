@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/jose_santos_2_cuphoto.jpg?itok=Av2RqRIQ", "site": "https://www.colorado.edu/cs/jose-santos", "title": 0, "email": "Jose.Santos@colorado.edu", "extra_strings": "jose santos"}

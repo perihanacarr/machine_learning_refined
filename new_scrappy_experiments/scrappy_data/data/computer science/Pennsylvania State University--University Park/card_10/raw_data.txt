@@ -1,0 +1,1 @@
+{"image": "/dir/photos/DAS-CHITARANJAN.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=CXD12", "title": "professor", "email": "cxd12@psu.edu", "extra_strings": "wf westgate building"}

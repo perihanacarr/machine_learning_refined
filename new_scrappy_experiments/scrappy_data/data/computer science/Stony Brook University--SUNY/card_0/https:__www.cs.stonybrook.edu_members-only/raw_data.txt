@@ -1,0 +1,1 @@
+{"email": [], "image": ["/modules/file/icons/application-pdf.png"], "research_blurb": ["Members Only Area"]}

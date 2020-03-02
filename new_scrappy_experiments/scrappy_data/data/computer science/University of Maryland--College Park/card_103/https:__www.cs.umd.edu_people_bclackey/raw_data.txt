@@ -1,0 +1,1 @@
+{"email": ["bclackey@umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/picture-88-1476632271_0.png?itok=elYjIfYt", "https://www.cs.umd.edu/sites/default/files/styles/40px_icon/public/images/userpictures/nrodrig_0.jpg?itok=zzS_nRtq"], "research_blurb": ["View Department Office Contacts"]}

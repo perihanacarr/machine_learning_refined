@@ -1,0 +1,1 @@
+{"image": "https://dartmouth.edu/faculty-directory/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/olga.zhaxybayeva_0.jpeg?itok=Fga7GuPI", "site": "https://web.cs.dartmouth.edu/people/olga-zhaxybayeva", "title": "assistant professor", "email": "Olga.Zhaxybayeva@Dartmouth.edu", "extra_strings": "olga zhaxybayeva"}

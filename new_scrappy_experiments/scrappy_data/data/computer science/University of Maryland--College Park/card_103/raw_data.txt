@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/picture-88-1476632271_0.png?itok=L-UDicJE&c=e930b4f0fe893634cfcd48f553aae36e", "site": "https://www.cs.umd.edu/people/bclackey", "title": "adjunct professor", "email": 0, "extra_strings": "brad lackey"}

@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/durand_0.jpg", "site": "https://www.csail.mit.edu/user/1091", "title": "professor", "email": "fredo@mit.edu", "extra_strings": "fredo durand"}

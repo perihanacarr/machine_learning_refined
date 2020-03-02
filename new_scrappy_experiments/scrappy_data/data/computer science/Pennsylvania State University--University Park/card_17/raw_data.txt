@@ -1,0 +1,1 @@
+{"image": "/dir/photos/KESIDIS-GEORGE.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=GIK2", "title": "professor", "email": "gik2@psu.edu", "extra_strings": "george kesidis"}

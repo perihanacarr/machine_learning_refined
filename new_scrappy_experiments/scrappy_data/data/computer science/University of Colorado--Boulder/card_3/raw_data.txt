@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/computer_science_hs_pc0032.jpg?itok=PA2fRkQQ", "site": "https://www.colorado.edu/cs/chenhao-tan", "title": "assistant professor", "email": "Chenhao.Tan@Colorado.EDU", "extra_strings": "chenhao tan"}

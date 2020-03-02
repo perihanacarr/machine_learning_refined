@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/11058aa449007b74a467dcf21e4ac0ff.jpeg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Pujara&fname=Jay", "title": "assistant professor", "email": "jpujara@usc.edu", "extra_strings": "jay pujara"}

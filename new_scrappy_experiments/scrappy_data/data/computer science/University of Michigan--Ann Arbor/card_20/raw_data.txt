@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/conway.jpg", "site": "http://ai.eecs.umich.edu/people/conway/conway.html", "title": "professor", "email": "conway@umich.edu", "extra_strings": "lynn conway"}

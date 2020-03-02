@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/peterson_tina-w.jpg?itok=Yx_btF1T", "site": "https://www.cs.utexas.edu/people/faculty-researchers/tina-peterson", "title": "assistant professor", "email": 0, "extra_strings": "tina peterson"}

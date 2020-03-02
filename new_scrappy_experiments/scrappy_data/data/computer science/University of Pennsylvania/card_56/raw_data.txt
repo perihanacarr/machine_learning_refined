@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_Marcus.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=61", "title": "professor emeritus", "email": "mitch@cis.upenn.edu", "extra_strings": "mitchell p marcus"}

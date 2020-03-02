@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_npapas.jpg?itok=JoyehqsH", "site": "http://www-users.cs.umn.edu/~npapas", "title": 0, "email": "papan001@umn.edu", "extra_strings": "nikolaos papanikolopoulos"}

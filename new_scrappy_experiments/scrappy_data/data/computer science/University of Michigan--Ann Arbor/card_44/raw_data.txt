@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/harshavm.jpg", "site": "http://web.eecs.umich.edu/~harshavm/", "title": "associate professor", "email": "harshavm@umich.edu", "extra_strings": "harsha madhyastha"}

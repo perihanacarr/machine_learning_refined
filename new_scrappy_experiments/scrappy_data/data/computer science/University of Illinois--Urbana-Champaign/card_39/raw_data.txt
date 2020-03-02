@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=4964&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/klara", "title": "professor", "email": "klara@illinois.edu", "extra_strings": "klara nahrstedt"}

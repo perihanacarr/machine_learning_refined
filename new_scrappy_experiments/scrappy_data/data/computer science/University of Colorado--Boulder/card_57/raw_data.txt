@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/eric-frew", "title": "associate professor", "email": "frew@colorado.edu", "extra_strings": "eric frew"}

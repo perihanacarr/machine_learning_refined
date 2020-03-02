@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/tarzia-steve-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/tarzia-stephen.html", "title": "assistant professor", "email": "tarzia@northwestern.edu", "extra_strings": "stephen tarzia"}

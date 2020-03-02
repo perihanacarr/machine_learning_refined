@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/adjunct-faculty/bradley-schmerl", "title": 0, "email": "schmerl@cs.cmu.edu", "extra_strings": "bradley schmerl"}

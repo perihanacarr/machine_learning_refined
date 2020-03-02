@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/shneiderman%20ben.jpg?itok=3V7uZyR8&c=fdfe621dff429f26ed4467f0dac19b82", "site": "https://www.cs.umd.edu/research-area/human-computer-interaction", "title": "professor emeritus", "email": 0, "extra_strings": "ben shneiderman"}

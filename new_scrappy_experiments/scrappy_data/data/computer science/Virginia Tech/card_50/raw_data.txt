@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_925504038/vt-items_0/vtmulticolumn_copy_c/vt-items_0/adaptiveimage.transform/m-medium/image.jpg", "site": "http://berthuang.com/", "title": "assistant professor", "email": "bhuang@vt.edu", "extra_strings": "bert huang"}

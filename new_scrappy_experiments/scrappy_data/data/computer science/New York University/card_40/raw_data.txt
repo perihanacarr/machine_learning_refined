@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/Ranganath_250x250_cCkxoxI.jpg", "site": "https://cims.nyu.edu/~rajeshr/", "title": "assistant professor", "email": 0, "extra_strings": "ext -"}

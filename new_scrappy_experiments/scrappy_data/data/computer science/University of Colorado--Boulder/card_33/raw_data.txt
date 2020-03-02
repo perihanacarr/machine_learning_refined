@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/keegan.png?itok=5AVKO6ko", "site": "https://www.colorado.edu/cs/brian-keegan", "title": "assistant professor", "email": "brian.keegan@colorado.edu", "extra_strings": "brian keegan"}

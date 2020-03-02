@@ -1,0 +1,1 @@
+{"email": ["reisslein@asu.edu"], "image": ["https://cidse.engineering.asu.edu/i.gif", "https://cidse.engineering.asu.edu/spacer.gif", "https://cidse.engineering.asu.edu/faculty/i.gif", "https://cidse.engineering.asu.edu/faculty/reissl.jpg"], "research_blurb": ["\u00a0 "]}

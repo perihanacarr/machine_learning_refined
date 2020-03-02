@@ -1,0 +1,1 @@
+{"email": [], "image": ["images/sce.jpg", "https://cpsc.yale.edu/people/images/bullet.gif"], "research_blurb": ["\n    Major research interests include numerical linear and nonlinear algebra,\n    direct and iterative methods for solving sparse linear systems, and\n    parallel computing.\n  "]}

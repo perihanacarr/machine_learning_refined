@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/mugshot.jpg?itok=fejUPExa", "site": "https://www.colorado.edu/cs/stephen-voida", "title": "assistant professor", "email": "svoida@colorado.edu", "extra_strings": "stephen voida"}

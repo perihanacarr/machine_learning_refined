@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/gregory-ganger", "title": "professor", "email": "ganger@cs.cmu.edu", "extra_strings": "greg ganger"}

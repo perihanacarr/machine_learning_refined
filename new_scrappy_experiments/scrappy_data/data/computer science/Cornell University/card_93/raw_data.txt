@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/kuleshov_0.jpg?itok=6ZPaS3LF", "site": "https://ai.stanford.edu/~kuleshov/", "title": "assistant professor", "email": 0, "extra_strings": "volodymyr kuleshov"}

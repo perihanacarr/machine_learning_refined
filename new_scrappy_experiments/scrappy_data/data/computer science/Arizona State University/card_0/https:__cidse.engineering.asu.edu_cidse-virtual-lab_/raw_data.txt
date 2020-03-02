@@ -1,0 +1,1 @@
+{"email": ["eng.classroom@asu.edu"], "image": ["//www.asu.edu/asuthemes/4.8/assets/ASU-number-1-innovation-best-colleges.png"], "research_blurb": ["This resource is reserved for\u00a0CIDSE Students\u00a0currently enrolled."]}

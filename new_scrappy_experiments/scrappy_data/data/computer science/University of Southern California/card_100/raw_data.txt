@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/7b0d51ff4c0e77e27f99172544b1b364.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Papa&fname=Marco", "title": "assistant professor", "email": "papa@usc.edu", "extra_strings": "marco papa"}

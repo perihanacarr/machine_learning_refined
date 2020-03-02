@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/demmel.jpg", "site": "https://www2.eecs.berkeley.edu/Courses/CSC267", "title": "professor", "email": "demmel@cs.berkeley.edu", "extra_strings": "james demmel"}

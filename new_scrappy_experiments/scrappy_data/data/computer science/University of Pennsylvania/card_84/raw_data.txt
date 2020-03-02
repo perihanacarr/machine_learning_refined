@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_Ungar.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=97", "title": "professor", "email": "ungar@cis.upenn.edu", "extra_strings": "lyle h ungar"}

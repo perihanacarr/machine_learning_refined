@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/29eee6205d97723a598f94c88341721a.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Raghavendra&fname=C", "title": "professor", "email": "raghu@usc.edu", "extra_strings": "c raghavena"}

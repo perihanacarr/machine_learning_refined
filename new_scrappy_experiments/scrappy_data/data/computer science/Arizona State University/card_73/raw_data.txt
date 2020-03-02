@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2019/08/Yang-Yingzhen-0556w.jpg", "site": "https://cidse.engineering.asu.edu/yingzhen-yang/", "title": "assistant professor", "email": "Yingzhen.Yang@asu.edu", "extra_strings": "yingzhen yang"}

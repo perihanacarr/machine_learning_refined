@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/sitaraman_ramesh", "title": "professor", "email": "ramesh@cs.umass.edu", "extra_strings": "ramesh k sitaraman"}

@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Srividya-Bansal.jpg", "site": "http://www.public.asu.edu/~skbansa2/research.html", "title": "associate professor", "email": "Srividya.Bansal@asu.edu", "extra_strings": "srividya bansal"}

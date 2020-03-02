@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/jed-brubaker", "title": "assistant professor", "email": "jedbrubaker@gmail.com", "extra_strings": "jed brubaker"}

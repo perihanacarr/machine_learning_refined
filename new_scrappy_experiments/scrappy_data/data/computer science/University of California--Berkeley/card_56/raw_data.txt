@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/katz.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/OSNT", "title": "professor", "email": "randy@cs.berkeley.edu", "extra_strings": "soda hall, -- randycsberkeleyedu"}

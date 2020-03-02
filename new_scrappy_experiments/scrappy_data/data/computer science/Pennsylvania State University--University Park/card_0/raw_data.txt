@@ -1,0 +1,1 @@
+{"image": "/dir/photos/VERBANEC-ALAN.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=ACV", "title": 0, "email": "acv@psu.edu", "extra_strings": "alan verbanec"}

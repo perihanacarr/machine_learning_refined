@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/hartley-patience", "title": 0, "email": "patience@cics.umass.edu", "extra_strings": "cs building"}

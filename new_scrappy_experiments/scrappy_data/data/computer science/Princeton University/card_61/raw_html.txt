@@ -1,0 +1,1 @@
+"<a href=\"https://www.linkedin.com/groups/12016205\" target=\"_blank\">\n<img alt=\"Linkedin\" src=\"/sites/all/themes/pucs_bootstrap/images/icon-linkedin.png\"/>\n</a>"

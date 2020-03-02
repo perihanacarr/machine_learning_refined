@@ -1,0 +1,1 @@
+"<div class=\"col-3 omega\">\n<img alt=\"Dan S. Wallach\" src=\"/sites/g/files/bxs1251/f/cs_headshots/DanWallach-Jan2014-500x500.jpg\"/><h4>\n<a href=\"/dan-wallach\">Dan S. Wallach</a></h4>\n<p>Professor of Computer Science and of Electrical and Computer Engineering</p>\n</div>"

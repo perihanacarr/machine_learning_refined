@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/mkc_med.jpg?itok=TVG9HVEK", "site": "https://web.cs.dartmouth.edu/people/michael-casey", "title": "professor", "email": "Michael.A.Casey@Dartmouth.edu", "extra_strings": "michael a casey"}

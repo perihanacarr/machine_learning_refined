@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/hartline-jason-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hartline-jason.html", "title": "professor", "email": "hartline@northwestern.edu", "extra_strings": "jason hartline"}

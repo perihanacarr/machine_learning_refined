@@ -1,0 +1,1 @@
+{"email": [], "image": ["./photo.jpg"], "research_blurb": [".\nI was a research fellow at Simons Institute for the Theory of Computing, participating the "]}

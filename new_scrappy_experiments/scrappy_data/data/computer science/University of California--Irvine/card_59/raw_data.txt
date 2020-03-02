@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/swjun.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=swjun", "title": "assistant professor", "email": "%20swjun@uci.edu", "extra_strings": "sang-woo jun"}

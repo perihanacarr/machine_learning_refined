@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/alfaro.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=alfaro", "title": 0, "email": "%20alfaro@uci.edu", "extra_strings": "shannon alfaro"}

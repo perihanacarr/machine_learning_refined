@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/67/3d/673dde73-a994-4e55-94a7-88448559d528/jt_closeup.jpg__60x80_q85_subsampling-2.jpg 57w", "site": "https://cs.brown.edu/people/faculty/jtompki1/", "title": "assistant professor", "email": 0, "extra_strings": "james h tompkin"}

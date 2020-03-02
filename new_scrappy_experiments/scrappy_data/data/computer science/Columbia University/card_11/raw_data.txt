@@ -1,0 +1,1 @@
+{"image": "/static/img/0/e47ce29566aaecefcded6208efe063b8.jpeg", "site": "http://www.cs.columbia.edu/~nayar/", "title": 0, "email": 0, "extra_strings": "shree k nayar"}

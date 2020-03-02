@@ -1,0 +1,1 @@
+{"image": "https://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/styles/homepage_feature/public/373_Jayanti_lecture_0.jpg?itok=GbIBSCSJ", "site": "https://web.cs.dartmouth.edu/news/tags/alumni", "title": 0, "email": 0, "extra_strings": "read more"}

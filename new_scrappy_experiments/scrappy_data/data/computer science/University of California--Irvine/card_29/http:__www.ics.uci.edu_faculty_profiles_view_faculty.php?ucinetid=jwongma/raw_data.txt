@@ -1,0 +1,1 @@
+{"email": ["jennifer.wongma@uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["Computer Architecture and Design<br/>Embedded Systems<br/><h3>RESEARCH INTERESTS:</h3> Dr. Wong-Ma's research interests include wireless and distributed embedded systems, hardware intellectual property protection, and statistical optimization.\n<br/>"]}

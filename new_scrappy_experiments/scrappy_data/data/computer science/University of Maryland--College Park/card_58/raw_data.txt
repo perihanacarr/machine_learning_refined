@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/cummingsm.jpg?itok=qI01ZBo0&c=d4c54ad1856608332393bf570abe7db2", "site": "https://www.cs.umd.edu/people/mcummin1", "title": "professor", "email": 0, "extra_strings": "michael cummings"}

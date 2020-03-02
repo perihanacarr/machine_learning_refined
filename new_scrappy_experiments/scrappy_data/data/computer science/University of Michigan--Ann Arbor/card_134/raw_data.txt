@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/wlasecki.jpg", "site": "http://web.eecs.umich.edu/~wlasecki/", "title": "assistant professor", "email": "wlasecki@umich.edu", "extra_strings": "walter lasecki"}

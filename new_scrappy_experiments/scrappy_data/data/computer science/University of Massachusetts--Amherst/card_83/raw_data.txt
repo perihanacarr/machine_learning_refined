@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/wileden_jack", "title": 0, "email": "jack@cs.umass.edu", "extra_strings": "cs building"}

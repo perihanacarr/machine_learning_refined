@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2642.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/srinivas-narayana", "title": "assistant professor", "email": "srinivas.narayana@rutgers.edu", "extra_strings": "srinivas narayana"}

@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/rickl.jpg", "site": "http://www.ics.uci.edu/~rickl/", "title": "professor", "email": "%20rickl@ics.uci.edu", "extra_strings": "richard lathrop"}

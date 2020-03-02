@@ -1,0 +1,1 @@
+"<div class=\"col-3 omega\">\n<img alt=\"Christopher Jermaine\" src=\"/sites/g/files/bxs1251/f/cs_headshots/ChrisJermaine-March2016_0016-500x500.jpg\"/><h4>\n<a href=\"https://csweb.rice.edu/christopher-jermaine\">Christopher M. Jermaine</a></h4>\n<p>Professor of Computer Science</p>\n</div>"

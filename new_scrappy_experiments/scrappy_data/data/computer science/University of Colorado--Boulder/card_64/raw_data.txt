@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/jed.jpg?itok=iSWiqUOj", "site": "https://www.colorado.edu/cs/jed-brown", "title": "assistant professor", "email": "jed.brown@colorado.edu", "extra_strings": "jed brown"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://engineering.virginia.edu/faculty/tom-fletcher", "title": "associate professor", "email": "ptf8v@virginia.edu", "extra_strings": "tom fletcher"}

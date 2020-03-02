@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_Dandillidis.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=20", "title": "professor", "email": "kostas@cis.upenn.edu", "extra_strings": "konstantinos daniilidis"}

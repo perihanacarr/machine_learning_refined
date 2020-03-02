@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_kumar.jpg?itok=nciXhrgA", "site": "http://experts.umn.edu/en/persons/vipin-kumar%2885a37254-1e7a-485b-acdc-0179301d803f%29.html", "title": 0, "email": "kumar001@umn.edu", "extra_strings": "vipin kumar"}

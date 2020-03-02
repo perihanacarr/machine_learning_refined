@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/berger_emery", "title": "professor", "email": "emery@cs.umass.edu", "extra_strings": "cs building"}

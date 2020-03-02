@@ -1,0 +1,1 @@
+"<html><head>\n    <meta content=\"text/html; charset=windows-1252\" http-equiv=\"content-type\">\n    <title>Richert Wang Homepage</title>\n  </head>\n  <frameset cols=\"25%,80%\" bordercolor=\"#5C3000\" border=\"5\"> <frame src=\"navigation.html\" name=\"left\">\n    <frame src=\"info.html\" name=\"center\">\n  </frameset>\n\n</html>"

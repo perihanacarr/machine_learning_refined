@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/10/Swift_Michael-150x150.jpg", "site": "http://pages.cs.wisc.edu/~swift/new/", "title": "professor", "email": "swift@cs.wisc.edu", "extra_strings": "michael swift"}

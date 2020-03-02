@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_1195062105/vt-items_0/vtmulticolumn/vt-items_0/adaptiveimage.transform/m-medium/image.jpg", "site": "http://www.impedimenttoprogress.com/", "title": "assistant professor", "email": "mdhicks2@vt.edu", "extra_strings": "knowledgeworks ii"}

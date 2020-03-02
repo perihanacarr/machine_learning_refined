@@ -1,0 +1,1 @@
+"<html><head>\n<title>Home Page of Charlie Colbourn</title>\n</head>\n<frameset cols=\"25%,*\">\n<frame name=\"left\" src=\"./src/menu.html\">\n<frame name=\"right\" src=\"./src/home.html\">\n</frameset>\n\n    \n         \n     \n\n\n\n\n\n</html>"

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/dm2018-face.jpg?itok=v9mtC2rC&c=378f925a572f506653c71a3fa5582f12", "site": "https://www.cs.umd.edu/people/dmanocha", "title": "professor", "email": 0, "extra_strings": "dinesh manocha"}

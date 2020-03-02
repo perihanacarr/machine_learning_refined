@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/asanovic.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/asanovic.html", "title": "professor", "email": "krste@berkeley.edu", "extra_strings": "krste asanovi\u0107"}

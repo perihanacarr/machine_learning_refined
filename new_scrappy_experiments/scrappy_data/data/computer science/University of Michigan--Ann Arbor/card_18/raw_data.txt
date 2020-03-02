@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/chesneyd.jpg", "site": "https://chesneyd.engin.umich.edu/", "title": 0, "email": "chesneyd@umich.edu", "extra_strings": "david chesney"}

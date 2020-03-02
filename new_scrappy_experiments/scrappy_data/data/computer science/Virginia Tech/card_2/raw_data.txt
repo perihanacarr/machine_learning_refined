@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/article-image.transform/m-medium/image.jpg", "site": 0, "title": 0, "email": 0, "extra_strings": ""}

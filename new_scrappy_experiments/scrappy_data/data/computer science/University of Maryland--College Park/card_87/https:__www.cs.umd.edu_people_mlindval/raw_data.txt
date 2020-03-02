@@ -1,0 +1,1 @@
+{"email": ["mikli@fc-md.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/lindvall%20mikael.gif?itok=FzFDDaf6&c=583cc6343fc6ebcba64f1f08fa6c53c8"], "research_blurb": ["View Department Office Contacts"]}

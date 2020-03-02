@@ -1,0 +1,1 @@
+{"email": ["pattis@ics.uci.edu"], "image": ["https://www.cs.uci.edu/faculty/images/teachlearn.gif", "https://www.cs.uci.edu/faculty/images/admittedstudent.jpg", "https://www.cs.uci.edu/faculty/images/pattis.jpg"], "research_blurb": ["\n", "ACM Tech-News (summary + links)"]}

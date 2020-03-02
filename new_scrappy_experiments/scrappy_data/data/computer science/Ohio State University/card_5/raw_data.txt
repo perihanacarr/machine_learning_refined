@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/anish19.jpg?itok=wWT0igvQ&c=b7eb4781a8cb4ef38978aca131299349", "site": "https://cse.osu.edu/people/arora.9", "title": "professor", "email": "arora.9@osu.edu", "extra_strings": "eese laboratories"}

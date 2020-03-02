@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/headshotlr.jpg?itok=opxyrdSW", "site": "https://web.cs.dartmouth.edu/people/daniel-rockmore", "title": 0, "email": "Daniel.N.Rockmore@Dartmouth.EDU", "extra_strings": "daniel rockmore"}

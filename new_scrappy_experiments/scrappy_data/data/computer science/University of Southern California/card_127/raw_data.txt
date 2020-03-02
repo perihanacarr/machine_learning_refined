@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/358415ea1935b138a05d592ab606e680.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Shahabi&fname=Cyrus", "title": "professor", "email": "shahabi@usc.edu", "extra_strings": "cyrus shahabi"}

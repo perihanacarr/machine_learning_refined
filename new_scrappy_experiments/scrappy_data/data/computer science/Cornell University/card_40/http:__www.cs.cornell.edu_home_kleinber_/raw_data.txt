@@ -1,0 +1,1 @@
+{"email": [], "image": ["email-address01.jpg"], "research_blurb": ["\nI am a professor at Cornell University.\nMy research focuses on \nthe interaction of algorithms and networks, and\nthe roles they play in large-scale social and information systems.\nMy work has been supported by an \nNSF Career Award,\nan ONR Young Investigator Award,\na \n", ""]}

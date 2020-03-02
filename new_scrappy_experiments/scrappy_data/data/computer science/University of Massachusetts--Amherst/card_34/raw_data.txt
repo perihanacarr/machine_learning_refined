@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/krusell-brian", "title": 0, "email": "cicscareers@cics.umass.edu", "extra_strings": "a lgrc lowrise"}

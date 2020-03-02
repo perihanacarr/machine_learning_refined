@@ -1,0 +1,1 @@
+{"image": "images/photos/a_thumb_Crosbie.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=221", "title": 0, "email": "dcrosbie@upenn.edu", "extra_strings": "david crosbie"}

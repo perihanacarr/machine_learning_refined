@@ -1,0 +1,1 @@
+{"email": [], "image": ["images/Network.jpg"], "research_blurb": ["Our lab website has a shiny new look!"]}

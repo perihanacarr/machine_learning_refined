@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/me_highres-1.jpg?itok=a1lHpFsk", "site": "https://www.scs.gatech.edu/people/paul-pearce", "title": "assistant professor", "email": " ppearce7@gatech.edu", "extra_strings": "paul pearce"}

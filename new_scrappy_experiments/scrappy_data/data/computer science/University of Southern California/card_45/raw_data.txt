@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/be90f21a1879f16471a2948ff3681778.png", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Goodney&fname=Andrew", "title": 0, "email": "goodney@usc.edu", "extra_strings": "anew goodney"}

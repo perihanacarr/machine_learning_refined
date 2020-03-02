@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=4966&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/lrs", "title": 0, "email": "lrs@illinois.edu", "extra_strings": "lui sha"}

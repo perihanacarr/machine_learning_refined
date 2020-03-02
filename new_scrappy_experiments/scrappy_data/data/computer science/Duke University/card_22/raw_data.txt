@@ -1,0 +1,1 @@
+{"image": "http://www.cs.duke.edu/images/pic-fac/carla.jpg", "site": "https://www.cs.duke.edu/people/faculty/9", "title": "professor emeritus", "email": 0, "extra_strings": "carla ellis"}

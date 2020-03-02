@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Esma-S-Gel.jpg", "site": "http://faculty.engineering.asu.edu/esgel/", "title": "associate professor", "email": "esma.gel@asu.edu", "extra_strings": "esma gel"}

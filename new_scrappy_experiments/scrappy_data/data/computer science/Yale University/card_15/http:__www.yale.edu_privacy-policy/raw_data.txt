@@ -1,0 +1,1 @@
+{"email": [], "image": ["/sites/default/files/images/instagram-feb7.jpg"], "research_blurb": ["It looks like you're trying to zoom in on this page. For best results: use the most recent version of your browser, disable your browser's 'zoom text only' setting, and use your browser's default font size settings."]}

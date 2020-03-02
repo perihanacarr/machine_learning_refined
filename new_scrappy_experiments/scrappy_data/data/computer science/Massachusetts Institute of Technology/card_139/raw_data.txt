@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/rubinfeld.jpg", "site": "https://www.csail.mit.edu/user/896", "title": "professor", "email": "ronitt@csail.mit.edu", "extra_strings": "ronitt rubinfeld"}

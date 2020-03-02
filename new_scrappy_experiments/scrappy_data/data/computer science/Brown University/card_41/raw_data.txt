@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/62/4e/624eb68f-5eb2-44b1-9345-ed1390bb63ea/pff.jpg__60x80_q85_crop_subject_location-170%2C151_subsampling-2_zoom-50.jpg 60w", "site": "https://cs.brown.edu/people/faculty/pfelzens/", "title": "professor", "email": 0, "extra_strings": "peo f felzenszwalb"}

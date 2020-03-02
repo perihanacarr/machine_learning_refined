@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_897982575/vt-items_1/vtmulticolumn/vt-items_0/adaptiveimage.transform/m-medium/image.jpg", "site": "http://scape.cs.vt.edu", "title": "professor", "email": "cameron@cs.vt.edu", "extra_strings": "knowledgeworks ii"}

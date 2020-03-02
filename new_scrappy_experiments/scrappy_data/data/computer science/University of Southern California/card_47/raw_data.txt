@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/e52ece83dc0c50471d13cb416535d90e.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Gratch&fname=Jonathan", "title": "professor", "email": "gratch@ict.usc.edu", "extra_strings": "jonathan gratch"}

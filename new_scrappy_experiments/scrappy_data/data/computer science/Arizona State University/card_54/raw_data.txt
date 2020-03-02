@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Yezhou-Yang.jpg", "site": "https://yezhouyang.engineering.asu.edu/research-group/", "title": "assistant professor", "email": "yz.yang@asu.edu", "extra_strings": "yezhou yang"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/facultyfile.jpeg?itok=bZH4S0hx&c=b7b3095c7b2a1ee88775b605ef9df7a8", "site": "https://www.cs.umd.edu/people/ankurs", "title": "professor", "email": 0, "extra_strings": "ankur srivastava"}

@@ -1,0 +1,1 @@
+"<html><head>\n      <title>HTML Meta Tag</title>\n      <meta http-equiv=\"refresh\" content=\"2; url = http://www.cs.columbia.edu/cg/\">\n   </head>\n   <body>\n      <p>Redirecting to Eitan's research group page...</p>\n   \n</body></html>"

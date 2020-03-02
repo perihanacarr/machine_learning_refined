@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/mostafa-ammar_1.jpg?itok=U9bG3Xji", "site": "https://www.scs.gatech.edu/people/mostafa-ammar", "title": "professor", "email": "ammar@cc.gatech.edu", "extra_strings": "mostafa ammar"}

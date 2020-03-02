@@ -1,0 +1,1 @@
+{"image": "/static/img/82/0a5c5b5f0eb72410.45516909.jpeg", "site": "https://daklab.github.io/", "title": 0, "email": 0, "extra_strings": "david knowles"}

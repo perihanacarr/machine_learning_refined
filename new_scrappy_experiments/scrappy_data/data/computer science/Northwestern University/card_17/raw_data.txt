@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/tumblin-john-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/tumblin-john.html", "title": "associate professor", "email": "j-tumblin@northwestern.edu", "extra_strings": "jack tumblin"}

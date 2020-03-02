@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Palacios.png", "site": "https://www.eecs.mit.edu/people/faculty-advisors/7", "title": "professor", "email": "tpalacios@mit.edu", "extra_strings": "tom\u00e1s palacios"}

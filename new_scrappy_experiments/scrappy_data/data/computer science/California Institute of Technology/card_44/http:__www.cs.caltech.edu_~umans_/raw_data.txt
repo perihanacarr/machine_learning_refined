@@ -1,0 +1,1 @@
+{"email": ["umans@cs.caltech.edu"], "image": ["umans_c.jpg"], "research_blurb": ["My research interests are in theoretical computer science,\nespecially computational complexity. Specifically, I am interested in\nderandomization, explicit constructions, algebraic complexity and algorithms, and hardness\nof approximation. a summary of my research, and online papers"]}

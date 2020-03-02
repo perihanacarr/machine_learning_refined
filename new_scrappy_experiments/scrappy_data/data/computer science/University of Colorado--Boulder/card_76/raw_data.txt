@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/zamani_majid.jpg?itok=6KCwfh4X", "site": "https://www.colorado.edu/cs/majid-zamani", "title": "assistant professor", "email": "majid.zamani@colorado.edu", "extra_strings": "majid zamani"}

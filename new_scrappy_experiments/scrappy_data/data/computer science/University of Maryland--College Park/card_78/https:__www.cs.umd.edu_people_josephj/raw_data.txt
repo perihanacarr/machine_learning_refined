@@ -1,0 +1,1 @@
+{"email": ["joseph@umiacs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/ja%27ja%27%20joseph.jpg?itok=NUzu932M&c=16beb207738bef9caffdda7dba5a880d"], "research_blurb": ["View Department Office Contacts"]}

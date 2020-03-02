@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/eeea76f8dd756ec21167af9ea1538e15.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Razaviyayn&fname=Meisam", "title": "assistant professor", "email": "razaviya@usc.edu", "extra_strings": "meisam razaviyayn"}

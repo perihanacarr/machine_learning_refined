@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/robotfest.jpg?itok=HCsrSP7O", "site": "https://www.colorado.edu/cs/shaun-kane", "title": "associate professor", "email": "shaun.kane@colorado.edu", "extra_strings": "shaun kane"}

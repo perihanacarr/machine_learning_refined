@@ -1,0 +1,1 @@
+{"image": "/sites/cs.ucsb.edu/themes/cs_subtheme/css/images/home.png", "site": "http://www.cs.ucsb.edu/~omer/", "title": "professor", "email": "omer@cs.ucsb.edu", "extra_strings": "\u00f6mer e\u011fecio\u011flu"}

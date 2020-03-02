@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-40-1409067221.jpg?itok=skis2LDN", "site": "https://cpsc.yale.edu/people/brian-scassellati", "title": "professor", "email": "brian.scassellati@yale.edu", "extra_strings": "brian scassellati"}

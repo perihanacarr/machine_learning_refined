@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/7c/68/7c68f7d3-b8c5-4023-b39a-509a4cf84107/stefie10.jpg__60x80_q85_crop_subject_location-1638%2C2052_subsampling-2_zoom-50.jpg 60w", "site": "https://cs.brown.edu/people/faculty/stellex/", "title": "associate professor", "email": 0, "extra_strings": "stefanie a tellex"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/jan-hoffmann", "title": "assistant professor", "email": "jhoffmann@cs.cmu.edu", "extra_strings": "jan hoffmann"}

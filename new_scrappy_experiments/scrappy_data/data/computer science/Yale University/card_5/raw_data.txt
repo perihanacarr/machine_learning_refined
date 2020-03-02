@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-46-1409069919.jpg?itok=aQbpVxJt", "site": "http://www.cs.yale.edu/homes/spielman/", "title": "professor", "email": "daniel.spielman@yale.edu", "extra_strings": "daniel spielman"}

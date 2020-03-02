@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/saeed_hassanpour.jpg?itok=m3b5hLsR", "site": "https://web.cs.dartmouth.edu/people/saeed-hassanpour", "title": "associate professor", "email": "Saeed.Hassanpour@Dartmouth.edu", "extra_strings": "saeed hassanpour"}

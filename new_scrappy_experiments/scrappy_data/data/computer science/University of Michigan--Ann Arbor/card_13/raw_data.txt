@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/baveja.jpg", "site": "http://web.eecs.umich.edu/~baveja", "title": "professor", "email": "baveja@umich.edu", "extra_strings": "satinder baveja"}

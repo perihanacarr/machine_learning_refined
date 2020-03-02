@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=79386&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/tyxu", "title": "assistant professor", "email": "tyxu@illinois.edu", "extra_strings": "tianyin xu"}

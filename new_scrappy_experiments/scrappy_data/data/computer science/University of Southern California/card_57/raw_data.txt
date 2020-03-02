@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/64ab223bc7ed33cb74025b01f6f1ee95.jpeg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Hobbs&fname=Jerry", "title": "professor emeritus", "email": "hobbs@isi.edu", "extra_strings": "jerry hobbs"}

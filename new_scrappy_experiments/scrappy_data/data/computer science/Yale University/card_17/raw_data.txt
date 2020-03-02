@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-3559-1538768936.jpg?itok=Qam1i4UL", "site": "http://www.cs.yale.edu/homes/soule/", "title": "assistant professor", "email": "robert.soule@yale.edu", "extra_strings": "robert soul"}

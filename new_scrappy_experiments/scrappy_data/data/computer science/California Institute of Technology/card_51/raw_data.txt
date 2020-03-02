@@ -1,0 +1,1 @@
+{"image": "http://cloudfront.eas.caltech.edu/eas_directory/users/zuev/photos/konstantin-zuev-original.jpg?1464131980", "site": "http://cms.caltech.edu/people/zuev", "title": "assistant professor", "email": 0, "extra_strings": "konstantin zuev"}

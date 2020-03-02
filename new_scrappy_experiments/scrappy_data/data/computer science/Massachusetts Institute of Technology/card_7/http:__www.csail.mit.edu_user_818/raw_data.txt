@@ -1,0 +1,1 @@
+{"email": ["news@csail.mit.edu?subject=CSAIL%20Media%20Inquiry"], "image": ["/sites/default/files/styles/headshot/public/images/migration/brooks.jpg?h=5636fc5d&itok=EibR8XjO"], "research_blurb": ["Last updated Oct 20 '17"]}

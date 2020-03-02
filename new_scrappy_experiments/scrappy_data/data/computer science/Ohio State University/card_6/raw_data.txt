@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/bassily.1.jpg?itok=gKIcVsfW&c=158fbe84c51f7e029bd5b2b572c3426e", "site": "https://sites.google.com/view/rbassily", "title": "assistant professor", "email": "bassily.1@osu.edu", "extra_strings": "eese labs"}

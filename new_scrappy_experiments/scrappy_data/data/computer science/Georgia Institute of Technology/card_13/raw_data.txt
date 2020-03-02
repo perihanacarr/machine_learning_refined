@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/ddevecsery2.jpg?itok=POmkGmPG", "site": "https://www.scs.gatech.edu/people/david-devecsery", "title": "assistant professor", "email": "david.devecsery@cc.gatech.edu", "extra_strings": "david devecsery"}

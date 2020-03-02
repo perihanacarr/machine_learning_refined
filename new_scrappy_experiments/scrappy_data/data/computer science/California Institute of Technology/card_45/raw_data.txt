@@ -1,0 +1,1 @@
+{"image": "http://cloudfront.eas.caltech.edu/eas_directory/users/venkatc/photos/venkat-chandrasekaran-original.jpg?1464105560", "site": "http://cms.caltech.edu/people/venkatc", "title": "professor", "email": 0, "extra_strings": "venkat chanasekaran"}

@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/headshot_sm3.jpg?itok=ga6QvgrS", "site": "https://web.cs.dartmouth.edu/people/james-mahoney", "title": 0, "email": "James.M.Mahoney@Dartmouth.edu", "extra_strings": "james mahoney"}

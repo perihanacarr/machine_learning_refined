@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_dovolis.jpg?itok=NcD5MVHy", "site": "https://www.cs.umn.edu/people/chris-dovolis", "title": 0, "email": "dovol002@umn.edu", "extra_strings": "chris dovolis"}

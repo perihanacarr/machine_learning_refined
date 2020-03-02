@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2665.jpeg", "site": "https://www.cs.rutgers.edu/people/professors/details/jingjin-yu", "title": "assistant professor", "email": "jingjin.yu@cs.rutgers.edu", "extra_strings": "jingjin yu"}

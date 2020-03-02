@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://www.google.com/images/cleardot.gif", "https://www.seas.harvard.edu/computer-science/malan6.jpg", "https://www.gstatic.com/images/branding/product/1x/translate_24dp.png"], "research_blurb": ["bioresearch statement"]}

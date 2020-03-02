@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/hammond-kristian-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hammond-kristian.html", "title": "professor", "email": "hammond@cs.northwestern.edu", "extra_strings": "kristian hammond"}

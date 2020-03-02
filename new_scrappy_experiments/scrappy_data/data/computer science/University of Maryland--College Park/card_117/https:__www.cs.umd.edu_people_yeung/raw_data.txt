@@ -1,0 +1,1 @@
+{"email": ["yeung@glue.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/yeung%20donald.jpg?itok=QYf7Eo1D&c=0172257b0b4526f7982ada656dc83c9b"], "research_blurb": ["View Department Office Contacts"]}

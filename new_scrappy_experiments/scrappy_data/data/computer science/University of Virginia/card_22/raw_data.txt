@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://scholar.google.com/citations?user=uY6ek7sAAAAJ&hl=en", "title": "assistant professor", "email": "jl6qk@virginia.edu", "extra_strings": "jundong li"}

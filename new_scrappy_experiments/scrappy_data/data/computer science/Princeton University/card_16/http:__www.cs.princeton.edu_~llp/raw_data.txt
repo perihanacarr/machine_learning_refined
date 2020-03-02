@@ -1,0 +1,1 @@
+{"email": [], "image": ["me.jpg"], "research_blurb": [" (now open sourced). His research focuses on the design,\nimplementation, and deployment of Internet-scale distributed systems,\nincluding the widely used "]}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/portrait_0.jpg?itok=A7RN671T&c=a4fd2c894e54f3fb4cbaa84e5142d9a2", "site": "https://www.cs.umd.edu/research-area/graphics-visualization-and-vr-ar", "title": "professor", "email": 0, "extra_strings": "matthias zwicker"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.jhu.edu/wp-content/uploads/2013/09/Nassir_IEEE2019-180x245.jpg", "site": "https://www.cs.jhu.edu/faculty/nassir-navab/", "title": "professor", "email": 0, "extra_strings": "nassir navab"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_interran.jpg?itok=vuKSI2pP", "site": "https://www.cs.umn.edu/people/victoria-interrante", "title": 0, "email": "interran@umn.edu", "extra_strings": "victoria interrante"}

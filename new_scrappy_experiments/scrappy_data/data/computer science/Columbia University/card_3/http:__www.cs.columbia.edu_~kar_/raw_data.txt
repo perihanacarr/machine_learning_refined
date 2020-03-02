@@ -1,0 +1,1 @@
+{"email": ["kar@cs.columbia.edu"], "image": [], "research_blurb": ["Research. "]}

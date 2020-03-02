@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/vigoda-headshot-2017-low_0.jpg?itok=3A6tDG7P", "site": "https://www.scs.gatech.edu/people/eric-vigoda", "title": "professor", "email": "", "extra_strings": "eric vigoda"}

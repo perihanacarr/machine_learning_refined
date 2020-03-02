@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/Mimno%2C%20David%20%282%29.jpg?itok=6_AiPBXk", "site": "https://www.cs.cornell.edu/research/humaninteraction", "title": "assistant professor", "email": 0, "extra_strings": "david mimno"}

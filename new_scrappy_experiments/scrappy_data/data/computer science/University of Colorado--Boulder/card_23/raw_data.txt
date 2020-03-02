@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/lehman.jpg?itok=qM2YJGO8", "site": "https://www.colorado.edu/cs/tamara-lehman", "title": "assistant professor", "email": "Tamara.Lehman@colorado.edu", "extra_strings": "tamara lehman"}

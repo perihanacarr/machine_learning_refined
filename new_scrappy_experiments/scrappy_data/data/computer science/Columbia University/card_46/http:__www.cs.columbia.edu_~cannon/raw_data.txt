@@ -1,0 +1,1 @@
+{"email": ["cannon@cs.columbia.edu"], "image": ["http://www.cs.columbia.edu/people/faculty/Adam_Heath_Cannon_files/shapeimage_1.jpg", "http://www.cs.columbia.edu/people/faculty/Adam_Heath_Cannon_files/shapeimage_2.jpg"], "research_blurb": ["Current research interests are in:"]}

@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/alexorso-small.png?itok=uSTD80CH", "site": "https://www.scs.gatech.edu/people/alessandro-orso", "title": "professor", "email": "alessandro.orso@cc.gatech.edu", "extra_strings": "alessano orso"}

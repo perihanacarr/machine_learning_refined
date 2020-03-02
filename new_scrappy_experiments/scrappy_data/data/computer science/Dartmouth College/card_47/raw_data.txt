@@ -1,0 +1,1 @@
+{"image": "https://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/styles/profile_listing/public/O%2527Malley%252C%2BJames.jpg?itok=bsY1JAUn", "site": "https://web.cs.dartmouth.edu/people/james-omalley", "title": "adjunct professor", "email": "James.OMalley@Dartmouth.edu", "extra_strings": "james o\u2019malley"}

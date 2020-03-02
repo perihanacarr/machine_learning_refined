@@ -1,0 +1,1 @@
+{"email": ["nham@umich.edu"], "image": ["https://cse.engin.umich.edu/people/faculty/Images/NicoleHamilton-2015-04-17-Square-800x800.jpg", "https://cse.engin.umich.edu/people/faculty/Images/CSE-acronym-formal.png", "https://cse.engin.umich.edu/people/faculty/Images/WhiteDot1000x1.png"], "research_blurb": ["\n\n\n\n"]}

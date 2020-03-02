@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/hartmann.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/CPSDA", "title": "associate professor", "email": "bjoern@eecs.berkeley.edu", "extra_strings": "bj\u00f6rn hartmann"}

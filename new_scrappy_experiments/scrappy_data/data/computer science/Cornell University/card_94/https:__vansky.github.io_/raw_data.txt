@@ -1,0 +1,1 @@
+{"email": ["marten.vanschijndel@gmail.com"], "image": ["/assets/face.png"], "research_blurb": ["Computational Psycholinguist", "I manage the C.Psyd research lab (Seaside; Computational Psycholinguistics Discussions). If you have interests in linguistics, cognitive science, and computer science and would like to join my lab, read more "]}

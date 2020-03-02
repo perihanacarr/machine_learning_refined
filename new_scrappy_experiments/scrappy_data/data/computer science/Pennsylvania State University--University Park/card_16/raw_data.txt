@@ -1,0 +1,1 @@
+{"image": "/dir/photos/FURER-MARTIN.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=fhs", "title": "professor", "email": "fhs@psu.edu", "extra_strings": "w westgate building"}

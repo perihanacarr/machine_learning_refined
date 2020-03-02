@@ -1,0 +1,1 @@
+{"image": "/sites/cs.ucsb.edu/themes/cs_subtheme/css/images/home.png", "site": "http://www.cs.ucsb.edu/~richert", "title": "professor", "email": "richert@cs.ucsb.edu", "extra_strings": "richert wang"}

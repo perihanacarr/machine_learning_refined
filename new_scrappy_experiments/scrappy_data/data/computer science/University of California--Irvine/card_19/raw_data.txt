@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/givargis.jpg", "site": "http://www.ics.uci.edu/~givargis/", "title": "professor", "email": "%20givargis@uci.edu", "extra_strings": "embedded systems"}

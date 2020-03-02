@@ -1,0 +1,1 @@
+"<div class=\"row\">\n<div class=\"col-3\">\n<img alt=\"Mike Burke\" src=\"/sites/g/files/bxs1251/f/MichaelBurke_500.jpg\"/><h4>\n<a href=\"https://csweb.rice.edu/mike-burke\">Mike Burke</a></h4>\n</div>\n<div class=\"col-3 omega\">\n<p>\u00a0</p>\n</div>\n</div>"

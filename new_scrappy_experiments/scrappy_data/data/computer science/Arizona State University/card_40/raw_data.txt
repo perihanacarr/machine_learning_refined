@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Ross-Maciejewski.jpg", "site": "http://vader.lab.asu.edu/", "title": "associate professor", "email": "rmacieje@asu.edu", "extra_strings": "ross maciejewski"}

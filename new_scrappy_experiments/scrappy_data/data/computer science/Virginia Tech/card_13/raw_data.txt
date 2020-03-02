@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_1311301602/vt-items_0/vtmulticolumn_copy/vt-items_0/adaptiveimage.transform/m-medium/image.jpg", "site": "http://people.cs.vt.edu/~jicho/", "title": "associate professor", "email": "jicho@vt.edu", "extra_strings": "jin-hee cho"}

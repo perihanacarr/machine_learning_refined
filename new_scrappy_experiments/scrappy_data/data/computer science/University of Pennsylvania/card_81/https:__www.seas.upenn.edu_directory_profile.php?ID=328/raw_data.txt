@@ -1,0 +1,1 @@
+{"email": ["swapneel@cis.upenn.edu"], "image": ["images/photos/full-sheth.jpg "], "research_blurb": ["\nEmail | Personal Webpage "]}

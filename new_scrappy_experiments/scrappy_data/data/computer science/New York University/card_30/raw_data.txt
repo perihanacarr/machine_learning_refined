@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/Meyers_18-0078__0147_250x250.jpg", "site": "http://nlp.cs.nyu.edu/people/meyers.html", "title": "associate professor", "email": 0, "extra_strings": "adam meyers"}

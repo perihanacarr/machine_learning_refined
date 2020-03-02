@@ -1,0 +1,1 @@
+{"email": ["bajcsy@eecs.berkeley.edu"], "image": ["images/photos/full-bajcsy.jpg "], "research_blurb": ["\nEmail | Personal Webpage "]}

@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-37-1409066953.jpg?itok=OJkYodyP", "site": "https://cpsc.yale.edu/people/vladimir-rokhlin", "title": "professor", "email": "vladimir.rokhlin@yale.edu", "extra_strings": "vladimir rokhlin"}

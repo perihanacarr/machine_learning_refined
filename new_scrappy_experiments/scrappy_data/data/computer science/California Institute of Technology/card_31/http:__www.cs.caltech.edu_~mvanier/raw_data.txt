@@ -1,0 +1,1 @@
+{"email": ["mvanier@cms.caltech.edu", "mvanier@cs.caltech.edu"], "image": [], "research_blurb": ["In my capacity as instructor, I help Caltechers (undergrads, grad students,\nand others in the Caltech community) with their computer-related course work,\nresearch projects, and personal projects.", "Science", ""]}

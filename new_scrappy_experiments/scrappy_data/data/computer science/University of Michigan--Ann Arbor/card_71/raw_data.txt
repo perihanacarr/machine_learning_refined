@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/kjc.jpg", "site": "http://web.eecs.umich.edu/~kjc", "title": "associate professor", "email": "kjc@umich.edu", "extra_strings": "kevin compton"}

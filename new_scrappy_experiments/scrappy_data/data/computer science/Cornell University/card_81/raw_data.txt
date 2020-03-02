@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/campbellpic2.jpg?itok=8W18656v", "site": "http://campbell.mae.cornell.edu/", "title": "professor", "email": 0, "extra_strings": "mark campbell"}

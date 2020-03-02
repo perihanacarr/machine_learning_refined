@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://cse.engin.umich.edu/people/faculty/files/line.jpg", "https://cse.engin.umich.edu/people/faculty/files/me_photo_small.jpg"], "research_blurb": ["\nRonald G. Dreslinski\n      \n      "]}

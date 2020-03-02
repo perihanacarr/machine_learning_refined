@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/ramachandran_vijaya.jpg?itok=i_IhCKoi", "site": "https://www.cs.utexas.edu/people/faculty-researchers/vijaya-ramachandran", "title": "professor", "email": 0, "extra_strings": "vijaya ramachanan"}

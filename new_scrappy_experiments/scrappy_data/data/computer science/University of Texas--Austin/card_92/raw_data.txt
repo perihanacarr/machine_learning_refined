@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/plaxton_greg.jpg?itok=gWuWHfSV", "site": "https://www.cs.utexas.edu/people/faculty-researchers/greg-plaxton", "title": "professor", "email": 0, "extra_strings": "greg plaxton"}

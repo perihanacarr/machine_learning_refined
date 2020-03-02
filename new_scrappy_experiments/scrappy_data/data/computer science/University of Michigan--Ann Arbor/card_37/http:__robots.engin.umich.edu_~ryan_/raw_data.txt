@@ -1,0 +1,1 @@
+{"email": ["eustice@umich.edu"], "image": ["http://robots.engin.umich.edu/~ryan/img/RME5-Square150.jpg"], "research_blurb": ["My research interests include simultaneous localization and mapping for mobile robotics using visual perception, underwater image registration and processing, underwater vehicle navigation, and autonomous underwater vehicles.  \n"]}

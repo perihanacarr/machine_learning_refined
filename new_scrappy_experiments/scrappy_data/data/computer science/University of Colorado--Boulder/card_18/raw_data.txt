@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/bobby-pnp.jpg?itok=yK7fuwA5", "site": "https://www.colorado.edu/cs/bobby-schnabel", "title": "professor", "email": "Robert.Schnabel@colorado.edu", "extra_strings": "bobby schnabel"}

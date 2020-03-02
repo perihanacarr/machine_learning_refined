@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/lt1_big_0.jpg?itok=l3ITfgA5", "site": "https://web.cs.dartmouth.edu/people/lorenzo-torresani", "title": "associate professor", "email": "Lorenzo.Torresani@Dartmouth.edu", "extra_strings": "lorenzo torresani"}

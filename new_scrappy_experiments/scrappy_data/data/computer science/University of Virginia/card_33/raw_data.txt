@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://engineering.virginia.edu/faculty/n-rich-nguyen", "title": "assistant professor", "email": "nn4pj@virginia.edu", "extra_strings": "n rich nguyen"}

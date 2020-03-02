@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/woolf_beverly", "title": "professor", "email": "bev@cs.umass.edu", "extra_strings": "beverly p woolf"}

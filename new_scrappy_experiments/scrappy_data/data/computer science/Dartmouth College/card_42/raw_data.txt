@@ -1,0 +1,1 @@
+{"image": "https://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/styles/homepage_feature/public/248_bakerview.jpg?itok=eoRPDu5Y", "site": "https://web.cs.dartmouth.edu/tags/faculty", "title": 0, "email": 0, "extra_strings": "faculty achievements"}

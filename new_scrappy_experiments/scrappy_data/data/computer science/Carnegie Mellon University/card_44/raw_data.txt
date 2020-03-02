@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/mor-harchol-balter", "title": "professor", "email": "harchol@cs.cmu.edu", "extra_strings": "mor harchol-balter"}

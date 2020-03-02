@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/gurevich.jpg", "site": "https://web.eecs.umich.edu/~gurevich/", "title": "professor emeritus", "email": "gurevich@umich.edu", "extra_strings": "yuri gurevich"}

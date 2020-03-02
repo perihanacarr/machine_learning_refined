@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Bradley Lucier</td><td>Professor Emeritus</td><td style=\"white-space: nowrap\"><phone>49-41979</phone></td><td style=\"white-space: nowrap\"><office>MATH 809</office></td><td><a href=\"mailto:lucier@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/lucier/\">Bio</a></td></tr>"

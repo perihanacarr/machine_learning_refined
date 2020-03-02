@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/jhalderm.jpg", "site": "https://jhalderm.com/", "title": "professor", "email": "jhalderm@umich.edu", "extra_strings": "j alex halderman"}

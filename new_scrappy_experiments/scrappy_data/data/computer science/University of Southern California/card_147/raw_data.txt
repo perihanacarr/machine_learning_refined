@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/67b86ab24fee7464beb4909543c0e309.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Valero-Cuevas&fname=Francisco", "title": "professor", "email": "valero@usc.edu", "extra_strings": "francisco valero-cuevas"}

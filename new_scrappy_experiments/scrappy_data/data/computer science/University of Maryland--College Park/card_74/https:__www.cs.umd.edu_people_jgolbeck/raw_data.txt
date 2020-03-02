@@ -1,0 +1,1 @@
+{"email": ["jgolbeck@umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/golbeck%20jen.jpg?itok=9SvLGRrb&c=a63530f3caef3b8f4029bf91bca4eb04"], "research_blurb": ["View Department Office Contacts"]}

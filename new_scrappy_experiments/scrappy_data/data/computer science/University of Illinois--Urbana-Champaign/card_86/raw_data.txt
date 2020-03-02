@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=5014&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/wgropp", "title": 0, "email": "wgropp@illinois.edu", "extra_strings": "william d gropp"}

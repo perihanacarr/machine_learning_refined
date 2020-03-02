@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/09/Tim-Lindquist-1.jpg", "site": "https://isearch.asu.edu/profile/60812", "title": "professor", "email": "Tim.Lindquist@asu.edu", "extra_strings": "tim lindquist"}

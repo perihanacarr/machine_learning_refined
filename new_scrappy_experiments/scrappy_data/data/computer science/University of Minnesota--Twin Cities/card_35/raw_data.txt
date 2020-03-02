@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/moen_final_2.jpg?itok=oN9EGld8", "site": "https://www.cs.umn.edu/people/james-moen", "title": 0, "email": "moen0017@umn.edu", "extra_strings": "james moen"}

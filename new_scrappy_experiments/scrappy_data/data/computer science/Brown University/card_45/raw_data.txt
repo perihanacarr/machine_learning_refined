@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/6f/0c/6f0c774f-f68e-4b91-8438-7416edbcddff/matteoriondato.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "http://matteo.rionda.to", "title": "assistant professor", "email": 0, "extra_strings": "matteo riondato"}

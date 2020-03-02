@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/rao.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/rao.html", "title": "professor", "email": "satishr@cs.berkeley.edu", "extra_strings": "soda hall, -- satishrcsberkeleyedu"}

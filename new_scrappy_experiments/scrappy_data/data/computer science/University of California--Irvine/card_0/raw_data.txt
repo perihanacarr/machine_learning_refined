@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/aburtsev.jpg", "site": "http://www.ics.uci.edu/~aburtsev/", "title": "adjunct professor", "email": "%20aburtsev@uci.edu", "extra_strings": "anton burtsev"}

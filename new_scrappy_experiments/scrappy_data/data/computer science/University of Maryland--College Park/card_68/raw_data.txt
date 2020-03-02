@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/elmqvist1.jpg?itok=c3bzuYa-&c=abba7c084d792902a3a4a1ddbb1ecb80", "site": "https://www.cs.umd.edu/research-area/human-computer-interaction", "title": "associate professor", "email": 0, "extra_strings": "niklas elmqvist"}

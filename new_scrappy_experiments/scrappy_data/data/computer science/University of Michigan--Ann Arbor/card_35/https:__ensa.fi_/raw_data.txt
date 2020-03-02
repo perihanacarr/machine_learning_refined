@@ -1,0 +1,1 @@
+{"email": [], "image": ["roya-headshot1.jpg"], "research_blurb": ["<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"170\" src=\"https://www.youtube.com/embed/cFs9HjzCaIE\" width=\"170\"></iframe>\n\n<div style=\"width:200; display:table-cell;\">"]}

@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/trevisan.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/trevisan.html", "title": "professor", "email": "luca@berkeley.edu", "extra_strings": "luca trevisan"}

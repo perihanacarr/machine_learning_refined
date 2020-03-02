@@ -1,0 +1,1 @@
+{"email": ["youremail@xyz.edu"], "image": ["images/feng_photo.jpg"], "research_blurb": [". My research interests cover the broad areas of mobile systems, AR/VR, mobile networking (including 5G), wearable computing, real-world system measurements, and system security. I obtained my Ph.D. \nfrom My on-going and past research includes:"]}

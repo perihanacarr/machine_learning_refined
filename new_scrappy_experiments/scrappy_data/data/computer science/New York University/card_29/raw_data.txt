@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/McIntosh_18-0078__0200_250x250.jpg", "site": "https://sites.google.com/a/nyu.edu/suzanne-mcintosh-nyu-homepage/home", "title": "associate professor", "email": 0, "extra_strings": "suzanne mcintosh"}

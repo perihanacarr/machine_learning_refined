@@ -1,0 +1,1 @@
+{"email": ["Caroline_Klivans@brown.edu"], "image": ["https://cs.brown.edu/people/faculty/image1bilcrop.png", "https://cs.brown.edu/people/faculty/Peterson.png"], "research_blurb": ["\n\n      MSRI, research member, 2017. \n\tICERM, research member, 2016. \n\t\t\t\t      UChicago, research scholar, 2008-2011. "]}

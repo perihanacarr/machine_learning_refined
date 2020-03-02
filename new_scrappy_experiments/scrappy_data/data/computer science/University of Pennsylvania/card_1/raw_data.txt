@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb-roth-aaron.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=177", "title": "associate professor", "email": "aaroth@cis.upenn.edu", "extra_strings": "aaron roth"}

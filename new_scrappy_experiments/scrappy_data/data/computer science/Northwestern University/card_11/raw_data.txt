@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/memik-gokhan-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/memik-gokhan.html", "title": "professor", "email": "g-memik@northwestern.edu", "extra_strings": "gokhan memik"}

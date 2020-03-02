@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/parlett.jpg"], "research_blurb": ["Professor Emeritus"]}

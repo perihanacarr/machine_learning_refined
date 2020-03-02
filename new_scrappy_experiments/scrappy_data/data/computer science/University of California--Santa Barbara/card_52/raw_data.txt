@@ -1,0 +1,1 @@
+{"image": "/sites/cs.ucsb.edu/themes/cs_subtheme/css/images/home.png", "site": "http://www.cs.utexas.edu/users/yufeng/", "title": "assistant professor", "email": "yufeng@cs.ucsb.edu", "extra_strings": "yu feng"}

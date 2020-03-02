@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/mary-shaw", "title": "professor", "email": "shaw@cs.cmu.edu", "extra_strings": "mary shaw"}

@@ -1,0 +1,1 @@
+{"email": ["davidson@umich.edu"], "image": ["davidson.jpg"], "research_blurb": ["brief biography"]}

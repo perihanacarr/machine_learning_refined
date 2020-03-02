@@ -1,0 +1,1 @@
+{"email": ["admit@eecs.umich.edu"], "image": ["TJT.jpg", "mailbox.gif"], "research_blurb": ["\n", "\n", "\n", ""]}

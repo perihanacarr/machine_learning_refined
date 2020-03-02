@@ -1,0 +1,1 @@
+{"email": [], "image": ["http://www.cs.nyu.edu/~mohri/photo.jpg", "https://www.cims.nyu.edu/~mohri/mlbook/10290_pptd.jpg"], "research_blurb": ["\nHome\n"]}

@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/aprakash.jpg", "site": "http://web.eecs.umich.edu/~aprakash/", "title": "professor", "email": "aprakash@umich.edu", "extra_strings": "atul prakash"}

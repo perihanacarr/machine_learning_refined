@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/hicks.jpg?itok=6oyBZYeS&c=aec91935ac7661c379336d8755aa8121", "site": "https://www.cs.umd.edu/researcharea/cybersecurity-and-cryptography", "title": "professor", "email": 0, "extra_strings": "michael hicks"}

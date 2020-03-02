@@ -1,0 +1,1 @@
+{"email": ["louiqa@umiacs.cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/raschid%20louiqa.jpg?itok=dSNNnR1k&c=ab1ae34f28f5594abfd89e5c82f9365f"], "research_blurb": ["View Department Office Contacts"]}

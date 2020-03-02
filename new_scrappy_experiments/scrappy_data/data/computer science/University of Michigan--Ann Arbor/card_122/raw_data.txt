@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/tewaria.jpg", "site": "https://ambujtewari.github.io/", "title": "assistant professor", "email": "tewaria@umich.edu", "extra_strings": "ambuj tewari"}

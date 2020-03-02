@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jrk.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/PS", "title": "assistant professor", "email": "jrk@berkeley.edu", "extra_strings": "jonathan ragan-kelley"}

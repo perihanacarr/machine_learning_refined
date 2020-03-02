@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/ericfl.jpg?itok=V_zpYItd&c=41fea40547fae3e804c62fa061e40d73", "site": "https://cse.osu.edu/people/fosler-lussier.1", "title": "professor", "email": "fosler-lussier.1@osu.edu", "extra_strings": "eese laboratories"}

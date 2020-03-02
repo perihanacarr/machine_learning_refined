@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/af14d4429d434c65c40ecfd0d8e77194.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Dehghani&fname=Morteza", "title": "assistant professor", "email": "mdehghan@usc.edu", "extra_strings": "morteza dehghani"}

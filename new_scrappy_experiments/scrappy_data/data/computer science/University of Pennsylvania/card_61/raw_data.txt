@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb-placeholder.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=320", "title": "professor emeritus", "email": "nsp@cis.upenn.edu", "extra_strings": "noah prywes"}

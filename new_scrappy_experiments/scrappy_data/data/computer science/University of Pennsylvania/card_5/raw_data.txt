@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_De_Hon.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=23", "title": "professor", "email": "andre@seas.upenn.edu", "extra_strings": "ane dehon"}

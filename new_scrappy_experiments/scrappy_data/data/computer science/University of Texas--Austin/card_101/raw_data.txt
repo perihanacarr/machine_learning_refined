@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/shacham_hovav.jpg?itok=hhmDJGgi", "site": "https://www.cs.utexas.edu/people/faculty-researchers/hovav-shacham", "title": "professor", "email": 0, "extra_strings": "hovav shacham"}

@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/merrick_furst_0.jpg?itok=soxiwQIX", "site": "https://www.scs.gatech.edu/people/merrick-furst", "title": "professor", "email": "merrick.furst@cc.gatech.edu", "extra_strings": "merrick furst"}

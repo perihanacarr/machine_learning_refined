@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Parker_Ronald_R_smaller_0.jpg", "site": "https://www.psfc.mit.edu/people/faculty/ronald-parker", "title": "professor", "email": "parker@PSFC.MIT.EDU", "extra_strings": "ronald parker"}

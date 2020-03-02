@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_gini.jpg?itok=9FK2yKpP", "site": "https://www.cs.umn.edu/people/maria-gini", "title": 0, "email": "gini@umn.edu", "extra_strings": "maria gini"}

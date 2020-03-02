@@ -1,0 +1,1 @@
+{"image": "images/photos/a-thumb-vohra-r.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=192", "title": "professor", "email": "rvohra@seas.upenn.edu", "extra_strings": "rakesh vohra"}

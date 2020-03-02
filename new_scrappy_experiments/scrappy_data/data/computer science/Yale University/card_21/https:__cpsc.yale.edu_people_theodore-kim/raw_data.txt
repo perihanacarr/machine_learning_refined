@@ -1,0 +1,1 @@
+{"email": ["theodore.kim@yale.edu"], "image": ["https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-3793-1567108482.jpg?itok=ZFbnD4UR"], "research_blurb": ["Prof. Kim researches topics in physics-based simulation, including "]}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/venkataramani_arun", "title": "professor", "email": "arun@cs.umass.edu", "extra_strings": "arun venkataramani"}

@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/6c06b09aac9437fac27f9bf1e31d7155.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Brun&fname=Todd", "title": "professor", "email": "tbrun@usc.edu", "extra_strings": "todd brun"}

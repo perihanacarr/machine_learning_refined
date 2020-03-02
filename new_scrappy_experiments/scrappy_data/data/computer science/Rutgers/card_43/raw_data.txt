@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2657.jpeg", "site": "https://www.cs.rutgers.edu/people/professors/details/seshadri-venugopal", "title": "professor", "email": "sesh.venugopal@rutgers.edu", "extra_strings": "seshai venugopal"}

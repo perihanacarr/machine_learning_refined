@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Shulaker%20Small.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/29", "title": "associate professor", "email": "shulaker@mit.edu", "extra_strings": "max shulaker"}

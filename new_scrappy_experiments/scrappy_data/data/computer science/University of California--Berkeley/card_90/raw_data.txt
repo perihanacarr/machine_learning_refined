@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/shenker.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/OSNT", "title": "professor", "email": "shenker@icsi.berkeley.edu", "extra_strings": "scott shenker"}

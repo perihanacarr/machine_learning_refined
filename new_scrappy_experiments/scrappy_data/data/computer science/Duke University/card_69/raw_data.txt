@@ -1,0 +1,1 @@
+{"image": "https://www2.cs.duke.edu/images/pic-fac/MariaGorlatova400x600.jpg", "site": "https://www.cs.duke.edu/people/faculty/312", "title": "assistant professor", "email": 0, "extra_strings": "mariagorlatova at dukeedu"}

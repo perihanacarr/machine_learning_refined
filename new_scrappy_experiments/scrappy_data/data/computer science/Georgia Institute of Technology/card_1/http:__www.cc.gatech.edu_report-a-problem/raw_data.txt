@@ -1,0 +1,1 @@
+{"email": [], "image": ["/sites/all/themes/gt/images/gt-map-image-default.jpg"], "research_blurb": ["Please fill out the following form to report a problem with our website, whether it be a broken link or something that is not accessible for you."]}

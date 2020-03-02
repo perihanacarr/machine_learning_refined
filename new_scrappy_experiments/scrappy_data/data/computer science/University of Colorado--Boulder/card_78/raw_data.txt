@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/mdg_02.jpg?itok=z0HN2s3r", "site": "https://www.colorado.edu/cs/mark-gross", "title": "professor", "email": "mdgross@colorado.edu", "extra_strings": "mark gross"}

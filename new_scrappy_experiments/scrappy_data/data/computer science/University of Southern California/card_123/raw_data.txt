@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/3cb7d8a0098348ff4ed49954e7f0654e.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Colon&fname=St-John", "title": 0, "email": "scolon@usc.edu", "extra_strings": "st-john colon"}

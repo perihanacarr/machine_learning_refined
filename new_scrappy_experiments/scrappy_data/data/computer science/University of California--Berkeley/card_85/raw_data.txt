@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/russell.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/AI", "title": "professor", "email": "russell@cs.berkeley.edu", "extra_strings": "stuart j russell"}

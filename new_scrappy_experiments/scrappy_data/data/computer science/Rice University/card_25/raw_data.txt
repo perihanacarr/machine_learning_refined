@@ -1,0 +1,1 @@
+{"image": "/sites/g/files/bxs1251/f/cs_headshots/MikeFagan.jpg", "site": "https://csweb.rice.edu/mike-fagan-0", "title": 0, "email": 0, "extra_strings": "mike fagan"}

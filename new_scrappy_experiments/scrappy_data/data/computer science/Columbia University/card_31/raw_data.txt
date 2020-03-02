@@ -1,0 +1,1 @@
+{"image": "/static/img/2/5ca1f6191175a4034a5442e3a781af76.jpeg", "site": "http://www.cs.columbia.edu/~rocco", "title": 0, "email": 0, "extra_strings": "rocco a servedio"}

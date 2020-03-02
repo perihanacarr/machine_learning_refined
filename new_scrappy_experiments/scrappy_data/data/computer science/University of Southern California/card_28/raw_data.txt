@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/noprofile.png", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Core&fname=Mark", "title": 0, "email": "core@ict.usc.edu", "extra_strings": "mark core"}

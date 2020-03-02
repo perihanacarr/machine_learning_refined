@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/vijayaraghavan-aravindan-t1.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/vijayaraghavan-aravindan.html", "title": "assistant professor", "email": "aravindv@northwestern.edu", "extra_strings": "aravindan vijayaraghavan"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://cs.ucsb.edu/people/faculty/wolski", "title": "professor", "email": "rich@cs.ucsb.edu", "extra_strings": "rich wolski"}

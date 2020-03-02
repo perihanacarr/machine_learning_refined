@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/7c7d53bdc57a14365711f22c71acf142.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Soleymani&fname=Mohammad", "title": "assistant professor", "email": "msoleyma@usc.edu", "extra_strings": "mohammad soleymani"}

@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/walrand.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/walrand.html", "title": "professor emeritus", "email": "wlr@eecs.berkeley.edu", "extra_strings": "cory hall, -- wlreecsberkeleyedu"}

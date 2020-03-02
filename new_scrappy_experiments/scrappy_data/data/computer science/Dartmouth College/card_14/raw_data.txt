@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/devin-balkcom-590_0.jpg?itok=8Z-YlSx6", "site": "https://web.cs.dartmouth.edu/people/devin-j-balkcom", "title": "associate professor", "email": "Devin.Balkcom@Dartmouth.edu", "extra_strings": "devin j balkcom"}

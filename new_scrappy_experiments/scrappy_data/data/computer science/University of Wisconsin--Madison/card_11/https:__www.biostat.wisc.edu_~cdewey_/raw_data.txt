@@ -1,0 +1,1 @@
+{"email": ["colin.dewey@wisc.edu"], "image": ["https://www.cs.wisc.edu/people/faculty/feed.png", "https://www.cs.wisc.edu/people/faculty/colin_dewey_portrait.jpg", "uw-crest-web.svg"], "research_blurb": [["2017.05.23", "2017.08.30\n"]]}

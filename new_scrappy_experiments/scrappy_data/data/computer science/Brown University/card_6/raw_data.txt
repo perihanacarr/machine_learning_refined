@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/12/df/12df33e3-79c0-4752-a1f8-4feac8adee40/seny_photo_for_encryption_post.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "https://cs.brown.edu/people/faculty/seny/", "title": "associate professor", "email": 0, "extra_strings": "seny f kamara"}

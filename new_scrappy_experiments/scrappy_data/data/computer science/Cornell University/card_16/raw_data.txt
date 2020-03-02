@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/Cosley%2C%20Dan.jpg?itok=d5UVcbkP", "site": "http://www.cs.cornell.edu/~danco/", "title": "associate professor", "email": 0, "extra_strings": "univ of minnesota "}

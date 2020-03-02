@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/yuvraj-agarwal", "title": "associate professor", "email": "yuvraj.agarwal@cs.cmu.edu", "extra_strings": "yuvraj agarwal"}

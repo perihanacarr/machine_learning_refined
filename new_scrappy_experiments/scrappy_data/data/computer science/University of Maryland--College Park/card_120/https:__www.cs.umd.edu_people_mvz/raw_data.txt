@@ -1,0 +1,1 @@
+{"email": ["mvz@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/zelkowitz.jpg?itok=axhYFsTm&c=a30f80ff6dbf471f33fc04319fc1e26f"], "research_blurb": ["View Department Office Contacts"]}

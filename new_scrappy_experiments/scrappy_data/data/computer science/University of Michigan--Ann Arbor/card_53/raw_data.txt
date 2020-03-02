@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/jeannin.jpg", "site": "https://jeannin.github.io/", "title": "assistant professor", "email": "jeannin@umich.edu", "extra_strings": "jean-baptiste jeannin"}

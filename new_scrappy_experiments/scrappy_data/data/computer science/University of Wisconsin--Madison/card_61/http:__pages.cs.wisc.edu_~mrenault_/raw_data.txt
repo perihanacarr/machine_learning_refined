@@ -1,0 +1,1 @@
+{"email": [], "image": ["images/me3.png"], "research_blurb": ["\n          Currently, I'm a Faculty Associate in the Computer Sciences Department at University of Wisconsin \u2013 Madison in Madison, Wisconsin, USA.\n      "]}

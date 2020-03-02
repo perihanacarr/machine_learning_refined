@@ -1,0 +1,1 @@
+{"email": ["aaroth@cis.upenn.edu"], "image": ["images/photos/full-roth-aaron.jpg "], "research_blurb": ["\nEmail | Personal Webpage "]}

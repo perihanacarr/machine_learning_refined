@@ -1,0 +1,1 @@
+{"email": [], "image": ["mk.png"], "research_blurb": ["I am interested in increasing the reliability of Distributed Systems. \n\t\t\t\t\tBuilding reliable distributed systems means guarding against both hardware and software\n\t\t\t\t\tfailures. My research spans fault-tolerant replication and formal verification of systems software."]}

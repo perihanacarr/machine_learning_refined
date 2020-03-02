@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/lijun-chen", "title": "assistant professor", "email": "lijun.chen@colorado.edu", "extra_strings": "lijun chen"}

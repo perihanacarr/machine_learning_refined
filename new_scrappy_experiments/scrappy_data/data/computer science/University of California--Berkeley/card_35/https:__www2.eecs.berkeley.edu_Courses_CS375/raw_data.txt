@@ -1,0 +1,1 @@
+{"email": [], "image": [], "research_blurb": ["Catalog Description: Discussion and practice of techniques for effective teaching, focusing on issues most relevant to teaching assistants in computer science courses. "]}

@@ -1,0 +1,64 @@
+2020-03-01 18:46:05,107 - exampleApp - INFO - STARTING extraction for {'University of Texas--Austin***computer science': 'https://www.cs.utexas.edu/people'}
+2020-03-01 18:50:24,494 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 18:50:24,494 - exampleApp - INFO - STARTING extraction for {'California Institute of Technology***computer science': 'http://cms.caltech.edu/people'}
+2020-03-01 18:56:20,414 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 18:56:20,414 - exampleApp - INFO - STARTING extraction for {'University of Michigan--Ann Arbor***computer science': 'https://cse.engin.umich.edu/people/faculty/'}
+2020-03-01 19:11:34,503 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 19:11:34,503 - exampleApp - INFO - STARTING extraction for {'Columbia University***computer science': 'http://www.cs.columbia.edu/people/faculty/'}
+2020-03-01 19:18:51,097 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 19:18:51,097 - exampleApp - INFO - STARTING extraction for {'University of California--Los Angeles***computer science': 'https://samueli.ucla.edu/search-faculty/#cs'}
+2020-03-01 19:18:57,028 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 19:18:57,028 - exampleApp - INFO - STARTING extraction for {'University of Wisconsin--Madison***computer science': 'https://www.cs.wisc.edu/people/faculty/'}
+2020-03-01 19:33:19,153 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 19:33:19,154 - exampleApp - INFO - STARTING extraction for {'Harvard University***computer science': 'https://www.seas.harvard.edu/computer-science/people?search=professor&role[46]=46'}
+2020-03-01 19:35:17,729 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 19:35:17,729 - exampleApp - INFO - STARTING extraction for {'University of Maryland--College Park***computer science': 'https://www.cs.umd.edu/people/faculty'}
+2020-03-01 19:46:46,995 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 19:46:46,995 - exampleApp - INFO - STARTING extraction for {'University of Pennsylvania***computer science': 'https://www.seas.upenn.edu/directory/departments.php?departments=Computer%20and%20Information%20Science%20(CIS)'}
+2020-03-01 19:53:50,480 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 19:53:50,480 - exampleApp - INFO - STARTING extraction for {'Purdue University--West Lafayette***computer science': 'https://www.cs.purdue.edu/people/faculty/index.html'}
+2020-03-01 20:03:49,801 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 20:03:49,801 - exampleApp - INFO - STARTING extraction for {'Rice University***computer science': 'https://csweb.rice.edu/faculty'}
+2020-03-01 20:07:02,105 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 20:07:02,105 - exampleApp - INFO - STARTING extraction for {'University of Massachusetts--Amherst***computer science': 'https://www.cics.umass.edu/people/all-faculty-staff'}
+2020-03-01 20:33:02,600 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 20:33:02,600 - exampleApp - INFO - STARTING extraction for {'University of Southern California***computer science': 'https://www.cs.usc.edu/directory/faculty/'}
+2020-03-01 20:47:32,371 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 20:47:32,371 - exampleApp - INFO - STARTING extraction for {'Yale University***computer science': 'https://cpsc.yale.edu/people/faculty'}
+2020-03-01 20:51:00,944 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 20:51:00,944 - exampleApp - INFO - STARTING extraction for {'Brown University***computer science': 'https://cs.brown.edu/people/faculty/'}
+2020-03-01 21:00:44,763 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 21:00:44,764 - exampleApp - INFO - STARTING extraction for {'Duke University***computer science': 'https://www.cs.duke.edu/people/faculty'}
+2020-03-01 21:09:39,484 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 21:09:39,484 - exampleApp - INFO - STARTING extraction for {'Johns Hopkins University***computer science': 'https://www.cs.jhu.edu/faculty/'}
+2020-03-01 21:16:59,782 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 21:16:59,782 - exampleApp - INFO - STARTING extraction for {'University of North Carolina--Chapel Hill***computer science': 'https://cs.unc.edu/people-page/faculty/'}
+2020-03-01 21:18:16,922 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 21:18:16,922 - exampleApp - INFO - STARTING extraction for {'University of Minnesota--Twin Cities***computer science': 'https://www.cs.umn.edu/people/faculty'}
+2020-03-01 21:30:51,779 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 21:30:51,779 - exampleApp - INFO - STARTING extraction for {'New York University***computer science': 'https://cs.nyu.edu/dynamic/people/faculty/'}
+2020-03-01 21:37:32,441 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 21:37:32,441 - exampleApp - INFO - STARTING extraction for {'Northwestern University***computer science': 'https://www.mccormick.northwestern.edu/computer-science/people/faculty.html'}
+2020-03-01 21:41:45,037 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 21:41:45,037 - exampleApp - INFO - STARTING extraction for {'Ohio State University***computer science': 'https://cse.osu.edu/about-us/faculty'}
+2020-03-01 21:51:34,633 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 21:51:34,633 - exampleApp - INFO - STARTING extraction for {'Pennsylvania State University--University Park***computer science': 'https://www.eecs.psu.edu/departments/cse-faculty-list.aspx'}
+2020-03-01 21:59:26,267 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 21:59:26,267 - exampleApp - INFO - STARTING extraction for {'University of California--Irvine***computer science': 'https://www.cs.uci.edu/faculty/'}
+2020-03-01 22:08:10,061 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 22:08:10,061 - exampleApp - INFO - STARTING extraction for {'University of Chicago***computer science': 'https://computerscience.uchicago.edu/people/faculty/'}
+2020-03-01 22:14:03,521 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 22:14:03,522 - exampleApp - INFO - STARTING extraction for {'University of Virginia***computer science': 'https://engineering.virginia.edu/departments/computer-science/faculty'}
+2020-03-01 22:27:58,848 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 22:27:58,848 - exampleApp - INFO - STARTING extraction for {'Rutgers***computer science': 'https://www.cs.rutgers.edu/people/professors'}
+2020-03-01 22:34:42,477 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 22:34:42,477 - exampleApp - INFO - STARTING extraction for {'University of California--Santa Barbara***computer science': 'https://cs.ucsb.edu/people'}
+2020-03-01 22:41:33,463 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 22:41:33,464 - exampleApp - INFO - STARTING extraction for {'Stony Brook University--SUNY***computer science': 'https://www.cs.stonybrook.edu/people/faculty'}
+2020-03-01 22:50:03,752 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 22:50:03,753 - exampleApp - INFO - STARTING extraction for {'University of Colorado--Boulder***computer science': 'https://www.colorado.edu/cs/faculty'}
+2020-03-01 23:03:40,663 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 23:03:40,663 - exampleApp - INFO - STARTING extraction for {'Virginia Tech***computer science': 'https://cs.vt.edu/People/Faculty.html'}
+2020-03-01 23:12:16,218 - exampleApp - INFO - DONE with data extraction 
+2020-03-01 23:12:16,218 - exampleApp - INFO - STARTING extraction for {'Arizona State University***computer science': 'https://cidse.engineering.asu.edu/faculty/'}
+2020-03-01 23:33:24,352 - exampleApp - INFO - DONE with data extraction 

@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/5dd3638ccc07cee8f7a1a49f961e60d4.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Reichardt&fname=Benjamin", "title": "associate professor", "email": "ben.reichardt@gmail.com", "extra_strings": "benjamin reichardt"}

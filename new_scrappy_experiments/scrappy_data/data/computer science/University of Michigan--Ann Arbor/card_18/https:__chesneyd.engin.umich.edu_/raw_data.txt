@@ -1,0 +1,1 @@
+{"email": ["chesneyd@umich.edu"], "image": ["https://chesneyd.engin.umich.edu/wp-content/uploads/sites/391/2018/04/chesney-header.jpg", "https://chesneyd.engin.umich.edu/wp-content/uploads/sites/391/2018/04/chesney-portrait.jpg"], "research_blurb": ["Context matters."]}

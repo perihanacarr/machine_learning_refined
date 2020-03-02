@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/matthew-fredrikson", "title": "assistant professor", "email": "mfredrik@andrew.cmu.edu", "extra_strings": "matthew freikson"}

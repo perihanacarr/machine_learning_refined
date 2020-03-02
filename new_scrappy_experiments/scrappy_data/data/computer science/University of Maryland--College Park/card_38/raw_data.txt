@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/Roussopolos%20nick.jpg?itok=eqiwkjjB", "site": "https://www.cs.umd.edu/research-area/databases-and-big-data", "title": "professor emeritus", "email": 0, "extra_strings": "nicholas roussopoulos"}

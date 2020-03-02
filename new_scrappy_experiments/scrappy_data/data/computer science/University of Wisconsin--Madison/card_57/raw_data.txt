@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/11/lipasti_mikko-e1542051753411-150x150.jpg", "site": "https://directory.engr.wisc.edu/ece/Faculty/Lipasti_Mikko/", "title": "professor", "email": "mikko@engr.wisc.edu", "extra_strings": "mikko lipasti"}

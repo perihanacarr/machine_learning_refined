@@ -1,0 +1,1 @@
+{"email": ["standish@uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["Algorithms and Complexity<br/><h3>RESEARCH INTERESTS:</h3> Data Structures, Algorithms, and Theoretical Computer Science; Software Semantics and Epistemology, Programming and Cognition, Software Comprehension.<br/>"]}

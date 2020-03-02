@@ -1,0 +1,1 @@
+{"email": ["anil@math.cornell.edu"], "image": ["anil1.jpg"], "research_blurb": ["Anil Nerode Goldwin Smith\n\t\t  Professor of Mathematics  ", "", "Autobiography: My Higher\n\t\t  Education Autobiography: My Life at Cornell"]}

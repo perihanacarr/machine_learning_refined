@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-30-1365788529.jpg?itok=FNnpSSb7", "site": "https://cpsc.yale.edu/people/joan-feigenbaum", "title": "professor", "email": "joan.feigenbaum@yale.edu", "extra_strings": "joan feigenbaum"}

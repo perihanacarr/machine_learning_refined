@@ -1,0 +1,1 @@
+{"email": [], "image": ["figs/Murali-2010.jpg"], "research_blurb": [" <a href=\"#research\">Research</a> /  href=\"http://www.crl.research.digital.com\">  <a name=\"research\">Research</a> my research.\n\nIn previous research, I studied problems in "]}

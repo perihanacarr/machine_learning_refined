@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/11/Fischer_crop-e1542052930986-150x150.jpg", "site": "http://www.cs.wisc.edu/~fischer", "title": 0, "email": "fischer@cs.wisc.edu", "extra_strings": "charles fischer"}

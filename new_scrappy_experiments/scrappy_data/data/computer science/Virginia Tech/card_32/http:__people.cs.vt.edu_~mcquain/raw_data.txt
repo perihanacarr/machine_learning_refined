@@ -1,0 +1,1 @@
+{"email": ["wmcquain@cs.vt.edu"], "image": ["mcquainSmall.jpg"], "research_blurb": ["A learning \n\texperience is one of those things that says, \"You know that thing you just \n\tdid?\u00a0 Don't do that.\""]}

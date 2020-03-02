@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/jain_akanksha.jpg?itok=Sb95n35U", "site": "https://www.cs.utexas.edu/people/faculty-researchers/akanksha-jain", "title": 0, "email": 0, "extra_strings": "akanksha jain"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/Golub.jpg?itok=DD7wPoZd&c=93b65b124c66c9bdd29e029175f14cdb", "site": "https://www.cs.umd.edu/research-area/human-computer-interaction", "title": 0, "email": 0, "extra_strings": "evan golub"}

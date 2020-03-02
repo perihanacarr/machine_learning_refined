@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/voldman_0.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/29", "title": "professor", "email": "voldman@mit.edu", "extra_strings": "joel voldman"}

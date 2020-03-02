@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://www.rle.mit.edu/sbg/wp-content/themes/lu_sbg/images/siteheader.gif"], "research_blurb": ["Timothy Lu seeks to combat disease by reprogramming biological systems"]}

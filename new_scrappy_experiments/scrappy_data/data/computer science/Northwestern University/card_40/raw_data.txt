@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/st-amour-vincent-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/st-amour-vincent.html", "title": "assistant professor", "email": "stamourv@eecs.northwestern.edu", "extra_strings": "vincent st-amour"}

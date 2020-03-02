@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/Panozzo_250x250_tLQe4j9.jpg", "site": "http://cs.nyu.edu/~panozzo/", "title": "assistant professor", "email": 0, "extra_strings": "ext -"}

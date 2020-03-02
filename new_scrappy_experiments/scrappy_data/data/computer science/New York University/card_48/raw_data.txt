@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/Subramanian_16-0015_0690_250x250.jpg", "site": "http://cs.nyu.edu/~lakshmi/", "title": "professor", "email": 0, "extra_strings": "ext -"}

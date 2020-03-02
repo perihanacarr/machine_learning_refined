@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/megretski_0.jpg", "site": "http://lids.mit.edu/people/faculty/megretski-alex.html", "title": "professor", "email": "ameg@mit.edu", "extra_strings": "alexane megretski"}

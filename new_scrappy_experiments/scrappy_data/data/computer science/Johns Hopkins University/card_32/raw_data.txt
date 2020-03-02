@@ -1,0 +1,1 @@
+{"image": "https://www.cs.jhu.edu/wp-content/uploads/2014/08/Kazhdan-180x245.jpg", "site": "https://www.cs.jhu.edu/faculty/michael-misha-kazhdan/", "title": "associate professor", "email": 0, "extra_strings": "michael kazhdan"}

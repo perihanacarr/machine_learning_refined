@@ -1,0 +1,1 @@
+{"email": [], "image": ["me_h.jpg"], "research_blurb": ["Our mission is to go beyond research and put new technology in the hands of users: \n               project. You can find an overview of our work for managing noisy data "]}

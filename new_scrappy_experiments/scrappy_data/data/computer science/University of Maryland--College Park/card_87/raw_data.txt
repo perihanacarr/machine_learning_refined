@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/lindvall%20mikael.gif?itok=-St8fQUK", "site": "https://www.cs.umd.edu/people/mlindval", "title": "adjunct professor", "email": 0, "extra_strings": "mikael lindvall"}

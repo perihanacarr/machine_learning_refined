@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_Pierce.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=72", "title": "professor", "email": "bcpierce@cis.upenn.edu", "extra_strings": "back to the top"}

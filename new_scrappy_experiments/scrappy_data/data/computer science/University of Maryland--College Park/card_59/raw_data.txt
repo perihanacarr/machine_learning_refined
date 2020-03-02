@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/dan_2019.jpg?itok=Ix8KrdVS", "site": "https://www.cs.umd.edu/research-area/databases-and-big-data", "title": "professor", "email": 0, "extra_strings": "daniel abadi"}

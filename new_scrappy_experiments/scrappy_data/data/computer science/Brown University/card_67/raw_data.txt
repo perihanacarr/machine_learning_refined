@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/eb/7e/eb7e3405-2e68-4a52-96fa-2a1e0cefce04/10533086_10152353827301220_6759441658240024191_n.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "https://cs.brown.edu/people/faculty/bpalazzi/", "title": "associate professor", "email": 0, "extra_strings": "bernardo palazzi"}

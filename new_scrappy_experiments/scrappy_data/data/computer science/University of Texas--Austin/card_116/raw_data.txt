@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/zuckerman_david.jpg?itok=96ucKs_x", "site": "https://www.cs.utexas.edu/people/faculty-researchers/david-zuckerman", "title": "professor", "email": 0, "extra_strings": "david zuckerman"}

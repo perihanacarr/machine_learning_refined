@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/ae004759d9c885cf2f5f6ffa5590660e.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Korolova&fname=Aleksandra", "title": "assistant professor", "email": "korolova@usc.edu", "extra_strings": "aleksana korolova"}

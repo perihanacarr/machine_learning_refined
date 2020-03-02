@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/dana-scott", "title": "professor emeritus", "email": "scott@andrew.cmu.edu", "extra_strings": "dana scott"}

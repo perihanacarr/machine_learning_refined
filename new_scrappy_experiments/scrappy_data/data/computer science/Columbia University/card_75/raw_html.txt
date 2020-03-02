@@ -1,0 +1,1 @@
+"<div class=\"col-md-5\">\n<a class=\"main-logo\" href=\"/\">\n<img src=\"http://www.cs.columbia.edu/wp-content/themes/columbia-cs/assets/img/main-logo.png\"/>\n</a>\n</div>"

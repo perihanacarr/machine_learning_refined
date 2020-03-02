@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/garcia.jpg", "site": "https://www2.eecs.berkeley.edu/Courses/CS198_3367", "title": "professor", "email": "ddgarcia@cs.berkeley.edu", "extra_strings": "cs - gamescrafters"}

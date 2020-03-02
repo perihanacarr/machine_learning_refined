@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Dan Goldwasser</td><td>Assistant Professor</td><td style=\"white-space: nowrap\"><phone>49-60332</phone></td><td style=\"white-space: nowrap\"><office>LWSN 2142A</office></td><td><a href=\"mailto:dgoldwas@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/dgoldwas/\">Bio</a></td></tr>"

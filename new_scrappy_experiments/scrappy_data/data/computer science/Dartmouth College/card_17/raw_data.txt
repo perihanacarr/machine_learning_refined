@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/gevorg.grigoryan_0.jpeg?itok=cshzDPAo", "site": "https://web.cs.dartmouth.edu/people/gevorg-grigoryan", "title": "associate professor", "email": "Gevorg.Grigoryan@Dartmouth.edu", "extra_strings": "gevorg grigoryan"}

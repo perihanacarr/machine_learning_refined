@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/89b6b29ec78c34e1ab11234922ac5e41.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Nakano&fname=Aiichiro", "title": "professor", "email": "anakano@usc.edu", "extra_strings": "aiichiro nakano"}

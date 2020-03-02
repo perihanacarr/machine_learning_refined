@@ -1,0 +1,1 @@
+{"image": "http://cloudfront.eas.caltech.edu/eas_directory/users/vidick/photos/thomas-vidick-original.jpg?1464121999", "site": "http://users.cms.caltech.edu/~vidick/", "title": "professor", "email": 0, "extra_strings": "thomas vidick"}

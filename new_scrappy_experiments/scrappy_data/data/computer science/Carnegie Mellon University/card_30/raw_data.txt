@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/adjunct-faculty/eugene-fink", "title": 0, "email": "eugenefink@cmu.edu", "extra_strings": "eugene fink"}

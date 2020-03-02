@@ -1,0 +1,1 @@
+{"email": ["TGDA@OSU"], "image": ["tamal.png", "http://counter.digits.com/wc/-d/4/TamalDeyHomePage", "http://c3.statcounter.com/counter.php?sc_project=412753&java=0&invisible=1", "http://c3.statcounter.com/counter.php?sc_project=412753&java=0&invisible=1"], "research_blurb": ["\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0 \n"]}

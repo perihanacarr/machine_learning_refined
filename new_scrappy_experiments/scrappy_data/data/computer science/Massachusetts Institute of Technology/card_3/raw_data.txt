@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Andreas_Jacob.jpg", "site": "https://people.eecs.berkeley.edu/~jda/", "title": "assistant professor", "email": "jda@mit.edu", "extra_strings": "jacob aneas"}

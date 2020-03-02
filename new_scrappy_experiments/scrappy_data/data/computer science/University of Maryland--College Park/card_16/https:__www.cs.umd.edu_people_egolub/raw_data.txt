@@ -1,0 +1,1 @@
+{"email": ["egolub@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/Golub.jpg?itok=JzcKhNb1&c=3b134c2548c09853b9599d64d190488d"], "research_blurb": ["View Department Office Contacts"]}

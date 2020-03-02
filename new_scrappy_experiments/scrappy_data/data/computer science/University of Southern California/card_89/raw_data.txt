@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/noprofile.png", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Morstatter&fname=Fred", "title": "assistant professor", "email": "morstatt@usc.edu", "extra_strings": "fred morstatter"}

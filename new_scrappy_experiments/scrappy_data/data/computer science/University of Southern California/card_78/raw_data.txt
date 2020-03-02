@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/7a1fbcafa35234b68ff9df78e59dc9a9.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Lerman&fname=Kristina", "title": "associate professor", "email": "lerman@isi.edu", "extra_strings": "kristina lerman"}

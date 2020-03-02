@@ -1,0 +1,1 @@
+{"image": "/static/img/2/a76a4cb4a4f4ee77de32b4edb4d49424.jpeg", "site": "http://www.cs.columbia.edu/~tal", "title": 0, "email": 0, "extra_strings": "tal g malkin"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/golan-levin", "title": 0, "email": "golan@andrew.cmu.edu", "extra_strings": "golan levin"}

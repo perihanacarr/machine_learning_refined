@@ -1,0 +1,1 @@
+{"image": "/dir/photos/Shao-Mingfu.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=mxs2589", "title": "assistant professor", "email": "mxs2589@psu.edu", "extra_strings": "mingfu shao"}

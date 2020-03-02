@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_689166675/vt-items_0/vtmulticolumn/vt-items_0/adaptiveimage.transform/m-medium/image.jpg", "site": "http://people.cs.vt.edu/~ltw/shortvita.html", "title": "professor", "email": "ltw@vt.edu", "extra_strings": "b torgersen"}

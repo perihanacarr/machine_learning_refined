@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://engineering.virginia.edu/scholar/images/cleardot.gif", "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-ZRKCcEAAAAJ&citpid=2"], "research_blurb": ["New articles related to this author's research"]}

@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2598.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/shiqing-ma", "title": "assistant professor", "email": "sm2283@rutgers.edu", "extra_strings": "shiqing ma"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/bederson.jpg?itok=JEsGQ2jn&c=e5d8648c1772facb7da92b1aaa26fd09", "site": "https://www.cs.umd.edu/research-area/human-computer-interaction", "title": "professor emeritus", "email": 0, "extra_strings": "ben bederson"}

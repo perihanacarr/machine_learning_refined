@@ -1,0 +1,1 @@
+{"email": ["rajiv@seas.upenn.edu "], "image": ["images/photos/full-gandhi-rajiv.jpg "], "research_blurb": ["\nEmail | Personal Webpage "]}

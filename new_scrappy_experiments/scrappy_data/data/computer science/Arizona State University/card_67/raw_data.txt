@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2019/03/Katina-Michael.jpg", "site": "https://cidse.engineering.asu.edu/katina-michael/", "title": "professor", "email": "Katina.Michael@asu.edu", "extra_strings": "katina michael"}

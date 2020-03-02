@@ -1,0 +1,1 @@
+{"email": ["gasarch@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/billvdw.jpg?itok=bHaWYdos&c=e54bbdfed969f28b836cb16b47e80425"], "research_blurb": ["Dr. Gasarch got his BS in Math and Applied Math at SUNY Stonybrook in the Spring of 1980.", "View Department Office Contacts"]}

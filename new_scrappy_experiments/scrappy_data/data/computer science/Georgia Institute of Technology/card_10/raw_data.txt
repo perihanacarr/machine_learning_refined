@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/calton_pu_1.jpg?itok=d4JCoLUj", "site": "https://www.scs.gatech.edu/people/calton-pu", "title": "professor", "email": "calton.pu@cc.gatech.edu", "extra_strings": "calton pu"}

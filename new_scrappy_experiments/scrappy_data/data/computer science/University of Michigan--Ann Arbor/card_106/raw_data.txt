@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/rdreslin.jpg", "site": "http://web.eecs.umich.edu/~rdreslin/", "title": "assistant professor", "email": "rdreslin@umich.edu", "extra_strings": "ronald eslinski"}

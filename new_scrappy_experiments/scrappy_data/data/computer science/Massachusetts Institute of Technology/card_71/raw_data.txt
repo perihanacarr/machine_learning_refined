@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/emer_0.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/6", "title": "professor", "email": "emer@csail.mit.edu", "extra_strings": "joel emer"}

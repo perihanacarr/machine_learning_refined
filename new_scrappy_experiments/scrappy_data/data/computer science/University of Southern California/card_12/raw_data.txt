@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/7913c4520272694f902b5b42a55dbc0a.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Shapiro&fname=Ari", "title": "assistant professor", "email": "arishapi@usc.edu", "extra_strings": "ari shapiro"}

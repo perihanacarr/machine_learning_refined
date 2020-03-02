@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://engineering.virginia.edu/faculty/yanjun-qi", "title": "associate professor", "email": "yanjun@virginia.edu", "extra_strings": "yanjun qi"}

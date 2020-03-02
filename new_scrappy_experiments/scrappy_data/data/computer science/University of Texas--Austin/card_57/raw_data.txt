@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/lam2018.jpg?itok=bVW6P5NL", "site": "https://www.cs.utexas.edu/research/areas/operating-systems-distributed-systems-and-networking", "title": "professor emeritus", "email": 0, "extra_strings": "simon lam"}

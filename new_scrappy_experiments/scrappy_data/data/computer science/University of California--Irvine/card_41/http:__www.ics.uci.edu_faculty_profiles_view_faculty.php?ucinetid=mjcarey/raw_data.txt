@@ -1,0 +1,1 @@
+{"email": ["mjcarey@ics.uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["Databases and Data Mining<br/><h3>RESEARCH INTERESTS:</h3> Prof. Carey's interests include database systems, information integration, service-oriented computing, middleware, distributed systems, and computer system performance evaluation.<br/>"]}

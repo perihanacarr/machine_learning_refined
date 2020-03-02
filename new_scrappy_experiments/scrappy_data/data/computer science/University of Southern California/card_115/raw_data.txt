@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/a0e3c4b950f19d5f0e6d9d1f2b7377b7.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Lucas&fname=Robert", "title": "associate professor", "email": "rflucas@isi.edu", "extra_strings": "robert lucas"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/bhatele-headshot-1.jpg?itok=T1_W_SZU", "site": "https://www.cs.umd.edu/research-area/high-performance-and-scientific-computing", "title": "assistant professor", "email": 0, "extra_strings": "abhinav bhae"}

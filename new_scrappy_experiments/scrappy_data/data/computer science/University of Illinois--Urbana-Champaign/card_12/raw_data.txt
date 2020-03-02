@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=4934&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/daf", "title": 0, "email": "daf@illinois.edu", "extra_strings": "david forsyth"}

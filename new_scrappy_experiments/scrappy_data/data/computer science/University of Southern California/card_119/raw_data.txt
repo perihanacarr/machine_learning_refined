@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/6b5ac19025d99182fc6f12ade6442bc9.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Raghavachary&fname=Saty", "title": 0, "email": "saty@usc.edu", "extra_strings": "saty raghavachary"}

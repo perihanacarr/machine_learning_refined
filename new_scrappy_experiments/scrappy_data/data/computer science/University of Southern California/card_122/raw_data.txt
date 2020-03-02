@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/d26718c019a110aa6de690b0c8188fda.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Lu&fname=Stephen", "title": "professor", "email": "sclu@usc.edu", "extra_strings": "stephen chih-yang lu"}

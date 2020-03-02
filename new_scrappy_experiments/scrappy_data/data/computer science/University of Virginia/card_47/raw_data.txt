@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://engineering.virginia.edu/faculty/luther-tychonievich", "title": "assistant professor", "email": "tychonievich@virginia.edu", "extra_strings": "luther a tychonievich"}

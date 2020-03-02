@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/barto_andrew", "title": "professor emeritus", "email": "barto@cs.umass.edu", "extra_strings": "anew g barto"}

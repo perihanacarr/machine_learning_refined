@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/spanos.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/PHY", "title": "professor", "email": "yovgomez@berkeley.edu", "extra_strings": "cory hall, --"}

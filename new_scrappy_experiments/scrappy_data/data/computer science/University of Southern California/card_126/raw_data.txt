@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/7fd9878e4a6a58f7e2531058b2d60af7.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Dughmi&fname=Shaddin", "title": "associate professor", "email": "shaddin@usc.edu", "extra_strings": "shaddin dughmi"}

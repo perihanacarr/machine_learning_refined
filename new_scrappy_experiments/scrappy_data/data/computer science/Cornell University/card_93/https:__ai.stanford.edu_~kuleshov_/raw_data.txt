@@ -1,0 +1,1 @@
+{"email": [], "image": ["img/head.jpg"], "research_blurb": [" My research focuses on . Some of my projects/interests include:\n             systems for scientific literature that help make biomedical knowledge easily accessible to scientists and clinicians High-resolution structure of the human microbiome revealed with synthetic long reads."]}

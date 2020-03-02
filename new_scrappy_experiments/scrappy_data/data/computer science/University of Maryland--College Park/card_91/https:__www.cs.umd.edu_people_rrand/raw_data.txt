@@ -1,0 +1,1 @@
+{"email": ["rrand@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/me.jpg?itok=CbWHJEY9"], "research_blurb": ["I am a Basili postdoctoral fellow in Programming Languages at the University of Maryland and the Joint Center for Quantum Information and Computer Science.  ", "View Department Office Contacts"]}

@@ -1,0 +1,1 @@
+{"email": ["jshi@cis.upenn.edu"], "image": ["images/photos/full_Shi.jpg "], "research_blurb": ["\nEmail | Personal Webpage | Research Webpage "]}

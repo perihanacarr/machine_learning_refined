@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/yarosh_17_1_final_small.jpeg?itok=orQio1GB", "site": "https://www.cs.umn.edu/people/svetlana-yarosh", "title": 0, "email": "lana@umn.edu", "extra_strings": "svetlana yarosh"}

@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/ocj.jpg", "site": "https://web.eecs.umich.edu/~ocj/", "title": "associate professor", "email": "ocj@umich.edu", "extra_strings": "chad jenkins"}

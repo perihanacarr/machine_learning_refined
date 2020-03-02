@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://engineering.virginia.edu/faculty/christopher-l-barrett", "title": "professor", "email": "ChrisBarrett@virginia.edu", "extra_strings": "biocomplexity institute"}

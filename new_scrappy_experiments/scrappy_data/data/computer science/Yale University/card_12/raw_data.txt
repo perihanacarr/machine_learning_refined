@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-3795-1570539261.jpg?itok=_Loo1xKS", "site": "https://cpsc.yale.edu/people/lin-zhong", "title": "professor", "email": "lin.zhong@yale.edu", "extra_strings": "lin zhong"}

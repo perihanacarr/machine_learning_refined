@@ -1,0 +1,1 @@
+{"email": [], "image": [], "research_blurb": ["By using these resources, you agree to abide by Columbia University's \n                    Acceptable \n                    Usage of Information Resources Policy."]}

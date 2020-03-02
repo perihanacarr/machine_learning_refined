@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/themes/uw-theme-child-cs/dist/images/person.png", "site": "https://www.cs.wisc.edu/staff/goodman-james/", "title": 0, "email": "goodman@cs.wisc.edu", "extra_strings": "james goodman"}

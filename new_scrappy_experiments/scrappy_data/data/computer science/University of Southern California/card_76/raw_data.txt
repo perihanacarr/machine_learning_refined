@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/2474a4eb8053d4f7671e28aa6cd76181.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Golubchik&fname=Leana", "title": "professor", "email": "leana@usc.edu", "extra_strings": "leana golubchik"}

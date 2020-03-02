@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/cdfd62b28fb2066e6862fd12bb855efb.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Katz-Bassett&fname=Ethan", "title": "associate professor", "email": "ethan.kb@usc.edu", "extra_strings": "ethan katz-bassett"}

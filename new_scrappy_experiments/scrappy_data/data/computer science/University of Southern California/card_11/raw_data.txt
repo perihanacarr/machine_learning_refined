@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/97f8647a0ffb310992c964bbe7bdcfa0.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Arbib&fname=Michael", "title": "professor emeritus", "email": "arbib@pollux.usc.edu", "extra_strings": "michael arbib"}

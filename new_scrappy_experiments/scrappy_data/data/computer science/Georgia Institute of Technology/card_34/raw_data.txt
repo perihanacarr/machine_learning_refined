@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/taesoo_kim_0.jpg?itok=1kCX4LoE", "site": "https://www.scs.gatech.edu/people/taesoo-kim", "title": "associate professor", "email": "taesoo@gatech.edu", "extra_strings": "taesoo kim"}

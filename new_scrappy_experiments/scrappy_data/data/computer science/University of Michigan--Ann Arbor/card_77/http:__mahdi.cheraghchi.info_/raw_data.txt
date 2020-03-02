@@ -1,0 +1,1 @@
+{"email": ["mahdich@umich.edu"], "image": ["images/mahdi6.jpg", "https://www.w3.org/Icons/valid-xhtml10", "http://s26.sitemeter.com/meter.asp?site=s26mahdi"], "research_blurb": ["Mahdi Cheraghchi", "\n", ":\n        Q&A on Theoretical Computer Science research (my "]}

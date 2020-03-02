@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/mustaque_ahamad_0.jpg?itok=fUPC-Asq", "site": "https://www.scs.gatech.edu/people/mustaque-ahamad", "title": "professor", "email": "mustaque.ahamad@cc.gatech.edu", "extra_strings": "mustaque ahamad"}

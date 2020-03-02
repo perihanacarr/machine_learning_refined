@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/beth_stade.jpg?itok=9pPxeew7", "site": "https://www.colorado.edu/cs/elisabeth-stade", "title": 0, "email": "elisabeth.stade@colorado.edu", "extra_strings": "post-baccalaureate instructor"}

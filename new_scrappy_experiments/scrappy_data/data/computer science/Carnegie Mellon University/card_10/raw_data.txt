@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/adjunct-faculty/luis-von-ahn", "title": "professor", "email": "biglou@cs.cmu.edu", "extra_strings": "von ahn, luis"}

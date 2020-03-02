@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/kacorri_hernisa-05.jpg?itok=pJREvWL_&c=4d4876b7d1d37e6a341549f776b284b9", "site": "https://www.cs.umd.edu/research-area/human-computer-interaction", "title": "assistant professor", "email": 0, "extra_strings": "hernisa kacorri"}

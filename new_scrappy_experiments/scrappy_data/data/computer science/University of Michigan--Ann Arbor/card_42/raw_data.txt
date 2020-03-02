@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/graetzer.jpg", "site": 0, "title": 0, "email": "graetzer@umich.edu", "extra_strings": "emily graetz"}

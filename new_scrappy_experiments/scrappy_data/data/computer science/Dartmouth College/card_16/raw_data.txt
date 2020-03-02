@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/farid-medres.jpg?itok=hMAHM0Qd", "site": "https://web.cs.dartmouth.edu/people/hany-farid", "title": "adjunct professor", "email": "Hany.Farid@Dartmouth.EDU", "extra_strings": "hany farid"}

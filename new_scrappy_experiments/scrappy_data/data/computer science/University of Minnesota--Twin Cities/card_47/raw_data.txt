@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_mccamant.jpg?itok=cbalCSNF", "site": "http://www-users.cs.umn.edu/~mccamant", "title": 0, "email": "smccaman@umn.edu", "extra_strings": "keller -e"}

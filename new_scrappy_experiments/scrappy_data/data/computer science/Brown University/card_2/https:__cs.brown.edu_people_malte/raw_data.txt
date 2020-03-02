@@ -1,0 +1,1 @@
+{"email": ["malte@cs.brown.edu"], "image": ["images/malte-small.jpg"], "research_blurb": ["The seven deadly sins of cloud computing research"]}

@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/lingliu-2016jan_0.jpg?itok=Es3IDhCI", "site": "https://www.scs.gatech.edu/people/ling-liu", "title": "professor", "email": "ling.liu@cc.gatech.edu", "extra_strings": "ling liu"}

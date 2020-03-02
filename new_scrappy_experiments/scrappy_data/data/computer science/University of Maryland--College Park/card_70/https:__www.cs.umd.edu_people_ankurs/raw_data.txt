@@ -1,0 +1,1 @@
+{"email": ["ankurs@umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/facultyfile.jpeg?itok=hKHns7R7"], "research_blurb": ["View Department Office Contacts"]}

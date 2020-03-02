@@ -1,0 +1,1 @@
+{"email": ["wagner@cornell.edu"], "image": ["images/layout/ece_web_2red.gif", "images/2018_desk_up.jpg"], "research_blurb": [" \nMy interests are in information theory, especially data compression,\nleakage in side channels, and quantum information.\nI have received a number of awards for my research and teaching including \nthe 2017 "]}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://engineering.virginia.edu/faculty/james-cohoon", "title": "associate professor", "email": "jpc@virginia.edu", "extra_strings": "joanne mcgrath cohoon wikipedia"}

@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn/vt-items_1/vtmulticolumn/vt-items_0/adaptiveimage.transform/m-medium/image.jpg", "site": "http://manta.cs.vt.edu/balci", "title": "professor", "email": "balci@vt.edu", "extra_strings": "osman balci"}

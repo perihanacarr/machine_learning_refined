@@ -1,0 +1,1 @@
+{"image": "/sites/cs.ucsb.edu/themes/cs_subtheme/css/images/home.png", "site": "https://www.cs.ucsb.edu/~ykk", "title": "professor", "email": "ykk@cs.ucsb.edu", "extra_strings": "yekaterina kate kharitonova"}

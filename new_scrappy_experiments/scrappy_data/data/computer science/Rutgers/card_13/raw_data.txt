@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2678.jpeg", "site": "https://www.cs.rutgers.edu/people/professors/details/amelie-marian", "title": "associate professor", "email": "amelie.marian@rutgers.edu", "extra_strings": "amelie marian"}

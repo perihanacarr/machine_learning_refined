@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/adalsteinsson_1.jpg", "site": "http://www.rle.mit.edu/adalsteinsson", "title": "professor", "email": "elfar@mit.edu", "extra_strings": "elfar adalsteinsson"}

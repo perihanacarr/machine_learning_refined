@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/wang-xiao-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html", "title": "assistant professor", "email": "wangxiao@northwestern.edu", "extra_strings": "xiao wang"}

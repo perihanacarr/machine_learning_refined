@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/norman_alison_0.jpg?itok=izbrzjlN", "site": "https://www.cs.utexas.edu/people/faculty-researchers/alison-norman", "title": "associate professor", "email": 0, "extra_strings": "alison norman"}

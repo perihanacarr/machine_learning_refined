@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Kurt-VanLehn.jpg", "site": "https://www.public.asu.edu/~kvanlehn/", "title": "professor", "email": "kurt.vanlehn@asu.edu", "extra_strings": "kurt vanlehn"}

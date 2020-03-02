@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_konstan.jpg?itok=9d1BMnDZ", "site": "http://www-users.cs.umn.edu/~konstan", "title": 0, "email": "konstan@umn.edu", "extra_strings": "joseph konstan"}

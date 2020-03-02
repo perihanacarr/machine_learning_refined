@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Ming-Zhao-1.jpg", "site": "http://visa.lab.asu.edu/", "title": "associate professor", "email": "mingzhao@asu.edu", "extra_strings": "ming zhao"}

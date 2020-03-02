@@ -1,0 +1,1 @@
+{"email": ["basili@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/Victor%20Basili.JPG?itok=DlGGbkhu&c=0152a6cd1c4160041e5a82f065934964"], "research_blurb": ["View Department Office Contacts"]}

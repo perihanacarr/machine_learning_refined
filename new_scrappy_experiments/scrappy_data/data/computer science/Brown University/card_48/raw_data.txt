@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/7a/24/7a242ed3-1524-46ba-ba8d-a58dc8ea3b19/me_square.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "https://dritchie.github.io", "title": "assistant professor", "email": 0, "extra_strings": "daniel c ritchie"}

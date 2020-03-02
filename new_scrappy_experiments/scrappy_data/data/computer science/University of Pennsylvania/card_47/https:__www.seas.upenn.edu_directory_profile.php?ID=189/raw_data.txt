@@ -1,0 +1,1 @@
+{"email": ["ladislav@cis.upenn.edu"], "image": ["images/photos/a-full-kavan.jpg "], "research_blurb": ["\nEmail | Research Webpage "]}

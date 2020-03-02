@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/bulko_william_1.jpg?itok=IxlVt5jk", "site": "https://www.cs.utexas.edu/people/faculty-researchers/william-bulko", "title": "assistant professor", "email": 0, "extra_strings": "william bulko"}

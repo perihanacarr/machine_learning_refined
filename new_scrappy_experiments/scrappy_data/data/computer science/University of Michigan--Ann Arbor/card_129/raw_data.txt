@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/warthur.jpg", "site": "http://web.eecs.umich.edu/~warthur/", "title": 0, "email": "warthur@umich.edu", "extra_strings": "william arthur"}

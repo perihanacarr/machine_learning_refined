@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/10/Chris-Bryan.jpg", "site": "https://cidse.engineering.asu.edu/chris-bryan/", "title": "assistant professor", "email": "cbryan16@asu.edu", "extra_strings": "chris bryan"}

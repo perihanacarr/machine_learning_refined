@@ -1,0 +1,1 @@
+{"email": ["hernisa@umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/kacorri_hernisa-05.jpg?itok=zmZb0fFY", "https://www.cs.umd.edu/sites/default/files/styles/40px_icon/public/images/userpictures/kyungjun_headshot_color.jpg?itok=en9aJQUw"], "research_blurb": ["View Department Office Contacts"]}

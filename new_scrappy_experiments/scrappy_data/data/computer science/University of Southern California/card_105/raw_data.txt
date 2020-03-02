@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/143cd1c596297350ca514f6cd16af2b3.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Szekely&fname=Pedro", "title": "associate professor", "email": "pszekely@isi.edu", "extra_strings": "peo alejano szekely"}

@@ -1,0 +1,1 @@
+"<div class=\"col-3\">\n<img alt=\"Luay Nakhleh\" src=\"/sites/g/files/bxs1251/f/cs_headshots/LuayJune2018500by500.jpg\"/><h4>\n<a href=\"/luay-nakhleh\">Luay Nakhleh</a></h4>\n<p>Chair, Department of Computer Science; J. S. Abercrombie Professor of Computer Science, of Ecology and Evolutionary Biology, and of Biochemestry and Cell Biology</p>\n</div>"

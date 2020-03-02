@@ -1,0 +1,1 @@
+{"image": "/dir/photos/SALVIA-DAVID.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=ADS102", "title": "professor", "email": "ads102@psu.edu", "extra_strings": "david salvia"}

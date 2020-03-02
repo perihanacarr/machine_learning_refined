@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/fouhey.jpg", "site": "https://web.eecs.umich.edu/~fouhey/", "title": "assistant professor", "email": "fouhey@umich.edu", "extra_strings": "david fouhey"}

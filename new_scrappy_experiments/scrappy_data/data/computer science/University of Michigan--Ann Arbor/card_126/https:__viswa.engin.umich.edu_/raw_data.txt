@@ -1,0 +1,1 @@
+{"email": ["engin-info@umich.edu"], "image": ["https://viswa.engin.umich.edu/wp-content/uploads/sites/169/2014/08/viswanath-nagarajan-wp.png"], "research_blurb": [" (by courtesy) at the University of Michigan. My research area is\u00a0combinatorial optimization and approximation algorithms, especially as applied to routing, location and scheduling problems."]}

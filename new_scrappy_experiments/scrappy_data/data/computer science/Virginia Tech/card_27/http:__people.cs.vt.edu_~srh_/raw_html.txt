@@ -1,0 +1,1 @@
+"<html><head>\n   <title>Steve Harrison, Computer Science VT</title>\n</head><frameset rows=\"*\" cols=\"33%,67%\">\n<frame src=\"SteveHarrisonContents.html\" name=\"left\">\n<frame src=\"SteveHarrisonHome.html\" name=\"main\">\n</frameset>\n<noframes></noframes>\n\n\n</html>"

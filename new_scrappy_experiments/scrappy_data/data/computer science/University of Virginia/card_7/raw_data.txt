@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://engineering.virginia.edu/faculty/anil-vullikanti", "title": "professor", "email": "asv9v@virginia.edu", "extra_strings": "anil vullikanti"}

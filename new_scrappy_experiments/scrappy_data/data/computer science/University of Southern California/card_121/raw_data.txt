@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/7d3e2a1e697abd814e1f386fe3a62cda.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Schweighofer&fname=Nicolas", "title": "associate professor", "email": "schweigh@usc.edu", "extra_strings": "nicolas schweighofer"}

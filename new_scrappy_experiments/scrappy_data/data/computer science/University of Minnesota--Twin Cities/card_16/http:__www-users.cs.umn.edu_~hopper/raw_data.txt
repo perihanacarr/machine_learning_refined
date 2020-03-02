@@ -1,0 +1,1 @@
+{"email": ["hoppernj@umn.edu"], "image": ["hopper.jpg"], "research_blurb": ["Research interests"]}

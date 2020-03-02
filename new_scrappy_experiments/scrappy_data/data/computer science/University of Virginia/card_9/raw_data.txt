@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://engineering.virginia.edu/faculty/brad-campbell", "title": "assistant professor", "email": "bradjc@virginia.edu", "extra_strings": "brad campbell"}

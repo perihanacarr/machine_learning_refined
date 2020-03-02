@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/horn-michael-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/horn-michael.html", "title": "associate professor", "email": "michael-horn@northwestern.edu", "extra_strings": "michael horn"}

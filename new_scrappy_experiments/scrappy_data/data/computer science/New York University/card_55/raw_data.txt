@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/Zorin_16-0015_0510_250x250.jpg", "site": "http://cs.nyu.edu/~dzorin/", "title": "professor", "email": 0, "extra_strings": "ext -"}

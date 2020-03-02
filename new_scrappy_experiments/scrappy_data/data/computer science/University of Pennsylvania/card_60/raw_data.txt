@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_Nenkova.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=67", "title": "associate professor", "email": "nenkova@seas.upenn.edu", "extra_strings": "ani nenkova"}

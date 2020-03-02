@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/gummeson-jeremy", "title": "assistant professor", "email": "gummeson@cs.umass.edu", "extra_strings": "jeremy gummeson"}

@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/kristy_peterson.jpg?itok=pGCzVegr", "site": "https://www.colorado.edu/cs/kristy-peterson", "title": 0, "email": "kristy.peterson@colorado.edu", "extra_strings": "kristy peterson"}

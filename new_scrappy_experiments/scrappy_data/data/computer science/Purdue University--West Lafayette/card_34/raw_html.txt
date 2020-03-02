@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Elisha Sacks</td><td>Professor</td><td style=\"white-space: nowrap\"><phone>49-49026</phone></td><td style=\"white-space: nowrap\"><office>LWSN 3181</office></td><td><a href=\"mailto:elisha.sacks@gmail.com\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/eps/\">Bio</a></td></tr>"

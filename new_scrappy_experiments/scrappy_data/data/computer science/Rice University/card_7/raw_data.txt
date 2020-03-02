@@ -1,0 +1,1 @@
+{"image": "/sites/g/files/bxs1251/f/cs_headshots/2014-Scott-Cutler.jpg", "site": "https://csweb.rice.edu/scott-cutler", "title": "professor", "email": 0, "extra_strings": "scott cutler"}

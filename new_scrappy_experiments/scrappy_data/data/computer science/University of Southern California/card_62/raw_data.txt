@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/2dafc9bc59c736884ae57b7235d5bc67.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Miller&fname=Jeffrey", "title": "associate professor", "email": "jeffrey.miller@usc.edu", "extra_strings": "jeffrey miller"}

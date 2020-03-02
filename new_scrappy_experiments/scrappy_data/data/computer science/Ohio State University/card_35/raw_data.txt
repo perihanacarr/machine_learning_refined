@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/srinivasan.115.jpg?itok=eydgg3Qx", "site": "https://cse.osu.edu/people/athreya.14", "title": "associate professor", "email": "athreya.14@osu.edu", "extra_strings": "eese laboratories"}

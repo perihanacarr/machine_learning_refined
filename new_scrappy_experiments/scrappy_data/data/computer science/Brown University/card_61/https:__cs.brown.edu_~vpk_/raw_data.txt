@@ -1,0 +1,1 @@
+{"email": [], "image": ["images/vpk.jpg"], "research_blurb": ["\"A Large\n\t\tScale Data Mining Approach to Antibiotic Resistance\n\t\tSurveillance\""]}

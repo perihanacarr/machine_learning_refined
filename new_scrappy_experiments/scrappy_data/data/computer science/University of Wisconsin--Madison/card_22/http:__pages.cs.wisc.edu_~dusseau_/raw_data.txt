@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://www.cs.wisc.edu/people/faculty/Images/AndreaArpaciDusseau_1_3.17.17_1080x1620.jpg", "https://www.cs.wisc.edu/people/faculty/images/crestTopper.gif"], "research_blurb": ["  <a href=\"/~dusseau/research.html\"> Research   Summary</a> <br> "]}

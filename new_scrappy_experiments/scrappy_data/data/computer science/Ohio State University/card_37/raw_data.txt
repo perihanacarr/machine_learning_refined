@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/sun.397.jpg?itok=y3le4TcM", "site": "https://cse.osu.edu/people/sun.397-0", "title": "assistant professor", "email": "sun.397@osu.edu", "extra_strings": "huan sun"}

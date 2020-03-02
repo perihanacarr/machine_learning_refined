@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/technical-faculty/zeliha-dilsun-kaynar", "title": "professor", "email": "dilsun@cs.cmu.edu", "extra_strings": "zeliha dilsun kaynar"}

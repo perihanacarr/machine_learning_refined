@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/downing_glenn.jpg?itok=hIoPNAjS", "site": "https://www.cs.utexas.edu/people/faculty-researchers/glenn-downing", "title": "assistant professor", "email": 0, "extra_strings": "glenn downing"}

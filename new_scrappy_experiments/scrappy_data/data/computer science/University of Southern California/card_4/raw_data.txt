@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/382488511f4d6961d933aef359c5d2ff.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Adamchik&fname=Victor", "title": "professor", "email": "adamchik@usc.edu", "extra_strings": "victor adamchik"}

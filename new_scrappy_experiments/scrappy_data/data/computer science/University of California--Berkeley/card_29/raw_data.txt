@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/fateman.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/AI", "title": "professor emeritus", "email": "fateman@cs.berkeley.edu", "extra_strings": "soda hall, -- fatemancsberkeleyedu"}

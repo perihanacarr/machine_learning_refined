@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Head_Silhouette_0_1.jpg", "site": 0, "title": "professor", "email": "lsf@mit.edu", "extra_strings": "lawrence frishkopf"}

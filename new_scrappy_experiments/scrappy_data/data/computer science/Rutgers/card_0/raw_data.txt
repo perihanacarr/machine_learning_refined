@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2694.jpeg", "site": "https://www.cs.rutgers.edu/people/professors/details/eric-allender", "title": "professor", "email": "ALLENDER@CS.RUTGERS.EDU", "extra_strings": "eric allender"}

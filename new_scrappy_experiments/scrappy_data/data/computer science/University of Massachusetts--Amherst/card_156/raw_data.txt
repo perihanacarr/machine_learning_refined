@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/haas-peter", "title": "professor", "email": "phaas@cs.umass.edu", "extra_strings": "peter haas"}

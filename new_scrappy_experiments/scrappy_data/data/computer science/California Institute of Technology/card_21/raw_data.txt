@@ -1,0 +1,1 @@
+{"image": "http://cloudfront.eas.caltech.edu/eas_directory/users/jimbeck/photos/james-beck-2-original.jpg?1494537631", "site": "http://cms.caltech.edu/people/jimbeck", "title": "professor", "email": 0, "extra_strings": "james l jim beck"}

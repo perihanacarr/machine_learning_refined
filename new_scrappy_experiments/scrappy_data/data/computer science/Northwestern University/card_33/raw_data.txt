@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/findler-robert-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/findler-robert.html", "title": "professor", "email": "robby@eecs.northwestern.edu", "extra_strings": "robby findler"}

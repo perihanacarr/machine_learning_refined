@@ -1,0 +1,1 @@
+{"image": "https://cse.engin.umich.edu/wp-content/plugins/cbd-eecs-blocks/dist/images/cse-photo-placeholder.png", "site": 0, "title": 0, "email": "dcsmc@umich.edu", "extra_strings": "mithun chakraborty"}

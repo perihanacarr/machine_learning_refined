@@ -1,0 +1,1 @@
+{"image": "/dir/photos/BARLOW-JESSE.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=B58", "title": "professor", "email": "b58@psu.edu", "extra_strings": "westgate building"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/karl-crary", "title": "associate professor", "email": "crary@cs.cmu.edu", "extra_strings": "karl crary"}

@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/d2/bc/d2bc828d-62a5-4527-90a6-97076d04098c/serdar_kadioglu_-_copy.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "https://sites.google.com/site/serdrk", "title": "assistant professor", "email": 0, "extra_strings": "serdar kadioglu"}

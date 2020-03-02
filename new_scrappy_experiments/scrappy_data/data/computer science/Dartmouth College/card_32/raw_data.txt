@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/sean-smith-590.jpg?itok=k36mGBDG", "site": "https://web.cs.dartmouth.edu/people/sean-w-smith", "title": "professor", "email": "Sean.W.Smith@Dartmouth.EDU", "extra_strings": "sean w smith"}

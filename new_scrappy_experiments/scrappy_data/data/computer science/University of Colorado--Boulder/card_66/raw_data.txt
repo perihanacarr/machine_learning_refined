@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/headshot.jpg?itok=kKN8R63M", "site": "https://www.colorado.edu/cs/joshua-grochow", "title": "assistant professor", "email": "jgrochow@colorado.edu", "extra_strings": "joshua grochow"}

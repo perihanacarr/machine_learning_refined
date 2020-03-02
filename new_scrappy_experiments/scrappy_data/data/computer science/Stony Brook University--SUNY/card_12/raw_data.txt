@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/DSC02359_crop1.JPG", "site": "https://www.cs.stonybrook.edu/people/faculty/ShanLin", "title": "assistant professor", "email": 0, "extra_strings": "shan lin"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/kazemian/", "title": "assistant professor", "email": "kazemian@purdue.edu", "extra_strings": "majid kazemian"}

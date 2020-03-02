@@ -1,0 +1,1 @@
+{"email": [], "image": ["images/184_AS36572_copy.jpg"], "research_blurb": ["</a>\n<a class=\"tertiary\" href=\"ourkrbook.html\" id=\"sublink4\" target=\"_blank\">"]}

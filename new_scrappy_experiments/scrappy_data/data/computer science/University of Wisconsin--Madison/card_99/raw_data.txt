@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/10/Yingui-Liang-120x150.jpg", "site": "https://www.cs.wisc.edu/staff/liang-yingyu/", "title": "assistant professor", "email": "yliang@cs.wisc.edu", "extra_strings": "yingyu liang"}

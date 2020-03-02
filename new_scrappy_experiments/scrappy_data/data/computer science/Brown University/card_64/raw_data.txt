@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/d8/3a/d83a43fe-9793-4e62-91fb-983f88ead9c7/20190815_comm_singh_ritambhara_001_2048px2.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "https://cs.brown.edu/people/faculty/rsingh47/", "title": "assistant professor", "email": 0, "extra_strings": "ritambhara singh"}

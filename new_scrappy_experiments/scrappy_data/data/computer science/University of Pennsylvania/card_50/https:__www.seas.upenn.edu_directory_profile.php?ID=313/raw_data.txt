@@ -1,0 +1,1 @@
+{"email": ["liminjia@cmu.edu"], "image": ["images/photos/full-placeholder.jpg "], "research_blurb": ["\nEmail | Personal Webpage "]}

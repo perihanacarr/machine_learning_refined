@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/lesser_victor", "title": "professor emeritus", "email": "lesser@cs.umass.edu", "extra_strings": "victor r lesser"}

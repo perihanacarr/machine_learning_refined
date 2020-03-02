@@ -1,0 +1,1 @@
+{"email": [], "image": [], "research_blurb": ["researchbiography", ".\nMy area of research is computational linguistics,\nwhich encompasses language technology (machine translation, speech\nrecognition, information extraction), digital linguistics, the\nlanguage part of artificial intelligence, and computational\npsycholinguistics."]}

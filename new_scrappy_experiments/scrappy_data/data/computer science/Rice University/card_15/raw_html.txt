@@ -1,0 +1,1 @@
+"<div class=\"col-3 omega\">\n<img alt=\"Ang Chen\" src=\"/sites/g/files/bxs1251/f/cs_headshots/AngChen-Aug2017-500.jpg\"/><h4>\n<a href=\"/ang-chen\">Ang Chen</a></h4>\n<p>Assistant Professor of Computer Science and of Electrical and Computer Engineering\u00a0</p>\n</div>"

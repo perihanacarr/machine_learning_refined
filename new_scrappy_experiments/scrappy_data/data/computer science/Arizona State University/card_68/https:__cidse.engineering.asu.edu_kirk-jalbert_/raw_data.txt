@@ -1,0 +1,1 @@
+{"email": ["Kirk.Jalbert@asu.edu"], "image": ["https://cidse.engineering.asu.edu/wp-content/uploads/2019/03/Kirk-Jalbert.jpg", "//www.asu.edu/asuthemes/4.8/assets/ASU-number-1-innovation-best-colleges.png"], "research_blurb": ["Mar 13, 2019"]}

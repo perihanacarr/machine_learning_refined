@@ -1,0 +1,1 @@
+{"email": ["mrc26@cornell.edu"], "image": ["mrc_gates300.jpg"], "research_blurb": [""]}

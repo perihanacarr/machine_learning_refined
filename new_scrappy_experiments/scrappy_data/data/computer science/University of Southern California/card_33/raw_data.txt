@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/e86c084ab438f8550977bf6d2590fac2.png", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Dilkina&fname=Bistra", "title": "assistant professor", "email": "dilkina@usc.edu", "extra_strings": "bistra dilkina"}

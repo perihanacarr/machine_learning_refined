@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/Artzi%2C%20Yoav_0.jpg?itok=xO3ZGsaq", "site": "https://www.cs.cornell.edu/research/robotics", "title": "assistant professor", "email": 0, "extra_strings": "yoav artzi"}

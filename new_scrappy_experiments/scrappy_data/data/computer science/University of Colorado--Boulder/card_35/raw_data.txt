@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/caleb-phillips", "title": "assistant professor", "email": "caleb.phillips@colorado.edu", "extra_strings": "caleb phillips"}

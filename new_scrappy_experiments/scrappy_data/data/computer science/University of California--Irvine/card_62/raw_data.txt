@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/whayes.jpg", "site": "http://www.ics.uci.edu/~wayne", "title": "associate professor", "email": "%20whayes@uci.edu", "extra_strings": "wayne hayes"}

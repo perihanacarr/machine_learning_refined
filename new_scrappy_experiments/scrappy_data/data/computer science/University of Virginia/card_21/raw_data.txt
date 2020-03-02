@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://scholar.google.com/citations?hl=en&user=bLuw1yoAAAAJ", "title": "assistant professor", "email": "jh2jf@virginia.edu", "extra_strings": "john r hott"}

@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/alanparadise.jpg?itok=I3AdmgCJ", "site": "https://www.colorado.edu/cs/alan-paradise", "title": 0, "email": "Alan.Paradise@Colorado.EDU", "extra_strings": "alan paradise"}

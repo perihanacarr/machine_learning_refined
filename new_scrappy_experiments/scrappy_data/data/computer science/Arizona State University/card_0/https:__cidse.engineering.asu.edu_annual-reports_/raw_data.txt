@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://cidse.engineering.asu.edu/wp-content/uploads/2019/01/Screen-Shot-2019-01-30-at-1.50.53-PM.png", "//www.asu.edu/asuthemes/4.8/assets/ASU-number-1-innovation-best-colleges.png"], "research_blurb": [""]}

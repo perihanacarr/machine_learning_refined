@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/reetudas.jpg", "site": "http://web.eecs.umich.edu/~reetudas/", "title": "assistant professor", "email": "reetudas@umich.edu", "extra_strings": "reetuparna das"}

@@ -1,0 +1,1 @@
+{"image": "https://cse.engin.umich.edu/wp-content/uploads/2020/01/brewer.jpg", "site": "http://robinbrewer.com/", "title": "assistant professor", "email": "rnbrew@umich.edu", "extra_strings": "robin brewer"}

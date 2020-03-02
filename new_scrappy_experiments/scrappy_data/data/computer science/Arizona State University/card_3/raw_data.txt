@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Adolfo-Escobedo.jpg", "site": "https://cidse.engineering.asu.edu/adolfo-escobedo/", "title": "assistant professor", "email": "adRes@asu.edu", "extra_strings": "adolfo escobedo"}

@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Dave Tian</td><td>Assistant Professor</td><td style=\"white-space: nowrap\"><phone>49-66544</phone></td><td style=\"white-space: nowrap\"><office>LWSN 1175</office></td><td><a href=\"mailto:daveti@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/daveti/\">Bio</a></td></tr>"

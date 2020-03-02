@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=85157&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/alawini", "title": "assistant professor", "email": "alawini@illinois.edu", "extra_strings": "abdussalam alawini"}

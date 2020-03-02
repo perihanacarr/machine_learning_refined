@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=40526&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/waf", "title": "associate professor", "email": "waf@illinois.edu", "extra_strings": "wade a fagen-ulmschneider"}

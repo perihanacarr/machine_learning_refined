@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/supowit.1.jpg?itok=DNo_XiWD", "site": "http://web.cse.ohio-state.edu/~supowit", "title": "associate professor", "email": "supowit.1@osu.edu", "extra_strings": "eese laboratories"}

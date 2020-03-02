@@ -1,0 +1,1 @@
+{"email": ["pinkus@techunix.technion.ac.il"], "image": ["pix/sre.jpg", "pix/pomacad.jpg"], "research_blurb": ["major research For a very complimentary\noverview, see ", "40min\nsummary", "\npicture of my suitcase (of help if it gets lost\nagain)\n"]}

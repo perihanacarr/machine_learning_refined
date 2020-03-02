@@ -1,0 +1,1 @@
+http://www.google.com/calendar/event?action=TEMPLATE&dates={{rawstartdate}}T{{rawstarttime}}00Z%2F{{rawenddate}}T{{rawendtime}}00Z&text={{title}}&location={{location}}&details={{#unhtmlize}}{{{abstract}}}{{/unhtmlize}}

@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_1986651099/vt-items_0/vtmulticolumn_copy/vt-items_0/adaptiveimage.transform/m-medium/image.jpg", "site": "http://sangwonlee.com", "title": "assistant professor", "email": "sangwonlee", "extra_strings": "knowledgeworks ii"}

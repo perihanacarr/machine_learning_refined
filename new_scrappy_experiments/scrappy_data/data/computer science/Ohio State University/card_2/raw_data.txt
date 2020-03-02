@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/custom/directory/profile_default2.png?itok=2mtVbX1I", "site": "https://cse.osu.edu/people/bojjavenkatakrishnan.2", "title": "assistant professor", "email": "bojjavenkatakrishnan.2@osu.edu", "extra_strings": "shaileshh bojja venkatakrishnan"}

@@ -1,0 +1,1 @@
+{"email": [], "image": ["jg.jpeg", "http://www.freecountercode.com//Free_myspace_counter_3905793.gif"], "research_blurb": ["  COMS 4205: Combinatorial Theory "]}

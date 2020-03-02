@@ -1,0 +1,1 @@
+{"email": ["weilunchao760414@gmail.com"], "image": ["img/harry_newyork_new.png"], "research_blurb": [".\n\tMy research interests are in machine learning and its applications to computer vision, autonomous driving, natural language processing, artificial intelligence, and health care."]}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/manmatha_r", "title": "adjunct professor", "email": "manmatha@cs.umass.edu", "extra_strings": "r manmatha"}

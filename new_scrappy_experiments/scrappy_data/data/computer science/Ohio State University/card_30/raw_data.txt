@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/shen.94.jpg?itok=MnSfjkzl", "site": "http://web.cse.ohio-state.edu/~hwshen", "title": "professor", "email": "shen.94@osu.edu", "extra_strings": "eese laboratories"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/kaplan_scott", "title": "adjunct professor", "email": "sfkaplan@cs.umass.edu", "extra_strings": "scott f kaplan"}

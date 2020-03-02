@@ -1,0 +1,1 @@
+{"email": ["keleher@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/Screen%20Shot%202018-12-29%20at%2011.58.47%20AM_2.png?itok=Mnku767r"], "research_blurb": ["View Department Office Contacts"]}

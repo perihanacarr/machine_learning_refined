@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/zico-kolter", "title": "assistant professor", "email": "zkolter@cs.cmu.edu", "extra_strings": "j zico kolter"}

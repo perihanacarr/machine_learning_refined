@@ -1,0 +1,1 @@
+{"email": ["ktm@cs.stonybrook.edu"], "image": ["https://www.cs.stonybrook.edu/sites/default/files/McDonnellKevin.jpg", "https://www.cs.stonybrook.edu/sites/all/themes/compsci/images/blue_arrow.gif"], "research_blurb": ["Kevin McDonnell's research projects and publication can be found "]}

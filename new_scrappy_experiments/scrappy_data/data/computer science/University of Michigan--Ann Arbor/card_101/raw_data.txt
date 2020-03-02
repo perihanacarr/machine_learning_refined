@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/pettie.jpg", "site": "http://web.eecs.umich.edu/~pettie/", "title": "professor", "email": "pettie@umich.edu", "extra_strings": "seth pettie"}

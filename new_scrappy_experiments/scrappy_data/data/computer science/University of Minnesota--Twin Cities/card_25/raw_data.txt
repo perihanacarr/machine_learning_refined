@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/kauffman_3_final_web.jpg?itok=PcZTNOpU", "site": "https://www.cs.umn.edu/people/christopher-kauffman", "title": 0, "email": "kauffman@umn.edu", "extra_strings": "christopher kauffman"}

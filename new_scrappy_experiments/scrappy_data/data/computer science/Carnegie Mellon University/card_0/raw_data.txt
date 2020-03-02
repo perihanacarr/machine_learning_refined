@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/technical-faculty/anil-ada", "title": "professor", "email": "aada@cs.cmu.edu", "extra_strings": "anil ada"}

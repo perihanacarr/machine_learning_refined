@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_liu.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=228", "title": "assistant professor", "email": "liuv@cis.upenn.edu", "extra_strings": "vincent liu"}

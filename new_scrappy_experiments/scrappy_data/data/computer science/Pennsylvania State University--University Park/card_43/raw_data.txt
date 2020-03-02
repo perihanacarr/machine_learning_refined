@@ -1,0 +1,1 @@
+{"image": "/dir/photos/QUICK-SUSAN.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=SLH9", "title": "professor", "email": "slh9@psu.edu", "extra_strings": "susan quick"}

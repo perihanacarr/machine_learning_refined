@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/gopi.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=gopi", "title": "professor", "email": "%20gopi@ics.uci.edu", "extra_strings": "gopi meenakshisundaram"}

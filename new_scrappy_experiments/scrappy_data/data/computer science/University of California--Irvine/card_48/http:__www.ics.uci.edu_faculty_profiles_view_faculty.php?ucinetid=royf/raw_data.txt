@@ -1,0 +1,1 @@
+{"email": ["royf@uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["<br/><h3>RESEARCH INTERESTS:</h3> Theory and applications of reinforcement learning, dynamical systems, information theory, and robotics.\n<br/>"]}

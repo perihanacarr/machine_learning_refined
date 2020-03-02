@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_Sokolosky.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=91", "title": "professor", "email": "sokolsky@cis.upenn.edu", "extra_strings": "oleg sokolsky"}

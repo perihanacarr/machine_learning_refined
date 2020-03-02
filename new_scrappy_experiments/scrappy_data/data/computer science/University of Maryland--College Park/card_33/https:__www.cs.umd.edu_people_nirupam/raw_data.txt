@@ -1,0 +1,1 @@
+{"email": ["nirupam@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/40px_icon/public/images/userpictures/Nakul_Garg_Photo.jpg?itok=UH2gFxOQ", "https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/NirupamRoy_photo.jpeg?itok=58RyPf_m"], "research_blurb": ["View Department Office Contacts"]}

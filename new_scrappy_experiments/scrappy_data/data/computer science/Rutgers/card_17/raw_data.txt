@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2650.png", "site": "https://www.cs.rutgers.edu/people/professors/details/lars-sorensen", "title": "professor", "email": "biglars@cs.rutgers.edu", "extra_strings": "lars sorensen"}

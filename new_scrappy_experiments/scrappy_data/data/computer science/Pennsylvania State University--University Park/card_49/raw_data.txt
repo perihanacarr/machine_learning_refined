@@ -1,0 +1,1 @@
+{"image": "/dir/photos/He-Ting.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=tzh58", "title": "associate professor", "email": "tzh58@psu.edu", "extra_strings": "w westgate building"}

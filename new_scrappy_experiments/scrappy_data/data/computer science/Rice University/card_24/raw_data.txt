@@ -1,0 +1,1 @@
+{"image": "/sites/g/files/bxs1251/f/cs_headshots/Mamouras.jpg", "site": "https://csweb.rice.edu/konstantinos-mamouras", "title": "assistant professor", "email": 0, "extra_strings": "tasos mamouras"}

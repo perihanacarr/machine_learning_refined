@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/mazum.jpg", "site": "http://web.eecs.umich.edu/~mazum/", "title": "professor", "email": "mazum@umich.edu", "extra_strings": "pinaki mazumder"}

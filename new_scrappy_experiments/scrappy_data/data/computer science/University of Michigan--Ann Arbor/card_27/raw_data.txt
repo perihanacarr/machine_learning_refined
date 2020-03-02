@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/drjieliu.jpg", "site": "https://jieliu6.github.io/", "title": "assistant professor", "email": "drjieliu@umich.edu", "extra_strings": "jie liu"}

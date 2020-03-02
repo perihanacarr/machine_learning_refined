@@ -1,0 +1,1 @@
+{"email": ["csadmis@cs.utexas.edu", "gracs@cs.utexas.edu"], "image": [], "research_blurb": ["Welcome to GRACS. We are here to help CS grad students in any way we can. If you need information on degree requirements, research techniques, teaching tools, or things to do in Austin, then you've come to the right place."]}

@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/3fe084e5912394a84115f9d181a0829b.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Horowitz&fname=Ellis", "title": "professor", "email": "horowitz@usc.edu", "extra_strings": "ellis horowitz"}

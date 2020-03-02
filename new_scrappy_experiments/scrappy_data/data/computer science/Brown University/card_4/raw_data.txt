@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/0e/85/0e85b433-6c06-44f7-969f-44d866ce30cc/ports_160922_1261headcrop2.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "https://cs.brown.edu/people/faculty/mjblack/", "title": "adjunct professor", "email": 0, "extra_strings": "michael j black"}

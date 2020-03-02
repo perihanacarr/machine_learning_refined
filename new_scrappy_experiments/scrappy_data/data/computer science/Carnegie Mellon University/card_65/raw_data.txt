@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/adjunct-faculty/manuel-blum", "title": "professor emeritus", "email": "mblum@cs.cmu.edu", "extra_strings": "manuel blum"}

@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/darrell.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/AI", "title": "professor", "email": "trevor@eecs.berkeley.edu", "extra_strings": "trevor darrell"}

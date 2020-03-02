@@ -1,0 +1,1 @@
+{"image": "http://cloudfront.eas.caltech.edu/eas_directory/users/schulman/photos/leonard-schulman-original.jpg?1464115650", "site": "http://cms.caltech.edu/people/schulman", "title": "professor", "email": 0, "extra_strings": "leonard j schulman"}

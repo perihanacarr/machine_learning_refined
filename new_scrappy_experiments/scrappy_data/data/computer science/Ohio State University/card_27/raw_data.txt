@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/ritter_alan.png?itok=mjtJ4BX1&c=b9db72182725eb62735c7a8e41f96e78", "site": "https://cse.osu.edu/people/ritter.1492", "title": "assistant professor", "email": "ritter.1492@osu.edu", "extra_strings": "eese laboratories"}

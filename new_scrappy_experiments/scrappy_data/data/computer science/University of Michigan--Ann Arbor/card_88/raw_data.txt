@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/mjguz.jpg", "site": "https://guzdial.engin.umich.edu/", "title": "professor", "email": "mjguz@umich.edu", "extra_strings": "mark guzdial"}

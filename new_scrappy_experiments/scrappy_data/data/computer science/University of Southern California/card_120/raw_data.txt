@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/3078bf5cf6c86dec92210461a0a8337f.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Batista&fname=Sandra", "title": 0, "email": "sbatista@usc.edu", "extra_strings": "sana batista"}

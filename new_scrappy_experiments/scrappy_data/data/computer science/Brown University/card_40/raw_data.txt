@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/58/06/5806490d-0c90-4a9e-806e-fddf31439bfe/img_6124.jpg__60x80_q85_subsampling-2.jpg 53w", "site": "https://cs.brown.edu/people/faculty/acrotty/", "title": 0, "email": 0, "extra_strings": "anew j crotty"}

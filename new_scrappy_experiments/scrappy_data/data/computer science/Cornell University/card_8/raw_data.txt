@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/Bindel%2C%20David.jpg?itok=8s2JcA2j", "site": "https://www.cs.cornell.edu/research/scientif", "title": "associate professor", "email": 0, "extra_strings": "david bindel"}

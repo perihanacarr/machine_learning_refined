@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Chulhee Cho</td><td>Visiting Scholar</td><td style=\"white-space: nowrap\"><phone></phone></td><td style=\"white-space: nowrap\"><office>LWSN 2142W</office></td><td><a href=\"mailto:cho416@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/cho416/\">Bio</a></td></tr>"

@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/rogers-jennie-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-jennie.html", "title": "assistant professor", "email": "jennie@northwestern.edu", "extra_strings": "jennie rogers"}

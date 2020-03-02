@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/972dd5f5e07e60122248c01c9989d369.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Georgila&fname=Kallirroi", "title": "associate professor", "email": "kgeorgila@ict.usc.edu", "extra_strings": "kallirroi georgila"}

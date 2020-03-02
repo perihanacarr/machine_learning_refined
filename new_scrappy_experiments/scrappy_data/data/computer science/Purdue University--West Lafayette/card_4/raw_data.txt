@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/aliaga/", "title": "associate professor", "email": "aliaga@purdue.edu", "extra_strings": "daniel aliaga"}

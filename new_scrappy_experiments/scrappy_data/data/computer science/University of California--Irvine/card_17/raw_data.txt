@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/fowlkes.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=fowlkes", "title": "professor", "email": "%20fowlkes@ics.uci.edu", "extra_strings": "charless fowlkes"}

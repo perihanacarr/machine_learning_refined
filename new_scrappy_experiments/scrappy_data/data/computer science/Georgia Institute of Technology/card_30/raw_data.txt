@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/santosh-pande_0_0.jpg?itok=s-5W06xA", "site": "https://www.scs.gatech.edu/people/santosh-pande", "title": "associate professor", "email": "santosh@cc.gatech.edu", "extra_strings": "santosh pande"}

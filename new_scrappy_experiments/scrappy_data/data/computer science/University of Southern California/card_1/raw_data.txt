@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/13361c05b8bb204a5001454ae624c68c.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Kempe&fname=David", "title": "professor", "email": "David.M.Kempe@gmail.com", "extra_strings": "david kempe"}

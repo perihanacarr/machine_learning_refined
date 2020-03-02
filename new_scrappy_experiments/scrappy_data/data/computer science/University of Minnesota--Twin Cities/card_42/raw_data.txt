@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_saad.jpg?itok=tC06Ff-I", "site": "https://www.cs.umn.edu/people/yousef-saad", "title": 0, "email": "saad@umn.edu", "extra_strings": "yousef saad"}

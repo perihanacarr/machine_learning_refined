@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=13482&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/shaffer1", "title": "assistant professor", "email": "shaffer1@illinois.edu", "extra_strings": "eric gene shaffer"}

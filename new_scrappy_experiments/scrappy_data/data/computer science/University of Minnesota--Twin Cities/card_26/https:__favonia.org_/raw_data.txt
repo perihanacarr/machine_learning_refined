@@ -1,0 +1,1 @@
+{"email": ["kbh@umn.edu"], "image": ["files/profile.jpg"], "research_blurb": [". My research interests lie in achieving a high level of rigor in computer programs and mathematical proofs. In particular, I have been working on proof mechanization, type theory, compiler correctness and property-based testing."]}

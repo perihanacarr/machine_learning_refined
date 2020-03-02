@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/lin.3021.jpg?itok=xhF8YLYG", "site": "https://cse.osu.edu/people/lin.3021", "title": "associate professor", "email": "lin.3021@osu.edu", "extra_strings": "eese labs"}

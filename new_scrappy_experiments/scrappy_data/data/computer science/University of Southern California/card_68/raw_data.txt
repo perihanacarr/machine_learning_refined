@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/267eae542c975893b42422aa94631129.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Deshmukh&fname=Jyotirmoy", "title": "assistant professor", "email": "jyotirmoy.deshmukh@usc.edu", "extra_strings": "jyotirmoy deshmukh"}

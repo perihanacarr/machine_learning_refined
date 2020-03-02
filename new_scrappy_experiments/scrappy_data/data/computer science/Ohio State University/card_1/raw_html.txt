@@ -1,0 +1,1 @@
+"<h1 class=\"site-name site-name-image custom-image\">\n<a href=\"/\" rel=\"home\" title=\"Home\">\n<span class=\"siteinfo-sitename-prefix site-name-prefix\">Department of</span>\n<span class=\"siteinfo-sitename site-name\">Computer Science and Engineering</span>\n<img class=\"site-name-image\" src=\"https://cse.osu.edu/sites/default/files/custom/cse-title.png\"/>\n</a>\n</h1>"

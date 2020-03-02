@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/11/fawaz_kassem-e1542051579561-150x150.jpg", "site": "https://kassemfawaz.com/", "title": "assistant professor", "email": "kfawaz@wisc.edu", "extra_strings": "fawaz kassem"}

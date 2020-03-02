@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/zilberstein_shlomo", "title": "professor", "email": "shlomo@cs.umass.edu", "extra_strings": "shlomo zilberstein"}

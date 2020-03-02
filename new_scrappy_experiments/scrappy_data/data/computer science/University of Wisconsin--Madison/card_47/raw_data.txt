@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/11/lessard_laurent-e1542051825991-150x150.jpg", "site": "https://www.cs.wisc.edu/staff/lessard-laurent/", "title": "assistant professor", "email": "laurent.lessard@wisc.edu", "extra_strings": "laurent lessard"}

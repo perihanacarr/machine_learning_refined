@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/facultynoprofilepic_3.png?itok=RVZn_Qk3", "site": "https://www.cs.utexas.edu/people/faculty-researchers/andrea-rocchetto", "title": 0, "email": 0, "extra_strings": "anea rocchetto"}

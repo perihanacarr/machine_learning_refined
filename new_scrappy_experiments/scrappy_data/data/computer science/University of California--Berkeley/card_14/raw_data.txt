@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/bartlett.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/bartlett.html", "title": "professor", "email": "bartlett@eecs.berkeley.edu", "extra_strings": "peter bartlett"}

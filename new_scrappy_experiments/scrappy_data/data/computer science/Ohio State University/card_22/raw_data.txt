@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/nandi.9.jpg?itok=BZsBLeYA", "site": "https://cse.osu.edu/people/nandi.9", "title": "associate professor", "email": "nandi.9@osu.edu", "extra_strings": "eese laboratories"}

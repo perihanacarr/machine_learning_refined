@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Jing (Joy) Wen</td><td>Visiting Scholar</td><td style=\"white-space: nowrap\"><phone></phone></td><td style=\"white-space: nowrap\"><office>LWSN 3154S</office></td><td><a href=\"mailto:wen95@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/wen95/\">Bio</a></td></tr>"

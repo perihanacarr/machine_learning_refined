@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_1829252135/vt-items_1/vtmulticolumn_960029/vt-items_0/adaptiveimage_147370.transform/m-medium/image.jpg", "site": "http://www.fservant.com", "title": "assistant professor", "email": "fservant@vt.edu", "extra_strings": "knowledgeworks ii"}

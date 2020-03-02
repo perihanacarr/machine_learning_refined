@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/09/Robert-Atkinson-1.jpg", "site": "https://isearch.asu.edu/profile/506050", "title": "associate professor", "email": "Robert.Atkinson@asu.edu", "extra_strings": "robert atkinson"}

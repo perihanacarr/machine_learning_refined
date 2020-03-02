@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/rozner.jpg?itok=N4btxyVC", "site": "https://www.colorado.edu/cs/eric-rozner", "title": "assistant professor", "email": "eric.rozner@colorado.edu", "extra_strings": "eccr b"}

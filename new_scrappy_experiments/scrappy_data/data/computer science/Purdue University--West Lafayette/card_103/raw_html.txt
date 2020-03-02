@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">T N Vijaykumar</td><td>Professor (Electrical and Computer Engineering)</td><td style=\"white-space: nowrap\"><phone>49-40592</phone></td><td style=\"white-space: nowrap\"><office>EE 334B</office></td><td><a href=\"mailto:vijay@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/vijay/\">Bio</a></td></tr>"

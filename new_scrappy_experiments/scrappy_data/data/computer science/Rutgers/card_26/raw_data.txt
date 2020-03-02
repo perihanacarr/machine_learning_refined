@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2649.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/gerard-de-melo", "title": "assistant professor", "email": "gd343@rutgers.edu", "extra_strings": "gerard de melo"}

@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/sabdujyo.jpg", "site": "http://www.ics.uci.edu/~sabdujyo/", "title": "assistant professor", "email": "%20sangeetha.aj@uci.edu", "extra_strings": "sangeetha jyothi"}

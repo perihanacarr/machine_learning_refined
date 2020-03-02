@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ksen.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/PS", "title": "professor", "email": "ksen@cs.berkeley.edu", "extra_strings": "soda hall, -- ksencsberkeleyedu"}

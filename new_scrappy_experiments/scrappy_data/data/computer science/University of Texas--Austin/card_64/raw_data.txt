@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/miikkulainen_risto.jpeg?itok=LgFv3S2t", "site": "https://www.cs.utexas.edu/research/areas/bioinformatics-and-computational-biology", "title": "professor", "email": 0, "extra_strings": "risto miikkulainen"}

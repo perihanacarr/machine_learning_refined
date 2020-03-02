@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/drom.jpg", "site": "http://www.dromero.org/", "title": "assistant professor", "email": "drom@umich.edu", "extra_strings": "daniel romero"}

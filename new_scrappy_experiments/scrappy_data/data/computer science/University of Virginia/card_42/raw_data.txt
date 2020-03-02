@@ -1,0 +1,1 @@
+{"image": 0, "site": "http://cap.virginia.edu/", "title": "professor", "email": "skadron@virginia.edu", "extra_strings": "kevin skaon"}

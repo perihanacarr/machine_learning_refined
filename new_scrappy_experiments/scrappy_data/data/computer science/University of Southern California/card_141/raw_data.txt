@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/22a454453e1d3edbae56e50d39c4b2ac.png", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Thittamaranahalli&fname=Satish", "title": "assistant professor", "email": "thittama@usc.edu", "extra_strings": "satish thittamaranahalli"}

@@ -1,0 +1,1 @@
+{"image": "/dir/photos/Sottile-Brad.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=BJS5332", "title": 0, "email": "bjs5332@psu.edu", "extra_strings": "brad sottile"}

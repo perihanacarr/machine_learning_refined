@@ -1,0 +1,1 @@
+{"email": ["nick@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/Roussopolos%20nick.jpg?itok=YgIra2lf&c=269c9b640bfa5ce1ab1096c7c9c41a0e"], "research_blurb": ["View Department Office Contacts"]}

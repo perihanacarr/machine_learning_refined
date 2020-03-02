@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/challou1_final_crop.jpg?itok=1gOSCXKA", "site": "https://www.cs.umn.edu/people/dan-challou", "title": 0, "email": "chal0006@umn.edu", "extra_strings": "shepherd labs"}

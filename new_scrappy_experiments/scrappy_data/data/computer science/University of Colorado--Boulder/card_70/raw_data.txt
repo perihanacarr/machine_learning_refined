@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/kenny-gruchalla", "title": "assistant professor", "email": "kenny.gruchalla@colorado.edu", "extra_strings": "kenny gruchalla"}

@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/7e/7f/7e7f2a8a-bb71-407e-bf40-205b3bb1f647/unnamed.png__60x80_q85_subsampling-2.jpg 60w", "site": "https://cs.brown.edu/people/faculty/cklivans/", "title": "associate professor", "email": 0, "extra_strings": "caroline j klivans"}

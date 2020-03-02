@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_1986651099/vt-items_1/vtmulticolumn/vt-items_0/adaptiveimage.transform/m-medium/image.JPG", "site": "http://people.cs.vt.edu/wjlou", "title": "professor", "email": "wjlou@vt.edu", "extra_strings": "wenjing lou"}

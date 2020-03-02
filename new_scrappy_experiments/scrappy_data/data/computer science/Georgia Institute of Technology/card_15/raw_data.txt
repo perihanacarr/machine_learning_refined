@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/hyesoon_kim_0.jpg?itok=1O9kSmiO", "site": "https://www.scs.gatech.edu/people/hyesoon-kim", "title": "associate professor", "email": "hyesoon@cc.gatech.edu", "extra_strings": "hyesoon kim"}

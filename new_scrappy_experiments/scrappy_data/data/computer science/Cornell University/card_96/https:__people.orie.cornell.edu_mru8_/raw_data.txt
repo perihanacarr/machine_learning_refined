@@ -1,0 +1,1 @@
+{"email": ["udell@cornell.edu"], "image": ["img/20160820_udell_crop.jpg"], "research_blurb": ["bioresearch with The Cube\nresulted in a nice news article about my research and teaching\n My grant proposal for research on\nComposable Robust Structured Data Inference\nwas selected for funding under DARPA's program on\n I presented to introduce students to some of my research."]}

@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/forbus-ken-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/forbus-ken.html", "title": "professor", "email": "forbus@northwestern.edu", "extra_strings": "ken forbus"}

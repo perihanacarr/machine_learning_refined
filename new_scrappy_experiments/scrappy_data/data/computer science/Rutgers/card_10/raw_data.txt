@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2635.jpeg", "site": "https://www.cs.rutgers.edu/people/professors/details/aaron-bernstein", "title": "assistant professor", "email": "aaron.bernstein@rutgers.edu", "extra_strings": "aaron bernstein"}

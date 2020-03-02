@@ -1,0 +1,1 @@
+{"email": ["Tim.Lindquist@asu.edu"], "image": ["./ASU-Ira-A-Fulton-Schools-Of-Engineeing.png", "./lindquist06Apr160x250.jpg"], "research_blurb": []}

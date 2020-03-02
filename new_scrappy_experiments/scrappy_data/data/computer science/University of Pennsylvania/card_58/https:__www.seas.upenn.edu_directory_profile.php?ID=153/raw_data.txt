@@ -1,0 +1,1 @@
+{"email": ["myl@ling.upenn.edu"], "image": ["https://www.seas.upenn.edu/directory/images/feed-icon_orange-12px.png", "https://www.seas.upenn.edu/directory/images/photos/a-full-liberman.jpg "], "research_blurb": ["\nEmail | Personal Webpage "]}

@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/2e6d6b3efed9c5ac03d68a23c8890ec4.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Havaldar&fname=Parag", "title": 0, "email": "havaldar@usc.edu", "extra_strings": "parag havaldar"}

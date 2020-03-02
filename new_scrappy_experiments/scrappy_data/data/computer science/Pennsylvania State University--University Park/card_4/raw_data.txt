@@ -1,0 +1,1 @@
+{"image": "/dir/photos/pimentel-antonio-blanca.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=azb1015", "title": "assistant professor", "email": "azb1015@psu.edu", "extra_strings": "antonio blanca pimen"}

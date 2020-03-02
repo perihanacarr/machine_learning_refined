@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2019/02/Siddharth-Srivastava-aw.jpg", "site": "https://www.public.asu.edu/~ssriva43/", "title": "assistant professor", "email": "siddharths@asu.edu", "extra_strings": "siddharth srivastava"}

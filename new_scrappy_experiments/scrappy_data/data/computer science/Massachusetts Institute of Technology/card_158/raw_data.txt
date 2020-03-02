@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/tidor_0.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/7", "title": "professor", "email": "tidor@mit.edu", "extra_strings": "bruce tidor"}

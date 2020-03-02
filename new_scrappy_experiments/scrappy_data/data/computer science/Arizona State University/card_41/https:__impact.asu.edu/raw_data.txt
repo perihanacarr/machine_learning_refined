@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://impact.asu.edu/wp-content/uploads/2018/08/Impact-2014.jpg", "https://www.asu.edu/asuthemes/4.6/assets/best-colleges-most-innovative.png"], "research_blurb": ["Welcome to the IMPACT mobile computing lab at Arizona State University. We are located at BYENG 5th floor, on the right side of the building as you exit the elevator."]}

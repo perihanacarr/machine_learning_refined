@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/hilfinger.jpg", "site": "https://www2.eecs.berkeley.edu/Courses/CS61B", "title": "professor", "email": "hilfingr@cs.berkeley.edu", "extra_strings": "soda hall, -- hilfingrcsberkeleyedu"}

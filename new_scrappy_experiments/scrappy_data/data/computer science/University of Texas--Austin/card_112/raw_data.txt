@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/wright_john-w.jpg?itok=B85gpqPF", "site": "https://www.cs.utexas.edu/people/faculty-researchers/john-wright", "title": "assistant professor", "email": 0, "extra_strings": "john wright"}

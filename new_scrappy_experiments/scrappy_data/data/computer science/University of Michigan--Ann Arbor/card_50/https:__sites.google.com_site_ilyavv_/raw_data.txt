@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://sites.google.com/site/ilyavv/_/rsrc/1465852883333/home/Ilya%20temp.jpg?height=213"], "research_blurb": ["Ilya VolkovichUniversity of Michigan,\u00a0Computer Science & Engineering DivisionBob and Betty Beyster\u00a0Building -\u00a02260 Hayward,Ann Arbor, MI 48109"]}

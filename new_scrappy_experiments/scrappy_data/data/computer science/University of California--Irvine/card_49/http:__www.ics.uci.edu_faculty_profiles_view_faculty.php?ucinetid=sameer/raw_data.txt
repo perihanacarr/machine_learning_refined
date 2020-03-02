@@ -1,0 +1,1 @@
+{"email": ["sameer@uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["Artificial Intelligence and Machine Learning<br/>Databases and Data Mining<br/>Scientific and Numerical Computing<br/><h3>RESEARCH INTERESTS:</h3> Interactive machine learning, large-scale information extraction and natural language processing<br/>"]}

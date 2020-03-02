@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://www.cs.princeton.edu/people/images/elad.jpg", "http://c.statcounter.com/10059011/0/d1803d51/1/"], "research_blurb": ["bio and CV page"]}

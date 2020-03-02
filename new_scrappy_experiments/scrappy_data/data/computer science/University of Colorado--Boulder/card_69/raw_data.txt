@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/ken-2.jpg?itok=uNIdEVnK", "site": "https://www.colorado.edu/cs/ken-anderson", "title": "professor", "email": "ken.anderson@colorado.edu", "extra_strings": "ken anderson"}

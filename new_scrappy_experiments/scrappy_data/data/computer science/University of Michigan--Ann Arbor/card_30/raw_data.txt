@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/eadar.jpg", "site": "http://www.cond.org/", "title": "associate professor", "email": "eadar@umich.edu", "extra_strings": "eytan adar"}

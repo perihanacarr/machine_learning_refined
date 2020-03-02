@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">He Wang</td><td>Assistant Professor</td><td style=\"white-space: nowrap\"><phone>49-48469</phone></td><td style=\"white-space: nowrap\"><office>LWSN 3154L</office></td><td><a href=\"mailto:hw@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/hw/\">Bio</a></td></tr>"

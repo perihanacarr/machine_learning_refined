@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/lampson_0.jpg", "site": "http://www.csail.mit.edu/user/1575", "title": "adjunct professor", "email": "blampson@microsoft.com", "extra_strings": "butler lampson"}

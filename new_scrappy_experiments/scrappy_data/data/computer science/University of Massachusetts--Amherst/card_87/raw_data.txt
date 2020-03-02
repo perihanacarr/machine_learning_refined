@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/albrecht_jeannie", "title": "assistant professor", "email": "jeannie@cs.williams.edu", "extra_strings": "jeannie albrecht"}

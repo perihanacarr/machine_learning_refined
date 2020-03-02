@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Ahmed Elmagarmid</td><td>Professor Emeritus</td><td style=\"white-space: nowrap\"><phone></phone></td><td style=\"white-space: nowrap\"><office></office></td><td><a href=\"mailto:ake@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/ake/\">Bio</a></td></tr>"

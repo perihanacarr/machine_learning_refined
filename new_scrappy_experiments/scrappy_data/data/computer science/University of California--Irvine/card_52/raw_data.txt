@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/smehrotr.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=smehrotr", "title": "professor", "email": "%20sharad@ics.uci.edu", "extra_strings": "sharad mehrotra"}

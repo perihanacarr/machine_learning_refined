@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_Koditschek.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=49", "title": "professor", "email": "kod@seas.upenn.edu", "extra_strings": "daniel e koditschek"}

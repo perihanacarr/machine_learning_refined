@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/ccea4be36f16d03c12a178fff2cebd23.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Biederman&fname=Irving", "title": "professor", "email": "bieder@usc.edu", "extra_strings": "irving biederman"}

@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/vazirani.jpg", "site": "http://www.ics.uci.edu/~vazirani/", "title": "professor", "email": "%20vazirani@uci.edu", "extra_strings": "vijay vazirani"}

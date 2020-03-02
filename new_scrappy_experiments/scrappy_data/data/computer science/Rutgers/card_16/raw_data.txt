@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2660.jpeg", "site": "https://www.cs.rutgers.edu/people/professors/details/antonio-miranda-garcia", "title": "professor", "email": "antonio.miranda@rutgers.edu", "extra_strings": "antonio miranda garcia"}

@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-3560-1538769548.jpg?itok=lmkiKWIn", "site": "http://www.cs.yale.edu/homes/vishnoi/Home.html", "title": "professor", "email": "nisheeth.vishnoi@yale.edu", "extra_strings": "nisheeth vishnoi"}

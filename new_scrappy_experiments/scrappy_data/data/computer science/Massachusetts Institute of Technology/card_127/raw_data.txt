@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/moses_0.jpg", "site": "https://www.csail.mit.edu/user/1000", "title": "professor", "email": "moses@mit.edu", "extra_strings": "joel moses"}

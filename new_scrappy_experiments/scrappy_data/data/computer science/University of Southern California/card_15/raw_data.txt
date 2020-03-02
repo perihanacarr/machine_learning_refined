@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/a168c79db5f42cc8ab44f4098a666597.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Ayanian&fname=Nora", "title": "assistant professor", "email": "ayanian@usc.edu", "extra_strings": "nora ayanian"}

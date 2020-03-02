@@ -1,0 +1,1 @@
+{"email": ["vidick@caltech.edu"], "image": ["http://users.cms.caltech.edu/~vidick/images/pic3.jpg"], "research_blurb": ["recorded overview talk", "I am a professor in the Computing and Mathematical Sciences department at the California Institute of Technology."]}

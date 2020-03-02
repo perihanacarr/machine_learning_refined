@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Manya.jpg", "site": "https://people.csail.mit.edu/ghobadi/", "title": "assistant professor", "email": "ghobadi@mit.edu", "extra_strings": "manya ghobadi"}

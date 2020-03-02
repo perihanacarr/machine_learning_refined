@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/vanwart-sarah-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/vanwart-sarah.html", "title": 0, "email": "sarah.wart@northwestern.edu", "extra_strings": "sarah van wart"}

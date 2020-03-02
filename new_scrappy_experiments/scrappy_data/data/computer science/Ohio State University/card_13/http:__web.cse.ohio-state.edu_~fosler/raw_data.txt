@@ -1,0 +1,1 @@
+{"email": ["r@cse.ohio-state.edu", "javascript:window.location='fos' + 'ler' + '@' + 'cse.ohio-state.edu'"], "image": ["eric-2017.jpg", "http://www.w3.org/Icons/valid-html401"], "research_blurb": ["\n", " My research students: "]}

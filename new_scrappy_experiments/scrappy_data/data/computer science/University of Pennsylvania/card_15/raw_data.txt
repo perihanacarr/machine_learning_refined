@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb-callison-burch.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=197", "title": "associate professor", "email": "ccb@cis.upenn.edu", "extra_strings": "chris callison-burch"}

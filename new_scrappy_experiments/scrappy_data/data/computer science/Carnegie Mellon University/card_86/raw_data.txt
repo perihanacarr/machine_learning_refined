@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/ramamoorthi-ravi", "title": 0, "email": "ravi@andrew.cmu.edu", "extra_strings": "r ravi"}

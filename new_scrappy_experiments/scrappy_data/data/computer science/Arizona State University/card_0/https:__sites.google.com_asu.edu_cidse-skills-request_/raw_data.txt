@@ -1,0 +1,1 @@
+{"email": ["CIDSESkillsRequest@asu.edu"], "image": ["https://www.google.com/images/icons/product/drive-32.png"], "research_blurb": ["With your legal team, determine what type of verification is needed:"]}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/Orabona_pix_fixed_size.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/FrancescoOrabona", "title": "assistant professor", "email": 0, "extra_strings": "francesco orabona"}

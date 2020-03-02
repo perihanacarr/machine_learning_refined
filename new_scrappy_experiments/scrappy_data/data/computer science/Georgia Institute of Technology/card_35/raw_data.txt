@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/tumanov-riseretreat2017.jpg?itok=cVAqrMqS", "site": "https://www.scs.gatech.edu/people/alexey-tumanov", "title": "assistant professor", "email": "atumanov@gatech.edu", "extra_strings": "alexey tumanov"}

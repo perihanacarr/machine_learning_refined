@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/rattigan-matthew", "title": 0, "email": "rattigan@cs.umass.edu", "extra_strings": "matthew rattigan"}

@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Yuhong Nan</td><td>Post Doctoral Research Associate</td><td style=\"white-space: nowrap\"><phone></phone></td><td style=\"white-space: nowrap\"><office>LWSN 1206</office></td><td><a href=\"mailto:nan1@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/nan1/\">Bio</a></td></tr>"

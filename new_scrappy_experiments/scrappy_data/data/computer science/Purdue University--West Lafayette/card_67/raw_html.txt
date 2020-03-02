@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Milind Kulkarni</td><td>Associate Professor (Electrical and Computer Engineering)</td><td style=\"white-space: nowrap\"><phone></phone></td><td style=\"white-space: nowrap\"><office></office></td><td><a href=\"mailto:milind@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/milind/\">Bio</a></td></tr>"

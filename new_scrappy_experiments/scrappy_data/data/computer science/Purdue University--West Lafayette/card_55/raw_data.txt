@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/krq/", "title": "assistant professor", "email": "krq@purdue.edu", "extra_strings": "kent quanrud"}

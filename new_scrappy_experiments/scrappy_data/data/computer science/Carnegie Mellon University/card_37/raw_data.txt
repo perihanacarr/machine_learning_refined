@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/giulia-fanti", "title": "assistant professor", "email": "gfanti@andrew.cmu.edu", "extra_strings": "giulia fanti"}

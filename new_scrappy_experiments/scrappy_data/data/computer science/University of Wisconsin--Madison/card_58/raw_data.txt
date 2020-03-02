@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/10/Livny_crop_U-Comm-e1542043527420-150x150.jpg", "site": "http://pages.cs.wisc.edu/~miron/", "title": "professor", "email": "miron@cs.wisc.edu", "extra_strings": "miron livny"}

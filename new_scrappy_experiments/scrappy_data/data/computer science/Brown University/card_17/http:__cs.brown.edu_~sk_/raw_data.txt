@@ -1,0 +1,1 @@
+{"email": [], "image": ["Images/me-2019-04-10-small.jpg"], "research_blurb": ["research group's blog"]}

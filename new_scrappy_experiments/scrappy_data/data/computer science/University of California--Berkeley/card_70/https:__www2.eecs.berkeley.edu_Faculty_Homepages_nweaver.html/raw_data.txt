@@ -1,0 +1,1 @@
+{"email": ["nweaver@icsi.berkeley.edu"], "image": ["https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/nweaver.jpg"], "research_blurb": ["<ul class=\"Research Areas\">\n\n<a href=\"/Research/Areas/OSNT\">Operating Systems &amp; Networking (OSNT)</a>\n\n<a href=\"/Research/Areas/SEC\">Security (SEC)</a>\n</ul>\n\n<div class=\"grouping\">\n\n<div class=\"grouping\">"]}

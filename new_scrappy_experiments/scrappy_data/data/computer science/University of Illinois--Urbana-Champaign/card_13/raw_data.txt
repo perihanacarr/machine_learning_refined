@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=87857&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/dakshita", "title": "assistant professor", "email": "dakshita@illinois.edu", "extra_strings": "dakshita khurana"}

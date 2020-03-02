@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/f34563f2ff2a340ee8657a0044fbc384.jpeg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Peters&fname=Kim-Yongmi", "title": 0, "email": "kypeters@usc.edu", "extra_strings": "kim-yongmi peters"}

@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Xuansong Li</td><td>Visiting Scholar</td><td style=\"white-space: nowrap\"><phone></phone></td><td style=\"white-space: nowrap\"><office>LWSN 2142R</office></td><td><a href=\"mailto:li3525@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/li3525/\">Bio</a></td></tr>"

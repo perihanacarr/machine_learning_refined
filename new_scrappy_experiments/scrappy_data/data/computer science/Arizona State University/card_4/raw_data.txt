@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Ajay-Bansal.jpg", "site": "https://cidse.engineering.asu.edu/ajay-bansal/", "title": "assistant professor", "email": "Ajay.Bansal@asu.edu", "extra_strings": "ajay bansal"}

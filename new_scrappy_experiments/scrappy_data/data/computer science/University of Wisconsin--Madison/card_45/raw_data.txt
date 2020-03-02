@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2019/02/Kevin-Ponto-150x150.jpg", "site": "https://www.cs.wisc.edu/staff/ponto-kevin-2/", "title": "associate professor", "email": "kponto@cs.wisc.edu", "extra_strings": "kevin ponto"}

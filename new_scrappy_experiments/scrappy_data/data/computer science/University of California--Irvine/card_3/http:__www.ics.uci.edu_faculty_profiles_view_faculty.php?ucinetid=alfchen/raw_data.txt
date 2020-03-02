@@ -1,0 +1,1 @@
+{"email": ["alfchen@uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["Security and Privacy<br/><h3>RESEARCH INTERESTS:</h3> Security problem discovery and mitigation in smart systems and IoT, e.g., autonomous vehicle systems, intelligent transportation systems, and smart home systems.<br/>"]}

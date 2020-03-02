@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/daniel-sleator", "title": "professor", "email": "sleator@cs.cmu.edu", "extra_strings": "daniel sleator"}

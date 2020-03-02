@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/david-hall", "title": "professor", "email": "david.hall@colorado.edu", "extra_strings": "david hall"}

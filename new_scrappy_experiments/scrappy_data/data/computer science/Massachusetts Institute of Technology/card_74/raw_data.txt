@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/forney_0.jpg", "site": "https://lids.mit.edu/people/faculty/forney-david.html", "title": "adjunct professor", "email": "forneyd@comcast.net", "extra_strings": "david forney"}

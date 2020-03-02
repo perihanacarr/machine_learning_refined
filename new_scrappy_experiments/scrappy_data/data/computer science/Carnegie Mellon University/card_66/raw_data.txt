@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/adjunct-faculty/michael-taylor", "title": 0, "email": "mdtaylor@andrew.cmu.edu", "extra_strings": "michael taylor"}

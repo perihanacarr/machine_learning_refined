@@ -1,0 +1,1 @@
+{"image": "http://cloudfront.eas.caltech.edu/eas_directory/users/mckeon/photos/mckeon-beverley-original.jpg?1528821646", "site": "http://www.mckeon.caltech.edu", "title": "professor", "email": 0, "extra_strings": "beverley j mckeon"}

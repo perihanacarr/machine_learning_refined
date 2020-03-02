@@ -1,0 +1,1 @@
+"<div class=\"col-3\">\n<img alt=\"David B. Johnson \" src=\"/sites/g/files/bxs1251/f/cs_headshots/2016-David-%20Johnson.jpg\"/><h4>\n<a href=\"https://csweb.rice.edu/david-johnson\">David B. Johnson</a></h4>\n<p>Professor of Computer Science and of Electrical and Computer Engineering</p>\n</div>"

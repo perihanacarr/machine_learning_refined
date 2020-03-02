@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/gill-phillipa", "title": "associate professor", "email": "phillipa@cs.umass.edu", "extra_strings": "phillipa gill"}

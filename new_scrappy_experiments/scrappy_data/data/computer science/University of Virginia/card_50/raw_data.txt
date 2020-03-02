@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://scholar.google.com/citations?user=0skgDnMAAAAJ&hl=en", "title": "professor", "email": "weaver@virginia.edu", "extra_strings": "alfred c weaver"}

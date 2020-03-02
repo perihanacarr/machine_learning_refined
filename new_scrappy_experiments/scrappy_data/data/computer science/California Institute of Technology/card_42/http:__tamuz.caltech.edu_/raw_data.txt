@@ -1,0 +1,1 @@
+{"email": [], "image": ["./profile_pic.jpg"], "research_blurb": ["\n    interdisciplinary research groups.\n    "]}

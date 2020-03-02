@@ -1,0 +1,1 @@
+{"email": ["dbertsek@asu.edu"], "image": ["https://cidse.engineering.asu.edu/wp-content/uploads/2019/08/Dimitri-Bertsekas.jpg", "//www.asu.edu/asuthemes/4.8/assets/ASU-number-1-innovation-best-colleges.png"], "research_blurb": ["Aug 29, 2019"]}

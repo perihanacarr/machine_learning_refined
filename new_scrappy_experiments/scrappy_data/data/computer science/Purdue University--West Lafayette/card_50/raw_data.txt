@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/jrr/", "title": "professor emeritus", "email": "jrr@purdue.edu", "extra_strings": "john rice"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/akate/", "title": "assistant professor", "email": "akate@purdue.edu", "extra_strings": "aniket kate"}

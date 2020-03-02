@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/parlett.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/parlett.html", "title": "professor emeritus", "email": 0, "extra_strings": "beresford n parlett"}

@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2671.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/manish-parashar", "title": "professor", "email": "PARASHAR@RUTGERS.EDU", "extra_strings": "manish parashar"}

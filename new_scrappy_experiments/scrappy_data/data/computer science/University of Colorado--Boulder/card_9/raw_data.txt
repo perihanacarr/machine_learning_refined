@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/joseph_izraelevitz.jpg?itok=9w5EGaEd", "site": "https://www.colorado.edu/cs/joseph-izraelevitz", "title": "assistant professor", "email": "Joseph.Izraelevitz@colorado.edu", "extra_strings": "joseph izraelevitz"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_shragowi.jpg?itok=pM43fm8S", "site": "http://www-users.cs.umn.edu/~shragowi", "title": 0, "email": "shragowi@cs.umn.edu", "extra_strings": "eugene shragowitz"}

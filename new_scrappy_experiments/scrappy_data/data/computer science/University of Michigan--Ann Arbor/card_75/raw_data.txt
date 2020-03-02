@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/laird.jpg", "site": "https://laird.engin.umich.edu/", "title": "professor", "email": "laird@umich.edu", "extra_strings": "john laird"}

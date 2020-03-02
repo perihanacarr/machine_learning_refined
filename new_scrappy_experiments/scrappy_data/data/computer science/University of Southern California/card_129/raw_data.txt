@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/cabc19b62c8f3f6d3634224489830b67.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Teng&fname=Shanghua", "title": "professor", "email": "shanghua@usc.edu", "extra_strings": "shanghua teng"}

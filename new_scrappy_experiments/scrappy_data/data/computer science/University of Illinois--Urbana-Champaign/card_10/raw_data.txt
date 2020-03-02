@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=68648&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/cwfletch", "title": "assistant professor", "email": "cwfletch@illinois.edu", "extra_strings": "christopher wardlaw fletcher"}

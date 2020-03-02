@@ -1,0 +1,1 @@
+{"email": ["rbinh@mail.med.upenn.edu"], "image": ["https://www.seas.upenn.edu/directory/images/feed-icon_orange-12px.png", "https://www.seas.upenn.edu/directory/images/photos/a-full-rubin.jpg "], "research_blurb": ["Stochastic modeling and control of biological systems: The lactose regulation system of escherichia coli"]}

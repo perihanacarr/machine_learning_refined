@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://cidse.engineering.asu.edu/wp-content/uploads/2019/02/41-icon-300x300-150x150.png", "//www.asu.edu/asuthemes/4.8/assets/ASU-number-1-innovation-best-colleges.png"], "research_blurb": ["High-achieving students can take advantage of our 4+1 or 3+1 accelerated paths."]}

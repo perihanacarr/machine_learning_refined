@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2670.jpeg", "site": "https://www.cs.rutgers.edu/people/professors/details/vladimir-pavlovic", "title": "professor", "email": "vladimir@cs.rutgers.edu", "extra_strings": "vladimir pavlovic"}

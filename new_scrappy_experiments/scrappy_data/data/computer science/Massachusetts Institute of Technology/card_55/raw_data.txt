@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/bhatia.png", "site": "http://lmrt.mit.edu/about.html", "title": "professor", "email": "sbhatia@mit.edu", "extra_strings": "sangeeta bhatia"}

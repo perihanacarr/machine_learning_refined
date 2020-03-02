@@ -1,0 +1,1 @@
+{"email": [], "image": ["/~jcf/JCF//sites/default/files/JCF_PICTURE.gif"], "research_blurb": ["Email:"]}

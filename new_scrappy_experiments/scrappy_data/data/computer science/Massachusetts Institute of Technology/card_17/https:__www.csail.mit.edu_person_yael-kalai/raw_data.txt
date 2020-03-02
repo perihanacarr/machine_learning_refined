@@ -1,0 +1,1 @@
+{"email": ["news@csail.mit.edu?subject=CSAIL%20Media%20Inquiry"], "image": [], "research_blurb": ["Last updated Oct 02 '19"]}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "http://www.cs.virginia.edu/~jwd/", "title": "professor", "email": "jwd@virginia.edu", "extra_strings": "jack w davidson"}

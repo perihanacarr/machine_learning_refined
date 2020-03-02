@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-3793-1567108482.jpg?itok=ZFbnD4UR", "site": "https://cpsc.yale.edu/people/theodore-kim", "title": "associate professor", "email": "theodore.kim@yale.edu", "extra_strings": "theodore kim"}

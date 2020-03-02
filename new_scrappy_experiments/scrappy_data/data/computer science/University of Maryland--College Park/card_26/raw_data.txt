@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/John%20Grant.jpg?itok=rqNfDJGy&c=7fbc1b6af32ebb1695f634fd8a92bb24", "site": "https://www.cs.umd.edu/people/grantj", "title": "adjunct professor", "email": 0, "extra_strings": "john grant"}

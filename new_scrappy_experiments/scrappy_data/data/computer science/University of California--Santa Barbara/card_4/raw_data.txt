@@ -1,0 +1,1 @@
+{"image": "/sites/cs.ucsb.edu/themes/cs_subtheme/css/images/home.png", "site": "https://cs.ucsb.edu/people/faculty/krintz", "title": "professor", "email": "ckrintz@ucsb.edu", "extra_strings": "chana krintz"}

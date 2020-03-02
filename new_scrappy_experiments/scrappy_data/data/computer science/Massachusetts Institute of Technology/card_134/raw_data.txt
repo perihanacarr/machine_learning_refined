@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/polyanskiy_0.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/54", "title": "associate professor", "email": "yp@mit.edu", "extra_strings": "yury polyanskiy"}

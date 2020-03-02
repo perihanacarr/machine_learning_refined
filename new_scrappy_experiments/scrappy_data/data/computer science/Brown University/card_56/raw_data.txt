@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/b6/de/b6de6e3a-dbf8-4f5f-bcdc-558f9cdf092e/taubin.jpg__60x80_q85_subsampling-2.jpg 53w", "site": "https://cs.brown.edu/people/faculty/gtaubin/", "title": "professor", "email": 0, "extra_strings": "gabriel taubin"}

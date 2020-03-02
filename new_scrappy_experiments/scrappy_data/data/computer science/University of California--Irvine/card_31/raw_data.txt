@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/dfkibler.jpg", "site": "http://www.ics.uci.edu/~kibler/", "title": "professor emeritus", "email": "%20kibler@ics.uci.edu", "extra_strings": "dennis kibler"}

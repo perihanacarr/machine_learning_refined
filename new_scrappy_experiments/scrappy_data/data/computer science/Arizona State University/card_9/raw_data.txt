@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Baoxin-Li.jpg", "site": "http://www.public.asu.edu/~bli24/Research.html", "title": "professor", "email": "Baoxin.Li@asu.edu", "extra_strings": "baoxin li"}

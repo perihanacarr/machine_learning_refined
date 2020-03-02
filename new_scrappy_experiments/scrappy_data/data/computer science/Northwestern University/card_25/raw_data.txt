@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/worsley-marcelo-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/worsley-marcelo.html", "title": "assistant professor", "email": "marcelo.worsley@northwestern.edu", "extra_strings": "marcelo worsley"}

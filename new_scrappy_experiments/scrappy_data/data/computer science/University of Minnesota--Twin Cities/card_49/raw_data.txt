@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/evan_suma_rosenberg.jpg?itok=2xb4VrbX", "site": "http://www.sumarosenberg.com/", "title": 0, "email": "suma@umn.edu", "extra_strings": "evan suma rosenberg"}

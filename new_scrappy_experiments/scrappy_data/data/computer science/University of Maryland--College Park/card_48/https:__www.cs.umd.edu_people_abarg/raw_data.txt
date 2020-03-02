@@ -1,0 +1,1 @@
+{"email": ["abarg@umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/barg.jpg?itok=Y8VTT1Q6&c=5bc3bdcbffc1bd6b309bfda83ca32613"], "research_blurb": ["View Department Office Contacts"]}

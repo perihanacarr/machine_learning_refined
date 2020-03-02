@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/lehnert_wendy", "title": "professor", "email": "lehnert@cs.umass.edu", "extra_strings": "wendy g lehnert"}

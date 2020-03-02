@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/krishnamurthy-akshay", "title": "assistant professor", "email": "akshay@cs.umass.edu", "extra_strings": "akshay krishnamurthy"}

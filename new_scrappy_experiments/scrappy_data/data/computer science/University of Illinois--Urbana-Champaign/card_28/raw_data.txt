@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=4951&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/indy", "title": "professor", "email": "indy@illinois.edu", "extra_strings": "inanil gupta"}

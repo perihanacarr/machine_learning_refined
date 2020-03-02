@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://apps.cs.utexas.edu/calendar/misc/feed.png", "https://apps.cs.utexas.edu/calendar/sites/calendar/modules/date_ical/images/ical-feed-icon-34x14.png"], "research_blurb": []}

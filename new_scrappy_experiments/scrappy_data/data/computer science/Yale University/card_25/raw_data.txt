@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-42-1365176260.jpg?itok=IHeu7uj4", "site": "http://www.cs.yale.edu/homes/shao-zhong/", "title": "professor", "email": "zhong.shao@yale.edu", "extra_strings": "zhong shao"}

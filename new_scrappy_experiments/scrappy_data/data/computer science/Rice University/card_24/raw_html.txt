@@ -1,0 +1,1 @@
+"<div class=\"col-3\">\n<img alt=\"Tasos Mamouras\" src=\"/sites/g/files/bxs1251/f/cs_headshots/Mamouras.jpg\"/><h4>\n<a href=\"https://csweb.rice.edu/konstantinos-mamouras\">Konstantinos Mamouras</a></h4>\n<p>Assistant Professor of Computer Science</p>\n</div>"

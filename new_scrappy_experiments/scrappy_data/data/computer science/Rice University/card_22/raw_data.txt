@@ -1,0 +1,1 @@
+{"image": "/sites/g/files/bxs1251/f/cs_headshots/LuayJune2018500by500.jpg", "site": "https://csweb.rice.edu/luay-nakhleh", "title": "professor", "email": 0, "extra_strings": "luay nakhleh"}

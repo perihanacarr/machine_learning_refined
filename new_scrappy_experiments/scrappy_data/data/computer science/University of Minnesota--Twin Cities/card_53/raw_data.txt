@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_tripathi.jpg?itok=iWSswjvh", "site": "http://www-users.cs.umn.edu/~tripathi", "title": 0, "email": "tripathi@umn.edu", "extra_strings": "anand tripathi"}

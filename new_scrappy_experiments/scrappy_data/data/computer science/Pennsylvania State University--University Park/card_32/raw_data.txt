@@ -1,0 +1,1 @@
+{"image": "/dir/photos/mahon-mark.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=MPM114", "title": "professor", "email": "mpm114@psu.edu", "extra_strings": "w a westgate building"}

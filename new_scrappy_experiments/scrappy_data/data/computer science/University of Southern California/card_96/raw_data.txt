@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/ed8484af2bf05958ce33a91d0477db15.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Nevatia&fname=Ramakant", "title": "professor", "email": "nevatia@usc.edu", "extra_strings": "ramakant nevatia"}

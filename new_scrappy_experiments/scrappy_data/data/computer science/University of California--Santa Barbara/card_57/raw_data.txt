@@ -1,0 +1,1 @@
+{"image": "/sites/cs.ucsb.edu/themes/cs_subtheme/css/images/home.png", "site": "http://gauss.cs.ucsb.edu/home/", "title": "professor", "email": "gilbert@cs.ucsb.edu", "extra_strings": "john gilbert"}

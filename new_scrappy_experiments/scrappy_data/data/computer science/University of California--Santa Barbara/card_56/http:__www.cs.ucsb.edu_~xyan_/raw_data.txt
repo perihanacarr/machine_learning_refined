@@ -1,0 +1,1 @@
+{"email": [], "image": ["images/yan-small.jpg", "http://www.shinystat.com/cgi-bin/shinystat.cgi?USER=westwind"], "research_blurb": [" home \n\n\t\t| publications \n\n\t\t| tutorials\n\n        | dataset \n\n        | software\n", "\n", "\nData Mining/Databases, NLP/Machine Learning/AI"]}

@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/lbic.jpg", "site": "http://www.ics.uci.edu/~bic/", "title": "professor", "email": "%20bic@ics.uci.edu", "extra_strings": "lubomir bic"}

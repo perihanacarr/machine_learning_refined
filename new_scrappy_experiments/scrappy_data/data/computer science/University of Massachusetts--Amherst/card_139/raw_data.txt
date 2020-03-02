@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/mitchell-gwyn", "title": 0, "email": "mitchell@cs.umass.edu", "extra_strings": "gwyn mitchell"}

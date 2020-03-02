@@ -1,0 +1,1 @@
+{"image": "images/photos/a_thumb_naik.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=223", "title": "associate professor", "email": "mhnaik@cis.upenn.edu", "extra_strings": "mayur naik"}

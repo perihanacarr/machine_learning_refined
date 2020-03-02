@@ -1,0 +1,1 @@
+{"email": [], "image": ["image.jpg"], "research_blurb": ["\nvictor@shoup.net \n", "\nMy research interests include: \n", "\nA free ebook introducing\nbasic concepts from computational number theory and algebra, \nincluding all the necessary mathematical background. \n", "\nI didn't feel like reading the beamer manual, so I just made\nmy own.\n"]}

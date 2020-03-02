@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=100971&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/tiffani", "title": "professor", "email": "tiffani@illinois.edu", "extra_strings": "tiffani l williams"}

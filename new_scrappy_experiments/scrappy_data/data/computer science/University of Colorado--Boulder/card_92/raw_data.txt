@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/ryan_layer01_1.png?itok=Vo-UI5SR", "site": "https://www.colorado.edu/cs/ryan-layer", "title": "assistant professor", "email": "ryan.layer@colorado.edu", "extra_strings": "ryan layter"}

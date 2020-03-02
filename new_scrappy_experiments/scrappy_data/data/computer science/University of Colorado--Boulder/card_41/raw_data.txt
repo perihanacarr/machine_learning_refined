@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/profiles/express/themes/ucb/images/beboulder/be-boulder-white.svg", "site": "https://twitter.com/cuengineering", "title": 0, "email": "cueng@colorado.edu", "extra_strings": "/site info"}

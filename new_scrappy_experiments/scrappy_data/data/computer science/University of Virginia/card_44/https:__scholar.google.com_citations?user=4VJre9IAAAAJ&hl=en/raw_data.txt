@@ -1,0 +1,1 @@
+{"email": [], "image": ["/citations/images/avatar_scholar_128.png"], "research_blurb": ["New articles related to this author's research"]}

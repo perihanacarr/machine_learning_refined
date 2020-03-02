@@ -1,0 +1,1 @@
+{"email": ["rickl@uci.edu"], "image": ["ricklphoto_ducks_cap.jpg"], "research_blurb": ["\u00a0"]}

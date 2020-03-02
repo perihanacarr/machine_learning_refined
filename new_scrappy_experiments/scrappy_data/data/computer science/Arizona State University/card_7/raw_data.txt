@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Ashraf-Gaffar.jpg", "site": "https://cidse.engineering.asu.edu/ashraf-gaffar/", "title": "assistant professor", "email": "Ashraf.Gaffar@asu.edu", "extra_strings": "ashraf gaffar"}

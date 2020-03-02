@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb-Posa.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=236", "title": "assistant professor", "email": "posa@seas.upenn.edu", "extra_strings": "michael posa"}

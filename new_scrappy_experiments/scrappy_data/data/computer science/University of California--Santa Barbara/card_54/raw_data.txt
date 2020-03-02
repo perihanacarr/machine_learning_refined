@@ -1,0 +1,1 @@
+{"image": 0, "site": "http://jenniferjacobs.mat.ucsb.edu/", "title": 0, "email": "jmjacobs@ucsb.edu", "extra_strings": "elings hall"}

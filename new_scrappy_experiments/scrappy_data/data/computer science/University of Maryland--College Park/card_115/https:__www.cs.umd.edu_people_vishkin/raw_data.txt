@@ -1,0 +1,1 @@
+{"email": ["vishkin@umiacs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/vishkin%20uzi.jpg?itok=pSqa8GFv&c=3f9d5692a6c7474a08c48acf093bcbf5"], "research_blurb": ["View Department Office Contacts"]}

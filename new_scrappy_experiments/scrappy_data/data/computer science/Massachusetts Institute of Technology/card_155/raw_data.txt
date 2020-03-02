@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/sze.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/54", "title": "associate professor", "email": "sze@mit.edu", "extra_strings": "vivienne sze"}

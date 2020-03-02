@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/hfarid.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/hfarid.html", "title": "professor", "email": "hfarid@berkeley.edu", "extra_strings": "hany farid"}

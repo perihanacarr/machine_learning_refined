@@ -1,0 +1,1 @@
+{"image": "/dir/photos/nophoto.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=mzm616", "title": "assistant professor", "email": "mzm616@psu.edu", "extra_strings": "mehrdad mahdavi"}

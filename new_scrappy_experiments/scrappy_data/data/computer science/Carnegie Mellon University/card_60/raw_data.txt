@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/alexandros-labrinidis", "title": 0, "email": "labrinid@andrew.cmu.edu", "extra_strings": "alexanos labrinidis"}

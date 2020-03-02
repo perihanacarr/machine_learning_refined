@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/kate_jensen_web.jpg?itok=FpmgzvBm", "site": "https://www.cs.umn.edu/people/kate-jensen", "title": 0, "email": "katej@umn.edu", "extra_strings": "kate jensen"}

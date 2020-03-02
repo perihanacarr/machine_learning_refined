@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-29-1409064951.jpg?itok=akriiBpn", "site": "http://sce.cs.yale.edu", "title": "professor", "email": "stanley.eisenstat@yale.edu", "extra_strings": "stanley eisenstat"}

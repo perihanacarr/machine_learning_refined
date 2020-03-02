@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/mandt.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=mandt", "title": "assistant professor", "email": "%20mandt@uci.edu", "extra_strings": "stephan mandt"}

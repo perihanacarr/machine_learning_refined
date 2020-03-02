@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/zelkowitz.jpg?itok=lhs3JmaU&c=40bdd877075d007e5611d1577e17536c", "site": "https://www.cs.umd.edu/people/mvz", "title": "professor emeritus", "email": 0, "extra_strings": "marvin zelkowitz"}

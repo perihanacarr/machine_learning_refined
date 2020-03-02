@@ -1,0 +1,1 @@
+{"email": ["igassko@uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["View Social Media"]}

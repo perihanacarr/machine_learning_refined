@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sequin.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/HCI", "title": "professor emeritus", "email": "sequin@cs.berkeley.edu", "extra_strings": "soda hall, -- sequincsberkeleyedu"}

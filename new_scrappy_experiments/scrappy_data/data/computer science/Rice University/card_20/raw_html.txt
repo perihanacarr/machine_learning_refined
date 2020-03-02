@@ -1,0 +1,1 @@
+"<div class=\"col-3\">\n<img alt=\"Joe D. Warren\" src=\"/sites/g/files/bxs1251/f/cs_headshots/JoeWarren2017_0002Direct-500.jpg\"/><h4>\n<a href=\"/joe-warren\">Joe D. Warren</a></h4>\n<p>Professor of Computer Science</p>\n</div>"

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/krzysztof_frank.png?itok=vPsn9mU5", "site": "https://www.cs.umn.edu/people/frankowski-s-krzysztof", "title": 0, "email": "kfrankow@cs.umn.edu", "extra_strings": "krzysztof s frankowski"}

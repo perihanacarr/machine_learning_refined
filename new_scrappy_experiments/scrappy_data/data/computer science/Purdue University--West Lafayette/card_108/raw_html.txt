@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">William Cleveland</td><td>Distinguished Professor (Statistics)</td><td style=\"white-space: nowrap\"><phone>49-46045</phone></td><td style=\"white-space: nowrap\"><office>MATH 500</office></td><td><a href=\"mailto:wsc@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/wsc/\">Bio</a></td></tr>"

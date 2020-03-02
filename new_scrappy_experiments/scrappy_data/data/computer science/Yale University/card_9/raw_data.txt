@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-23-1438887351.jpg?itok=JihSAHVC", "site": "http://www.cs.yale.edu/homes/aspnes/", "title": "professor", "email": "james.aspnes@yale.edu", "extra_strings": "james aspnes"}

@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/roman.45.jpg?itok=2g5KeK2Z", "site": "http://lima.osu.edu/people/nroman/", "title": "associate professor", "email": "roman.45@osu.edu", "extra_strings": "-e galvin hall"}

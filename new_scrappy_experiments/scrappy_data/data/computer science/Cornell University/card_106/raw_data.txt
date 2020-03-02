@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/tech_20190926_021_shiri_edit.png?itok=qx4w7Bb5", "site": "http://shiriazenkot.com/", "title": "assistant professor", "email": 0, "extra_strings": "shiri azenkot"}

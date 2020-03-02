@@ -1,0 +1,1 @@
+{"image": "/dir/photos/SIVASUBRAMANIAM-ANAND.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=AXS53", "title": "professor", "email": "axs53@psu.edu", "extra_strings": "anand sivasubramaniam"}

@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/43164255d9c019a83bb9c45d376652a3.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Gil&fname=Yolanda", "title": "professor", "email": "gil@isi.edu", "extra_strings": "yolanda gil"}

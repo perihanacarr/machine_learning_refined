@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/apsample.jpg", "site": "http://alansonsample.com/", "title": "associate professor", "email": "apsample@umich.edu", "extra_strings": "alanson sample"}

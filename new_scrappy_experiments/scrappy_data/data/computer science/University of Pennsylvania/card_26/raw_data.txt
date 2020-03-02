@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb-jayaraman.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=331", "title": "assistant professor", "email": "dineshj@seas.upenn.edu", "extra_strings": "dinesh jayaraman"}

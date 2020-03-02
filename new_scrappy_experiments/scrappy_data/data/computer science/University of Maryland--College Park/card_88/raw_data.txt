@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/marine.jpg?itok=JsWU1M_F&c=b07d6b94a64ef5a8e8fdb5a3a2d05efe", "site": "https://www.cs.umd.edu/people/marine", "title": "assistant professor", "email": 0, "extra_strings": "marine carpuat"}

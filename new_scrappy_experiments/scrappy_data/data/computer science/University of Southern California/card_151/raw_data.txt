@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/818f32a5626d1244ef1c35829d6aa3c9.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Weinberg&fname=Richard", "title": "professor", "email": "weinberg@usc.edu", "extra_strings": "richard weinberg"}

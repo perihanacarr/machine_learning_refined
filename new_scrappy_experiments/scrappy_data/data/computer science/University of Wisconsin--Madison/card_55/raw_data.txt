@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/10/markhill2016-medium-cropped-150x150.jpg", "site": "https://www.cs.wisc.edu/staff/hill-mark-d/", "title": "professor", "email": "markhill@cs.wisc.edu", "extra_strings": "mark d hill"}

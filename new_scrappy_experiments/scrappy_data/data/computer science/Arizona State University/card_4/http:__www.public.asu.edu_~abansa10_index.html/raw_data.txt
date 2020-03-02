@@ -1,0 +1,1 @@
+{"email": ["ajay.bansal@asu.edu"], "image": ["https://cidse.engineering.asu.edu/faculty/uploads/7/1/7/2/71727003/published/190888627.png?1488408796", "https://cidse.engineering.asu.edu/faculty/uploads/7/1/7/2/71727003/published/746383610.JPEG?1488408989"], "research_blurb": []}

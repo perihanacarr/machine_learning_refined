@@ -1,0 +1,1 @@
+{"email": ["m@4"], "image": ["https://cpsc.yale.edu/people/JF-GMH2008.jpg", "https://cpsc.yale.edu/people/line.gif"], "research_blurb": [" from US cryptography and security researchers about the NSA controversy"]}

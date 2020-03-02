@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://cs.nyu.edu/~odeh/wp-content/uploads/2018/07/cropped-sana-2.jpeg"], "research_blurb": ["Her research focuses on Arab women in computing, programming languages, web and mobile technologies, developing information technologies for the developing world, and e-learning."]}

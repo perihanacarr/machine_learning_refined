@@ -1,0 +1,1 @@
+{"image": "/dir/photos/FAROOQUE-MAHFUZA.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=MFF5187", "title": "professor", "email": "mff5187@psu.edu", "extra_strings": "mahfuza farooque"}

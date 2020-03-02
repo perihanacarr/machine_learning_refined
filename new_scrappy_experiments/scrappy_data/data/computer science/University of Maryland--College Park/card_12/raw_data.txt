@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/DavidJacobs.JPG?itok=bqT-Z7Eb&c=2c11b9e28a345563fe5cdc4fcede2066", "site": "https://www.cs.umd.edu/people/dwj", "title": "professor", "email": 0, "extra_strings": "david jacobs"}

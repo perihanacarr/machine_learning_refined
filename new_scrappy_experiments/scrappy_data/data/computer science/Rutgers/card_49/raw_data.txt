@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2636.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/sungjin-ahn", "title": "assistant professor", "email": "sungjin.ahn@rutgers.edu", "extra_strings": "sungjin ahn"}

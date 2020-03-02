@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/wayne-ward", "title": "professor", "email": "wayne.ward@colorado.edu", "extra_strings": "wayne ward"}

@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/dcbe6eac068e04fda0f7436e8c0ee4ec.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=DeVault&fname=David", "title": "assistant professor", "email": "devault@ict.usc.edu", "extra_strings": "david devault"}

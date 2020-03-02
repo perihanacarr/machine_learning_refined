@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/sjordan.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=sjordan", "title": "professor", "email": "%20sjordan@uci.edu", "extra_strings": "scott jordan"}

@@ -1,0 +1,1 @@
+{"email": ["vibha@umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/vs-head-4.jpg?itok=_aEArs3e"], "research_blurb": ["\u00a0", "View Department Office Contacts"]}

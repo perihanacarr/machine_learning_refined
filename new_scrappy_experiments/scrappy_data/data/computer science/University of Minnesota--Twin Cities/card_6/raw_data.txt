@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_chandra.jpg?itok=dKGTTwnc", "site": "http://www-users.cs.umn.edu/~chandra", "title": 0, "email": "chandra@umn.edu", "extra_strings": "abhishek chana"}

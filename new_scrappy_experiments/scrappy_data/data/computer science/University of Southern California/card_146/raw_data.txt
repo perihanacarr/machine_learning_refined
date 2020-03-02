@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/9e24ec16e5b65d62067f638bf809302c.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Neumann&fname=Ulrich", "title": "professor", "email": "uneumann@pollux.usc.edu", "extra_strings": "ulrich neumann"}

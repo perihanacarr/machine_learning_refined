@@ -1,0 +1,1 @@
+{"email": [], "image": ["headerLeft.png", "gary.jpg"], "research_blurb": ["  Gary is fascinated by computers, games, and education.  The intersection of these interests present challenges and opportunities that continue to inspire and guide his career."]}

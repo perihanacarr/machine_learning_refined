@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/tomlin.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/tomlin.html", "title": "professor", "email": "tomlin@eecs.berkeley.edu", "extra_strings": "ee c nonlinear systems"}

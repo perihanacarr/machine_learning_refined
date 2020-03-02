@@ -1,0 +1,1 @@
+{"image": "images/photos/a_thumb_davidson.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=21", "title": "professor", "email": "susan@cis.upenn.edu", "extra_strings": "susan b davidson"}

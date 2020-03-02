@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/8ecf3dce-9c99-4d0a-b662-facbbb2ba9e4.jpg?itok=wZI30uA2", "site": "https://web.cs.dartmouth.edu/people/soroush-vosoughi", "title": "assistant professor", "email": "Soroush.Vosoughi@Dartmouth.edu", "extra_strings": "soroush vosoughi"}

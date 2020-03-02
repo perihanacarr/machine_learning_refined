@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/dimoulas-christos-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/dimoulas-christos.html", "title": "assistant professor", "email": "christos.dimoulas@northwestern.edu", "extra_strings": "christos dimoulas"}

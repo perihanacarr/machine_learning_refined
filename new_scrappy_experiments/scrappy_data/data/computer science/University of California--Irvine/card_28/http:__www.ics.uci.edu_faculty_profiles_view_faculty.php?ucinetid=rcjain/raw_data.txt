@@ -1,0 +1,1 @@
+{"email": ["jain@ics.uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["Computer Vision<br/>Multimedia Computing<br/><h3>RESEARCH INTERESTS:</h3> Ramesh has been an active researcher in multimedia information systems, image databases, machine vision, and intelligent systems.<br/>"]}

@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/jbbeau.jpg", "site": 0, "title": 0, "email": "jbbeau@umich.edu", "extra_strings": "jonathan beaumont"}

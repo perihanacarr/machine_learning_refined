@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/brewer.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/OSNT", "title": "professor emeritus", "email": "brewer@cs.berkeley.edu", "extra_strings": "energy ene"}

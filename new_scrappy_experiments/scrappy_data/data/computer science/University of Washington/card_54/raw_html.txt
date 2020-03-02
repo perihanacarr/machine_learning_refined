@@ -1,0 +1,1 @@
+"<div class=\"col-sm-2 directory-photo-container\">\n<a href=\"/people/faculty/rea\"><img class=\"faculty-photo\" onerror='this.src = \"//s3-us-west-2.amazonaws.com/www-cse-public/portraits/_default_sm.jpg\"; ' src=\"//s3-us-west-2.amazonaws.com/www-cse-public/images/portraits/rea_sm.jpg\"/></a>\n</div>"

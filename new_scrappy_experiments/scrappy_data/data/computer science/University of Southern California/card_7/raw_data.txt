@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/f8a631177935254759e0e136108fd696.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Ambite-Molina&fname=Jose-Luis", "title": "associate professor", "email": "ambite@isi.edu", "extra_strings": "jose-luis ambite-molina"}

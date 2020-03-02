@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/vaikuntanathan_0.jpg", "site": "http://people.csail.mit.edu/vinodv/", "title": "associate professor", "email": "vinodv@csail.mit.edu", "extra_strings": "vinod vaikuntanathan"}

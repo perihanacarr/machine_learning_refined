@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/sxrxixrxaxm.jpg?itok=etC2JSUf", "site": "https://www.colorado.edu/cs/sriram-sankaranarayanan", "title": "associate professor", "email": "srirams@colorado.edu", "extra_strings": "sriram sankaranarayanan"}

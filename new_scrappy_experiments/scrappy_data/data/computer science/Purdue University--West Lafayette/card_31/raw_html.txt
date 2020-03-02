@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Elias Bareinboim</td><td>Adjunct Assistant Professor</td><td style=\"white-space: nowrap\"><phone></phone></td><td style=\"white-space: nowrap\"><office></office></td><td><a href=\"mailto:eb@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/eb/\">Bio</a></td></tr>"

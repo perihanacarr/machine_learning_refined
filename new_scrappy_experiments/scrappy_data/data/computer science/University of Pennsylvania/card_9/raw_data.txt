@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb-bajcsy.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=317", "title": "professor emeritus", "email": "bajcsy@eecs.berkeley.edu", "extra_strings": "ruzena bajcsy"}

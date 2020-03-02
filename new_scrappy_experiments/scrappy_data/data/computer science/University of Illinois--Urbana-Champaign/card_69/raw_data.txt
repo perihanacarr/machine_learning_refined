@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=58116&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/sanmi", "title": "assistant professor", "email": "sanmi@illinois.edu", "extra_strings": "sanmi koyejo"}

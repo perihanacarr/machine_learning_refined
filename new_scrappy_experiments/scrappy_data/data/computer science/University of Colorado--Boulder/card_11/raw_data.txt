@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/levi_perigo_pc0005.jpg?itok=sM73GQOA", "site": "https://www.colorado.edu/cs/levi-perigo", "title": 0, "email": "Levi.Perigo@Colorado.EDU", "extra_strings": "levi perigo"}

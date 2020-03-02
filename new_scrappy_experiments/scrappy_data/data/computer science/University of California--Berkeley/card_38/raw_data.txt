@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/graham-s.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/SCI", "title": "professor", "email": "graham@cs.berkeley.edu", "extra_strings": "programming systems ps"}

@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/portrait.jpg?itok=sUe42FJs", "site": "https://www.colorado.edu/cs/tom-yeh", "title": "assistant professor", "email": "tom.yeh@colorado.edu", "extra_strings": "tom yeh"}

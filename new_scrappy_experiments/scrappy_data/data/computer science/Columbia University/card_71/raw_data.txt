@@ -1,0 +1,1 @@
+{"image": "http://www.cs.columbia.edu/wp-content/themes/columbia-cs/assets/img/colum-eng.png", "site": "http://engineering.columbia.edu/", "title": 0, "email": 0, "extra_strings": ""}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/zelinsky2.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/GregoryZelinsky", "title": "professor", "email": 0, "extra_strings": "gregory zelinsky"}

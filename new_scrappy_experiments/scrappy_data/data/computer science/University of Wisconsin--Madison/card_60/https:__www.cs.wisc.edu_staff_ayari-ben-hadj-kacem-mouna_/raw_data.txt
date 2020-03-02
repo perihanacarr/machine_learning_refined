@@ -1,0 +1,1 @@
+{"email": ["mouna@cs.wisc.edu", "feedback@cs.wisc.edu"], "image": ["https://dou0x1vlhajjl.cloudfront.net/wp-content/themes/uw-theme-child-cs/dist/images/person.png"], "research_blurb": ["Lecturer", "Feedback, questions or accessibility issues: feedback@cs.wisc.edu."]}

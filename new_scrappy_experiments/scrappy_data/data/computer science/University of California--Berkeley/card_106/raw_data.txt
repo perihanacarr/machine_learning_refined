@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/wawrzynek.jpg", "site": "https://www2.eecs.berkeley.edu/Courses/EECS151LB", "title": "professor", "email": "johnw@cs.berkeley.edu", "extra_strings": "john wawrzynek"}

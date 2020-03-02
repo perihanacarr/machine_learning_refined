@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/eustice.jpg", "site": "http://robots.engin.umich.edu/~ryan/", "title": "professor", "email": "eustice@umich.edu", "extra_strings": "ryan eustice"}

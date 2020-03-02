@@ -1,0 +1,1 @@
+{"image": "http://www.cs.duke.edu/images/pic-fac/mlp.gif", "site": "https://www.cs.duke.edu/people/faculty/19", "title": "professor emeritus", "email": 0, "extra_strings": "merrell patrick"}

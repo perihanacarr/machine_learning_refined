@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/walters-daniel", "title": 0, "email": "dtwalters@cs.umass.edu", "extra_strings": "daniel walters"}

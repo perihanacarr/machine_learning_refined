@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/Jack%20Minker.jpg?itok=95SGP0Fe&c=bc63a57951d026aa9ad0fad35682fef6", "site": "https://www.cs.umd.edu/people/minker", "title": "professor emeritus", "email": 0, "extra_strings": "jack minker"}

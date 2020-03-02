@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/ghw.jpg", "site": 0, "title": "associate professor", "email": "ghw@umich.edu", "extra_strings": "gregory wakefield"}

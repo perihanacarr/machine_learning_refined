@@ -1,0 +1,1 @@
+{"email": ["jj@cs.brown.edu"], "image": ["face.gif"], "research_blurb": []}

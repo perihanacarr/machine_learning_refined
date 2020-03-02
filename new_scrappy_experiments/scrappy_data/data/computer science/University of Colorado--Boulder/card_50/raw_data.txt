@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/liz_jessup5ga.jpg?itok=btrgAPkn", "site": "https://www.colorado.edu/cs/elizabeth-jessup", "title": "professor", "email": "elizabeth.jessup@colorado.edu", "extra_strings": "elizabeth jessup"}

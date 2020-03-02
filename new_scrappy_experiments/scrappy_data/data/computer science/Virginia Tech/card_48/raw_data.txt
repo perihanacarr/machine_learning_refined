@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_855876444/vt-items_1/vtmulticolumn_copy/vt-items_0/adaptiveimage.transform/m-medium/image.jpg", "site": "http://people.cs.vt.edu/~feng/", "title": "professor", "email": "feng@cs.vt.edu", "extra_strings": "wu feng"}

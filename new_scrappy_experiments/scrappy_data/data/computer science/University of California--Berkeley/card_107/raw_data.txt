@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/yelick.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/SCI", "title": "professor", "email": "yelick@cs.berkeley.edu", "extra_strings": "programming systems ps"}

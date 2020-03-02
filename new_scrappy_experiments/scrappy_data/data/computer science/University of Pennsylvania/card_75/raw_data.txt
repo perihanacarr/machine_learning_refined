@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb-lane-stephen.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=325", "title": "professor", "email": "shlane@cis.upenn.edu", "extra_strings": "stephen lane"}

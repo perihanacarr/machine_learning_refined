@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/huth_alexander.jpg?itok=5LI562Im", "site": "https://www.cs.utexas.edu/research/areas/bioinformatics-and-computational-biology", "title": "assistant professor", "email": 0, "extra_strings": "alexander huth"}

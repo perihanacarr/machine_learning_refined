@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_chaudhari.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=269", "title": "assistant professor", "email": "pratikac@seas.upenn.edu", "extra_strings": "pratik chaudhari"}

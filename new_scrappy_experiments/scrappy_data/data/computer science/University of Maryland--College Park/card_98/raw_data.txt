@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/newzealand.jpg?itok=lxSbjzf3&c=1b2790ba7b124a90c9d508d17e550e2f", "site": "https://www.cs.umd.edu/people/stewart", "title": "professor emeritus", "email": 0, "extra_strings": "gw pete stewart"}

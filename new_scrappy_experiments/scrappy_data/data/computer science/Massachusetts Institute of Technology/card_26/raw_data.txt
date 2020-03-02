@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Pulkit-Agrawal2.jpg", "site": "https://www.csail.mit.edu/person/pulkit-agrawal", "title": "assistant professor", "email": "pulkitag@mit.edu", "extra_strings": "pulkit agrawal"}

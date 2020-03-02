@@ -1,0 +1,1 @@
+{"email": ["vazirani@uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["Algorithms and Complexity<br/>Scientific and Numerical Computing<br/><h3>RESEARCH INTERESTS:</h3> <br/>"]}

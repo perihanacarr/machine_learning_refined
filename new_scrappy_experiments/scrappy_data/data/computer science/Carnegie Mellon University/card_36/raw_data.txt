@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/adjunct-faculty/garth-gibson", "title": "professor", "email": "garth@cs.cmu.edu", "extra_strings": "garth gibson"}

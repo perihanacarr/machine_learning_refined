@@ -1,0 +1,1 @@
+{"email": ["sciencehelp@purdue.edu"], "image": ["https://www.purdue.edu/purdue/images/PU-H.png"], "research_blurb": ["Find Info For", "Department of Computer Science, 305 N. University Street, West Lafayette, IN 47907"]}

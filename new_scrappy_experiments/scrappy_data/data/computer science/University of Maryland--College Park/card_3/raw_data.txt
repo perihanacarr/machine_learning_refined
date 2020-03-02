@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/AVPortrait.png?itok=6O3cLvlo&c=9ac179a8d16ce10ede759587c5071d2a", "site": "https://www.cs.umd.edu/people/varshney", "title": "professor", "email": 0, "extra_strings": "amitabh varshney"}

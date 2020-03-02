@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/d62f6414988ee18fda426e5e2b818a64.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Raghothaman&fname=Mukund", "title": "assistant professor", "email": "raghotha@usc.edu", "extra_strings": "mukund raghothaman"}

@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/akamil.jpg", "site": "http://web.eecs.umich.edu/~akamil/", "title": 0, "email": "akamil@umich.edu", "extra_strings": "amir kamil"}

@@ -1,0 +1,1 @@
+{"image": "/sites/cs.ucsb.edu/themes/cs_subtheme/css/images/home.png", "site": "https://sites.cs.ucsb.edu/~sra/index.html", "title": "assistant professor", "email": "sra@cs.ucsb.edu", "extra_strings": "misha sra"}

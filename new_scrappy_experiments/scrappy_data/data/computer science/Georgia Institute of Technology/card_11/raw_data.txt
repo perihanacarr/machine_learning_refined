@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/constantine_dovrolis_0.jpg?itok=fUeEv-lk", "site": "https://www.scs.gatech.edu/people/constantine-dovrolis", "title": "professor", "email": "constantine@gatech.edu", "extra_strings": "constantine dovrolis"}

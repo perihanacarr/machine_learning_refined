@@ -1,0 +1,1 @@
+{"email": ["fox@vt.edu"], "image": [], "research_blurb": ["Author: \nEdward A. Fox (BioSketch, directions, hours,\nphoto)Curator: \nVirginia Tech; Dept.\nof Computer Science\n\nLast Updated: Jan. 20, 2020\nEmail: fox@vt.edu\n"]}

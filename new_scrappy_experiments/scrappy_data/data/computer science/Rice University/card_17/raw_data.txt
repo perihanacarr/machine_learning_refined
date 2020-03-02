@@ -1,0 +1,1 @@
+{"image": "/sites/g/files/bxs1251/f/cs_headshots/ChrisJermaine-March2016_0016-500x500.jpg", "site": "https://csweb.rice.edu/christopher-jermaine", "title": "professor", "email": 0, "extra_strings": "christopher jermaine"}

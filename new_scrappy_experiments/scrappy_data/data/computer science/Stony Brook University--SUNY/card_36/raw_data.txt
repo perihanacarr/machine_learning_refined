@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/Mitchell.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/JosephMitchell", "title": "professor", "email": 0, "extra_strings": "joseph sb mitchell"}

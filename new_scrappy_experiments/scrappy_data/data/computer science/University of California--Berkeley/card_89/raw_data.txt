@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/seshia.jpg", "site": "https://www2.eecs.berkeley.edu/Courses/EECS219C", "title": "professor", "email": "sseshia@eecs.berkeley.edu", "extra_strings": "cory hall, -- sseshiaeecsberkeleyedu"}

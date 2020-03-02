@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Ammar Ahmad Dakhllah Al-Rousan</td><td>Visiting Scholar</td><td style=\"white-space: nowrap\"><phone></phone></td><td style=\"white-space: nowrap\"><office>LWSN 3154A</office></td><td><a href=\"mailto:aalrousa@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/aalrousa/\">Bio</a></td></tr>"

@@ -1,0 +1,1 @@
+{"email": [], "image": ["img/photo.jpg"], "research_blurb": [" My research lies in the intersection of theory and practice of data management. My work spans various areas:\ndata processing for massively parallel systems, data pricing, and managing data under uncertainty. "]}

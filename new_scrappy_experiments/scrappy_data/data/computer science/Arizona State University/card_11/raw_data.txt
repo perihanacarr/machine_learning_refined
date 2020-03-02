@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Charles-Colbourn.jpg", "site": "http://www.public.asu.edu/~ccolbou/", "title": "professor", "email": "Charles.Colbourn@asu.edu", "extra_strings": "charles colbourn"}

@@ -1,0 +1,1 @@
+{"email": ["danr@cs.columbia.edu"], "image": ["main/coffeetable-head2-8.jpg"], "research_blurb": ["\nPhone: (212) 939-7048\nFax: (212) 202-5095\nEmail:  danr@cs.columbia.edu \n\n"]}

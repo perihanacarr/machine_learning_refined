@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/99586c7dc1d599331c4e37e754e1f838.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Knight&fname=Kevin", "title": "professor", "email": "knight@isi.edu", "extra_strings": "kevin knight"}

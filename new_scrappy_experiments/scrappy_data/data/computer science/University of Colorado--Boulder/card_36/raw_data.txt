@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/casey-fiesler", "title": "assistant professor", "email": "casey.fiesler@colorado.edu", "extra_strings": "casey fiesler"}

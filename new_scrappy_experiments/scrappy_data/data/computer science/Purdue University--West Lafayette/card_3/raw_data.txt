@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/ake/", "title": "professor emeritus", "email": "ake@purdue.edu", "extra_strings": "ahmed elmagarmid"}

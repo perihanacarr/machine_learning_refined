@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/memoli.2.jpg?itok=qdA4pfdU", "site": "https://cse.osu.edu/people/memoli.2", "title": "associate professor", "email": "memolitechera.1@osu.edu", "extra_strings": "facundo memoli"}

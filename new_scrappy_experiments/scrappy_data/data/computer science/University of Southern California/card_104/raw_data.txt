@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/7e5164063a08b0669c23c2f4ce21d65c.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Vashishta&fname=Priya", "title": "professor", "email": "priyav@usc.edu", "extra_strings": "priya vashishta"}

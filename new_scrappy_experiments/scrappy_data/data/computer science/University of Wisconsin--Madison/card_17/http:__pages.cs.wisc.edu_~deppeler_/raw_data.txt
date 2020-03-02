@@ -1,0 +1,1 @@
+{"email": ["Learn@UW", "lab@cs.wisc.edu"], "image": ["https://www.cs.wisc.edu/people/faculty/JPG/deppeler_CROPPED.jpg", "http://www.cs.wisc.edu/images/trans.gif", "https://www.cs.wisc.edu/people/faculty/COMPSCIE_color-flush-compact.png"], "research_blurb": ["\n\n      My UW\n      | \n      UW Search\n      "]}

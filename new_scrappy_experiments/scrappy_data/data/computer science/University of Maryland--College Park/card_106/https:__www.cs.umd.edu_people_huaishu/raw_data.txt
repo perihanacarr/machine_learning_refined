@@ -1,0 +1,1 @@
+{"email": ["huaishu@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/40px_icon/public/images/userpictures/DSC_8403.JPG?itok=0bTWCHP7", "https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/profile_1.png?itok=vmWXDQ8Z"], "research_blurb": ["View Department Office Contacts"]}

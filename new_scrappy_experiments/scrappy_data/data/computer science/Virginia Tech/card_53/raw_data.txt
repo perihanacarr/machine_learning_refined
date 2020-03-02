@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_991198194/vt-items_1/vtmulticolumn/vt-items_0/adaptiveimage.transform/m-medium/image.JPG", "site": "http://people.cs.vt.edu/~aislingk/", "title": "associate professor", "email": "aislingk@vt.edu", "extra_strings": "knowledgeworks ii"}

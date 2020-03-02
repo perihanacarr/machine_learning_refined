@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/zvi_galil_0.jpg?itok=kO_6YqBG", "site": "https://www.scs.gatech.edu/people/zvi-galil", "title": "professor", "email": "galil@cc.gatech.edu", "extra_strings": "zvi galil"}

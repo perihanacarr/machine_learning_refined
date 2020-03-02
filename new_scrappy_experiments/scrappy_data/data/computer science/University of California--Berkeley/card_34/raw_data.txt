@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/gallant.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/BIO", "title": "professor", "email": "gallant@berkeley.edu", "extra_strings": "for jack gallant"}

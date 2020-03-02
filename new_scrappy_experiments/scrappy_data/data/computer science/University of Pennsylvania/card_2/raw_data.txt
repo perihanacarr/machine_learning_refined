@@ -1,0 +1,1 @@
+{"image": "images/photos/a-thumb-haeberlen.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=143", "title": "associate professor", "email": "ahae@cis.upenn.edu", "extra_strings": "aneas haeberlen"}

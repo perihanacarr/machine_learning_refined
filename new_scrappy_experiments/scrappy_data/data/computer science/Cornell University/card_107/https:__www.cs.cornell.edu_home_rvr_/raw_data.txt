@@ -1,0 +1,1 @@
+{"email": ["rvr@cs.cornell.edu"], "image": ["images/unit_signature_unstyled.gif", "https://www.cs.cornell.edu/people/images/ukulele.gif", "https://www.cs.cornell.edu/people/images/isis.jpg", "https://www.cs.cornell.edu/people/images/iptps.jpeg", "https://www.cs.cornell.edu/people/rvr.jpg"], "research_blurb": ["</center>"]}

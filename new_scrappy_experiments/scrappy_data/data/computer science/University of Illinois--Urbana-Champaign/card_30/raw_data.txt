@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=4953&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/jeffe", "title": "professor", "email": "jeffe@illinois.edu", "extra_strings": "jeff g erickson"}

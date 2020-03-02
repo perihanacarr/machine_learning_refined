@@ -1,0 +1,1 @@
+{"email": ["gts@ics.uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["Security<br/> Privacy and Cryptography<br/><h3>RESEARCH INTERESTS:</h3> Dr. Tsudik's research interests are: (1) computer/network security &amp; privacy, and (2) applied cryptography. <br/>"]}

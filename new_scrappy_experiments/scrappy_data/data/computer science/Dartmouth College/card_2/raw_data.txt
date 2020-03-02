@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/237_original.jpg?itok=V7a_4nZD", "site": "https://web.cs.dartmouth.edu/people/thomas-h-cormen", "title": "professor", "email": "Thomas.H.Cormen@Dartmouth.EDU", "extra_strings": "thomas h cormen"}

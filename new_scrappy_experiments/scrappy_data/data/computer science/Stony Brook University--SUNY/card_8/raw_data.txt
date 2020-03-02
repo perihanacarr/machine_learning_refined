@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/Bernstein.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/ArthurBernstein", "title": "professor emeritus", "email": 0, "extra_strings": "arthur bernstein"}

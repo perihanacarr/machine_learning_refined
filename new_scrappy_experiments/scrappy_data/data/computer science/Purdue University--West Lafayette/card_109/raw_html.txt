@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Jianlin Xia</td><td>Professor (Mathematics)</td><td style=\"white-space: nowrap\"><phone></phone></td><td style=\"white-space: nowrap\"><office>MATH 442</office></td><td><a href=\"mailto:xiaj@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/xiaj/\">Bio</a></td></tr>"

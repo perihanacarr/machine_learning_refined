@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/barsky.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/SP", "title": "professor emeritus", "email": "barsky@berkeley.edu", "extra_strings": "human-computer interaction hci"}

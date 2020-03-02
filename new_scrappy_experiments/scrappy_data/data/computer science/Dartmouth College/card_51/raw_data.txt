@@ -1,0 +1,1 @@
+{"image": "https://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/styles/profile_listing/public/scot-drysdale.jpg?itok=WQ8MxaXU", "site": "https://web.cs.dartmouth.edu/people/robert-lewis-scot-drysdale-iii", "title": "professor", "email": "Robert.L.Drysdale.III@Dartmouth.edu", "extra_strings": "view profile"}

@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/f3662029a6e354764c05b1eb55cc02f1.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Naveed&fname=Muhammad", "title": "assistant professor", "email": "mnaveed@usc.edu", "extra_strings": "muhammad naveed"}

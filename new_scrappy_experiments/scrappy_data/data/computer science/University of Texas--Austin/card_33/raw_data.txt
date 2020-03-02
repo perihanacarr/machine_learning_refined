@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/facultynoprofilepic.jpg?itok=Y3_8zXA5", "site": "https://www.cs.utexas.edu/people/faculty-researchers/nai-hui-chia", "title": 0, "email": 0, "extra_strings": "nai-hui chia"}

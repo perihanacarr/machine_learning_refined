@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/noprofilepic_89.png?itok=WgssHb5W", "site": "https://www.cs.utexas.edu/research/areas/scientific-computing", "title": 0, "email": 0, "extra_strings": "scientific computing"}

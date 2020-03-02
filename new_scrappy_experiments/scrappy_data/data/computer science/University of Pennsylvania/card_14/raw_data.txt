@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_Loo.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=58", "title": "professor", "email": "boonloo@cis.upenn.edu", "extra_strings": "boon thau loo"}

@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/e3/6c/e36c5cff-73a7-44e4-a33e-e28a747cf633/gdk_profile_edited.jpg__60x80_q85_subsampling-2.jpg 53w", "site": "http://cs.brown.edu/people/gdk/", "title": "assistant professor", "email": 0, "extra_strings": "george d konidaris"}

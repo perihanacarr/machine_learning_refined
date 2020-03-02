@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-32-1409065469.jpg?itok=Z7PZQyvj", "site": "https://cpsc.yale.edu/people/david-gelernter", "title": "professor", "email": "david.gelernter@yale.edu", "extra_strings": "david gelernter"}

@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/alexandra_boldyreva_0.jpg?itok=ipxUf26T", "site": "https://www.scs.gatech.edu/people/alexandra-boldyreva", "title": "professor", "email": "sasha.boldyreva@cc.gatech.edu", "extra_strings": "alexana boldyreva"}

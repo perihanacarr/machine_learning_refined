@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/DSC_0054.jpg?itok=4xPZ2z3b&c=b2f2992411906de904c1e522be9221df", "site": "https://www.cs.umd.edu/people/dvanhorn", "title": "associate professor", "email": 0, "extra_strings": "david van horn"}

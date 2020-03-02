@@ -1,0 +1,1 @@
+{"email": [], "image": ["mimno.jpg"], "research_blurb": [" at Cornell University. He holds a PhD from UMass Amherst and was previously the head programmer at the Perseus Project at Tufts and a researcher at Princeton University. His work is supported by the Sloan foundation and the NSF.\n"]}

@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/songhan3.jpg", "site": "https://songhan.mit.edu", "title": "assistant professor", "email": "songhan@mit.edu", "extra_strings": "song han"}

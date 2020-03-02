@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/adjunct-faculty/stefan-mitsch", "title": 0, "email": "smitsch@andrew.cmu.edu", "extra_strings": "stefan mitsch"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://engineering.virginia.edu/faculty/ahmed-ibrahim", "title": "assistant professor", "email": "a.i@virginia.edu", "extra_strings": "ahmed ibrahim"}

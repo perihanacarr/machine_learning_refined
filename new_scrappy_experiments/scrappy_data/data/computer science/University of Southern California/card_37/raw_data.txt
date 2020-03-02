@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/f5caae2d0c0ca6ee9a433a2f40ada0b2.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Farzindar&fname=Anna", "title": 0, "email": "farzinda@usc.edu", "extra_strings": "anna farzindar"}

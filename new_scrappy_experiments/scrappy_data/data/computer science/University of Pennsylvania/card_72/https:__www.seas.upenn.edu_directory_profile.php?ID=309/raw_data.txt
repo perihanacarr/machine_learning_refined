@@ -1,0 +1,1 @@
+{"email": ["rybaker@upenn.edu"], "image": ["images/photos/full-baker.jpg "], "research_blurb": ["\nEmail | Personal Webpage "]}

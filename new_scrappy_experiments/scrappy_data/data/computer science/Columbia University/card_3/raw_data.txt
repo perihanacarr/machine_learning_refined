@@ -1,0 +1,1 @@
+{"image": "/static/img/0/394848f008369dd4aec520b5213b247d.jpeg", "site": "http://www.cs.columbia.edu/~kar/", "title": 0, "email": 0, "extra_strings": "kenneth a ross"}

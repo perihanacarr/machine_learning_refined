@@ -1,0 +1,1 @@
+{"image": "/dir/photos/Fukuyama-Junichiro.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=JXF140", "title": "professor", "email": "jxf140@psu.edu", "extra_strings": "junichiro fukuyama"}

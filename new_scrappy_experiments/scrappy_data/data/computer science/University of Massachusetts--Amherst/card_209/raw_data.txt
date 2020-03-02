@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/zink_michael", "title": "assistant professor", "email": "zink@ecs.umass.edu", "extra_strings": "michael zink"}

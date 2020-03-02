@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/nbanovic.jpg", "site": "http://www.nikolabanovic.net/", "title": "assistant professor", "email": "nbanovic@umich.edu", "extra_strings": "nikola banovic"}

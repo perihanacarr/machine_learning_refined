@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Stefanie-Mueller.jpg", "site": "http://people.csail.mit.edu/stefaniemueller", "title": "assistant professor", "email": "stefanie.mueller@mit.edu", "extra_strings": "stefanie mueller"}

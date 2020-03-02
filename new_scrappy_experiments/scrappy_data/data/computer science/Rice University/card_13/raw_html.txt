@@ -1,0 +1,1 @@
+"<div class=\"col-3 omega\">\n<img alt=\"Alan Cox\" src=\"/sites/g/files/bxs1251/f/cs_headshots/AlanCox-2009-3180-500x500.jpg\"/><h4>\n<a href=\"/alan-cox\">Alan L. Cox</a></h4>\n<p>Professor of Computer Science and of Electrical and Computer Engineering; Chair, CS Undergraduate Committee\u00a0</p>\n</div>"

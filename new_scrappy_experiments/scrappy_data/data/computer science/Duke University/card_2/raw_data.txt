@@ -1,0 +1,1 @@
+{"image": "http://www.cs.duke.edu/images/pic-fac/AlvinLebeck400x600px.jpg", "site": "https://www.cs.duke.edu/people/faculty/13", "title": "professor", "email": 0, "extra_strings": "alvy at csdukeedu"}

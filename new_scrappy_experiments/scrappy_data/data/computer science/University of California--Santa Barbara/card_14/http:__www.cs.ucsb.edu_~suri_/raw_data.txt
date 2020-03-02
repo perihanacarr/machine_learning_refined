@@ -1,0 +1,1 @@
+{"email": [], "image": ["picdir/brgld.gif", "picdir/brgld.gif"], "research_blurb": ["\n", "\n", ""]}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "http://www.cs.columbia.edu/2019/forget-touchscreens-this-case-controls-a-smartphone-with-buttons-and-dials/?redirect=5823286ee7e39eb706dbc2ad819eea6a", "title": 0, "email": 0, "extra_strings": "shree nayar,changxi zheng"}

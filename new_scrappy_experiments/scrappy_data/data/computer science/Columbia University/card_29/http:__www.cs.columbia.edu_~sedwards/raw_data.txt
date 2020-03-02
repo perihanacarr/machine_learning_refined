@@ -1,0 +1,1 @@
+{"email": ["CS@CU", "sedwards@cs.columbia.edu"], "image": ["http://www.cs.columbia.edu/people/faculty/icons/cecicon.png", "http://www.cs.columbia.edu/people/faculty/images/edwards-fishburger-small.jpg", "http://www.cs.columbia.edu/people/faculty/icons/pdficon-large.png"], "research_blurb": ["sedwards@cs.columbia.edu"]}

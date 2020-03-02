@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/martin-headshot.jpg?itok=_OxH1GG-", "site": "https://www.colorado.edu/cs/james-martin", "title": "professor", "email": "james.martin@colorado.edu", "extra_strings": "james martin"}

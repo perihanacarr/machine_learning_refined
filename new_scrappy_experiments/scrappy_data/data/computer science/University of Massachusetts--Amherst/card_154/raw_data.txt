@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/ganieany-patrick", "title": 0, "email": "pganieany@cs.umass.edu", "extra_strings": "patrick ganieany"}

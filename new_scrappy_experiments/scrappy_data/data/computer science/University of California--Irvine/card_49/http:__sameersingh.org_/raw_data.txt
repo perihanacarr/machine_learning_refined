@@ -1,0 +1,1 @@
+{"email": ["sameer{AT}uci.edu"], "image": ["img/face/mr-singh-face.jpg"], "research_blurb": ["a class=\"list-group-item \" href=\"/research.html\" >\n                    Research &nbsp;\n                    <span style=\"float:right\" class=\"fa fa-book fa-lg\"/>\n                </a"]}

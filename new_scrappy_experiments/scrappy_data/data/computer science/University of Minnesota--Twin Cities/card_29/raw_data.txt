@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/kluver_daniel_web.jpg?itok=QuF4GSXv", "site": "https://www.cs.umn.edu/people/daniel-kluver", "title": 0, "email": "kluve018@umn.edu", "extra_strings": "daniel kluver"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/roopsha/", "title": "assistant professor", "email": "roopsha@purdue.edu", "extra_strings": "roopsha samanta"}

@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/pmchen.jpg", "site": "http://web.eecs.umich.edu/~pmchen", "title": "professor", "email": "pmchen@umich.edu", "extra_strings": "peter chen"}

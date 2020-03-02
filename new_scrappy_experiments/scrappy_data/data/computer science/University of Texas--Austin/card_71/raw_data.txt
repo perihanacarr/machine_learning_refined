@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/moshkovitz_dana.jpg?itok=VwqWFEQs", "site": "https://www.cs.utexas.edu/people/faculty-researchers/dana-moshkovitz", "title": "associate professor", "email": 0, "extra_strings": "dana moshkovitz"}

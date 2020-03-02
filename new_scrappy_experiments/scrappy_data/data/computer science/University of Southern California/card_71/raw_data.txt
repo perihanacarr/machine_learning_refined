@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/c52c29b26854e4a25bde777319cebe6f.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Knoblock&fname=Craig", "title": "professor", "email": "knoblock@isi.edu", "extra_strings": "craig knoblock"}

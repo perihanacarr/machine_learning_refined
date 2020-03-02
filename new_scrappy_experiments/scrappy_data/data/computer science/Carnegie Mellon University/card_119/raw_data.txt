@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/yiming-yang", "title": "professor", "email": "yiming@cs.cmu.edu", "extra_strings": "yiming yang"}

@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/gtsudik.jpg", "site": "http://www.ics.uci.edu/~gts/", "title": "professor", "email": "%20gts@ics.uci.edu", "extra_strings": "ics e"}

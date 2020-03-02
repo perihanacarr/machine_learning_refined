@@ -1,0 +1,1 @@
+{"image": "/dir/photos/IRWIN-MARY%20JANE%20(JANIE).jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=MJI", "title": "professor emeritus", "email": "mji@psu.edu", "extra_strings": "mary jane janie irwin"}

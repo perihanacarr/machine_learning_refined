@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/paul-constantine.jpg?itok=IcgmZJy4", "site": "https://www.colorado.edu/cs/paul-constantine", "title": "assistant professor", "email": "Paul.Constantine@Colorado.EDU", "extra_strings": "paul constantine"}

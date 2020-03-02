@@ -1,0 +1,1 @@
+{"email": [], "image": [], "research_blurb": [" CV\n |  Teaching\n |  Advising\n |  Publications\n |  Service\n |  Talks\n", ". Prior to joining  UVA, I was a postdoctoral research associate in the "]}

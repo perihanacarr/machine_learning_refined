@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/mitter_0.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/38", "title": "professor", "email": "mitter@mit.edu", "extra_strings": "sanjoy mitter"}

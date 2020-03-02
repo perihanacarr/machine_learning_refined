@@ -1,0 +1,1 @@
+{"image": "https://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/styles/profile_listing/public/wayne2.jpg?itok=rvAh2rUo", "site": "https://web.cs.dartmouth.edu/people/wayne-cripps", "title": 0, "email": "Wayne.B.Cripps@Dartmouth.edu", "extra_strings": "wayne cripps"}

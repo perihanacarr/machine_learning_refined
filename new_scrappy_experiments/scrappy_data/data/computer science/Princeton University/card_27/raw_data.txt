@@ -1,0 +1,1 @@
+{"image": "/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2813&thumb=", "site": "https://www.cs.princeton.edu/people/profile/aartig", "title": "professor", "email": 0, "extra_strings": "aarti gupta"}

@@ -1,0 +1,1 @@
+{"image": "/dir/photos/KIFER-DANIEL.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=DUK17", "title": "associate professor", "email": "duk17@psu.edu", "extra_strings": "daniel kifer"}

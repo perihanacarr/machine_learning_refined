@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/UMIACS_01162019_3619_1.JPG?itok=Uindnaxh&c=819535d9e5cd7177cc84304e13f5d03b", "site": "https://www.cs.umd.edu/people/reastman", "title": "professor", "email": 0, "extra_strings": "roger eastman"}

@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/11/sanmiguel-pic-e1542052241352-150x150.jpg", "site": "http://jsm.ece.wisc.edu/", "title": "assistant professor", "email": "jsanmiguel@cs.wisc.edu", "extra_strings": "joshua san miguel"}

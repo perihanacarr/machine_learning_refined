@@ -1,0 +1,1 @@
+{"email": ["cidse.undergrad@asu.edu"], "image": ["//www.asu.edu/asuthemes/4.8/assets/ASU-number-1-innovation-best-colleges.png"], "research_blurb": ["To request information about a degree program, visit the degree program page you are interested in and click the gold Request info link."]}

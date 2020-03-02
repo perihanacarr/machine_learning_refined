@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://cse.engin.umich.edu/people/faculty/ttlf/self.jpg", "https://cse.engin.umich.edu/people/faculty/graphics/jaminemail.gif"], "research_blurb": ["\n\n\n  CSE Division\n  Department of EECS\n  University of Michigan\n  Ann Arbor, MI 48109-2121"]}

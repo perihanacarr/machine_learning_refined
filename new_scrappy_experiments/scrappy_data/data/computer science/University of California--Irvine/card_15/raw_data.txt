@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/emj.jpg", "site": "http://www.ics.uci.edu/~emj/", "title": "professor", "email": "%20emj@uci.edu", "extra_strings": "eric mjolsness"}

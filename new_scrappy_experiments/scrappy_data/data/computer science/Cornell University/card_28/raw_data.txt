@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/Greenberg%2C%20Donald.jpg?itok=qjnw5R9R", "site": "https://prod.graphics.cornell.edu/people/director", "title": "professor", "email": 0, "extra_strings": "donald greenberg"}

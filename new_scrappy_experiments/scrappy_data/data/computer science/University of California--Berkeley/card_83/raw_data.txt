@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ratnasamy.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/OSNT", "title": "professor", "email": "sylvia@eecs.berkeley.edu", "extra_strings": "soda hall, - sylviaeecsberkeleyedu"}

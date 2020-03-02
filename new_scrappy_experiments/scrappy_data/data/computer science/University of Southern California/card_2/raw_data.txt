@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/noprofile.png", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Adesanya&fname=Adelanya", "title": 0, "email": "aadesany@usc.edu", "extra_strings": "adelanya adesanya"}

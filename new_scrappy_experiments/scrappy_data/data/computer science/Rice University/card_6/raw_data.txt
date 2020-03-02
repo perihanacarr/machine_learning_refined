@@ -1,0 +1,1 @@
+{"image": "/sites/g/files/bxs1251/f/cs_headshots/2014-Lydia-Kavraki.jpg", "site": "https://csweb.rice.edu/lydia-kavraki", "title": "professor", "email": 0, "extra_strings": "lydia e kavraki"}

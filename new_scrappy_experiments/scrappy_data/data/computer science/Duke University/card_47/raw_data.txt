@@ -1,0 +1,1 @@
+{"image": "http://www.cs.duke.edu/images/pic-fac/ola.jpg", "site": "https://www.cs.duke.edu/people/faculty/3", "title": "professor", "email": 0, "extra_strings": "owen astrachan"}

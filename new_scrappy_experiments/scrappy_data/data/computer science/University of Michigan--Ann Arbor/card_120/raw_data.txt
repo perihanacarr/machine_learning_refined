@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/teneket.jpg", "site": "https://teneketzis.engin.umich.edu/", "title": "professor emeritus", "email": "teneket@umich.edu", "extra_strings": "demosthenis teneketzis"}

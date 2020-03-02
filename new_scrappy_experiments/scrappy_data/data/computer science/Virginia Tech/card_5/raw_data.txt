@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_1016196480/vt-items_0/vtmulticolumn/vt-items_0/adaptiveimage_copy.transform/m-medium/image.jpg", "site": "https://bioinformatics.cs.vt.edu/~murali/", "title": "professor", "email": "tmurali@vt.edu", "extra_strings": "b torgersen"}

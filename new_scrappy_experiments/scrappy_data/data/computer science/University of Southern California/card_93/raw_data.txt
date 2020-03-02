@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/4d58e8bdc59ed284e01d6b56bf51a4f9.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Peng&fname=Nanyun", "title": "assistant professor", "email": "nanyunpe@usc.edu", "extra_strings": "nanyun peng"}

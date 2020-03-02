@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://scholar.google.com/citations?hl=en&user=a9vq4YoAAAAJ&view_op=list_works&gmla=AJsN-F42IsJ-7AUnHJFk1i6XcKA_zpc_khbUCITTNIBwFIgBq4iHeMSyG4zl1Q_9WiOaFKZ_3ftsVBpblExJmRFJCDkYRhLx1ENrywKbOjYYGu7ioarc6aM", "title": "assistant professor", "email": "dgg6b@virginia.edu", "extra_strings": "daniel g graham"}

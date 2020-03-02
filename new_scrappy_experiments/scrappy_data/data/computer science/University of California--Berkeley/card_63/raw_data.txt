@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/mball.jpg", "site": "https://www2.eecs.berkeley.edu/Courses/CS195", "title": 0, "email": "ball@berkeley.edu", "extra_strings": "human-computer interaction hci"}

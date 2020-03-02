@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=68864&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/tmc", "title": "professor", "email": "tmc@illinois.edu", "extra_strings": "timothy moon-yew chan"}

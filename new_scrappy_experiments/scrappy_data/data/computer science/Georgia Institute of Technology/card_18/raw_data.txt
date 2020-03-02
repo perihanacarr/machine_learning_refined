@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/jun-xu_0_0.jpg?itok=PYn6Y7fm", "site": "https://www.scs.gatech.edu/people/jun-xu", "title": "professor", "email": "jx@cc.gatech.edu", "extra_strings": "jun xu"}

@@ -1,0 +1,1 @@
+{"image": "https://web.cs.dartmouth.edu/sites/cs.dartmouth.edu/files/styles/profile_listing/public/khayal.jpg?itok=R1Np_--_", "site": "https://web.cs.dartmouth.edu/people/inas-khayal", "title": "assistant professor", "email": "Inas.Khayal@Dartmouth.edu", "extra_strings": "inas khayal"}

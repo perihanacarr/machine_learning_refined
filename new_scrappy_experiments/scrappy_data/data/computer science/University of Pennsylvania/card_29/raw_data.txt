@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb-fouh.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=253", "title": "assistant professor", "email": "efouh@cis.upenn.edu", "extra_strings": "eric fouh"}

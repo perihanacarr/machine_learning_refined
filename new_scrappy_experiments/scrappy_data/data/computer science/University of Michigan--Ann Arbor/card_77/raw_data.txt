@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/mahdich.jpg", "site": "http://mahdi.cheraghchi.info/", "title": "assistant professor", "email": "mahdich@umich.edu", "extra_strings": "mahdi cheraghchi"}

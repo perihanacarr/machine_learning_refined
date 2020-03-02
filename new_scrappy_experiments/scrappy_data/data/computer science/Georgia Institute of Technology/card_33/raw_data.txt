@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/shamkant_navathe_0.jpeg?itok=xOS4bnZ1", "site": "https://www.scs.gatech.edu/people/shamkant-navathe", "title": "professor", "email": "sham@cc.gatech.edu", "extra_strings": "shamkant navathe"}

@@ -1,0 +1,1 @@
+{"image": "images/photos/a-thumb-scedrov.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=156", "title": "professor", "email": "SCEDROV@MATH.UPENN.EDU", "extra_strings": "ane sceov"}

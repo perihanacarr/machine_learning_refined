@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/praghavendra.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/praghavendra.html", "title": "associate professor", "email": "prasad@cs.berkeley.edu", "extra_strings": "prasad raghavena"}

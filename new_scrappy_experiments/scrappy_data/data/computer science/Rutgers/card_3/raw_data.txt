@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2658.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/frances-trees", "title": "professor", "email": "FRAN.TREES@RUTGERS.EDU", "extra_strings": "frances trees"}

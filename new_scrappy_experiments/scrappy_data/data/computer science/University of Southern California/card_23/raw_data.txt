@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/14c1874c8b7d1166d9972c74f1d4a6d2.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Boehm&fname=Barry", "title": "professor", "email": "boehm@usc.edu", "extra_strings": "barry william boehm"}

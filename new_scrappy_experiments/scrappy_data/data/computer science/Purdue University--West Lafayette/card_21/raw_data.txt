@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/clg/", "title": "assistant professor", "email": "clg@purdue.edu", "extra_strings": "christina garman"}

@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/barisk.jpg", "site": "http://www.bariskasikci.org/", "title": "assistant professor", "email": "barisk@umich.edu", "extra_strings": "baris kasikci"}

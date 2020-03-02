@@ -1,0 +1,1 @@
+{"image": "/sites/g/files/bxs1251/f/cs_headshots/MackJoyner_01-500x500.jpg", "site": "https://csweb.rice.edu/mack-joyner", "title": "professor", "email": 0, "extra_strings": "mack joyner"}

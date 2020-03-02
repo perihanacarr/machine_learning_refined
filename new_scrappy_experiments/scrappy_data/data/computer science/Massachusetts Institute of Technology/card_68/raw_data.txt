@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/dennis_0.jpg", "site": "http://www.csail.mit.edu/user/1552", "title": "professor", "email": "dennis@csail.mit.edu", "extra_strings": "jack dennis"}

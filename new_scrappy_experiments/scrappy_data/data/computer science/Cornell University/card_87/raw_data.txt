@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/fei_wang_1.jpeg?itok=ds7CYP6h", "site": "https://sites.google.com/site/cornellwanglab/home", "title": "associate professor", "email": 0, "extra_strings": "tsinghua university "}

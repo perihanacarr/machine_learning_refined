@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb-eaton.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=323", "title": 0, "email": "eeaton@seas.upenn.edu", "extra_strings": "eric eaton"}

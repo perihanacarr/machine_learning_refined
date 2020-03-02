@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/hero.jpg", "site": "https://hero.engin.umich.edu/", "title": "professor", "email": "hero@umich.edu", "extra_strings": "alfred o hero"}

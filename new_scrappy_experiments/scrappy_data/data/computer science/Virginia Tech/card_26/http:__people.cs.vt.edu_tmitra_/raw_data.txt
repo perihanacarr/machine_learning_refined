@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://cs.vt.edu/tmitra/public/tanu.jpg", "https://cs.vt.edu/tmitra/public/email.png"], "research_blurb": [". My research interests are in SSRC research grant"]}

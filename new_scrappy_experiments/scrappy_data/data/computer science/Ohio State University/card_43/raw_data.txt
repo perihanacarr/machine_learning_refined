@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/wang.77.jpg?itok=8b4J61Hk", "site": "https://cse.osu.edu/people/wang.77", "title": "professor", "email": "wang.77@osu.edu", "extra_strings": "eese laboratories"}

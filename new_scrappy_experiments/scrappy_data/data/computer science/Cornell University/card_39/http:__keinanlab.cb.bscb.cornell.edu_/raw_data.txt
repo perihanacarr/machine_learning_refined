@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://www.cs.cornell.edu/misc/feed.png", "https://www.cs.cornell.edu/sites/default/files/u4/word_cloud_final.png"], "research_blurb": ["X Chromosome research receives media attention from Nature Medicine"]}

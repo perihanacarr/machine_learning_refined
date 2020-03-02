@@ -1,0 +1,1 @@
+{"image": "/dir/photos/BILEN-LENNART.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=LXB50", "title": 0, "email": "lxb50@psu.edu", "extra_strings": "lennart bilen"}

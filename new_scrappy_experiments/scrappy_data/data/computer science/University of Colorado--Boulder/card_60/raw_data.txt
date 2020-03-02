@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/henry-tufo", "title": "professor", "email": "henry.tufo@colorado.edu", "extra_strings": "henry tufo"}

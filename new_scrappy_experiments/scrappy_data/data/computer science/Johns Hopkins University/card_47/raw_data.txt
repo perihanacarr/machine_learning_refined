@@ -1,0 +1,1 @@
+{"image": "https://www.cs.jhu.edu/wp-content/uploads/2016/10/xinjin-180x245.jpg", "site": "https://www.cs.jhu.edu/faculty/xin-jin/", "title": "assistant professor", "email": 0, "extra_strings": "xin jin"}

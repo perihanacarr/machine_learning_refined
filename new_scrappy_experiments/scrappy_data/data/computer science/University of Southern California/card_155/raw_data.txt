@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/efe68ba75a933d7896064deb4c58e85e.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Zyda&fname=Michael", "title": "professor", "email": "zyda@usc.edu", "extra_strings": "michael zyda"}

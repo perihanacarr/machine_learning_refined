@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2019/09/mreissl.png", "site": "https://cidse.engineering.asu.edu/martin-reisslein/", "title": "professor", "email": "reisslein@asu.edu", "extra_strings": "chitta baral"}

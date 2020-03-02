@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/stephane.jpg", "site": "https://www.youtube.com/watch?v=RjcAG5zcKC4", "title": "professor", "email": "stephane@umich.edu", "extra_strings": "stephane lafortune"}

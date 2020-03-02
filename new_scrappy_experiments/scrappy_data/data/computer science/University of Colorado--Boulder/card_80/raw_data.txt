@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/photo2015_1.jpg?itok=8F2__ZZG", "site": "https://www.colorado.edu/cs/michael-paul", "title": "assistant professor", "email": "mpaul@colorado.edu", "extra_strings": "michael paul"}

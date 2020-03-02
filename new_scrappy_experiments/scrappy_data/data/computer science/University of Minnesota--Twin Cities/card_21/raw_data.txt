@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/sattar_final_small.jpg?itok=yXt0tDYN", "site": "https://www.cs.umn.edu/people/junaed-sattar", "title": 0, "email": "jsattar@umn.edu", "extra_strings": "junaed_small sattar"}

@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/choi_bryan_su17.jpg?itok=ojwH1aW3&c=facee0451b380631e662b77e8f0694c9", "site": "https://cse.osu.edu/people/choi.1399", "title": "assistant professor", "email": "choi.1399@osu.edu", "extra_strings": "eese labs"}

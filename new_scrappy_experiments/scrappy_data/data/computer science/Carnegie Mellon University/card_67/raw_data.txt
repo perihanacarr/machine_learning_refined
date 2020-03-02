@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/michael-erdmann", "title": "professor", "email": "me@cs.cmu.edu", "extra_strings": "michael erdmann"}

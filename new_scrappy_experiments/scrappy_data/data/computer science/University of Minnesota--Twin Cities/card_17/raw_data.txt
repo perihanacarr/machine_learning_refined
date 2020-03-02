@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/park5e_final_crop_small.jpg?itok=mQzq0wob", "site": "http://www-users.cs.umn.edu/~hspark/", "title": 0, "email": "hspark@umn.edu", "extra_strings": "hyun soo park"}

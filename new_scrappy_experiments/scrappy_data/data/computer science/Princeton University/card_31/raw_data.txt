@@ -1,0 +1,1 @@
+{"image": "/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=3136&thumb=", "site": "http://www.cs.princeton.edu/~kylej", "title": "associate professor", "email": 0, "extra_strings": "kyle jamieson"}

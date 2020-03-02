@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/thomas_nelson.jpg?itok=2Y7jnYq4", "site": "https://www.colorado.edu/cs/thomas-nelson", "title": 0, "email": "thomas.nelson@colorado.edu", "extra_strings": "thomas nelson"}

@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/demaine_0.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/35", "title": "professor", "email": "edemaine@mit.edu", "extra_strings": "erik demaine"}

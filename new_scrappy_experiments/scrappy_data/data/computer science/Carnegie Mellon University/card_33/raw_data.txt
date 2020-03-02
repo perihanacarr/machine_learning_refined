@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/research-faculty/george-amvrosiadis", "title": 0, "email": "gamvrosi@andrew.cmu.edu", "extra_strings": "george amvrosiadis"}

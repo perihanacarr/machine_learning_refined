@@ -1,0 +1,1 @@
+{"email": ["lab@cs.wisc.edu"], "image": ["https://www.cs.wisc.edu/people/faculty/crest.png", "http://www.cs.wisc.edu/~hasti/hastiF16.jpg"], "research_blurb": ["<dir>"]}

@@ -1,0 +1,1 @@
+{"email": ["ckane@cs.stonybrook.edu"], "image": ["https://www.cs.stonybrook.edu/sites/default/files/christopher_kane.jpg", "https://www.cs.stonybrook.edu/sites/all/themes/compsci/images/blue_arrow.gif"], "research_blurb": ["Members Only Area"]}

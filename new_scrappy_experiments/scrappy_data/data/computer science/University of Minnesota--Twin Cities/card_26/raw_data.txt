@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/2017.06.10-cropped-umn_edited.jpg?itok=ESmzE2pZ", "site": "https://favonia.org/", "title": 0, "email": "kbh@umn.edu", "extra_strings": "kuen-bang hou favonia"}

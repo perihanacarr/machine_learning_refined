@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/Shasha_16-0015_0005_250x250.jpg", "site": "http://cs.nyu.edu/cs/faculty/shasha/", "title": "professor", "email": 0, "extra_strings": "dennis shasha"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/lan-andrew", "title": "assistant professor", "email": "andrewlan@cs.umass.edu", "extra_strings": "cs building"}

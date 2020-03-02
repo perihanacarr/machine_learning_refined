@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://computerscience.uchicago.edu/people/profile/yuxin-chen1", "title": "assistant professor", "email": 0, "extra_strings": "yuxin chen"}

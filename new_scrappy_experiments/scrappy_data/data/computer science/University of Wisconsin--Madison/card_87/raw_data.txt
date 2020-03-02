@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/11/SushmitaRoy-e1542052335547-150x150.png", "site": "https://www.biostat.wisc.edu/content/roy-sushmita", "title": "associate professor", "email": "sroy@cs.wisc.edu", "extra_strings": "sushmita roy"}

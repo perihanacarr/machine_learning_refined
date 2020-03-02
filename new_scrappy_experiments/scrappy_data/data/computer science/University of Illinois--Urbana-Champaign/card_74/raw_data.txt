@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=5001&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/sinhas", "title": "professor", "email": "sinhas@illinois.edu", "extra_strings": "saurabh sinha"}

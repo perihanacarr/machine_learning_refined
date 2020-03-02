@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/mahyar-narges", "title": "assistant professor", "email": "nmahyar@cs.umass.edu", "extra_strings": "narges mahyar"}

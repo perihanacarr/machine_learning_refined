@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/papadimitriou.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/BIO", "title": "professor emeritus", "email": "christos@cs.berkeley.edu", "extra_strings": "christos papadimitriou"}

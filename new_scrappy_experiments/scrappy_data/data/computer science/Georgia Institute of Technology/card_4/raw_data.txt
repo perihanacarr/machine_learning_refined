@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/_mg_8100.jpg?itok=LCwAJD0V", "site": "https://www.scs.gatech.edu/people/xu-chu", "title": "assistant professor", "email": "xu.chu@cc.gatech.edu", "extra_strings": "xu chu"}

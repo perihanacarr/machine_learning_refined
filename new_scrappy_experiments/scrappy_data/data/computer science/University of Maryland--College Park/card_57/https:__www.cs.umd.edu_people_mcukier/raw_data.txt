@@ -1,0 +1,1 @@
+{"email": ["mcukier@umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/cukier.jpg?itok=Mtv9vCpH&c=ce72bc6fa2c5f4b241707d2ace7efd05"], "research_blurb": ["View Department Office Contacts"]}

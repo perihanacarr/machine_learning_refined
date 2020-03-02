@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/fschaub.jpg", "site": "https://www.si.umich.edu/people/florian-schaub", "title": "assistant professor", "email": "fschaub@umich.edu", "extra_strings": "florian schaub"}

@@ -1,0 +1,1 @@
+{"email": ["jrk atsign cs.columbia.edu"], "image": [], "research_blurb": ["My research has been supported by:\n"]}

@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2607.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/jeffrey-ames", "title": "assistant professor", "email": "jeff.ames@rutgers.edu", "extra_strings": "jeffrey ames"}

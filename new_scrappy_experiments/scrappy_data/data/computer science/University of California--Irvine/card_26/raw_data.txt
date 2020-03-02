@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/ssirani.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=ssirani", "title": "professor", "email": "%20irani@ics.uci.edu", "extra_strings": "sandy irani"}

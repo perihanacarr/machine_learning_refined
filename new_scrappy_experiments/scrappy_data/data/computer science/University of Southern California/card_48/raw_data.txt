@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/10a4176ef66d298b5f2deed9fa41dcb3.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Ver-Steeg&fname=Gregory", "title": "associate professor", "email": "gregv@isi.edu", "extra_strings": "gregory ver-steeg"}

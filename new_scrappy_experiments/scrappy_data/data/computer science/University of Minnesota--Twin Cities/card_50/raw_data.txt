@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/nathan_taylor_web.jpg?itok=wi9kcI_O", "site": "https://www.cs.umn.edu/people/nathan-taylor", "title": 0, "email": "taylo740@umn.edu", "extra_strings": "nathan taylor"}

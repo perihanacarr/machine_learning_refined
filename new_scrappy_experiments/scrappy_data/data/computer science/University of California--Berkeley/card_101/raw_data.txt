@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/vazirani.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/THY", "title": "professor", "email": "vazirani@cs.berkeley.edu", "extra_strings": "soda hall, -- vaziranicsberkeleyedu"}

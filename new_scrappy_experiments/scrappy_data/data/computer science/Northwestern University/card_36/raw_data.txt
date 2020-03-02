@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/sood-sara-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/sood-owsley-sara.html", "title": "professor", "email": "sara.sood@northwestern.edu", "extra_strings": "sara owsley sood"}

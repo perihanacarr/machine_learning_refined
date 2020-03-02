@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/oneill-adam", "title": "assistant professor", "email": "adamo@cs.umass.edu", "extra_strings": "adam o'neill"}

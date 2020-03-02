@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/riesbeck-chris-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/riesbeck-chris.html", "title": "associate professor", "email": "c-riesbeck@northwestern.edu", "extra_strings": "chris riesbeck"}

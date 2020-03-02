@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/hosking-antony", "title": "adjunct professor", "email": "antony.hosking@anu.edu.au", "extra_strings": "antony hosking"}

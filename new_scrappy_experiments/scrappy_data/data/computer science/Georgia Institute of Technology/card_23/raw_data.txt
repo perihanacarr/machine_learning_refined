@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/milos-prvulovic_0_0.jpg?itok=WMQ3dl-V", "site": "https://www.scs.gatech.edu/people/milos-prvulovic", "title": "professor", "email": "milos.prvulovic@cc.gatech.edu", "extra_strings": "milos prvulovic"}

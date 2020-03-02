@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/dorr.JPG?itok=Vh2EETku&c=c249ab5923585f78860e66364ed24a7b", "site": "https://www.cs.umd.edu/researcharea/ai-and-robotics", "title": "professor", "email": 0, "extra_strings": "bonnie dorr"}

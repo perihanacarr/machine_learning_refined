@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/kay.jpg", "site": "http://www.ics.uci.edu/~kay/", "title": "professor emeritus", "email": "%20kay@uci.edu", "extra_strings": "david kay"}

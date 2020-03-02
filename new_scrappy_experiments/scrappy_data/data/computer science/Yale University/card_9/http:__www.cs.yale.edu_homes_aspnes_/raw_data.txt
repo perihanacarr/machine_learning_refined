@@ -1,0 +1,1 @@
+{"email": ["james.aspnes@gmail.com", "james.aspnes@gmail.com"], "image": ["http://cs.yale.edu/homes/aspnes/aspnes.jpg"], "research_blurb": [" program.\n      My main area of research is distributed algorithms.\n      You can find a list of my papers\n      "]}

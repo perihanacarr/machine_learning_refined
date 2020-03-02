@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/weimerw.jpg", "site": "http://web.eecs.umich.edu/~weimerw/", "title": "professor", "email": "weimerw@umich.edu", "extra_strings": "westley weimer"}

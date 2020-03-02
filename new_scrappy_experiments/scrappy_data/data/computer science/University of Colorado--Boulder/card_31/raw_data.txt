@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/ashutosh.jpg?itok=j0eN9eDz", "site": "https://www.colorado.edu/cs/ashutosh-trivedi", "title": "assistant professor", "email": "ashutosh.trivedi@colorado.edu", "extra_strings": "ashutosh trivedi"}

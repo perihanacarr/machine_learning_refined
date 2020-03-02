@@ -1,0 +1,1 @@
+{"image": "/static/img/2/712ad88a348aafecaf47888aedd7b10c.jpeg", "site": "http://www.cs.columbia.edu/~misra", "title": 0, "email": 0, "extra_strings": "vishal misra"}

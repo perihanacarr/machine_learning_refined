@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2668.jpeg", "site": "https://www.cs.rutgers.edu/people/professors/details/william-steiger", "title": "professor", "email": "william.steiger@rutgers.edu", "extra_strings": "william steiger"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/ArtLee1.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/ArthurLee", "title": "professor", "email": 0, "extra_strings": "arthur lee"}

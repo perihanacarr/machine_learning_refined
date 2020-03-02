@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/woodbury-adam", "title": 0, "email": "awoodbury@cs.umass.edu", "extra_strings": "adam woodbury"}

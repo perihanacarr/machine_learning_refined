@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/yarik-crcns2014_323x405.jpg?itok=xqTLJcmF", "site": "https://web.cs.dartmouth.edu/people/yaroslav-o-halchenko", "title": "associate professor", "email": "Yaroslav.O.Halchenko@Dartmouth.edu", "extra_strings": "yarik crcns"}

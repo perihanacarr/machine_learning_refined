@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/kuipers.jpg", "site": "http://web.eecs.umich.edu/~kuipers/", "title": "professor", "email": "kuipers@umich.edu", "extra_strings": "benjamin kuipers"}

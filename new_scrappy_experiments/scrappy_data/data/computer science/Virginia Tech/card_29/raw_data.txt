@@ -1,0 +1,1 @@
+{"image": "/content/website_cs_vt_edu/en/People/Faculty/_jcr_content/content/vtmulticolumn_2027121979/vt-items_0/vtmulticolumn/vt-items_0/adaptiveimage_copy.transform/m-medium/image.jpg", "site": "http://people.cs.vt.edu/~shaffer/", "title": "professor", "email": "shaffer@vt.edu", "extra_strings": "a torgersen"}

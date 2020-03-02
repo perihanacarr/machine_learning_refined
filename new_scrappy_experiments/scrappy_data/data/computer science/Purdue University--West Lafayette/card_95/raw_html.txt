@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Simina Branzei</td><td>Assistant Professor</td><td style=\"white-space: nowrap\"><phone>49-49025</phone></td><td style=\"white-space: nowrap\"><office>LWSN 1205</office></td><td><a href=\"mailto:simina@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/simina/\">Bio</a></td></tr>"

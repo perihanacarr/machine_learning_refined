@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Jim-Collofello-1.jpg", "site": "https://isearch.asu.edu/profile/25234", "title": "professor", "email": "JAMES.COLLOFELLO@asu.edu", "extra_strings": "james collofello"}

@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/c27ee39edcce3dca31850991e351308a.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Mataric&fname=Maja", "title": "professor", "email": "mataric@usc.edu", "extra_strings": "maja mataric"}

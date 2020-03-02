@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_Badler.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=5", "title": "professor", "email": "badler@seas.upenn.edu", "extra_strings": "norman i badler"}

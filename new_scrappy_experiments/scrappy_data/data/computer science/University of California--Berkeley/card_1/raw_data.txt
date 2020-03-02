@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/abbeel.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/abbeel.html", "title": "professor", "email": "pabbeel@cs.berkeley.edu", "extra_strings": "pieter abbeel"}

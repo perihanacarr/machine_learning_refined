@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/anupam-datta", "title": "associate professor", "email": "danupam@andrew.cmu.edu", "extra_strings": "anupam datta"}

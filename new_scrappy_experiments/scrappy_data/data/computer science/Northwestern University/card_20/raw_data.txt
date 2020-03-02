@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/hullman-jessica-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hullman-jessica.html", "title": "assistant professor", "email": "jhullman@northwestern.edu", "extra_strings": "jessica hullman"}

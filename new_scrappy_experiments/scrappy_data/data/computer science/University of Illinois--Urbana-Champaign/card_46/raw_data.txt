@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=54215&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/mattox", "title": "assistant professor", "email": "mattox@illinois.edu", "extra_strings": "mattox alan beckman"}

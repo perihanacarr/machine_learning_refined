@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/Clarkson%2C%20Michael.jpg?itok=p9wVH9Ze", "site": "https://www.cs.cornell.edu/research/security", "title": 0, "email": 0, "extra_strings": "michael clarkson"}

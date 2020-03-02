@@ -1,0 +1,1 @@
+{"email": ["shiv@ece.ucsb.edu"], "image": ["https://cs.ucsb.edu/people/klessel.png", "https://cs.ucsb.edu/people/abhejit.png", "https://cs.ucsb.edu/people/shiv.jpg", "https://cs.ucsb.edu/people/gorman.png", "https://cs.ucsb.edu/people/nithin.jpg"], "research_blurb": ["Professor Shivkumar Chandrasekaran (shiv@ece)\n"]}

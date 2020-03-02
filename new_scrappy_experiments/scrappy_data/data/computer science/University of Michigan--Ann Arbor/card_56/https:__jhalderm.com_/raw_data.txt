@@ -1,0 +1,1 @@
+{"email": ["jhalderm@eecs.umich.edu"], "image": ["home/halderman_um14-md.jpg"], "research_blurb": ["My research focuses on  applied networking research prize"]}

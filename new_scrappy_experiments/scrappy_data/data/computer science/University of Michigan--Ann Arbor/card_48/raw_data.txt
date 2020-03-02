@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/honey.jpg", "site": "http://www.citi.umich.edu/u/honey/", "title": "professor", "email": "honey@umich.edu", "extra_strings": "peter honeyman"}

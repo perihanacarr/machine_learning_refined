@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/d6cb8ad21f0818e55c248156dd5ae890.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Requicha&fname=Aristides", "title": "professor emeritus", "email": "requicha@usc.edu", "extra_strings": "aristides requicha"}

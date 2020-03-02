@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://engineering.virginia.edu/faculty/nada-basit", "title": "assistant professor", "email": "basit@virginia.edu", "extra_strings": "nada basit"}

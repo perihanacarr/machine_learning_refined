@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/2c206d534f2fefdba98e7fe7894ea853.png", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Ferreira-da-Silva&fname=Rafael", "title": "assistant professor", "email": "rafsilva@isi.edu", "extra_strings": "rafael ferreira-da-silva"}

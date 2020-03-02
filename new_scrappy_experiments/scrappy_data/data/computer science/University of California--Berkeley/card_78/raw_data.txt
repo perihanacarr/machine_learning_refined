@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/prabal.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/prabal.html", "title": "associate professor", "email": "prabal@berkeley.edu", "extra_strings": "prabal dutta"}

@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/77/f0/77f0a14c-2d0c-4c56-97c4-3c9ac47d2c01/deborah_hurley2sq.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "https://cs.brown.edu/people/faculty/dhurley1/", "title": "adjunct professor", "email": 0, "extra_strings": "deborah hurley"}

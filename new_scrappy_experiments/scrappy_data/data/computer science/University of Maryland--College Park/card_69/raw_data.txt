@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/face2.jpg?itok=O8QdGDLR&c=00084c8731a73a2daeb58cefb37994d3", "site": "https://www.cs.umd.edu/people/sdr", "title": "assistant professor", "email": 0, "extra_strings": "marc lichtman"}

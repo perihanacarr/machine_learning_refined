@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/parthasarathy.2.jpg?itok=cJSSbHFn", "site": "https://cse.osu.edu/people/parthasarathy.2", "title": "professor", "email": "parthasarathy.2@osu.edu", "extra_strings": "eese laboratories"}

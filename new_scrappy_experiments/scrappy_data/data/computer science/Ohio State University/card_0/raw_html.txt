@@ -1,0 +1,1 @@
+"<div class=\"branding-angle\">\n<img class=\"branding-angle-decoration\" src=\"/profiles/osu/themes/osu_omega19/images/branding-angle.svg\"/>\n</div>"

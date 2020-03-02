@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/akinwande_0.jpg", "site": "https://mtlweb.mit.edu/~akinwand/", "title": "professor", "email": "akinwand@mtl.mit.edu", "extra_strings": "akintunde akinwande"}

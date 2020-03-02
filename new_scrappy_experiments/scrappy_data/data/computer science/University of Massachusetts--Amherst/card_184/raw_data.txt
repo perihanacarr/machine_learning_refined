@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/sondheimer_norman", "title": "assistant professor", "email": "sondheimer@cs.umass.edu", "extra_strings": "norman k sondheimer"}

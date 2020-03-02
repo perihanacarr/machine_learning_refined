@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/liu-han-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html", "title": "associate professor", "email": "hanliu@northwestern.edu", "extra_strings": "han liu"}

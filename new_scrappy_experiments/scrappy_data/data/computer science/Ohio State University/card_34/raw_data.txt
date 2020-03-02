@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/soundarajan.1.jpg?itok=rHMtzCwF", "site": "http://web.cse.ohio-state.edu/~neelam", "title": "associate professor", "email": "soundarajan.1@osu.edu", "extra_strings": "eese laboratories"}

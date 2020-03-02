@@ -1,0 +1,1 @@
+{"email": ["cidse.advising@asu.edu"], "image": ["//www.asu.edu/asuthemes/4.8/assets/ASU-number-1-innovation-best-colleges.png"], "research_blurb": ["Below you will find helpful information to get you started at ASU. We are very happy you will be joining us!"]}

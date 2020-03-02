@@ -1,0 +1,1 @@
+{"image": "http://cloudfront.eas.caltech.edu/eas_directory/users/jburdick/photos/joel-burdick3-original.jpg?1550099285", "site": "http://cms.caltech.edu/people/jburdick", "title": "professor", "email": 0, "extra_strings": "joel w burdick"}

@@ -1,0 +1,1 @@
+{"image": "/dir/photos/Kolli-Aasheesh.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=azk332", "title": "assistant professor", "email": "akolli@psu.edu", "extra_strings": "aasheesh kolli"}

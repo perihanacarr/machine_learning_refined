@@ -1,0 +1,1 @@
+{"email": ["pugh@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/pugh%20william.jpg?itok=8shFI4D4&c=39867b16517058f7d4a195e102eeffac"], "research_blurb": ["View Department Office Contacts"]}

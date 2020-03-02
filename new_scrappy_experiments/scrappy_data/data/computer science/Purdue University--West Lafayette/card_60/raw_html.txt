@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Xiaojin Liu</td><td>Lecturer</td><td style=\"white-space: nowrap\"><phone>49-47811</phone></td><td style=\"white-space: nowrap\"><office>HAAS 144</office></td><td><a href=\"mailto:liu218@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/liu218/\">Bio</a></td></tr>"

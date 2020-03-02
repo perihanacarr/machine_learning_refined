@@ -1,0 +1,1 @@
+{"email": ["mhnaik@cis.upenn.edu"], "image": ["https://www.seas.upenn.edu/directory/images/feed-icon_orange-12px.png", "https://www.seas.upenn.edu/directory/images/photos/a_full_naik.jpg "], "research_blurb": ["\nEmail "]}

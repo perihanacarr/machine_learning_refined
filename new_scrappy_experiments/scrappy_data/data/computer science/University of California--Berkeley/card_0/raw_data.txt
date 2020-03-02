@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Assets/placeholder_white_150x210.png", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/blum.html", "title": "professor emeritus", "email": "blum@cs.berkeley.edu", "extra_strings": "manuel blum"}

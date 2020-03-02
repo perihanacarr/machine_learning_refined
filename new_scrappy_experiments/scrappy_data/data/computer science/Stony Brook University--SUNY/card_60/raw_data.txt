@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/bachmair_1.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/LeoBachmair", "title": "professor", "email": 0, "extra_strings": "leo bachmair"}

@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/3e36b18775a663e805ac92977b427bd3.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Raghavan&fname=Barath", "title": "assistant professor", "email": "barathra@usc.edu", "extra_strings": "barath raghavan"}

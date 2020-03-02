@@ -1,0 +1,1 @@
+"<div class=\"col-3\">\n<img alt=\"Janell Straach \" src=\"/sites/g/files/bxs1251/f/JanellWiCySHeadshot1.jpg\"/><h4>\n<a href=\"https://csweb.rice.edu/janell-straach\">Janell Straach\u00a0</a></h4>\n<p>Lecturer in Computer Science\u00a0</p>\n</div>"

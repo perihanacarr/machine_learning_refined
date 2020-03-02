@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/dana-randall_0_0_0.jpg?itok=x4ciS7pw", "site": "https://www.scs.gatech.edu/people/dana-randall", "title": "adjunct professor", "email": "randall@cc.gatech.edu", "extra_strings": "dana randall"}

@@ -1,0 +1,1 @@
+{"email": ["zyin@cs.stonybrook.edu"], "image": ["https://www.cs.stonybrook.edu/sites/default/files/Screen%20Shot%202019-08-22%20at%2012.jpg", "https://www.cs.stonybrook.edu/sites/all/themes/compsci/images/blue_arrow.gif"], "research_blurb": ["Our current research projects include:Open-set research idea exploration supported from various resources."]}

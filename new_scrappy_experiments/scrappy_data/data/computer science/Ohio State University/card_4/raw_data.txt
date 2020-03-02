@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/Wenger_Rafe_0.jpg?itok=bjX8gSoj&c=6d4b61102ab1193674539318e1994048", "site": "https://cse.osu.edu/people/wenger.4", "title": "associate professor", "email": "wenger.4@osu.edu", "extra_strings": "rephael wenger"}

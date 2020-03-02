@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/cb6bbee7c64b0f6c93d8809595f4bb6e.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Rosenbloom&fname=Paul", "title": "professor", "email": "rosenbloom@usc.edu", "extra_strings": "paul rosenbloom"}

@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://pixel.wp.com/b.gif?v=noscript"], "research_blurb": ["[Google Scholar] [DBLP]\u00a0 [Talk on Writing]"]}

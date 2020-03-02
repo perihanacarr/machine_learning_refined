@@ -1,0 +1,1 @@
+{"image": "/dir/photos/ZHU-SENCUN.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=SXZ16", "title": "associate professor", "email": "sxz16@psu.edu", "extra_strings": "sencun zhu"}

@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://www.rle.mit.edu/smrl/wp-content/uploads/2019/10/cropped-ascent_r1-1.jpg"], "research_blurb": ["Research Group of Professor Kevin Chen"]}

@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/profmars.jpg", "site": "http://web.eecs.umich.edu/~profmars/", "title": "associate professor", "email": "profmars@umich.edu", "extra_strings": "jason mars"}

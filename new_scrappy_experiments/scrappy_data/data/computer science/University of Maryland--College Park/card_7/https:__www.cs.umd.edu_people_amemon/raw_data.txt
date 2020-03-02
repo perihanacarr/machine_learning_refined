@@ -1,0 +1,1 @@
+{"email": ["atif@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/AtifMemon.jpg?itok=SIKDOBtD&c=69c8dea637ed55b1117b714edfe609a4"], "research_blurb": ["View Department Office Contacts"]}

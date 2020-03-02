@@ -1,0 +1,1 @@
+{"email": ["eshan@cs.cornell.edu"], "image": ["pic_3.jpg"], "research_blurb": [" at Cornell University. Before this I was a postdoctoral researcher at the  \n \n                         Some press coverage on my research: "]}

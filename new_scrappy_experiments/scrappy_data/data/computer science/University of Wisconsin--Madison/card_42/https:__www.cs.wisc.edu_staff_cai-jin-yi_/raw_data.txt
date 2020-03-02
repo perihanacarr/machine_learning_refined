@@ -1,0 +1,1 @@
+{"email": [], "image": ["bookcover.jpg", "http://counter.digits.com/wc/-d/4/jinyicai"], "research_blurb": ["\n  He works in computational complexity\ntheory. He has written and published over 100 research papers.\n", "Research interests: Theory of Computation \nHis research area is computational complexity theory,\nand theoretical computer science in general.\n"]}

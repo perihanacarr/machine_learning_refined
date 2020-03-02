@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/daveti/", "title": "assistant professor", "email": "daveti@purdue.edu", "extra_strings": "dave tian"}

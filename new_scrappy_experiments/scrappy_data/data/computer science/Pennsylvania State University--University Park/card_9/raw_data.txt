@@ -1,0 +1,1 @@
+{"image": "/dir/photos/TUCKER-CONRAD.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=CST14", "title": "associate professor", "email": "cst14@psu.edu", "extra_strings": "conrad tucker"}

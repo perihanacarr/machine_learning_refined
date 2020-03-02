@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_angel.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=256", "title": "assistant professor", "email": "sebastian.angel@cis.upenn.edu", "extra_strings": "sebastian angel"}

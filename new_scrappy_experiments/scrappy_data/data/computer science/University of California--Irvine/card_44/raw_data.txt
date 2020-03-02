@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/anicolau.jpg", "site": "http://www.ics.uci.edu/~nicolau", "title": "professor", "email": "%20nicolau@ics.uci.edu", "extra_strings": "alexanu nicolau"}

@@ -1,0 +1,1 @@
+{"email": [], "image": ["smr9r320a.jpg", "plus.gif", "plus.gif", "PUsig1-t.png"], "research_blurb": ["\u00a0Older classes...", "\n\t(with Wojciech Matusik, Boris Ajdin, Jinwei Gu, Jason Lawrence,\n\tHendrik P.A. Lensch, and Fabio Pellacini),\n\t", "\n\tCurrent Ph.D. advisees:\n\t  "]}

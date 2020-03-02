@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-2566-1513084498.png?itok=_dSFW2Rw", "site": "https://cpsc.yale.edu/people/marynel-vazquez", "title": "assistant professor", "email": "marynel.vazquez@yale.edu", "extra_strings": "marynel v\u00e1zquez"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/irwin_david", "title": "assistant professor", "email": "irwin@ecs.umass.edu", "extra_strings": "david irwin"}

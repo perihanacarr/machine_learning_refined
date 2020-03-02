@@ -1,0 +1,1 @@
+{"email": ["Ron.Askin@asu.edu"], "image": ["https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Ron-Askin.jpg", "//www.asu.edu/asuthemes/4.8/assets/ASU-number-1-innovation-best-colleges.png"], "research_blurb": ["Logistics, manufacturing systems analysis, production planning and scheduling, operations research, applied statistics"]}

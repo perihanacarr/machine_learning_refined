@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=86012&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/namato", "title": "professor", "email": "namato@illinois.edu", "extra_strings": "nancy m amato"}

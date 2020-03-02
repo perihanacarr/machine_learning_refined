@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/hester-josiah-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hester-josiah.html", "title": "assistant professor", "email": "josiah.hester@northwestern.edu", "extra_strings": "josiah hester"}

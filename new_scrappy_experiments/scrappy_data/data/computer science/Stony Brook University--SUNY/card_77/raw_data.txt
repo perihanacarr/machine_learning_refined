@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/jingchen.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/JingChen", "title": "assistant professor", "email": 0, "extra_strings": "jing chen"}

@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/27d44d11835c30afbdca60659f7434dc.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Heidemann&fname=John", "title": "professor", "email": "johnh@isi.edu", "extra_strings": "john heidemann"}

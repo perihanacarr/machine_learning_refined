@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/houmansadr_amir", "title": "associate professor", "email": "amir@cs.umass.edu", "extra_strings": "cs building"}

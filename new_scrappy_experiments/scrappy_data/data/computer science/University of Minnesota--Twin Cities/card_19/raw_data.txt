@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/isler_4_final_small.jpg?itok=9uTviWIK", "site": "http://www-users.cs.umn.edu/~isler/", "title": 0, "email": "isler@umn.edu", "extra_strings": "volkan isler"}

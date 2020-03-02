@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/facultynoprofilepic_0.jpg?itok=2kkjwfpb", "site": "https://www.cs.utexas.edu/people/faculty-researchers/shirley-cohen", "title": "assistant professor", "email": 0, "extra_strings": "shirley cohen"}

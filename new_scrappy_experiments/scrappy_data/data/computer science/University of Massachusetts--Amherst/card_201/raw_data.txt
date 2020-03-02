@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/weems_charles", "title": "associate professor", "email": "weems@cs.umass.edu", "extra_strings": "charles c weems"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/Eytan2.JPG?itok=jQuL9UlC&c=87d6df10008f9ff5fd4c11ee13a72b24", "site": "https://www.cs.umd.edu/people/ruppin", "title": "adjunct professor", "email": 0, "extra_strings": "eytan ruppin"}

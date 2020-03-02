@@ -1,0 +1,1 @@
+{"email": ["curran@cs.cornell.edu"], "image": [], "research_blurb": ["Active research"]}

@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-31-1409065226.jpg?itok=qeVw7I1u", "site": "https://cpsc.yale.edu/people/michael-fischer", "title": "professor", "email": "michael.fischer@yale.edu", "extra_strings": "michael fischer"}

@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Dave_Dewitt.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/17", "title": "adjunct professor", "email": "david.dewitt@outlook.com ", "extra_strings": "david dewitt"}

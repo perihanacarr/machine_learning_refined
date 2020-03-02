@@ -1,0 +1,1 @@
+{"email": ["dwu4@virginia.edu"], "image": ["img/picture.jpg"], "research_blurb": ["My research interests are in cryptography and computer security. Please see my\n pages for a more comprehensive overview of my\nwork. "]}

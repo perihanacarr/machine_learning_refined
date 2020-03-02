@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Adam-Doupe.jpg", "site": "http://sefcom.asu.edu/people.html", "title": "assistant professor", "email": "doupe@asu.edu", "extra_strings": "adam doupe"}

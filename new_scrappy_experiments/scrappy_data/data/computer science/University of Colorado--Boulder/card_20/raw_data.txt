@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/sidney_dmello.jpg?itok=sWenxslk", "site": "https://www.colorado.edu/cs/sidney-dmello", "title": "associate professor", "email": "Sidney.DMello@Colorado.EDU", "extra_strings": "sidney d'mello"}

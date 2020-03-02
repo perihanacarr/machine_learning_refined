@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/mhardt.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/mhardt.html", "title": "assistant professor", "email": "hardt@berkeley.edu", "extra_strings": "moritz hardt"}

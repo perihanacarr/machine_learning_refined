@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_du.jpg?itok=uhYAE9eA", "site": "http://www-users.cs.umn.edu/~du", "title": 0, "email": "du@umn.edu", "extra_strings": "david hung-chang du"}

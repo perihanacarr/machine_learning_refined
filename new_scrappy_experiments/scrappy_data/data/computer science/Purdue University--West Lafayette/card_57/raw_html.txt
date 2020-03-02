@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Byoungyoung Lee</td><td>Assistant Professor (on leave 2019-20)</td><td style=\"white-space: nowrap\"><phone></phone></td><td style=\"white-space: nowrap\"><office></office></td><td><a href=\"mailto:lee2526@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/lee2526/\">Bio</a></td></tr>"

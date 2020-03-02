@@ -1,0 +1,1 @@
+{"email": ["gangqu@umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/gang_qu.jpg?itok=k8lXkP1q&c=0e6aa24a5d0fb03950577a0e70b940cf"], "research_blurb": ["View Department Office Contacts"]}

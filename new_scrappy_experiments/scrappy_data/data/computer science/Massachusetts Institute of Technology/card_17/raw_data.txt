@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Kalai_Yael.jpg", "site": "https://www.csail.mit.edu/person/yael-kalai", "title": "associate professor", "email": "tauman@mit.edu", "extra_strings": "yael kalai"}

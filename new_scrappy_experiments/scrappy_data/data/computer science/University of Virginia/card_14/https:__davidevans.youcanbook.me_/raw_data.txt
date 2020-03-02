@@ -1,0 +1,1 @@
+{"email": [], "image": ["/resources/pics/spinner-big.gif"], "research_blurb": ["This is the booking page for David Evans (https://www.cs.virginia.edu/evans)."]}

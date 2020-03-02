@@ -1,0 +1,1 @@
+{"email": ["wing@columbia.edu", "wing@cs.cmu.edu", "Women@SCS"], "image": [], "research_blurb": [".  A summary table of all our programs' requirements and transfer policies..\n \"front door\" for more information about\nresearch, educational, and social activities here.\n"]}

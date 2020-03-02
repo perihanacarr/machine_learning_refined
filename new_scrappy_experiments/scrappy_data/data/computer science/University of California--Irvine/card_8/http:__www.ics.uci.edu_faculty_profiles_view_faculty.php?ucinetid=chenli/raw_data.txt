@@ -1,0 +1,1 @@
+{"email": ["chenli@ics.uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["Databases and Text Processing<br/><h3>RESEARCH INTERESTS:</h3> Dr. Li's research interests are in the fields of database and information systems, including Web search, data integration, data warehouses, data cleansing, multimedia databases, and XML.<br/>"]}

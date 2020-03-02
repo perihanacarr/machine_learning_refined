@@ -1,0 +1,1 @@
+{"email": ["shaffer@cs.vt.edu"], "image": ["Shaffer15Smallcrop.png"], "research_blurb": ["research projects", "\n[Last updated:\n\ndocument.write(document.lastModified);\n11/14/2018 16:10:25]\n"]}

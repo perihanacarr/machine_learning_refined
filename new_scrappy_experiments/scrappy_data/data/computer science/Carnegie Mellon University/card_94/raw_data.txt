@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/rashmi-vinayak", "title": "assistant professor", "email": "rvinayak@andrew.cmu.edu", "extra_strings": "rashmi korlakai vinayak"}

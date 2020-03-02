@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/joe_halpern_2019_sq.jpg?itok=uCgadlBh", "site": "https://www.cs.cornell.edu/research/theory", "title": "professor", "email": 0, "extra_strings": "joseph halpern"}

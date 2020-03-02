@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/9a134b31b69d86a61ccd69ecb4606095.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Lucas&fname=Gale", "title": "assistant professor", "email": "lucas@ict.usc.edu", "extra_strings": "gale lucas"}

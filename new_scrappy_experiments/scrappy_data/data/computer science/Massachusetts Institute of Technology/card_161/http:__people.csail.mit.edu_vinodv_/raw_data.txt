@@ -1,0 +1,1 @@
+{"email": ["LATCA@BiCi"], "image": ["vinod-blackboard.jpg"], "research_blurb": ["biography"]}

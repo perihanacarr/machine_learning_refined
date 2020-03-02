@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://ssl.gstatic.com/accounts/ui/avatar_2x.png", "http://ssl.gstatic.com/images/icons/ui/common/universal_language_settings-21.png"], "research_blurb": ["\n\n\n  Sign in with a different account\n  \n\n\n\n  Create account\n  \n\n"]}

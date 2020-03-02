@@ -1,0 +1,1 @@
+{"image": "http://www.cs.duke.edu/images/pic-fac/junyang.jpg", "site": "https://www.cs.duke.edu/people/faculty/55", "title": "professor", "email": 0, "extra_strings": "jun yang"}

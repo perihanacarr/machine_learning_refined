@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/29b2ca2a29f0aa94bbce2cff4c2746ed.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Artstein&fname=Ron", "title": 0, "email": "artstein@ict.usc.edu", "extra_strings": "ron artstein"}

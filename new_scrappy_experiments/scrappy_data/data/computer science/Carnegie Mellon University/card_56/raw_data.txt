@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/jean-yang", "title": "assistant professor", "email": "jyang2@andrew.cmu.edu", "extra_strings": "jean yang"}

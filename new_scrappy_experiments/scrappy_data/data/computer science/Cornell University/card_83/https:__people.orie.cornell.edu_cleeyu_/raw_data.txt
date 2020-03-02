@@ -1,0 +1,1 @@
+{"email": [], "image": ["profProfileSq.jpg"], "research_blurb": [". She received her BS in Computer Science from California Institute of Technology in 2011. She received honorable mention for the 2018 INFORMS Dantzig Dissertation Award. Her recent interests include matrix and tensor estimation, multi-arm bandits, and reinforcement learning."]}

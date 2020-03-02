@@ -1,0 +1,1 @@
+{"email": ["omer@cs.ucsb.edu"], "image": ["https://cs.ucsb.edu/ataturk.jpg", "https://cs.ucsb.edu/ata2.jpg", "https://cs.ucsb.edu/anit2.jpg"], "research_blurb": ["\n                Current interests"]}

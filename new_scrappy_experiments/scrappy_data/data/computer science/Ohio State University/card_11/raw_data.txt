@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/crawfis.3.jpg?itok=QZ15bXOz", "site": "https://cse.osu.edu/people/crawfis.3", "title": "associate professor", "email": "crawfis.3@osu.edu", "extra_strings": "eese laboratories"}

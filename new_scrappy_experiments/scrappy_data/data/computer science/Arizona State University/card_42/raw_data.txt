@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Sarma-Vrudhula.jpg", "site": "https://cidse.engineering.asu.edu/sarma-vrudhula/", "title": "professor", "email": "vrudhula@asu.edu", "extra_strings": "sarma vrudhula"}

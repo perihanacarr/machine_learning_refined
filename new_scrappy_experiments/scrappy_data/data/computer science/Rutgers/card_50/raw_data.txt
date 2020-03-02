@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2681.jpeg", "site": "https://www.cs.rutgers.edu/people/professors/details/swastik-kopparty", "title": "associate professor", "email": "swastik.kopparty@rutgers.edu", "extra_strings": "swastik kopparty"}

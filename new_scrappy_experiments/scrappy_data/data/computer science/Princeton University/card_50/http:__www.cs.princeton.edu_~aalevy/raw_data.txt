@@ -1,0 +1,1 @@
+{"email": ["amit@amitlevy.com"], "image": ["/assets/images/me.png"], "research_blurb": ["My research centers around the idea that well designed secure systems "]}

@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://www.cs.uci.edu/faculty/spim.jpg"], "research_blurb": ["My research (see Two NSF grants for algorithm research"]}

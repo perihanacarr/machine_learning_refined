@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/elman%20howard.jpg?itok=fjZoxhbC", "site": "https://www.cs.umd.edu/people/helman", "title": "professor", "email": 0, "extra_strings": "howard elman"}

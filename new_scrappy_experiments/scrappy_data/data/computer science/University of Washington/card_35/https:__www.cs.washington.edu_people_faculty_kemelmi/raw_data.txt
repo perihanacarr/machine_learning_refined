@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://www.cs.washington.edu/images/bw_ampersand.png", "https://www.cs.washington.edu/images/CSEWordmark_white.svg", "https://s3-us-west-2.amazonaws.com/www-cse-public/images/portraits/kemelmi_sm.jpg"], "research_blurb": ["Computer vision, computer graphics, learning, augmented reality, virtual reality"]}

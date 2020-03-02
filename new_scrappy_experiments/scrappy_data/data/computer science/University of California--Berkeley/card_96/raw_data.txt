@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/stoica.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/OSNT", "title": "professor", "email": "istoica@eecs.berkeley.edu", "extra_strings": "ion stoica"}

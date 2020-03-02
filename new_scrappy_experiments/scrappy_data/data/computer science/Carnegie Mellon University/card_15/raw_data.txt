@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/adjunct-faculty/carol-frieze", "title": 0, "email": "cfrieze@cs.cmu.edu", "extra_strings": "director womenscs and scsall"}

@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/57b11fc19796008cfb7d1ee79b052ad3.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Medioni&fname=Gerard", "title": "professor emeritus", "email": "medioni@usc.edu", "extra_strings": "gerard medioni"}

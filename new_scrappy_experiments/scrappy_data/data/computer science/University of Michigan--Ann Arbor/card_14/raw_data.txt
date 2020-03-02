@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/bnoble.jpg", "site": "https://bnoble.engin.umich.edu/", "title": "professor", "email": "bnoble@umich.edu", "extra_strings": "brian noble"}

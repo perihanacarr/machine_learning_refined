@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/standish.jpg", "site": "http://www.ics.uci.edu/~standish", "title": "professor emeritus", "email": "%20standish@uci.edu", "extra_strings": "thomas standish"}

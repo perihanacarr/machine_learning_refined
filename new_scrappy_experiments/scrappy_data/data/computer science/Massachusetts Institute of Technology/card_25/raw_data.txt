@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Phillip_Isola.jpg", "site": "https://people.eecs.berkeley.edu/~isola/", "title": "assistant professor", "email": "phillipi@mit.edu", "extra_strings": "phillip isola"}

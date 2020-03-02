@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/4bf29f32fa31432c7a7001c7d2a92469.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Shen&fname=Wei-Min", "title": "associate professor", "email": "shen@isi.edu", "extra_strings": "wei-min shen"}

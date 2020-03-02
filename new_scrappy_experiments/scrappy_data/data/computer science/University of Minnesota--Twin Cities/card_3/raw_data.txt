@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_carl.jpg?itok=4aJd22TS", "site": "https://www.cs.umn.edu/people/carl-sturtivant", "title": 0, "email": "carl@umn.edu", "extra_strings": "keller -"}

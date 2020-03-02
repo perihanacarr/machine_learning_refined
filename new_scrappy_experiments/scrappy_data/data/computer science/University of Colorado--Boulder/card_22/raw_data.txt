@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/vu.jpg?itok=FvbSK3o0", "site": "https://www.colorado.edu/cs/tam-vu", "title": "assistant professor", "email": "Tam.Vu@Colorado.EDU", "extra_strings": "tam vu"}

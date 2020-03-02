@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/andrew-cut-2017.png?itok=n5yZztzj", "site": "https://web.cs.dartmouth.edu/people/andrew-thomas-campbell", "title": "professor", "email": "Andrew.T.Campbell@Dartmouth.edu", "extra_strings": "anew thomas campbell"}

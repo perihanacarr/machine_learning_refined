@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2633.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/sepehr-assadi", "title": "assistant professor", "email": "sa1497@rutgers.edu", "extra_strings": "sepehr assadi"}

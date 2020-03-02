@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/kruskal%20clyde.jpg?itok=A87Sk3Qb&c=5b1c9af8fe0d44ce02e596a99900d813", "site": "https://www.cs.umd.edu/people/ckruskal", "title": "associate professor", "email": 0, "extra_strings": "clyde kruskal"}

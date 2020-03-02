@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Ananth Grama</td><td>Samuel D. Conte Professor of Computer Science</td><td style=\"white-space: nowrap\"><phone>49-46964</phone></td><td style=\"white-space: nowrap\"><office>LWSN 3154F</office></td><td><a href=\"mailto:insolentdog@gmail.com\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/ayg/\">Bio</a></td></tr>"

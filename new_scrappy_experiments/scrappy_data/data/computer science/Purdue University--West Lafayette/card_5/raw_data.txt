@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/allebach/", "title": "professor", "email": "allebach@purdue.edu", "extra_strings": "jan allebach"}

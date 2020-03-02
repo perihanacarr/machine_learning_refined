@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb_basanti.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=272", "title": "assistant professor", "email": "obastani@seas.upenn.edu", "extra_strings": "osbert bastani"}

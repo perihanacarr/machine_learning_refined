@@ -1,0 +1,1 @@
+{"image": "/sites/g/files/bxs1251/f/cs_headshots/JoeWarren2017_0002Direct-500.jpg", "site": "https://csweb.rice.edu/joe-warren", "title": "professor", "email": 0, "extra_strings": "joe d warren"}

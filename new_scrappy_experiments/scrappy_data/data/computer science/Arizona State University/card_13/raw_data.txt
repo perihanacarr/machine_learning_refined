@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Doug-Montgomery.jpg", "site": "https://cidse.engineering.asu.edu/douglas-montgomery/", "title": "professor", "email": "doug.montgomery@asu.edu", "extra_strings": "douglas montgomery"}

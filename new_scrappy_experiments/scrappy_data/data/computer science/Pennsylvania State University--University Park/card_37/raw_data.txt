@@ -1,0 +1,1 @@
+{"image": "/dir/photos/MCDANIEL-PATRICK.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=PDM12", "title": 0, "email": "pdm12@psu.edu", "extra_strings": "patrick mcdaniel"}

@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Sandeep-Gupta.jpg", "site": "https://isearch.asu.edu/profile/313263", "title": "professor", "email": "sandeep.gupta@asu.edu", "extra_strings": "sandeep gupta"}

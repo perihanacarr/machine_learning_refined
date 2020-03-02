@@ -1,0 +1,1 @@
+{"image": "/sites/g/files/bxs1251/f/cs_headshots/AnastasiosKyrillidis-500x500.jpg", "site": "https://csweb.rice.edu/tasos-kyrillidis", "title": "assistant professor", "email": 0, "extra_strings": "anastasios kyrillidis"}

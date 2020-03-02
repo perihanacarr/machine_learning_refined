@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/mb.jpg?itok=DHwv7zLN&c=d2894cad34cac6e6e5499212c4b13b53", "site": "http://web.cse.ohio-state.edu/~mbelkin", "title": "professor", "email": "belkin.8@osu.edu", "extra_strings": "mikhail belkin"}

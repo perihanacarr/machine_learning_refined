@@ -1,0 +1,1 @@
+{"image": "https://www.cs.jhu.edu/wp-content/uploads/2013/10/david_y-180x245.jpg", "site": "https://www.cs.jhu.edu/faculty/david-yarowsky/", "title": "professor", "email": 0, "extra_strings": "david yarowsky"}

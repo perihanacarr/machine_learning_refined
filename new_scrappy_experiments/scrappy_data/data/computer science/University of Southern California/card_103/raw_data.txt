@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/9f6264c2b11e3d30f4232b4c160a9f3f.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Prasanna&fname=Viktor", "title": "professor", "email": "prasanna@usc.edu", "extra_strings": "viktor prasanna"}

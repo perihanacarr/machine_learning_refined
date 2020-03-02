@@ -1,0 +1,1 @@
+{"email": ["DII@FSE"], "image": ["https://engineering.asu.edu/wp-content/uploads/2017/12/Campaign_ASU_2020_FC.gif", "//www.asu.edu/asuthemes/4.8/assets/ASU-number-1-innovation-best-colleges.png"], "research_blurb": ["All data listed are from 21st day census unless otherwise indicated."]}

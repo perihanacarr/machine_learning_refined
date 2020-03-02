@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/weixu_photo.png?itok=SFuGNeIn&c=66af7f72c3c1c135a924fa5e18806415", "site": "https://cse.osu.edu/people/xu.1265", "title": "assistant professor", "email": "xu.1265@osu.edu", "extra_strings": "eese laboratories"}

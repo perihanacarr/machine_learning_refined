@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/Portrait.jpg?itok=P8p1ZLMp&c=5fe14ae5508bda92de2260a9a0436f2d", "site": "https://www.cs.umd.edu/research-area/machine-learning-and-data-science", "title": "assistant professor", "email": 0, "extra_strings": "furong huang"}

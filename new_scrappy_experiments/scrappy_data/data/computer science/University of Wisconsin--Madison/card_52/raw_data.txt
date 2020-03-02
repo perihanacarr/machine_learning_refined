@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/11/PoLingLoh-e1543333654623-150x150.png", "site": "http://homepages.cae.wisc.edu/~loh/", "title": "assistant professor", "email": "loh@ece.wisc.edu", "extra_strings": "po-ling loh"}

@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=66089&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/miforbes", "title": "assistant professor", "email": "miforbes@illinois.edu", "extra_strings": "michael a forbes"}

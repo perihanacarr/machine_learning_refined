@@ -1,0 +1,1 @@
+{"email": ["iyoon@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/Ilchul_portrait.jpeg?itok=a3fifha6"], "research_blurb": ["View Department Office Contacts"]}

@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/11/Joseph_Austerweil-240x300-e1543334183129-150x150.jpg", "site": "http://psych.wisc.edu/staff/austerweil-joe/", "title": "assistant professor", "email": "austerweil@wisc.edu", "extra_strings": "joseph austerweil"}

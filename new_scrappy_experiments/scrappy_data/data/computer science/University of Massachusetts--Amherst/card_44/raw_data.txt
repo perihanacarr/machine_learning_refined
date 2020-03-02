@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/domke-justin", "title": "assistant professor", "email": "domke@cs.umass.edu", "extra_strings": "justin domke"}

@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/cebee966da2ea40b621f753bc237b630.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Wilson&fname=John", "title": "professor", "email": "jpwilson@usc.edu", "extra_strings": "john wilson"}

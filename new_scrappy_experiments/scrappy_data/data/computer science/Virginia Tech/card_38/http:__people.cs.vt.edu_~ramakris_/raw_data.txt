@@ -1,0 +1,1 @@
+{"email": [], "image": ["stylefiles/spacer.gif"], "research_blurb": ["<ul>\n<il>Data science, applied machine learning, urban analytics.\n</il></ul>"]}

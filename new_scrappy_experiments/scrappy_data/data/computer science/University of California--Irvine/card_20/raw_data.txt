@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/goodrich.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=goodrich", "title": "professor", "email": "%20goodrich@ics.uci.edu", "extra_strings": "michael gooich"}

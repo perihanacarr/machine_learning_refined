@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=4970&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/marinov", "title": "professor", "email": "marinov@illinois.edu", "extra_strings": "darko marinov"}

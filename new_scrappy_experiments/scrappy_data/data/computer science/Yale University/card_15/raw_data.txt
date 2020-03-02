@@ -1,0 +1,1 @@
+{"image": 0, "site": "http://www.yale.edu/", "title": 0, "email": "nancy@yale.edu", "extra_strings": "privacy policy"}

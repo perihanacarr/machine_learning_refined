@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/vishkin%20uzi.jpg?itok=4ZuFP361&c=120a968910f844ae4e17fa21fbb542ea", "site": "https://www.cs.umd.edu/people/vishkin", "title": "professor", "email": 0, "extra_strings": "uzi vishkin"}

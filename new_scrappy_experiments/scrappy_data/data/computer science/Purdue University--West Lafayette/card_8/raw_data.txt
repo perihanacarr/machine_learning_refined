@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/apothen/", "title": "professor", "email": "apothen@purdue.edu", "extra_strings": "alex pothen"}

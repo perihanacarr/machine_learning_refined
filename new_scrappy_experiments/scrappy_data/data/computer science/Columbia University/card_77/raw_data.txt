@@ -1,0 +1,1 @@
+{"image": "http://www.cs.columbia.edu/wp-content/themes/columbia-cs/assets/img/www.png", "site": "http://www.cs.columbia.edu/~allen", "title": "professor", "email": "allen@cs.columbia.edu", "extra_strings": "peter kirby allen"}

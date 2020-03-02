@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/c8ec50c4b55d0eb8e046fc30333497d8.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Tambe&fname=Milind", "title": "adjunct professor", "email": "tambe@usc.edu", "extra_strings": "milind tambe"}

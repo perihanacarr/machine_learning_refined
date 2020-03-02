@@ -1,0 +1,1 @@
+{"email": ["devietti@cis.upenn.edu"], "image": ["images/photos/a-full-devietti.jpg "], "research_blurb": ["\nEmail | Research Webpage "]}

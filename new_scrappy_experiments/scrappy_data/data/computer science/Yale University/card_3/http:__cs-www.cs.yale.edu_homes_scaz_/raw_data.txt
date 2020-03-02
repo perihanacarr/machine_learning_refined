@@ -1,0 +1,1 @@
+{"email": ["scaz@cs.yale.edu"], "image": ["https://cpsc.yale.edu/people/images/Scassellati-web.gif", "https://cpsc.yale.edu/people/images/email-5pt.gif", "https://cpsc.yale.edu/people/images/name-5pt.gif", "https://cpsc.yale.edu/people/images/clear.gif"], "research_blurb": []}

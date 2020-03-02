@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/mahadev-satyanarayanan", "title": "professor", "email": "satya@cs.cmu.edu", "extra_strings": "mahadev satyanarayanan"}

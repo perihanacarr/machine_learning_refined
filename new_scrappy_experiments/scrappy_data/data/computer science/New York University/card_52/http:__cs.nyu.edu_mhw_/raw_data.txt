@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://cs.nyu.edu/dynamic/people/faculty/Picture3.jpg", "https://cs.nyu.edu/dynamic/people/faculty/medalpic.small.jpg", "https://cs.nyu.edu/dynamic/people/faculty/laxniren.small.jpg"], "research_blurb": ["Optimization, linear algebra, scientific computing,\n and their applications<br/>\n<br/>\n<center>\n<hr/> </center>"]}

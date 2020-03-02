@@ -1,0 +1,1 @@
+"<div class=\"span4 header-left\">\n<div class=\"logo-container\">\n<div class=\"top-strip decorator\"></div>\n<h1 class=\"logo\">\n<a href=\"https://engineering.jhu.edu\" target=\"_blank\">\n<img alt=\"Department of Computer Science\" src=\"https://www.cs.jhu.edu/wp-content/themes/wse/assets/images/wse-logo.png\"/>\n</a>\n</h1>\n</div>\n</div>"

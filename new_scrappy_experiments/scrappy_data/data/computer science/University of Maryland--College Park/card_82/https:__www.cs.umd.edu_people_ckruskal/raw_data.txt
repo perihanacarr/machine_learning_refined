@@ -1,0 +1,1 @@
+{"email": ["kruskal@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/kruskal%20clyde.jpg?itok=kxlLhdJO&c=b8eb856fe366729591f6971a168d9ef3"], "research_blurb": ["View Department Office Contacts"]}

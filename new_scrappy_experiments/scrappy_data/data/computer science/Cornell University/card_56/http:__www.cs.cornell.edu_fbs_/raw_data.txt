@@ -1,0 +1,1 @@
+{"email": ["fbs@cs.cornell.edu"], "image": ["fbs.jpg"], "research_blurb": ["brief biography", "My research is intended to support the construction of concurrent and distributed systems for high-integrity and mission-critical settings. Fault-tolerance and security are critical in such settings."]}

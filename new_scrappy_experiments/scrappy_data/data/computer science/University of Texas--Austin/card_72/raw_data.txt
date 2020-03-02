@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/myers_margaret.jpg?itok=4id-eMIp", "site": "https://www.cs.utexas.edu/research/areas/formal-methods", "title": 0, "email": 0, "extra_strings": "margaret myers"}

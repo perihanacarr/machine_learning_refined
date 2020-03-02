@@ -1,0 +1,1 @@
+{"email": ["crawfis.3@osu.edu"], "image": ["https://cse.osu.edu/sites/default/files/custom/cse-title.png", "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/crawfis.3.jpg?itok=QZ15bXOz", "https://cse.osu.edu/profiles/osu/themes/osu_omega19/images/branding-angle.svg"], "research_blurb": ["Lumley Award for outstanding research and teaching"]}

@@ -1,0 +1,1 @@
+{"email": ["sergio.gago@uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["Pervasive Computing<br/>User-centric Software Design<br/>Human Computer Interaction<br/>Serious Games\n<br/><h3>RESEARCH INTERESTS:</h3> <br/>"]}

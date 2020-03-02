@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/10/eric1a-e1540329832532-150x150.jpg", "site": "https://www.cs.wisc.edu/staff/bach-eric/", "title": "professor", "email": "bach@cs.wisc.edu", "extra_strings": "eric bach"}

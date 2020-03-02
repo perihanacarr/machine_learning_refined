@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/adamsmda.jpg", "site": 0, "title": 0, "email": "adamsmda@umich.edu", "extra_strings": "michael adams"}

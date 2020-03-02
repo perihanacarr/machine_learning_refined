@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/c4/cf/c4cf607d-84e5-445f-b06e-2913f4cedd20/pavlick_09.jpg__60x80_q85_subsampling-2.jpg 53w", "site": "https://cs.brown.edu/people/faculty/epavlick/", "title": "assistant professor", "email": 0, "extra_strings": "ellie pavlick"}

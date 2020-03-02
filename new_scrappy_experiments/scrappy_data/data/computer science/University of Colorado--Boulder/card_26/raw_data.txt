@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/newpic_squared_1000.jpg?itok=yPSQFq47", "site": "https://www.colorado.edu/cs/alessandro-roncone", "title": "assistant professor", "email": "alessandro.roncone@colorado.edu", "extra_strings": "alessano roncone"}

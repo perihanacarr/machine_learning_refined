@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/ashurafa-nabil-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/ashurafa-nabil.html", "title": "assistant professor", "email": "nabil@northwestern.edu", "extra_strings": "nabil alshurafa"}

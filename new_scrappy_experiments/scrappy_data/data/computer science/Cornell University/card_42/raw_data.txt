@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/Kozen%2C%20Dexter.jpg?itok=zQ9cv7Ht", "site": "http://www.cs.cornell.edu/~kozen/", "title": "professor", "email": 0, "extra_strings": "cornell univ "}

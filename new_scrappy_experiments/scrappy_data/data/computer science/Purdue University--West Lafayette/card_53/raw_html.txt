@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Hongjune Kim</td><td>Visiting Scholar</td><td style=\"white-space: nowrap\"><phone></phone></td><td style=\"white-space: nowrap\"><office>LWSN 3154B </office></td><td><a href=\"mailto:kim3295@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/kim3295/\">Bio</a></td></tr>"

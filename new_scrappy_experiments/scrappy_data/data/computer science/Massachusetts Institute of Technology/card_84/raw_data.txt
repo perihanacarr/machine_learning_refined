@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/grodzinsky_0.jpg", "site": "https://web.mit.edu/continuum/www/", "title": "professor", "email": "alg@mit.edu", "extra_strings": "alan grodzinsky"}

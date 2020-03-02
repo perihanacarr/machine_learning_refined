@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/thomas-philip", "title": "assistant professor", "email": "pthomas@cs.umass.edu", "extra_strings": "philip thomas"}

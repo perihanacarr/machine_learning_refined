@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/zcelik/", "title": "assistant professor", "email": "zcelik@purdue.edu", "extra_strings": "berkay celik"}

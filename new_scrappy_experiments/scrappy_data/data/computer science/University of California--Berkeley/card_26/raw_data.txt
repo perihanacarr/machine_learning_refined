@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/denero.jpg", "site": "https://www2.eecs.berkeley.edu/Research/Areas/AI", "title": "professor", "email": "denero@berkeley.edu", "extra_strings": "john denero"}

@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/sangtaeha_pic.jpg?itok=GCMwfsFl", "site": "https://www.colorado.edu/cs/sangtae-ha", "title": "assistant professor", "email": "Sangtae.Ha@Colorado.EDU", "extra_strings": "sangtae ha"}

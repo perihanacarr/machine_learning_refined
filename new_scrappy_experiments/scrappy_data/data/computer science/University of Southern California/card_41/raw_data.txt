@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/f834b7bb949fac23890dede52dd725e3.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Sukhatme&fname=Gaurav", "title": "professor", "email": "gaurav@usc.edu", "extra_strings": "gaurav suhas sukhatme"}

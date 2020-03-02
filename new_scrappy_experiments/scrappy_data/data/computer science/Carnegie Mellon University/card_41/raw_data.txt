@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/vipul-goyal", "title": "associate professor", "email": "goyal@cs.cmu.edu", "extra_strings": "vipul goyal"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://engineering.virginia.edu/faculty/paul-will-mcburney", "title": "assistant professor", "email": "pm8fc@virginia.edu", "extra_strings": "paul \"will\" mcburney"}

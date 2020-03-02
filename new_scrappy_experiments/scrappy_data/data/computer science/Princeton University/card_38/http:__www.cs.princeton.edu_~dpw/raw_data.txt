@@ -1,0 +1,1 @@
+{"email": ["ckenny@cs.princeton.edu"], "image": ["david-walker.jpg"], "research_blurb": ["\u00a0", ":\n          Princeton's research seminar on programming languages and compiler\n          technology"]}

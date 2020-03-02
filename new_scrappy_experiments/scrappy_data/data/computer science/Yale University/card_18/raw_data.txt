@@ -1,0 +1,1 @@
+{"image": "https://cpsc.yale.edu/sites/default/files/styles/people_thumbnail/public/pictures/picture-105-1380640989.jpg?itok=n81LHs2c", "site": "http://www.cs.yale.edu/homes/piskac/", "title": "associate professor", "email": "ruzica.piskac@yale.edu", "extra_strings": "ruzica piskac"}

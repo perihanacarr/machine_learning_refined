@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/_mg_7962.jpg?itok=YVvouMrt", "site": "https://web.cs.dartmouth.edu/people/wojciech-jarosz", "title": "assistant professor", "email": "Wojciech.K.Jarosz@Dartmouth.edu", "extra_strings": "wojciech jarosz"}

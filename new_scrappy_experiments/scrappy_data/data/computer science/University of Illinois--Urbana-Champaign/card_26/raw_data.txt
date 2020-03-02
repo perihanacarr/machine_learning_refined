@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=44443&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/hs1", "title": "associate professor", "email": "hs1@illinois.edu", "extra_strings": "hari sundaram"}

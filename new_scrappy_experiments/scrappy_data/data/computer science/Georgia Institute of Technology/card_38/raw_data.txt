@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/vlad.jpg?itok=sSSk_ZAE", "site": "https://www.scs.gatech.edu/people/vladimir-kolesnikov", "title": "associate professor", "email": "kolesnikov@gatech.edu", "extra_strings": "vladimir kolesnikov"}

@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/cbudak.jpg", "site": "http://cbudak.com/index.html", "title": "assistant professor", "email": "cbudak@umich.edu", "extra_strings": "ceren budak"}

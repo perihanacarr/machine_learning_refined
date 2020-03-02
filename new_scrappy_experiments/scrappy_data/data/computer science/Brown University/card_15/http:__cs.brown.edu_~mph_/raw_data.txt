@@ -1,0 +1,1 @@
+{"email": ["mph@cs.brown.edu"], "image": ["technion%20001.JPG"], "research_blurb": [""]}

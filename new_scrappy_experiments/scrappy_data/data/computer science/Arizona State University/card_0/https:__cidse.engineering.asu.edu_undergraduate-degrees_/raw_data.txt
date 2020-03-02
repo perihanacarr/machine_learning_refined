@@ -1,0 +1,1 @@
+{"email": [], "image": ["//www.asu.edu/asuthemes/4.8/assets/ASU-number-1-innovation-best-colleges.png"], "research_blurb": ["Turn your passion for robotics and programming into a bachelor\u2019s degree."]}

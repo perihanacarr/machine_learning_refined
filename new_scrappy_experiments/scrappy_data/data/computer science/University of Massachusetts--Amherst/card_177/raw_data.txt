@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/shenoy_prashant", "title": "professor", "email": "shenoy@cs.umass.edu", "extra_strings": "prashant shenoy"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_heimdahl.jpg?itok=3n4zSMM2", "site": "http://www-users.cs.umn.edu/~heimdahl", "title": 0, "email": "heimdahl@umn.edu", "extra_strings": "mats heimdahl"}

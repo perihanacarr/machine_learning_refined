@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/sjarecki.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=sjarecki", "title": "professor", "email": "%20stasio@ics.uci.edu", "extra_strings": "stanislaw jarecki"}

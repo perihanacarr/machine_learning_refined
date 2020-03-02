@@ -1,0 +1,1 @@
+{"image": "/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2488&thumb=", "site": "https://www.cs.princeton.edu/people/profile/lumbroso", "title": 0, "email": 0, "extra_strings": "jrmie lumbroso"}

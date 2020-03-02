@@ -1,0 +1,1 @@
+"<strong class=\"logo-print\">\n<img alt=\"Department of Computing + Mathematical Sciences\" height=\"61\" src=\"http://cloudfront.eas.caltech.edu/eas_division_and_department_assets/body/dept-cms.png\" width=\"461\"/>\n</strong>"

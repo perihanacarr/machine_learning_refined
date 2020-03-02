@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/hjgarcia.jpg", "site": "https://hjgarcia.engin.umich.edu/", "title": 0, "email": "hjgarcia@umich.edu", "extra_strings": "hector garcia-ramirez"}

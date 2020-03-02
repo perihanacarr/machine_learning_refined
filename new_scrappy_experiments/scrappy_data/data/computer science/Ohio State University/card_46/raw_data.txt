@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/xuan.3.jpg?itok=7kbR8IRd", "site": "https://cse.osu.edu/people/xuan.3", "title": "professor", "email": "xuan.3@osu.edu", "extra_strings": "eese laboratories"}

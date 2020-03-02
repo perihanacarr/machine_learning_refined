@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/xia2012-crop_0.jpg?itok=8qgRK8Aq", "site": "https://web.cs.dartmouth.edu/people/xia-zhou", "title": "associate professor", "email": "Xia.Zhou@Dartmouth.edu", "extra_strings": "xia zhou"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/rosenberg_arnold", "title": "professor emeritus", "email": "rsnbrg@cs.umass.edu", "extra_strings": "arnold l rosenberg"}

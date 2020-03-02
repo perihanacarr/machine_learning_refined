@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/wiensj.jpg", "site": "http://web.eecs.umich.edu/~wiensj/", "title": "associate professor", "email": "wiensj@umich.edu", "extra_strings": "jenna wiens"}

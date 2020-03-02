@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/0017e439b94f062c8bde362638650a18.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Hill&fname=Randall", "title": "professor", "email": "hill@ict.usc.edu", "extra_strings": "randall hill"}

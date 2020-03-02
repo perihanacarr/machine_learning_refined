@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/matsmith.jpg", "site": 0, "title": "assistant professor", "email": "matsmith@umich.edu", "extra_strings": "matthew smith"}

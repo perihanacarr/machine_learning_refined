@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/Snavely%2C%20Noah.jpg?itok=1TJ4W9gT", "site": "http://www.cs.cornell.edu/~snavely/", "title": "associate professor", "email": 0, "extra_strings": "univ of washington "}

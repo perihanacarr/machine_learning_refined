@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/affiliated/rubenstein-michael1-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rubenstein-michael.html", "title": "assistant professor", "email": "rubenstein@northwestern.edu", "extra_strings": "michael rubenstein"}

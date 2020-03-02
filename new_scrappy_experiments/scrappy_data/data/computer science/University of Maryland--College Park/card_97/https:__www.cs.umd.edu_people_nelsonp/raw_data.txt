@@ -1,0 +1,1 @@
+{"email": ["nelson@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/nelson%20paduaperez.png?itok=f9LHHdQX&c=faab849a0c0dedc7cc3e2a7a9df6e829"], "research_blurb": ["View Department Office Contacts"]}

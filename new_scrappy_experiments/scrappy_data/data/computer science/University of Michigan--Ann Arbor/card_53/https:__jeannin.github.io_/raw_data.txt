@@ -1,0 +1,1 @@
+{"email": [], "image": ["jbjeannin.jpg"], "research_blurb": ["<ul>\n Verification of cyber-physical systems, in particular aerospace applications\n Logics and semantics of programming languages\n Programming with coinductive types\n</ul>"]}

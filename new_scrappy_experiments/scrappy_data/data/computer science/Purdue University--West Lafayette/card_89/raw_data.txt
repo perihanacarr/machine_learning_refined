@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/sameh/", "title": "professor emeritus", "email": "sameh@purdue.edu", "extra_strings": "ahmed sameh"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/suresh/", "title": "professor", "email": "sjaganna@purdue.edu", "extra_strings": "suresh jagannathan"}

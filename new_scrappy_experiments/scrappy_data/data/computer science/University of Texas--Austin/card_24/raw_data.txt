@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/cline_alan_0.jpg?itok=9UTVICIm", "site": "https://www.cs.utexas.edu/people/faculty-researchers/alan-cline", "title": "professor emeritus", "email": 0, "extra_strings": "scientific computing"}

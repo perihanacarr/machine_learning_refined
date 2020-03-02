@@ -1,0 +1,1 @@
+{"image": "http://www.cs.duke.edu/images/pic-fac/nikos.jpg", "site": "https://www.cs.duke.edu/people/faculty/47", "title": 0, "email": 0, "extra_strings": "nikos pitsianis"}

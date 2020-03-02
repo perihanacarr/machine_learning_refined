@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_cmyers.jpg?itok=B96wFsRa", "site": "http://www-users.cs.umn.edu/~cmyers/", "title": 0, "email": "chadm@umn.edu", "extra_strings": "mcb -"}

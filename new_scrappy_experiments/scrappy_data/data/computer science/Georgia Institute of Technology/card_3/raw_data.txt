@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/_mg_8083.jpg?itok=JYzteloV", "site": "https://www.scs.gatech.edu/people/alexandros-daglis", "title": "assistant professor", "email": "alexandros.daglis@cc.gatech.edu", "extra_strings": "alexanos daglis"}

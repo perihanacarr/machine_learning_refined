@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://scholar.google.com/citations?user=xum8Ti0AAAAJ&hl=en", "title": "assistant professor", "email": "panaga@virginia.edu", "extra_strings": "panagiotis apostolellis"}

@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/0a/40/0a409f5d-bfa2-4de8-956e-661714bf545e/dan-hs.jpg__60x80_q85_subsampling-2.jpg 60w", "site": "https://cs.brown.edu/people/faculty/dpotter/", "title": "associate professor", "email": 0, "extra_strings": "daniel f potter"}

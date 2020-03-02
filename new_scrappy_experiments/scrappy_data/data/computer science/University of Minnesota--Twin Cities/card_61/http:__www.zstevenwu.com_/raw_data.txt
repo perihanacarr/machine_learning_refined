@@ -1,0 +1,1 @@
+{"email": [], "image": ["images/ZSW.jpg"], "research_blurb": [", I spent a year as a post-doctoral\n          researcher\n          at \n\n      \t  My research has been generously supported by\n                the ", "Facebook Mechanism Design for Social Good research award", "Spring 2020", "Program Committee Member", "Nov 2019"]}

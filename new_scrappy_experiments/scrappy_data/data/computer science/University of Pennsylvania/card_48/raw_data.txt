@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb-krakowsky.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=274", "title": 0, "email": "lbrandon@wharton.upenn.edu", "extra_strings": "brandon krakowsky"}

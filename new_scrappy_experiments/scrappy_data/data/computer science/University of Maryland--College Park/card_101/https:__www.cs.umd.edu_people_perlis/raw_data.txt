@@ -1,0 +1,1 @@
+{"email": ["perlis@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/perlis%20don.jpg?itok=lvLkxpOM&c=f32a7f5dcd6fd400a48f1865fb46d82d", "https://www.cs.umd.edu/sites/default/files/styles/40px_icon/public/default_images/user_icon.png?itok=63eCRzxf"], "research_blurb": ["View Department Office Contacts"]}

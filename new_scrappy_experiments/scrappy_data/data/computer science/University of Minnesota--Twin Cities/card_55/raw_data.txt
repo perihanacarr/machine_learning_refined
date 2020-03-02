@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_jon.jpg?itok=nroIpZgT", "site": "http://experts.umn.edu/en/persons/jon-b-weissman%28d47edb87-a599-4222-9473-6ded0b485659%29.html", "title": 0, "email": "weiss039@umn.edu", "extra_strings": "jon weissman"}

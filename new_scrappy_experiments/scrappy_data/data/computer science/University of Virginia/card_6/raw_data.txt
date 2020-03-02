@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.michaelalbert.co/", "title": "assistant professor", "email": "albertm@darden.virginia.edu", "extra_strings": "michael albert"}

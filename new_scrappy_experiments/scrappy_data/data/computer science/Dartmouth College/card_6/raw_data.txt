@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/736_original.jpg?itok=5icVpPwl", "site": "https://web.cs.dartmouth.edu/people/ryan-halter", "title": "assistant professor", "email": "Ryan.J.Halter@Dartmouth.edu", "extra_strings": "ryan halter"}

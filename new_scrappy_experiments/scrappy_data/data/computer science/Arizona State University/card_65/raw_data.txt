@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2019/02/Ted-Pavlic-w.jpg", "site": "http://www.tedpavlic.com/", "title": "assistant professor", "email": "tpavlic@asu.edu", "extra_strings": "ted pavlic"}

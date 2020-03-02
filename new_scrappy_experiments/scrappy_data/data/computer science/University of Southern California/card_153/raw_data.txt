@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/5c5ebb1e5b1caf7b61aab261ed559c54.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Ren&fname=Xiang", "title": "assistant professor", "email": "xiangren@usc.edu", "extra_strings": "sean xiang ren"}

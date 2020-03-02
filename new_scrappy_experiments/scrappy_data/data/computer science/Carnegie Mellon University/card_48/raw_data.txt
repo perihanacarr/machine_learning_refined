@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/technical-faculty/iliano-cervesato", "title": "professor", "email": "iliano@andrew.cmu.edu", "extra_strings": "iliano cervesato"}

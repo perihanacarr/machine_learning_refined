@@ -1,0 +1,1 @@
+{"email": ["hweather@cs.cornell.edu"], "image": ["./images/hakim_ithacafalls.jpg"], "research_blurb": ["Contact"]}

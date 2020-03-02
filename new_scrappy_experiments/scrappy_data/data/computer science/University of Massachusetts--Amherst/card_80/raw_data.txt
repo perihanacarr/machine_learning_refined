@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/immerman_neil", "title": "professor", "email": "immerman@cs.umass.edu", "extra_strings": "neil immerman"}

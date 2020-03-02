@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/ganesan_deepak", "title": "professor", "email": "dganesan@cs.umass.edu", "extra_strings": "deepak k ganesan"}

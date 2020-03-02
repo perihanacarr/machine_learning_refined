@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/Klukowska_16-0015_0533_250x250.jpg", "site": "http://cs.nyu.edu/~joannakl/", "title": "assistant professor", "email": 0, "extra_strings": "joanna klukowska"}

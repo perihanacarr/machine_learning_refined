@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=41958&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/ranjitha", "title": "assistant professor", "email": "ranjitha@illinois.edu", "extra_strings": "ranjitha kumar"}

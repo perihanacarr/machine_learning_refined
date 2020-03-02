@@ -1,0 +1,1 @@
+{"email": ["mylastname@princeton.edu"], "image": [], "research_blurb": ["An interesting read for everyone thinking about computational linguistic research"]}

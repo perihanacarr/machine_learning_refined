@@ -1,0 +1,1 @@
+{"email": ["ltw@cs.vt.edu"], "image": ["Watson.gif"], "research_blurb": ["bioinformatics", "N. Ramakrishnan, S. Tadepalli, L. T. Watson, R. F. Helm, M. Antoniotti,\nand B. Mishra, \"Reverse engineering dynamic temporal models of biological\nprocesses and their relationships\", ", "bioinformatics"]}

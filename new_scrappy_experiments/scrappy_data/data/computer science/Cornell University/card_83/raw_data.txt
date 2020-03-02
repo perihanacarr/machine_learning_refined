@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/christina.jpg?itok=oe-YuVlZ", "site": "https://people.orie.cornell.edu/cleeyu/", "title": "assistant professor", "email": 0, "extra_strings": "christina lee yu"}

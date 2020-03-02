@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Huttenlocher-Square.jpg", "site": "https://web.mit.edu/hutt/www/", "title": "professor", "email": "huttenlocher@mit.edu", "extra_strings": "daniel huttenlocher"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.cornell.edu/sites/default/files/styles/icon-100x100/public/ju_wendy_edited-1.jpg?itok=ydLQc9Oz", "site": "http://www.wendyju.com/", "title": "assistant professor", "email": 0, "extra_strings": "wendy ju"}

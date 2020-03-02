@@ -1,0 +1,1 @@
+{"image": "/sites/cs.ucsb.edu/themes/cs_subtheme/css/images/home.png", "site": "https://cs.ucsb.edu/people/faculty/gibou", "title": "professor", "email": "fgibou@engineering.ucsb.edu", "extra_strings": "frederic g gibou"}

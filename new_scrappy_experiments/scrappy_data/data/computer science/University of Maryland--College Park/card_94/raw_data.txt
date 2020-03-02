@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/mohammad%20%281%20of%201%29.jpg?itok=UN1ThZau&c=9b345bc26c15999e6aab497aa218f8e6", "site": "https://www.cs.umd.edu/research-area/databases-and-big-data", "title": "professor", "email": 0, "extra_strings": "mohammad hajiaghayi"}

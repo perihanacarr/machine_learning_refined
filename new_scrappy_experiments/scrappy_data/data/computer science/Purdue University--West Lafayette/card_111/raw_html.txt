@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Xiangyu Zhang</td><td>Professor</td><td style=\"white-space: nowrap\"><phone>49-69415</phone></td><td style=\"white-space: nowrap\"><office>LWSN 3154K</office></td><td><a href=\"mailto:xyzhang@cs.purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/xyzhang/\">Bio</a></td></tr>"

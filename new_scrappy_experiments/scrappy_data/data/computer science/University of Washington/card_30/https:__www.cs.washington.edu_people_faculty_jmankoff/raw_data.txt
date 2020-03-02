@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://www.cs.washington.edu/images/bw_ampersand.png", "https://s3-us-west-2.amazonaws.com/www-cse-public/images/portraits/jmankoff_sm.jpg", "https://www.cs.washington.edu/images/CSEWordmark_white.svg"], "research_blurb": ["Human-computer interaction, accessibility, 3D printing of custom assistive technologies"]}

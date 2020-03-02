@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/Siegel_16-0015_0819_250x250.jpg", "site": "http://cs.nyu.edu/cs/faculty/siegel/", "title": "associate professor", "email": 0, "extra_strings": "ext -"}

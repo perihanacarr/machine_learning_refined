@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/ellen_zegura_img_1205_0.jpg?itok=6VI6dLMk", "site": "https://www.scs.gatech.edu/people/ellen-zegura", "title": "professor", "email": "ewz@cc.gatech.edu", "extra_strings": "ellen zegura"}

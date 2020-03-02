@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/wang_rui", "title": "associate professor", "email": "ruiwang@cs.umass.edu", "extra_strings": "rui wang"}

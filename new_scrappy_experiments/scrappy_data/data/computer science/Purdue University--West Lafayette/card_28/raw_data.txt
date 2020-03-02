@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/dgoldwas/", "title": "assistant professor", "email": "dgoldwas@purdue.edu", "extra_strings": "lwsn a"}

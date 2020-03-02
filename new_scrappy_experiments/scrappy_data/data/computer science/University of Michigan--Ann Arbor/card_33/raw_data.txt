@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/ematkins.jpg", "site": "https://aero.engin.umich.edu/people/ella-atkins/", "title": "professor", "email": "ematkins@umich.edu", "extra_strings": "ella atkins"}

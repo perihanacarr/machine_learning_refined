@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/people/just-ren", "title": "assistant professor", "email": "rjust@cs.umass.edu", "extra_strings": "ren just"}

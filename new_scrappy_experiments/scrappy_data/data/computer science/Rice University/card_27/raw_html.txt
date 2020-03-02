@@ -1,0 +1,1 @@
+"<div class=\"col-3\">\n<img alt=\"Nathan Dautenhahn\" src=\"/sites/g/files/bxs1251/f/cs_headshots/NathanD.jpg\"/><h4>\n<a href=\"https://csweb.rice.edu/nathan-dautenhahn\">Nathan Dautenhahn</a></h4>\n<p>Assistant Professor of Computer Science</p>\n</div>"

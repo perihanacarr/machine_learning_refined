@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/vs-head-4.jpg?itok=MGt7AoZP", "site": "https://www.cs.umd.edu/research-area/human-computer-interaction", "title": 0, "email": 0, "extra_strings": "vibha sazawal"}

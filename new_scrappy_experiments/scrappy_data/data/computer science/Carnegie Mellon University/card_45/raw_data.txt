@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/research-faculty/howard-wactlar", "title": 0, "email": "hdw@cs.cmu.edu", "extra_strings": "howard wactlar"}

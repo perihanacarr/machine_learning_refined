@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb-Jiang.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=232", "title": "assistant professor", "email": "cffjiang@seas.upenn.edu", "extra_strings": "chenfanfu jiang"}

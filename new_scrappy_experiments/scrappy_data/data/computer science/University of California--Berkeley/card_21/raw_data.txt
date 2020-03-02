@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/colella.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/colella.html", "title": "professor", "email": "pcolella@lbl.gov", "extra_strings": "phillip colella"}

@@ -1,0 +1,1 @@
+{"email": [], "image": ["images/Lenny_2017.jpg"], "research_blurb": ["\nTry bioinformatics.cs.vt.edu to Access Local Resources\n"]}

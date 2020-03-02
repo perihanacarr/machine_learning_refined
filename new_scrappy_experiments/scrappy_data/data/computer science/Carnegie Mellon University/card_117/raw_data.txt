@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/vyas-sekar", "title": "assistant professor", "email": "vyass@cs.cmu.edu", "extra_strings": "vyas sekar"}

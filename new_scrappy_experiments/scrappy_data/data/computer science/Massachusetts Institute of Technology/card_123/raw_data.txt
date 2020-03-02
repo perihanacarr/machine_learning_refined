@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/micali_0.jpg", "site": "https://www.csail.mit.edu/user/994", "title": "professor", "email": "silvio@csail.mit.edu", "extra_strings": "silvio micali"}

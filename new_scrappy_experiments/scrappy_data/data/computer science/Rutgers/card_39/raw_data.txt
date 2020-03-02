@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2690.jpeg", "site": "https://www.cs.rutgers.edu/people/professors/details/pranjal-awasthi", "title": "assistant professor", "email": "pranjal.awasthi@rutgers.edu", "extra_strings": "pranjal awasthi"}

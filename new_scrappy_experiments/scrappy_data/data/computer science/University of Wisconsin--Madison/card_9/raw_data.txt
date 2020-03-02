@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/11/NigelBoston-e1542051991636-150x150.png", "site": "http://www.math.wisc.edu/~boston/", "title": "professor", "email": "boston@cs.wisc.edu", "extra_strings": "nigel boston"}

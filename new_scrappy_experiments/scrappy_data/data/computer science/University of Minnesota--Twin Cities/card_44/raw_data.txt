@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_shekhar.jpg?itok=oT4xJv6p", "site": "https://www.cs.umn.edu/people/shashi-shekhar", "title": 0, "email": "shekhar@umn.edu", "extra_strings": "shashi shekhar"}

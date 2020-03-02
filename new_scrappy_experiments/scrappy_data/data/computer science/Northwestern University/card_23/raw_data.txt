@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/makarychev-konstantin-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/makarychev-konstantin.html", "title": "associate professor", "email": "konstantin@northwestern.edu", "extra_strings": "konstantin makarychev"}

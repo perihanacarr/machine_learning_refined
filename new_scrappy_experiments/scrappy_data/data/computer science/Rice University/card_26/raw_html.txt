@@ -1,0 +1,1 @@
+"<div class=\"col-3\">\n<img alt=\"Moshe Y. Vardi\" src=\"/sites/g/files/bxs1251/f/cs_headshots/MosheVardi-500.jpg\"/><h4>\n<a href=\"/moshe-vardi\">Moshe Y. Vardi</a></h4>\n<p>Karen Ostrum George Distinguished Service Professor in Computational Engineering; University Professor</p>\n</div>"

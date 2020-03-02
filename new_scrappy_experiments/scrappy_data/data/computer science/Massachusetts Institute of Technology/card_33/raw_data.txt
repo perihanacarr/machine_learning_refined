@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Shun_headshot.jpg", "site": "https://people.csail.mit.edu/jshun/", "title": "assistant professor", "email": "jshun@mit.edu  ", "extra_strings": "julian shun"}

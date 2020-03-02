@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/nathan_lindzey_0.jpeg?itok=jPJD3V4c", "site": "https://www.colorado.edu/cs/nathan-lindzey-0", "title": 0, "email": "Nathan.Lindzey@Colorado.EDU", "extra_strings": "nathan lindzey"}

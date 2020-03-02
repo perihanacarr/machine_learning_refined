@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/atkins.jpg", "site": 0, "title": "professor emeritus", "email": "atkins@umich.edu", "extra_strings": "daniel atkins"}

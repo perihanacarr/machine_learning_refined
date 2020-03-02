@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cs.purdue.edu/people/faculty/patrick/", "title": "professor", "email": "patrick@purdue.edu", "extra_strings": "patrick wolfe"}

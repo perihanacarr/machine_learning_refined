@@ -1,0 +1,1 @@
+{"image": "https://cidse.engineering.asu.edu/wp-content/uploads/2018/05/Kevin-A-Gary.jpg", "site": "https://cidse.engineering.asu.edu/kevin-gary/", "title": "associate professor", "email": "kgary@asu.edu", "extra_strings": "kevin gary"}

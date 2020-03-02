@@ -1,0 +1,1 @@
+"<div class=\"col-3\">\n<img alt=\"Vaibhav Unkelkar\" src=\"/sites/g/files/bxs1251/f/unhelkar1.jpg\"/><h4>\n<a href=\"/vaibhav-unhelkar\">Vaibhav Unhelkar</a></h4>\n<p>Assistant Professor of Computer Science (starting Fall of 2020)</p>\n</div>"

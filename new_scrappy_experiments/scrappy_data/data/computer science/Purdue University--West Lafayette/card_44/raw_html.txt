@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Hemanta Maji</td><td>Assistant Professor</td><td style=\"white-space: nowrap\"><phone>49-46184</phone></td><td style=\"white-space: nowrap\"><office>LWSN 1177</office></td><td><a href=\"mailto:hmaji@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/hmaji/\">Bio</a></td></tr>"

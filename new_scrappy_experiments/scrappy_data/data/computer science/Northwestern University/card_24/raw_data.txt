@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/birnbaum-larry-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/birnbaum-larry.html", "title": "professor", "email": "l-birnbaum@northwestern.edu", "extra_strings": "larry birnbaum"}

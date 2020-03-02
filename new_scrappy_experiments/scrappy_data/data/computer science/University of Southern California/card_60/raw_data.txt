@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/30b5b9b45a76a9376f063b931333764d.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Itti&fname=Laurent", "title": "professor", "email": "itti@pollux.usc.edu", "extra_strings": "laurent itti"}

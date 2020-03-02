@@ -1,0 +1,1 @@
+{"email": ["strik@cs.wisc.edu"], "image": ["file:///P|/publications/pubs/public/html/pictures/facstaff/strikwerda-medium.jpg"], "research_blurb": []}

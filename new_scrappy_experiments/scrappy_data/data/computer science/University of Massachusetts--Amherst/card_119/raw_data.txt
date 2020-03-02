@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/osterweil_leon", "title": "professor emeritus", "email": "ljo@cs.umass.edu", "extra_strings": "leon j osterweil"}

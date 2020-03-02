@@ -1,0 +1,1 @@
+{"image": "https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_listing/public/EmilyWhiting_SagradaFamiliaWindows.jpg?itok=AyRLQ0T7", "site": "https://web.cs.dartmouth.edu/people/emily-whiting", "title": "assistant professor", "email": "Emily.JW.Whiting@Dartmouth.edu", "extra_strings": "emily whiting"}

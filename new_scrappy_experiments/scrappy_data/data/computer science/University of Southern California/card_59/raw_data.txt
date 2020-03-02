@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/a40556665c9c72825008ce6fb99483ba.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Huang&fname=Ming-Deh", "title": "professor", "email": "huang@pollux.usc.edu", "extra_strings": "ming-deh huang"}

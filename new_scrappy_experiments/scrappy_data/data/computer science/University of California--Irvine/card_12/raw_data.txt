@@ -1,0 +1,1 @@
+{"image": "//www.ics.uci.edu/bin/img/photos/faculty/dutt.jpg", "site": "http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=dutt", "title": "professor", "email": "%20dutt@ics.uci.edu", "extra_strings": "nikil dutt"}

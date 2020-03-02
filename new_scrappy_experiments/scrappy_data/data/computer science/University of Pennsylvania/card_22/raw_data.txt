@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb-yoo.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=173", "title": "professor", "email": "csyoo@law.upenn.edu", "extra_strings": "christopher s yoo"}

@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://www.cs.cornell.edu/people/stuff/shmatikov.jpg", "https://www.cs.cornell.edu/people/stuff/interests-bw.png"], "research_blurb": ["\n      email: \n      shmat at cs.cornell.edu\n      ", " \n     -- P.G.Wodehouse, \"The Old Reliable\"\n     "]}

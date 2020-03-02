@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://www.cs.washington.edu/images/bw_ampersand.png", "http://yintat.com/img/2011_photo.jpg", "https://s3-us-west-2.amazonaws.com/www-cse-public/images/portraits/yintat_sm.jpg", "https://www.cs.washington.edu/images/CSEWordmark_white.svg"], "research_blurb": ["Algorithms, convex optimization, convex geometry, spectral graph theory"]}

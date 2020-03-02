@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/11/Wood_David.jpg", "site": "http://pages.cs.wisc.edu/~david/", "title": 0, "email": "david@cs.wisc.edu", "extra_strings": "david wood"}

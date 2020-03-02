@@ -1,0 +1,1 @@
+{"email": ["netlab@caltech.edu"], "image": ["/assets/images/eas-allcaps-oneliner-white-77aceb70698123c449777c89cca18646.png"], "research_blurb": ["Loading.."]}

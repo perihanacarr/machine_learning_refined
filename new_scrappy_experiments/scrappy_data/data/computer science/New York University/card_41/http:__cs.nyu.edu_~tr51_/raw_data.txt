@@ -1,0 +1,1 @@
+{"email": ["cerve@cs.nyu.edu", "webmaster@cs.nyu.edu"], "image": ["rappaport_web.JPG", "https://cs.nyu.edu/dynamic/people/faculty/graphics/poly.gif", "https://cs.nyu.edu/dynamic/people/faculty/graphics/nyu.gif"], "research_blurb": ["<br/>"]}

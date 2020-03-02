@@ -1,0 +1,1 @@
+{"image": "https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/cossairt-oliver-t.jpg", "site": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/cossairt-oliver.html", "title": "associate professor", "email": "oliver.cossairt@northwestern.edu", "extra_strings": "oliver cossairt"}

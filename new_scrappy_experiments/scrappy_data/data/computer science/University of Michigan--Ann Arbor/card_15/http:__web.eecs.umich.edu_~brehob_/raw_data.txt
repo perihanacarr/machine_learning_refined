@@ -1,0 +1,1 @@
+{"email": [], "image": ["http://www.google.com/calendar/images/ext/gc_button1_en.gif", "https://cse.engin.umich.edu/people/faculty/untitled.JPG"], "research_blurb": ["\nUseful links for advisors\n"]}

@@ -1,0 +1,1 @@
+{"email": ["leonardo-info@virginia.edu"], "image": ["http://www.treatiseonpainting.org/leo_head2.jpg"], "research_blurb": ["Published by The Institute for Advanced Technology in the Humanities\n    \t\t\t\t\u00a9 2012 Rector and Visitors of the University of Virginia: Author\n    \t\t\t\tFrancesca Fiorani"]}

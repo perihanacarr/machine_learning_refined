@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/mckenna_0.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/RichardMcKenna", "title": 0, "email": 0, "extra_strings": "richard mckenna"}

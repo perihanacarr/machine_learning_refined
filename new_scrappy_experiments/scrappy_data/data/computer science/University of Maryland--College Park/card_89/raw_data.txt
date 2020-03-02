@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umd.edu/sites/default/files/styles/thumbnail/public/images/userpictures/marzullo-keith_5_small_1.jpg?itok=JldwJQ80&c=407f30b89f3572a3d20ed2f638404640", "site": "https://www.cs.umd.edu/people/marzullo", "title": "professor", "email": 0, "extra_strings": "keith marzullo"}

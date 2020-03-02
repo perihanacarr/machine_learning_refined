@@ -1,0 +1,1 @@
+{"image": "/dir/photos/CHOI-KYUSUN.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=KXC104", "title": "professor", "email": "kxc104@psu.edu", "extra_strings": "kyusun choi"}

@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2608.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/david-menendez", "title": "assistant professor", "email": "davemm@cs.rutgers.edu", "extra_strings": "david menendez"}

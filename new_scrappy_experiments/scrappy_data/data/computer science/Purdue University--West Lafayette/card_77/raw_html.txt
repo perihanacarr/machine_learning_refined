@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Patrick Eugster</td><td>Adjunct Professor</td><td style=\"white-space: nowrap\"><phone></phone></td><td style=\"white-space: nowrap\"><office></office></td><td><a href=\"mailto:peugster@cs.purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/peugster/\">Bio</a></td></tr>"

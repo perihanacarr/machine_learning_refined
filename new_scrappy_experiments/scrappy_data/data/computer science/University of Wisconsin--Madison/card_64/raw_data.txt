@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/11/dan-negrut-140x150.jpg", "site": "http://homepages.cae.wisc.edu/~negrut/", "title": "professor", "email": "negrut@wisc.edu", "extra_strings": "dan negrut"}

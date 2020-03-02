@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2673.jpg", "site": "https://www.cs.rutgers.edu/people/professors/details/badri-nath", "title": "professor", "email": "BADRI@CS.RUTGERS.EDU", "extra_strings": "bai nath"}

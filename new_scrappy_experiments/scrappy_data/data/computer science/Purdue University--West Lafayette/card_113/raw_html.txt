@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Y. Charlie Hu</td><td>Professor (Electrical and Computer Engineering)</td><td style=\"white-space: nowrap\"><phone>49-49143</phone></td><td style=\"white-space: nowrap\"><office>MSEE 226</office></td><td><a href=\"mailto:ychu@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/ychu/\">Bio</a></td></tr>"

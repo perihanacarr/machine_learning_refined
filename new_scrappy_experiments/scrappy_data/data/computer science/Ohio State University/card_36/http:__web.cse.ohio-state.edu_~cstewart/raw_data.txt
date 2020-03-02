@@ -1,0 +1,1 @@
+{"email": ["cstewart@cse.ohio-state.edu"], "image": [], "research_blurb": ["\n\n\n"]}

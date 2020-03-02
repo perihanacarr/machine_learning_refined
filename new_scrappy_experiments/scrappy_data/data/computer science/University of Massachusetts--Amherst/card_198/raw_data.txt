@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/verts_william", "title": 0, "email": "verts@cs.umass.edu", "extra_strings": "william t verts"}

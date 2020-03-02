@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Tim_Kraska_0.jpg", "site": "https://www.eecs.mit.edu/people/faculty-advisors/32", "title": "associate professor", "email": "kraska@mit.edu", "extra_strings": "tim kraska"}

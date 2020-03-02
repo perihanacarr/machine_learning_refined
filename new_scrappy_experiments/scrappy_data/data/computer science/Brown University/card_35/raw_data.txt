@@ -1,0 +1,1 @@
+{"image": "/media/filer_public_thumbnails/filer_public/44/66/44665424-70e0-45bc-89ad-028e5e22064d/screen_shot_2017-06-16_at_94952_am.png__60x80_q85_subsampling-2.png 55w", "site": "https://cs.brown.edu/people/faculty/amy/", "title": "professor", "email": 0, "extra_strings": "amy r greenwald"}

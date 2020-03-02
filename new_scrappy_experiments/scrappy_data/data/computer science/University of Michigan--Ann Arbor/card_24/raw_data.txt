@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/dickrp.jpg", "site": "http://robertdick.org/", "title": "associate professor", "email": "dickrp@umich.edu", "extra_strings": "robert dick"}

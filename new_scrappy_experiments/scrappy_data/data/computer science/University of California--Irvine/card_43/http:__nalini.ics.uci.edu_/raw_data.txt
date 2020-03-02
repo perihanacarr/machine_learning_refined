@@ -1,0 +1,1 @@
+{"email": ["Novell@ICS"], "image": [], "research_blurb": ["<ul><a href=\"https://www.ics.uci.edu/~dsm/\" rel=\"noreferrer noopener\" target=\"_blank\">Distributed Systems Middleware Group</a><a href=\"https://isg.ics.uci.edu/\" rel=\"noreferrer noopener\" target=\"_blank\">Information Systems Group</a></ul>\n<hr class=\"wp-block-separator is-style-wide\"/>"]}

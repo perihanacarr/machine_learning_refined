@@ -1,0 +1,1 @@
+{"email": ["farber@cis.upenn.edu"], "image": ["images/photos/full-farber.jpg "], "research_blurb": ["\nEmail "]}

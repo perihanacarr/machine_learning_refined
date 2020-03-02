@@ -1,0 +1,1 @@
+{"email": ["rdnowak@wisc.edu"], "image": ["robsea.jpg", "http://c.statcounter.com/5657623/0/5f9ef1e1/1/"], "research_blurb": ["Rob holds\n              the Nosbusch Professorship in Engineering at the\n              University of Wisconsin-Madison, where his research\n              focuses on signal processing, machine learning,\n              optimization, and statistics. "]}

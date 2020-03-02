@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb-gottschlich.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=333", "title": "assistant professor", "email": "justin.gottschlich@intel.com", "extra_strings": "justin gottschlich"}

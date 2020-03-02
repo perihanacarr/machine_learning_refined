@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/a11e431cb0ad7c82c6eafe581fe2f567.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Ravi&fname=Srivatsan", "title": "assistant professor", "email": "srivatsr@usc.edu", "extra_strings": "srivatsan ravi"}

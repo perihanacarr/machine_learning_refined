@@ -1,0 +1,1 @@
+"<html lang=\"en\"><head>\n<title>PERMANENT REDIRECT /people/rt -&gt; /people/rtamassi</title>\n<meta http-equiv=\"refresh\" content=\"10; url=/people/rtamassi\">\n</head>\n<body>\nPages at this location are redirected to <a href=\"/people/rtamassi\">/people/rtamassi</a>.\n\n\n</body></html>"

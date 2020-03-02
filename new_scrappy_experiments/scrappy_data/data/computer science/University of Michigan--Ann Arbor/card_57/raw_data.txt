@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/jhayes.jpg", "site": "http://web.eecs.umich.edu/~jhayes/", "title": "professor", "email": "jhayes@umich.edu", "extra_strings": "john hayes"}

@@ -1,0 +1,1 @@
+{"image": "https://www.cs.utexas.edu/sites/default/files/styles/people_teasers/public/kraehenbuehl_phillip.jpg?itok=QcsUWAVb", "site": "https://www.cs.utexas.edu/people/faculty-researchers/philipp-kr%C3%A4henb%C3%BChl", "title": "assistant professor", "email": 0, "extra_strings": "philipp kr\u00e4henb\u00fchl"}

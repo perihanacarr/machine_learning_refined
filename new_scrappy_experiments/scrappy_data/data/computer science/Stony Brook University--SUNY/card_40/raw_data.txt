@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/Pramod%20Ganapathi.gif", "site": "https://www.cs.stonybrook.edu/people/faculty/PramodGanapathi", "title": "assistant professor", "email": 0, "extra_strings": "pramod ganapathi"}

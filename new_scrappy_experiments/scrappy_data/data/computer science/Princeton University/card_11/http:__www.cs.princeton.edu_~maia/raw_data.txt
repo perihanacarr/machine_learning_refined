@@ -1,0 +1,1 @@
+{"email": [], "image": ["https://www.cs.princeton.edu/people/maia-beach.JPG", "http://www.cs.princeton.edu/courses/archive/spring09/cos226/PUsig2-size-web.jpg"], "research_blurb": ["\n"]}

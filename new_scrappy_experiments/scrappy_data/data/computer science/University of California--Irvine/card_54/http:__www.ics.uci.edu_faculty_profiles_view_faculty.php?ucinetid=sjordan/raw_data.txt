@@ -1,0 +1,1 @@
+{"email": ["sjordan@uci.edu"], "image": ["//www.ics.uci.edu/bin/img/spotlight/takeSurvey.jpg"], "research_blurb": ["Networks and Distributed Systems<br/><h3>RESEARCH INTERESTS:</h3> Dr. Jordan's research interests currently include pricing and differentiated services in the Internet, resource allocation in wireless multimedia networks, and telecommunications policy.<br/>"]}

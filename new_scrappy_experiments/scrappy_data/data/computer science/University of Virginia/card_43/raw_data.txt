@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://engineering.virginia.edu/faculty/mary-lou-soffa", "title": "professor", "email": "soffa@virginia.edu", "extra_strings": "mary lou soffa"}

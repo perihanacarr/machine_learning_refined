@@ -1,0 +1,1 @@
+{"image": "https://www.cs.umn.edu/sites/cs.umn.edu/files/styles/faculty_profile/public/people/profile_gopalan.jpg?itok=ZJ56zY6v", "site": "http://experts.umn.edu/en/persons/gopalan-nadathur%2899a32ede-a332-4e3e-970d-976f06268acf%29.html", "title": 0, "email": "ngopalan@umn.edu", "extra_strings": "gopalan nadathur"}

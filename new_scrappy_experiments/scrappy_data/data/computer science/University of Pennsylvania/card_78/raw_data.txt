@@ -1,0 +1,1 @@
+{"image": "images/photos/thumb-yu-stella.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=327", "title": "assistant professor", "email": "stellayu@berkeley.edu", "extra_strings": "stella yu"}

@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/wallach_hanna", "title": "associate professor", "email": "wallach@cs.umass.edu", "extra_strings": "hanna m wallach"}

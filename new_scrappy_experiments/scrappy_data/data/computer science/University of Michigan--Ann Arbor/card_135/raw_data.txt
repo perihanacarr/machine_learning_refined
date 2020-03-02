@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/xuanlong.jpg", "site": "http://dept.stat.lsa.umich.edu/~xuanlong/", "title": "associate professor", "email": "xuanlong@umich.edu", "extra_strings": "long nguyen"}

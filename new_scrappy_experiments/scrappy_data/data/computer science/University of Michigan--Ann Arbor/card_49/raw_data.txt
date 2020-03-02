@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/honglak.jpg", "site": "http://web.eecs.umich.edu/~honglak/", "title": "associate professor", "email": "honglak@umich.edu", "extra_strings": "honglak lee"}

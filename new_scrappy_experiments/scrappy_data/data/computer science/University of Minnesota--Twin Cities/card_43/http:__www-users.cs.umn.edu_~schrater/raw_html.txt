@@ -1,0 +1,1 @@
+"<html><head>\n  <title>schraterlab.org</title>  \n  <meta name=\"description\" content=\"EmpoweredLab\">\n  <meta name=\"keywords\" content=\"Paul Schrater Computational Perception and Action Lab\">\n</head>\n<frameset rows=\"100%,*\" border=\"0\">\n  <frame src=\"http://wolfmeatminmax.com/schraterlab\" frameborder=\"0\">\n</frameset>\n\n\n</html>"

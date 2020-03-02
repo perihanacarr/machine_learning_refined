@@ -1,0 +1,1 @@
+{"email": ["anhai@cs.wisc.edu"], "image": ["http://pages.cs.wisc.edu/~anhai/pictures/AnHaiDoan.png", "http://pages.cs.wisc.edu/~anhai/pictures/magellan_md.gif"], "research_blurb": ["an agenda that integrates research, system\n  building, education, and outreach", " For advice on research, communication, job hunt, and more, see the "]}

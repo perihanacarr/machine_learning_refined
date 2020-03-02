@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.colorado.edu/cs/geena-kim", "title": 0, "email": "geena@colorado.edu", "extra_strings": "post-baccalaureate instructor"}

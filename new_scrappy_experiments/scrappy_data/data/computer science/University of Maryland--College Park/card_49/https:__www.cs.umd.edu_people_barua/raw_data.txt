@@ -1,0 +1,1 @@
+{"email": ["barua@eng.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/barua.jpg?itok=E2HCM6IG&c=253e698100898b41ca9f3347b6696f82"], "research_blurb": ["View Department Office Contacts"]}

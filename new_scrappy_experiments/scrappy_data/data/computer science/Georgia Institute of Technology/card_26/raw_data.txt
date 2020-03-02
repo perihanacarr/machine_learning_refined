@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/p.jpeg?itok=xbHoTZJL", "site": "https://www.scs.gatech.edu/people/thomas-conte", "title": "professor", "email": "conte@cc.gatech.edu", "extra_strings": "thomas conte"}

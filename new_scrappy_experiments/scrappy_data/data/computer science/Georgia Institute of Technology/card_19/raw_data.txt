@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/kishore_ramachandran_1.jpg?itok=XzLjQj5D", "site": "https://www.scs.gatech.edu/people/umakishore-ramachandran", "title": "professor", "email": "rama@gatech.edu", "extra_strings": "umakishore ramachanan"}

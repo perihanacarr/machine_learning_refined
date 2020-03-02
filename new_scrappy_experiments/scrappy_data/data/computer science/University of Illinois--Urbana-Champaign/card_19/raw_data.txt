@@ -1,0 +1,1 @@
+{"image": "//ws.engr.illinois.edu/directory/viewphoto.aspx?id=96116&s=215&type=portrait", "site": "https://cs.illinois.edu/directory/profile/gangw", "title": "assistant professor", "email": "gangw@illinois.edu", "extra_strings": "gang wang"}

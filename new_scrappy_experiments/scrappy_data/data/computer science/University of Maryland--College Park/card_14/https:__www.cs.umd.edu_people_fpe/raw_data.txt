@@ -1,0 +1,1 @@
+{"email": ["fpe@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/Fawzi%20Emad.jpg?itok=esuCUFvy&c=31b444f825e328208d2f1a5200529933"], "research_blurb": ["View Department Office Contacts"]}

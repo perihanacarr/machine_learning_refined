@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/mihalcea.jpg", "site": "http://web.eecs.umich.edu/~mihalcea/", "title": "professor", "email": "mihalcea@umich.edu", "extra_strings": "rada mihalcea"}

@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/09bf4b9c02dbbf887598f6703699986e.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Halfond&fname=William", "title": "associate professor", "email": "halfond@usc.edu", "extra_strings": "william halfond"}

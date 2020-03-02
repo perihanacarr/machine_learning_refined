@@ -1,0 +1,1 @@
+{"image": "//www.eecs.mit.edu/sites/default/files/person-photos/Yan_Mengjia_small.jpg", "site": "https://people.csail.mit.edu/mengjia/", "title": "assistant professor", "email": "mengjiay@mit.edu", "extra_strings": "mengjia yan"}

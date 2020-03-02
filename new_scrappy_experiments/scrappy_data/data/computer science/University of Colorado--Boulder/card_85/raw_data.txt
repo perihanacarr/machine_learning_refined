@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/computer_science_hs_pc0062.jpg?itok=K0wIp4b_", "site": "https://www.colorado.edu/cs/rafael-frongillo", "title": "assistant professor", "email": "raf@colorado.edu", "extra_strings": "rafael frongillo"}

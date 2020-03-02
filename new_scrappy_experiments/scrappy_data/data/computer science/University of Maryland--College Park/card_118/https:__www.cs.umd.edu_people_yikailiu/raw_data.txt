@@ -1,0 +1,1 @@
+{"email": ["yikailiu@umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/40px_icon/public/images/userpictures/picture-260-1476551980.png?itok=SfzTS7tS", "https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/ykliu.jpg?itok=B0qZbDQW"], "research_blurb": ["View Department Office Contacts"]}

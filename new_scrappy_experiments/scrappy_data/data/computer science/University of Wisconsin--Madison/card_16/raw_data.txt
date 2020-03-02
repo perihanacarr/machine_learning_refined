@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/11/Alberto-DelPia-e1542051169349-150x150.png", "site": "https://wid.wisc.edu/people/alberto-del-pia/", "title": "assistant professor", "email": "delpia@wisc.edu", "extra_strings": "alberto del pia"}

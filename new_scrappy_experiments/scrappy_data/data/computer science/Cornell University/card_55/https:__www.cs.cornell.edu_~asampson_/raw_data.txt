@@ -1,0 +1,1 @@
+{"email": [], "image": ["/~asampson/media/westminster.jpg"], "research_blurb": ["\n                        research\n                    I do programming languages and computer architecture.\nI like research that breaks down abstraction barriers and rethinks the hardware\u2013software interface.\nI worked on my research group"]}

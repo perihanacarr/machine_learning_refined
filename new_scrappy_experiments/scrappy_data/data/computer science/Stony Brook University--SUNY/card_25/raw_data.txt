@@ -1,0 +1,1 @@
+{"image": "https://www.cs.stonybrook.edu/sites/default/files/Kifer.jpg", "site": "https://www.cs.stonybrook.edu/people/faculty/MichaelKifer", "title": "professor", "email": 0, "extra_strings": "michael kifer"}

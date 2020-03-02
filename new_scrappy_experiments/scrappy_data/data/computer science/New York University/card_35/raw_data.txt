@@ -1,0 +1,1 @@
+{"image": "/media/faculty_photos/Overton_16-0015_0604_250x250.jpg", "site": "http://cs.nyu.edu/cs/faculty/overton/", "title": "professor", "email": 0, "extra_strings": "ext -"}

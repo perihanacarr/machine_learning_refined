@@ -1,0 +1,1 @@
+{"image": "https://eecs.engin.umich.edu/wp-content/uploads/portraits/mosharaf.jpg", "site": "https://www.mosharaf.com/", "title": "assistant professor", "email": "mosharaf@umich.edu", "extra_strings": "mosharaf chowdhury"}

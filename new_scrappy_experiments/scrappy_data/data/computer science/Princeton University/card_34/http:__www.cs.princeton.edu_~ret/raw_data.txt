@@ -1,0 +1,1 @@
+{"email": ["ret@cs.princeton.edu"], "image": ["ret-12.jpg", "scantree.gif"], "research_blurb": ["\n"]}

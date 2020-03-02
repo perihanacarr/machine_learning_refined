@@ -1,0 +1,1 @@
+{"image": "https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sturmfels.jpg", "site": "https://www2.eecs.berkeley.edu/Faculty/Homepages/sturmfels.html", "title": "professor", "email": "bernd@math.berkeley.edu", "extra_strings": "bernd sturmfels"}

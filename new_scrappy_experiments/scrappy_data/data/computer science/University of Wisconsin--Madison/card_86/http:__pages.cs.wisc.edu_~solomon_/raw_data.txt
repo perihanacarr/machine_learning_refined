@@ -1,0 +1,1 @@
+{"email": ["solomon@cs.wisc.edu"], "image": ["http://banners.wunderground.com/banner/infobox/US/WI/Madison.gif"], "research_blurb": []}

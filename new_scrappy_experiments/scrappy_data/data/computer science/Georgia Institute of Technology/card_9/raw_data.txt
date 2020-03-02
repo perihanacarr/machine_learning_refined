@@ -1,0 +1,1 @@
+{"image": "https://www.scs.gatech.edu/sites/scs.gatech.edu/files/styles/thumbnail/public/images/people/ashutoshdheknephoto1.jpg?itok=vZOGOVqN", "site": "https://www.scs.gatech.edu/people/ashutosh-dhekne", "title": "assistant professor", "email": "dhekne@gatech.edu", "extra_strings": "ashutosh dhekne"}

@@ -1,0 +1,1 @@
+{"email": ["carsten@brown.edu"], "image": ["../images/carsten2.jpg"], "research_blurb": ["I develop data-driven computational methods for improving individual health and quality of medical care. I lead the AI Lab at Brown's Center for Biomedical Informatics, where we  specialize in mining, representation and retrieval of large-scale natural language resources."]}

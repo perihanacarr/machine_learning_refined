@@ -1,0 +1,1 @@
+{"email": ["winfree@caltech.edu", "winfree@caltech.edu"], "image": ["Images/ErikHead_no4.jpeg"], "research_blurb": ["Group research on biomolecular computation biochemical circuits and systems\u00a0\u00a0\u00a0 - Multistranded DNA and RNA interaction thermodynamics, kinetics, and biophysics <A HREF=\"http://cochise.biosci.arizona.edu/~art/\">Art Winfree</A>.  "]}

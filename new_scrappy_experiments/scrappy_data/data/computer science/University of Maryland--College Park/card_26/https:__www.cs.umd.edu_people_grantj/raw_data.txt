@@ -1,0 +1,1 @@
+{"email": ["grant@cs.umd.edu"], "image": ["https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/John%20Grant.jpg?itok=oLPXomZa&c=7d1a2a7be6f3030f051fd1842e573be1"], "research_blurb": ["View Department Office Contacts"]}

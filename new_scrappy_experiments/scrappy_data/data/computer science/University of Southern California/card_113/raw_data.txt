@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/d7499ac4eb012f37d46058d2ab768b6d.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Redekopp&fname=Mark", "title": "professor", "email": "redekopp@usc.edu", "extra_strings": "mark william redekopp"}

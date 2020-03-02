@@ -1,0 +1,1 @@
+{"image": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2018/11/luedtke-photo-e1542051953793-150x150.jpg", "site": "https://homepages.cae.wisc.edu/~luedtkej/", "title": "associate professor", "email": "jim.luedtke@wisc.edu", "extra_strings": "james luedtke"}

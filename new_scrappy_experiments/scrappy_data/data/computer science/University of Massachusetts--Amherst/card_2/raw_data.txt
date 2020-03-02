@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.cics.umass.edu/faculty/directory/adrion_richards", "title": "professor emeritus", "email": "adrion@umass.edu", "extra_strings": "w richards aion"}

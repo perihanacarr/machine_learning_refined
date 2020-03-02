@@ -1,0 +1,1 @@
+{"image": "/dir/photos/Gowda-Mahanth.jpg", "site": "https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=mkg31", "title": "assistant professor", "email": "mkg31@psu.edu", "extra_strings": "mahanth gowda"}

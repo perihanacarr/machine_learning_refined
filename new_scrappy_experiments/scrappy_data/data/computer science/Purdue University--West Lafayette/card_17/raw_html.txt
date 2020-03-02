@@ -1,0 +1,1 @@
+"<tr><td style=\"white-space: nowrap\">Changhee Jung</td><td>Associate Professor</td><td style=\"white-space: nowrap\"><phone>49-48508</phone></td><td style=\"white-space: nowrap\"><office>LWSN 3154G</office></td><td><a href=\"mailto:chjung@purdue.edu\">Mail</a></td><td><a href=\"https://www.cs.purdue.edu/people/faculty/chjung/\">Bio</a></td></tr>"

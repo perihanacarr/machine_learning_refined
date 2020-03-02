@@ -1,0 +1,1 @@
+{"email": [], "image": ["http://www.cs.cornell.edu/jeh/images/CS2_2line_4c.gif", "Index_files/libeslope.jpg", "http://www.cs.cornell.edu/jeh/images/HopcroftI.jpg"], "research_blurb": ["<ul>\n\n<a href=\"http://nsf.gov/awardsearch/showAward.do?AwardNumber=0514429\">\n\tThe Analysis and Modeling of Large Linked Networks</a> (NSF)\n\n\tInformation Forensics (AFOSR)"]}

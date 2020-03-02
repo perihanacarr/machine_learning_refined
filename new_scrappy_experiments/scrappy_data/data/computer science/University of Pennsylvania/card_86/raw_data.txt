@@ -1,0 +1,1 @@
+{"image": "images/photos/a_thumb_Weimer.jpg", "site": "https://www.seas.upenn.edu/directory/profile.php?ID=224", "title": "assistant professor", "email": "weimerj@seas.upenn.edu", "extra_strings": "james weimer"}

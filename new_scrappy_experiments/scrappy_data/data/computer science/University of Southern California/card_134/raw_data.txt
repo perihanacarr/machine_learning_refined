@@ -1,0 +1,1 @@
+{"image": "//viterbi.usc.edu/directory/images/8780c9bbe840b953b0df2cdb0b2b6822.jpg", "site": "https://www.cs.usc.edu/directory/faculty/profile/?lname=Soltanolkotabi&fname=Mahdi", "title": "assistant professor", "email": "soltanol@usc.edu", "extra_strings": "mahdi soltanolkotabi"}

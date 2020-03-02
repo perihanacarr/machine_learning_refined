@@ -1,0 +1,1 @@
+{"image": "https://www.colorado.edu/cs/sites/default/files/styles/small_thumbnail/public/people/heckman-tshirt-square.jpg?itok=udl6qq-w", "site": "https://www.colorado.edu/cs/christoffer-heckman", "title": "assistant professor", "email": "christoffer.heckman@colorado.edu", "extra_strings": "christoffer heckman"}

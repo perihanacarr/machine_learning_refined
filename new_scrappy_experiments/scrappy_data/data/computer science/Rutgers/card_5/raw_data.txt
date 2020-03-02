@@ -1,0 +1,1 @@
+{"image": "/cache/com_latestnewsenhancedpro/thumb_articles_blog_688_2683.jpeg", "site": "https://www.cs.rutgers.edu/people/professors/details/bahman-kalantari", "title": "professor", "email": "KALANTAR@CS.RUTGERS.EDU", "extra_strings": "bahman kalantari"}

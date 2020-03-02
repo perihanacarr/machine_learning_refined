@@ -1,0 +1,1 @@
+{"image": "https://cse.osu.edu/sites/default/files/styles/osu_profile_crop_large/public/opic/sadayappan.1.jpg?itok=5VY4NCrx", "site": "https://cse.osu.edu/people/sadayappan.1", "title": "adjunct professor", "email": "sadayappan.1@osu.edu", "extra_strings": "eese laboratories"}

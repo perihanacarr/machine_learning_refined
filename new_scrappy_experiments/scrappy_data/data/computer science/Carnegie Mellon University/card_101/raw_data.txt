@@ -1,0 +1,1 @@
+{"image": 0, "site": "https://www.csd.cs.cmu.edu/people/faculty/seth-goldstein", "title": "associate professor", "email": "seth@cs.cmu.edu", "extra_strings": "seth goldstein"}

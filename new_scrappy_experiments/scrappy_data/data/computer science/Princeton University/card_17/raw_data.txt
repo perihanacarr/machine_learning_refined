@@ -1,0 +1,1 @@
+{"image": "/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2425&thumb=", "site": "http://www.cs.princeton.edu/~ehazan", "title": "professor", "email": 0, "extra_strings": "princeton university "}
