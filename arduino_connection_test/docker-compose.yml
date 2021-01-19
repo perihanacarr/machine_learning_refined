@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  ide:
+   build:
+    context: ide
+   container_name: ide 
+   volumes: 
+    - ./ide/app:/usr/src/app/ide
+   # privileged: True
+   devices:
+    - /dev/cu.usbmodem1411:/dev/ttyUSB0
+   working_dir: /usr/src/app
+   command: >
+      sh -c "jupyter notebook --port=8888 --ip=0.0.0.0 --allow-root --NotebookApp.token=''"
+   restart: always
+   cap_add:
+    - SYS_PTRACE
+   ports:
+    - 8888:8888
